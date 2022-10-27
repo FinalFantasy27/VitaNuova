@@ -1,0 +1,12 @@
+. when continual, the probability of a single point could not be 0 or non-0, the solution is probability density (function)(PDF), and this is what means by "the probability is 0 is not equal to impossibility". (https://youtu.be/ZA4JkHKZM50(21.10.27))
+. "Almost" Fourier analysis: when a  wave of  frequency 2 cycles/second adds up a 3 cycles/second wave, its rotating vector, where its length is equal to the height of our graph at that time, when the frequency with which we are wrapping the graph around the circle matches the frequency of the singles(2 or 3 cycles/second), things nicely aligned (?question still) (https://youtu.be/spUNpyF58BY (21.10.27))
+. Disney is great at 3d and graphics; Tengxun and Baidu at ai.
+. signature(e.g. a 256 bite hash(SHA256) string, a huge amount of modern security, e.g. the algorithm underlie the secure connection that your browser is making with YouTube or that it makes with your bank) depends on message and your private key, and public key come into play as a function to verify that a signature is valid, you can check using public key everyone knows. The principal of decentralisation of Bitcon is that everyone agrees to give preference to whichever blockchain has the most work put into it. (https://b23.tv/cpTeST(21.1028))
+. exp of measure: area, volumn ... what it meams a shape to be 2-dimensional is that when you scale its length by some factor, its measure is scaled by that factor raised to the second power, then Fractal, e.g. Sierpinski triangle its dimension is the D which (1/2)^D = 1/3, its area is 0 and its turns out to be infinite. and for koch curve its scaling factor is 1/3 and mass scaling factor is 1/4
+. Parity check
+. inverse square law, think of screen
+. extension of definition. e.g. we want 2^x2^y=2^(x+y) still hold for negative exponentialation
+. kahneman and Tversky's paper
+. group theory and the permutations of the roots of the polunomials
+. Borsuk–Ulam theorem and temperature and pressure on earth, and stolen neck theorem
+.48/50 and 10/10, how to compare? pretend that you see two more, one that was positive，one negative (laplace's rule of succession) . Think of randomly pick number from 0~1 ten times，when it is less than 0.95, we call it positive, and if the rate of positive is 0.95, you will see nearly 60% ten times tests give out 10 out of 10. P(data|S)) = (data total choose positive)(S^positive)(1-s)^negative（binomial distribution）

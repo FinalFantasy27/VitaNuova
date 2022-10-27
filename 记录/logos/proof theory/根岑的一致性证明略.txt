@@ -1,0 +1,2 @@
+看了一下武汉大学之前的视频，根岑的一致性证明貌似大致是这样：一般有了cut-elimination就会有subformula property，就是说推导出结论所用的前提都只是结论的子公式，这也意味着矛盾是不可推导的；古德斯坦定理可以与“没有一个无穷下降的序数小于厄普西隆0的原始递归序列”联系起来（因为证明了PA本身不能证明这条）
+一个定理：如果有一个PA加上omega规则（即sigma, F(1)⇨delta, sigma, F(2)⇨delta, ……可推导出“sigma, 存在xF(x)⇨delta”；sigma⇨F(1), delta, sigma⇨F(2), delta,…可推导出“sigma⇨所有xF(x), delta”，注意这是一个无限长度的证明）的一个长height为α的带k+1次cut规则的推导；那么就有PA加上omega规则的一个height为omega的α的只带有k次cut规则的推导。因而可以想见：就会有一个height为omega的n次omega次方的推导没有cut。因而可以通过对到伊普西龙0的归纳证明一致性

@@ -1,0 +1,4 @@
+为T=PA+~ConPA加上ConT产出的是一个不一致的理论，尽管T是一致的
+
+
+let T be PA+”PA is not Σ-sound”. Note that “PA is Σ-sound” can be formulated “For every p and every Σ1- formula ∃xφ there is a k such that if p is a proof of ∃xφ in PA then φx(k) is true”, and thus as a Π2-sentence, so “PA is not Σ-sound” can be taken to be a Σ2-sentence. For this T, T+“T is Σ-sound” is clearly inconsistent, but T itself is Σ-sound.

@@ -1,0 +1,338 @@
+http://www.von-eitzen.de/math/tntrep.xml
+TNT spricht über sich selbst
+Aussagen in TNT sind (endliche) Symbolfolgen. Aus Symbolfolgen Zahlenfolgen zu machen, ist noch recht einfach, indem man jedem Symbol auf feste Weise eine Zahl zuordnet. Dies geschieht auf der Meta-Ebene, da Symbole und Folgen ja nicht unmittelbar zu den Objekten der TNT gehören. Der Kunstgriff besteht darin, (endliche) Zahlenfolgen in einer einzigen natürlichen Zahl zu kodieren, und zwar auf eine solche Weise, die es erlaubt, alle wesentlichen Informationen der kodierten Zahlenfolge mit den Mitteln von TNT auszudrücken. Indirekt kann TNT auf diesem Weg über die einzelnen Symbole einer TNT-Symbolfolge Aussagen treffen. Tatsächlich erlauben wir uns hier, endliche Zahlenfolgen nicht durch eine Zahl zu kodieren, sondern durch ein Zahlentripel (a,b,c). Dies stellt allerdings insofern keine Einschränkung dar, als (a,b,c)↦(a+b+c)*(a+b+c)*(a+b+c)+(a+b)*(a+b)+a solchen Tripeln auf injektive Weise eine natürliche Zahl in Form eines TNT-Ausdrucks zuordnet.
+
+ONEFORTHREE(n,a,b,c) :=
+n=((((((a+ b)+ c)· ((a+ b)+ c))· ((a+ b)+ c))+ ((a+ b)· (a+ b)))+ a)
+Die Zahl n steht für das Zahlentripel (a,b,c).
+
+Bezeichnet T die Menge aller (nicht notwendig wohlgeformten) TNT-Symbolfolgen, ℕ(ℕ) die Menge aller endlichen Folgen, so betrachten wir also eine in TNT repräsentierte injektive Abbildung f:ℕ³→ℕ, eine in TNT repräsentierte surjektive Abbildung g:ℕ³→ℕ(ℕ) (d.h. die Abbildung ℕ³⨯ℕ→ℕ, (a,b,c,k)↦g(a,b,c)k ist repräsentiert) sowie schließlich auf Meta-Ebene eine Bijektion ℕ(ℕ)↔T.
+
+Einige allgemeine Prädikate
+Wir werden zunächst einige Prädikate zunehmender Komplexität definieren, die es uns erlauben, entsprechend immer komplexere Sachverhalte über eine oder mehrere Variable auszudrücken.
+
+Den noch recht trivialen Anfang macht die „kleiner-als“-Relation, die wir daran festmachen können, dass man etwas positives zur kleineren Zahl addieren muss, um die größere zu erhalten. Für die „kleiner-oder-gleich“-Relation müssen wir noch nicht einmal sicher sein, dass das was addiert ist, tatsächlich positiv ist.
+
+LEQ(a,b) :=
+∃t:(a+ t)=b
+a ist kleiner oder gleich b
+
+LESS(a,b) :=
+LEQ(Sa,b)
+a ist kleiner als b
+
+Jetzt kommen wir schon an die zentrale Idee der Gödelisierung. Zu natürlichen Zahlen a und b können wir die Folge der Zahlen a mod (1+b*(k+1)) betrachten, k=0, 1, 2, .... Das folgende Prädikat SEQUENZ drückt aus, dass x das k-te Glied dieser unendlichen Folge ist.
+
+PRESEQUENZ(a,b,k,x) :=
+∃r: a=(x+ (r· S(b· Sk)))
+Das k-te Glied der durch (a,b) definierten Folge ist x, sofern(!) schon bekannt ist, dass x ≤ b*(k+1) ist.
+
+SEQUENZ(a,b,k,x) :=
+〈PRESEQUENZ(a,b,k,x) ∧ LEQ(x,(b· Sk))〉
+Das k-te Glied der durch (a,b) definierten Folge ist x.
+
+Bemerkung: Die vereinfachte Form PRESEQUENZ kann anstelle von SEQUENZ benutzt werden, falls aus dem Kontext die zusätzlich benötigte Ungleichung bereits folgt. Siehe hierzu etwa unten ISTAXIOM.
+
+Allerdings wollen wir nicht unendliche, sondern nur endliche Folgen betrachten (nämlich solche, bei denen jedes Folgenglied einen Bestandteil einer TNT-Formel codiert). Zu diesem Zweck wird die Folge nicht nur durch zwei Zahlen a und b beschrieben, sondern noch zusätzlich durch die Länge c der Folge.
+
+Zu jeder endlichen Folge von natürlichen Zahlen (der Länge c) können wir aber umgekehrt auch a und b finden, so dass die gegebene Folge durch das Tripel (a,b,c) bestimmt wird. Dies garantiert der Chinesische Restesatz, da für hinreichend großes b jeder gemeinsame Teiler von zwei Zahlen der Form 1+b*(k+1) mit k<c kleiner als c und teilerfremd zu b sein muss. Wählt man also für b ein Vielfaches von c!, das größer ist als alle Folgenglieder, so lässt sich also in der Tat der Chinesische Restesatz anwenden. Es haftet insofern nichts magisches an dem benutzten Ausdruck 1+b*(k+1). Die Idee ist lediglich, eine einfach zu beschreibende Folge von hinreichend vielen paarweise teilerfremden Zahlen zu finden. Hier bietet sich eine arithmetische Folge a+b*k an und das zur Schrittweite teilerfremde Anfangsglied a wird der Einfachheit halber auf 1 normiert. Dann ersetzt man noch k durch k+1, damit auch das erste Folgenglied „nutzbar“ ist.
+
+Bemerkung: Wir argumentieren oben mit der Fakultätsfunktion, die wir aber erst weiter unten in TNT beschreiben können, nachdem wir wissen, wie Rekursion zu repräsentieren ist. Wir unterliegen hier dennoch keinem Zirkelschluss, da wir gar nicht explizit c!, sondern lediglich die Existenz eines geeigneten b benötigen.
+
+Bemerkung: Möchte man mehrere (endlich viele) gleich lange endliche Folgen erzeugen, so kann man offenbar für alle Folgen sogar ein gemeinsames b finden.
+
+Zwischenspiel: b ist eine Zehnerpotenz
+Mit dem „SEQUENZ-Mechanismus“ ist es ein leichtes, einfache Rekursion auszudrücken:
+
+POTENZ(b,a,n) :=
+∃x:∃y: 〈〈SEQUENZ(x,y,0,S0) ∧ SEQUENZ(x,y,n,b)〉 ∧ ∀k:∀t: 〈〈LESS(k,n) ∧ SEQUENZ(x,y,k,t)〉 ⇒ SEQUENZ(x,y,Sk,(a· t))〉 〉
+b ist die n-te Potenz von a.
+
+Bemerkung: Das 0. Folgenglied ist 1, das n-te ist b und wenigstens bis zu diesem Index unterscheiden sich auf einander folgende Glieder um den Faktor a.
+
+Die Lösung zur berühmten Übungsaufgabe von Douglas Hofstadter, „b ist eine Zehnerpotenz“ in TNT auszudrücken, schreibt sich dann als
+
+∃n:POTENZ(b,SSSSSSSSSS0,n)
+Ähnlich einfach ginge etwa „b ist eine Fibonacci-Zahl“ in der Form
+
+∃x:∃y:∃n: 〈〈〈SEQUENZ(x,y,0,0) ∧ SEQUENZ(x,y,S0,S0)〉 ∧ SEQUENZ(x,y,n,b)〉 ∧ ∀k:∀t:∀u: 〈〈〈LESS(k,n) ∧ SEQUENZ(x,y,k,t)〉 ∧ SEQUENZ(x,y,Sk,u)〉 ⇒ SEQUENZ(x,y,SSk,(t+ u))〉 〉
+Bemerkung: Die Folge beginnt mit F(0)=0, F(1)=1 und später gilt F(k+2)=F(k)+F(k+1) – zumindest für hinreichend viele k.
+
+Auch das WUNDERSAM-Prädikat, über das Achilles und die Schildkröte im Dialog über Gold-Bach-Variationen reden, ist leicht formuliert:
+
+WUNDERSAM(n) :=
+∃x:∃y:∃d: 〈〈SEQUENZ(x,y,0,n) ∧ SEQUENZ(x,y,d,S0)〉 ∧ ∀k:∀t:∀u: 〈〈〈LESS(k,d) ∧ SEQUENZ(x,y,k,t)〉 ∧ SEQUENZ(x,y,Sk,u)〉 ⇒ 〈t=(u+ u) ∨ ∃m: 〈t=S(m+ m) ∧ u=S((t+ t)+ t)〉 〉〉 〉
+Der Vollständigkeit halber folgt hier eine Version von „b is eine Zehnerpotenz“, die komplett expandiert (und geringfügig vereinfacht) wurde:
+
+∃n:∃a:∃c:∃d:∃e: ∀p:∀q:∀r:∀s:∀t: ∃f:∃g: 〈〈S(a· SSc)=(b+ (d· S(Sc· Sn))) ∧ (b+ e)=(Sc· Sn)〉 ∧ 〈〈〈¬S(p+ r)=n ∨ ¬S(a· SSc)=(q+ (s· S(Sc· Sp)))〉 ∨ ¬(q+ t)=(Sc· Sp) 〉 ∨ 〈S(a· SSc)=((SSSSSSSSSS0· q)+ (f· S(Sc· SSp))) ∧ ((SSSSSSSSSS0· q)+ g)=(Sc· SSp)〉〉〉
+Weiter mit TNT
+Wir benötigen noch Prädikate für Vergleiche von (Teil-)folgen mit einander. Das folgende überprüft, ob die e Folgenglieder bei Position c, c+1, ..., c+e-1 der durch (a,b) bestimmten Folge mit den Folgengliedern bei Position d, d+1, ..., d+e-1 übereinstimmen.
+
+ISTKOPIE(a,b,c,d,e) :=
+∀k:∀x: 〈〈LESS(k,e) ∧ SEQUENZ(a,b,(k+ c),x)〉 ⇒ SEQUENZ(a,b,(k+ d),x)〉
+Die ersten e Glieder ab Glied c bzw. ab Glied d der durch (a,b) definierten Folge stimmen überein
+
+Eine geringfügig ökonomischere Variante kann eingesetzt werden, wenn c>d vorausgesetzt werden darf:
+
+ISTFWDKOPIE(a,b,c,d,e) :=
+∀k:∀x: 〈〈LESS(k,e) ∧ SEQUENZ(a,b,(k+ c),x)〉 ⇒ PRESEQUENZ(a,b,(k+ d),x)〉
+Die ersten e Glieder ab Glied c bzw. ab Glied d der durch (a,b) definierten Folge stimmen überein (uner der Voraussetzung c>d)
+
+Gödelisierung
+Wir codieren einen TNT-Ausdruck wie folgt: Zunächst stellen wir um auf „polnische Notation“, indem wir stets erst den Operator und erst danach die (bzw. den) Operanden kodieren. Die einzelnen Operatoren übersetzen wir wie folgt in natürliche Zahlen: Implikation, Konjunktion, Gleichheit, Summe, Produkt, Allquantor, Negation, Nachfolger, Null werden durch die Zahlen 1,2,3,4,5,6,7,8,9 dargestellt (also insb. 0 nicht durch 0, sondern durch 9). Die Zahlen ab 10 stehen für verschiedene Variablennamen, so dass wir einen abzählbar unendlichen Vorrat an Variablen kodieren können. Den Wert 0 reservieren wir für ein Interpunktionszeichen, um Beweisschritte von einander zu trennen. Schließlich packen wir diese endliche Zahlenfolge nach der oben beschriebenen Methode in ein Zahlentripel.
+
+Beispielsweise wird aus dem 5. Axiom ∀a:∀b:(a· Sb)=((a· b)+ a) zunächst die Folge „Allquantor, a, Allquantor, b, Gleichheit, Produkt, a, Nachfolger, b, Summe, Produkt, a, b, a“, dann die Zahlenfolge „6,10,6,11,3,5,10,8,11,4,5,10,11,10“ und schließlich ein Tripel (a,b,c), das diese Folge erzeugt. Hiervon können wir nur c=14 mit Sicherheit sagen, und wenigstens zu b=13! lässt sich garantiert ein geeignetes a finden.
+
+Bemerkung: Wie die folgenden Übungen zeigen, kann b oftmals erheblich kleiner als (c-1)! gewählt werden. Was dennoch einzig zählt, ist die Existenz eines solchen b, wie groß auch immer es sei. Selbst für Axiome werden unten im Prädikat ISTAXIOM keine expliziten a, b, c angegeben, sondern die einzelnen Folgenglieder mit dem SEQUENZ-Mechanismus geprüft.
+
+Übungsaufgabe: Welche TNT-Kette wird durch a=1249310, b=6, c=5 dargestellt?
+
+Übungsaufgabe: Welche TNT-Ketten werden durch a=1757214703, b=6, c=7 bzw. a=344604504, b=6, c=7 bzw. a=1736784930, b=6, c=7 bzw. a=465483113793845547131, b=18, c=12 bzw. a=3777257210837737807485, b=12, c=13 bzw. a=73408041575000042569773064730180, b=42, c=14 dargestellt?
+
+Um die Überprüfung auf Wohlgeformtheit zu vereinfachen, definieren wir ein paar Prädikate. Die ersten erkennen die Anzahl der Operanden, die zu einem Operator gehören
+
+ISTVAR(a) :=
+LESS(SSSSSSSSS0,a)
+a ist eine Variable
+
+OP0(a) :=
+LESS(SSSSSSSS0,a)
+a ist atomar (0 oder Variable)
+
+OP1(a) :=
+〈〈a=0 ∨ a=SSSSSSS0〉 ∨ a=SSSSSSSS0〉
+a ist unärer Operator (Negation, Nachfolger oder Interpunktion)
+
+OP2(a) :=
+〈〈〈〈〈a=S0 ∨ a=SS0〉 ∨ a=SSS0〉 ∨ a=SSSS0〉 ∨ a=SSSSS0〉 ∨ a=SSSSSS0〉
+a ist binärer Operator
+
+Ferner brauchen wir noch Prädikate, die Zahlausdrücke und Aussagen unterscheiden können:
+
+ISTAUSDRUCK(a) :=
+〈〈a=SSSS0 ∨ a=SSSSS0〉 ∨ LESS(SSSSSSS0,a)〉
+Summen, Produkte, Nachfolger, Null, Variable ergeben Zahlausdrücke.
+
+ISTAUSSAGE(a) :=
+〈〈〈〈a=S0 ∨ a=SS0〉 ∨ a=SSS0〉 ∨ a=SSSSSS0〉 ∨ a=SSSSSSS0〉
+Implikation, Konjunktion, Gleichheit, Allquantor, Negation ergeben Aussagen.
+
+ISTPUNKT(a) :=
+a=0
+Bleibt noch das Interpunktionszeichen.
+
+Weiters unterscheiden wir noch nach den Typen (Ausdruck oder Aussage) vom ersten und eventuell zweiten Operanden
+
+AISTAUSDRUCK(a) :=
+〈〈〈a=SSS0 ∨ a=SSSS0〉 ∨ a=SSSSS0〉 ∨ a=SSSSSSSS0〉
+Der erste Operand von Gleichheit, Summe, Produkt, Nachfolger ist ein Zahlausdruck.
+
+AISTAUSSAGE(a) :=
+〈〈〈a=0 ∨ a=S0〉 ∨ a=SS0〉 ∨ a=SSSSSSS0〉
+Der erste Operand von Interpunktion, Implikation, Konjunktion, Negation ist eine Aussage.
+
+BISTAUSDRUCK(a) :=
+〈〈a=SSS0 ∨ a=SSSS0〉 ∨ a=SSSSS0〉
+Der zweite Operand von Gleichheit, Summe, Produkt ist ein Zahlausdruck.
+
+BISTAUSSAGE(a) :=
+〈〈a=S0 ∨ a=SS0〉 ∨ a=SSSSSS0〉
+Der zweite Operand von Implikation, Konjunktion, Allquantor ist eine Aussage.
+
+ISTQUANTOR(a) :=
+a=SSSSSS0
+Der Allquantor spielt eine Sonderrolle, da der erste Operand nicht einfach ein Zahlausdruck ist, sondern genauer eine Variable, die obendrein im zweiten Operanden frei vorkommt. Dies muss daher gesondert geprüft werden. Schon in der Definition der Wohlgeformtheit benötigen wir daher erstens einen Test, ob eine Variable v in einem Teilausdruck vorkommt:
+
+KOMMTVOR(a,b,v,p,n) :=
+∃k:〈LESS(k,n) ∧ SEQUENZ(a,b,(p+ k),v)〉
+Variable v kommt in der durch (a,b) gegebenen Folge in den n Positionen ab p vor.
+
+und zweitens, ob sie frei ist:
+
+FREI(a,b,v,p,n) :=
+∀k: ¬ 〈〈LESS(k,n) ∧ SEQUENZ(a,b,(p+ k),SSSSSS0)〉 ∧ SEQUENZ(a,b,S(p+ k),v)〉
+Die Variable v wird in der durch (a,b) gegebenen Folge in den n Positionen ab p nicht quantisiert.
+
+Bemerkung: Eine Variable kann in einem Ausdruck FREI sein, ohne in dem Ausdruck vorzukommen. Es wird nur gesagt, dass sie, falls sie vorkommt, nicht quantisiert ist. Ist v gar keine Variable (erfüllt nicht ISTVAR), so ist FREI trivialerweise erfüllt.
+
+Um ein Tripel (bzw. die dadurch bestimmte Zahlen- oder Symbolfolge) auf Wohlgeformtheit zu überprüfen, nehmen wir eine Abbildung als gegeben an, die jeder Position in der Folge die Länge der dort beginnenden wohlgeformten Teilfolge zuordnet. Eine solche Funktion muss einigen Anforderungen genügen und beweist ihrerseits die Wohlgeformtheit, falls sie all diesen Anforderungen tatsächlich genügt.
+
+Wir sehen es nicht als schadhaft an, dass in diesem Sinne die leere Folge wohlgeformt ist.
+
+Bemerkung: Wir verbiegen die obige Definition für endliche Folgen ein wenig insofern, als wir voraussetzen, dass das eigentlich irrelevante Glied an der Stelle c „zufällig“ ein Interpunktionszeichen sein soll. Dies stellt jedoch keine wirkliche Einschränkung dar, sondern es vereinfacht ein wenig die Formulierung.
+
+WOHLGEFORMT(a,b,c,d) :=
+∀k:〈LESS(k,c) ⇒ ∀t:∀p:∀q:∀r: 〈〈〈〈SEQUENZ(a,b,k,t) ∧ SEQUENZ(d,b,k,p)〉 ∧ SEQUENZ(d,b,Sk,q)〉 ∧ SEQUENZ(d,b,S(q+ k),r)〉 ⇒ 〈〈〈〈〈〈LEQ((k+ p),c) ∧ 〈OP0(t) ⇒ p=S0〉〉 ∧ 〈OP1(t) ⇒ p=Sq〉〉 ∧ 〈OP2(t) ⇒ 〈p=S(q+ r) ∧ ∀w: 〈〈KOMMTVOR(a,b,w,Sk,q) ∧ KOMMTVOR(a,b,w,S(q+ k),r)〉 ⇒ 〈〈FREI(a,b,w,Sk,q) ∨ FREI(a,b,w,S(q+ k),r)〉 ⇒ FREI(a,b,w,Sk,(q+ r))〉〉 〉〉〉 ∧ ∀u: 〈SEQUENZ(a,b,Sk,u) ⇒ 〈〈〈AISTAUSSAGE(t) ⇒ ISTAUSSAGE(u)〉 ∧ 〈AISTAUSDRUCK(t) ⇒ ISTAUSDRUCK(u)〉〉 ∧ 〈ISTQUANTOR(t) ⇒ ISTVAR(u)〉〉〉 〉 ∧ ∀v: 〈SEQUENZ(a,b,S(q+ k),v) ⇒ 〈〈〈ISTPUNKT(t) ⇒ t=v〉 ∧ 〈BISTAUSSAGE(t) ⇒ ISTAUSSAGE(v)〉〉 ∧ 〈BISTAUSDRUCK(t) ⇒ ISTAUSDRUCK(v)〉〉〉 〉 ∧ 〈k=0 ⇒ ISTPUNKT(t)〉〉〉 〉
+(a,b,c) ist eine wohlgeformte (aber nicht notwendig korrekte) TNT-Beweiskette und (d,b,c) gibt jeweils die Länge der an einer Position beginnenden wohlgeformten Teilkette an.
+
+Bemerkung: Hier ist k ein zulässiger Index, t der Operator an der Stelle k, u der Operator des ersten Operanden und v ggf. der des zweiten. p, q, r sind die Längen der jeweiligen Teilketten, die zusammen passen müssen. Schließlich steht w für eine Variable: Falls w in beiden Operanden eines binären Operators auftaucht, so entweder in beiden frei oder in beiden quantisiert (die Formulierung ist auch für t=Allquantor geeignet, da die allein stehende Variable des ersten Operanden dort frei vorkommt).
+
+Übungsaufgabe: Ist die durch a=1249310, b=6, c=5 dargestellte TNT-Kette wohlgeformt im Sinne dieses Prädikats (d.h. gibt es ein d mit WOHLGEFORMT(a,b,c,d)? Was ist mit a=13309085, b=6, c=5? Worin besteht der Unterschied? Ist es einfach, diese Frage ohne Nutzung der „Meta-Ebene“ beantworten? Warum verleitet die Meta-Ebene möglicherweise zu einer falschen Antwort, wenn man nicht genau aufpaßt?
+
+Erste Folgerungsregeln
+Wir wollen Folgerungsregeln grundsätzlich in der Form angeben, dass das Paar (a,b) die Beweiskette definiert, das Paar (d,b) die Längenfunktion, das Paar (l,b) die Levelfunktion (hierzu siehe unten). Die nächsten Parameter f und g geben Beginn und Länge der zu beweisenden Teilkette an, die nächsten Paare, d.h. (h,i) und ggf. (j,k) die zu benutzenden Prämissen. In den Interpretationen bezeichnen wir die entsprechenden Aussagen jeweils durch P, Q, R. Der Beginn (also z.B. f) verweist jeweils auf das einleitende Interpunktionszeichen, während die Länge (g) die Länge nach dem Interpunktionszeichen angibt und als die von der Längenfunktion bestimmte Länge vorausgesetzt wird.
+
+Bemerkung: Grundsätzlich sei vorausgesetzt, dass h<f und ggf. j<f, so dass an vielen Stellen ISTFWDKOPIE statt ISTKOPIE verwendet werden kann.
+
+FLGUEBERNAHME(a,b,f,h,i) :=
+ISTFWDKOPIE(a,b,Sf,Sh,i)
+P ist gleich Q
+
+Bemerkung: Wir werden später festlegen, wann eine solche Übernahme zulässig ist. Dies geschieht mit Hilfe der Levelfunktion.
+
+FLGABTR1(a,b,f,g,h) :=
+〈SEQUENZ(a,b,Sh,SS0) ∧ ISTFWDKOPIE(a,b,Sf,SSh,g)〉
+Q ist „P und irgendetwas“
+
+FLGABTR2(a,b,d,f,g,h) :=
+∃t: 〈〈SEQUENZ(d,b,SSh,t) ∧ SEQUENZ(a,b,Sh,SS0)〉 ∧ ISTFWDKOPIE(a,b,Sf,SS(h+ t),g)〉
+Q ist „irgendetwas und P“
+
+Bemerkung: Man beachte den Rückgriff auf die Längenfunktion, um den zweiten Operanden zu bestimmen. Ein Schluss beispielsweise von 〈0=0 ∧ 〈S0=0 ⇒ 0=S0〉〉 auf die (in polnischer Notation) am Ende stehende Kette 0=S0 wird so unterbunden.
+
+FLGKONJ(a,b,f,h,i,j,k) :=
+〈〈SEQUENZ(a,b,Sf,SS0) ∧ ISTFWDKOPIE(a,b,SSf,Sh,i)〉 ∧ ISTFWDKOPIE(a,b,SS(f+ i),Sj,k)〉
+P ist „Q und R“
+
+Bemerkung: Hier wie in anderen Fällen beachte man, dass ein Test auf g=i+k+1 entfallen kann, wenn alle beteiligten Teilfolgen als wohlgeformt vorausgesetzt werden.
+
+FLGPONENS(a,b,f,g,h,j,k) :=
+〈〈SEQUENZ(a,b,Sh,S0) ∧ ISTKOPIE(a,b,SSh,Sj,k)〉 ∧ ISTKOPIE(a,b,Sf,SS(h+ k),g)〉
+Q ist „Wenn R, dann P“
+
+Bemerkung: Man könnte das zweite ISTKOPIE durch ISTFWDKOPIE ersetzen, aber dann müsste man die Definition für FLGKONKLUSION im Wesentlichen kopieren. Wir verzichten auf diese Ersparnis zugunsten der Übersichtlichkeit
+
+FLGSYM(a,b,f,g,h,i) :=
+〈〈SEQUENZ(a,b,Sf,SSS0) ∧ g=i〉 ∧ ∃s:∃t: 〈〈S(s+ t)=g ∧ ISTFWDKOPIE(a,b,SSf,SS(h+ s),t)〉 ∧ ISTFWDKOPIE(a,b,SS(f+ t),SSh,s)〉 〉
+P folgt aus Q per Symmetrie der Gleicheit.
+
+Bemerkung: Es wird nur geprüft, ob der Operator bei f „=“ ist. Aus Gründen der Wohlgeformtheit muss der Operator bei h ebenfalls „=“ sein, wenn die anderen Bedingungen zutreffen, da ja die beiden Operanden Zahlausdrücke sind. Sonst würde dieses Prädikat die Ausdrücke „= +ab+b a“ und „= a +ab+b“ in polnischer Notation durchaus als symmetrich zueinander ansehen. Bei solchen „Fehlschlüssen“ ergibt sich jedoch immer ein nicht wohlgeformter Ausdruck
+
+Übungsaufgabe: Man beweise die letzte Aussage der vorstehenden Bemwerkung über Fehlschlüsse und nicht wohlgeformte Ausdrücke.
+FLGTRANS(a,b,f,g,h,i,j,k) :=
+〈SEQUENZ(a,b,Sf,SSS0) ∧ ∃s:∃t:∃u: 〈〈〈〈〈S(s+ t)=g ∧ S(s+ u)=i〉 ∧ S(u+ t)=k〉 ∧ ISTFWDKOPIE(a,b,SSf,SSh,s)〉 ∧ ISTKOPIE(a,b,SSj,SS(h+ s),u)〉 ∧ ISTFWDKOPIE(a,b,SS(f+ s),SS(j+ u),t)〉 〉
+P folgt aus Q und R per Transitivität der Gleichheit.
+
+Bemerkung: Auch hier gilt: Wir testen, dass P eine Gleichheitsaussage ist. Folglich wissen wir, dass der zweite Operand von R ein Zahlausdruck ist, folglich ist R eine Gleichheitsaussage, womit auch Q zwei Zahlausdrücke als Operanden hat und folglich eine Gleichheitsaussage ist. Man zeige wiederum als Übung, dass s, t, u tatsächlich die Längen der jeweiligen Operanden sein müssen.
+
+FLGADDNONO(a,b,f,g,h,i) :=
+〈〈SEQUENZ(a,b,Sf,SSSSSSS0) ∧ g=SSi〉 ∧ ISTKOPIE(a,b,SSSf,Sh,i)〉
+P ist „nicht nicht Q“
+
+Bemerkung: Man beachte, dass aus der Beziehung der Längen darauf geschlossen werden kann, dass bei f+2 der Negationsoperator stehen muss.
+
+Bemerkung: Wiederum verzichten wir auf die Verwendung von ISTFWDKOPIE zugunsten einer übersichtlicheren Form der folgenden Definition.
+
+FLGDELNONO(a,b,f,g,h,i) :=
+FLGADDNONO(a,b,h,i,f,g)
+Q ist „nicht nicht P“
+
+FLGADDS(a,b,d,f,h,i) :=
+∃t:∃u: 〈〈〈〈〈SEQUENZ(d,b,SSh,t) ∧ S(t+ u)=i〉 ∧ SEQUENZ(a,b,SSf,SSSSSSSS0)〉 ∧ SEQUENZ(a,b,SSS(f+ t),SSSSSSSS0)〉 ∧ ISTKOPIE(a,b,SSSf,SSh,t)〉 ∧ ISTKOPIE(a,b,SSSS(f+ t),SS(h+ t),u)〉
+Bemerkung: In diesem Fall müssen wir auf die Längenfunktion zurückgreifen, da wir sonst einem Fehlschluss von (a· b)=(a· b) ("= *ab* ab" in polnischer Notation) auf S(a· b)=(Sa· b) ("= S*ab* Sab") aufsäßen.
+
+Bemerkung: Auch verzichten wir auf die Verwendung von ISTFWDKOPIE.
+
+FLGDELS(a,b,d,f,g,h) :=
+FLGADDS(a,b,d,h,f,g)
+FLGKONTRA(a,b,f,g,h,i) :=
+〈g=SSi ∧ ∃s:∃t: 〈〈〈〈S(s+ t)=i ∧ SEQUENZ(a,b,Sf,S0)〉 ∧ SEQUENZ(a,b,Sh,S0)〉 ∧ ISTFWDKOPIE(a,b,SSSS(f+ s),SSh,t)〉 ∧ ISTFWDKOPIE(a,b,SSSf,SS(h+ t),s)〉 〉
+Q ist „Wenn dies, dann das“ und P ist „Wenn nicht das, dann nicht dies“
+
+Übungsaufgabe: Man mache sich klar, weshalb wir wiederum nicht prüfen müssen, dass an den entsprechenden Stellen bei P wirklich Negationssymbole stehen.
+Weitere Hilfsprädikate
+Für die weiteren Folgerungsregeln benötigen wir die Möglichkeit, Variablen durch Ausdrücke zu ersetzen. Bevor wir den allgemeinsten Fall diskutieren, kommt der einfachste Fall, dass die (als frei vorausgesetzte) Variable v durch 0 ersetzt wird. Dies ist insofern besonders einfach, da die Länge der Formel nicht verändert wird.
+
+ERS0(a,b,v,f,g,h) :=
+∀k:∀x:∀y: 〈〈〈LESS(k,g) ∧ SEQUENZ(a,b,(f+ k),x)〉 ∧ SEQUENZ(a,b,(h+ k),y)〉 ⇒ 〈〈y=v ⇒ x=SSSSSSSSS0〉 ∧ 〈¬y=v ⇒ x=y〉〉〉
+„P“ ist „Q“ mit v ersetzt durch 0
+
+Bemerkung: Wir vergleichen jeweils entsprechende Folgenglieder x und y. Es muss immer x=y gelten, außer im Fall y=v -- dann muss x="0" sein. Wenn Wohlgeformtheit vorausgesetzt werden kann, folgt automatisch, dass v eine freie Variable ist (oder ein sonstiges Symbol, das jedoch in Q ohnehin nicht vorkommt), denn sonst würde das Ersetzen durch 0 nichts wohlgeformtes ergeben.
+
+Ein weiterer einfacher Spezialfall besteht darin, v durchweg durch v+1 zu ersetzen. Hier bilden wir eine Hilfsfolge, die Positionen der ersten Folge auf solche der zweiten Folge abbildet.
+
+ERSSV(a,b,v,f,h,i) :=
+∃p:∃q: 〈SEQUENZ(p,q,h,f) ∧ ∀k:∀x:∀y:∀s:∀t: 〈〈〈〈〈LESS(k,i) ∧ SEQUENZ(p,q,(h+ k),x)〉 ∧ SEQUENZ(p,q,S(h+ k),y)〉 ∧ SEQUENZ(a,b,(h+ k),s)〉 ∧ SEQUENZ(a,b,x,t)〉 ⇒ 〈〈s=v ⇒ 〈〈y=SSx ∧ SEQUENZ(a,b,Sx,v)〉 ∧ t=SSSSSSSS0〉〉 ∧ 〈¬s=v ⇒ 〈y=Sx ∧ t=s〉〉〉〉 〉
+„P“ ist „Q“ mit v ersetzt durch v+1
+
+Bemerkung: Wenn ..., s, ... und ..., t, u, ... einander entsprechen, muss entweder t=s sein oder (im Falle s=v) t="S" und u=v.
+
+Im allgemeinsten Fall ist der für v einzusetzende Ausdruck seinerseits durch eine Symbolfolge gegeben, codiert durch ein Tripel natürlicher Zahlen. Erneut konstruieren wir eine Hilfsfolge, die entsprechende Positionen der Folgen aufeinander abbildet. Es ist darauf zu achten, dass jede im Ersatzausdruck auftretende Variable frei ist. Sonst würde aus ∀a:¬∀b:a=b durch Spezialisieren (s.u.) ¬∀b:b=b folgen!
+
+ERSETZE(a,b,v,f,g,h,i,r,s) :=
+〈∀w: 〈KOMMTVOR(a,b,w,r,s) ⇒ FREI(a,b,w,h,i)〉 ∧ ∃j:∃k: 〈〈SEQUENZ(j,k,0,0) ∧ SEQUENZ(j,k,i,g)〉 ∧ ∀l:∀m:∀n:∀x: 〈〈〈〈LESS(l,i) ∧ SEQUENZ(j,k,l,m)〉 ∧ SEQUENZ(j,k,Sl,n)〉 ∧ SEQUENZ(a,b,(h+ l),x)〉 ⇒ 〈〈¬x=v ⇒ 〈SEQUENZ(a,b,(f+ m),x) ∧ n=Sm〉〉 ∧ 〈x=v ⇒ 〈∀o:∀p: 〈〈LESS(o,s) ∧ SEQUENZ(a,b,(r+ o),p)〉 ⇒ SEQUENZ(a,b,((o+ m)+ f),p)〉 ∧ n=(s+ m)〉〉〉〉 〉 〉
+„P“ ist „Q“ mit v ersetzt durch „E“
+
+Bemerkung: Sofern v wirklich eine Variable ist, folgt automatisch, dass E ein wohlgeformter Zahlausdruck ist. Sonst ergäbe sich beim Ersetzen von v keine wohlgeformte Formel. Ist dagegen v keine Variable, so kann ERSETZE durchaus ziemlichen Unsinn mit einander in Beziehung setzen (zum Beispiel „und“ durch „nicht wenn-dann“ ersetzen).
+
+Weitere Folgerungsregeln
+FLGIND(a,b,f,h,i,j) :=
+∃v: 〈〈〈〈〈〈〈SEQUENZ(a,b,Sf,SSSSSS0) ∧ SEQUENZ(a,b,SSf,v)〉 ∧ SEQUENZ(a,b,Sj,SSSSSS0)〉 ∧ SEQUENZ(a,b,SSj,v)〉 ∧ SEQUENZ(a,b,SSSj,S0)〉 ∧ ISTKOPIE(a,b,SSSf,SSSSj,i)〉 ∧ ERS0(a,b,v,Sh,i,SSSf)〉 ∧ ERSSV(a,b,v,SSSS(i+ h),SSSf,i)〉
+P hat die Form „Für alle v gilt A[v]“, Q die Form „A[0]“, R die Form „Für alle v gilt: Wenn A[v], dann A[v+1]“
+
+FLGSPECIAL(a,b,f,g,h,i) :=
+∃v:∃r:∃s:∃n: 〈〈〈i=SSn ∧ SEQUENZ(a,b,Sh,SSSSSS0)〉 ∧ SEQUENZ(a,b,SSh,v)〉 ∧ ERSETZE(a,b,v,Sf,g,SSSh,n,r,s)〉
+P ist ein Spezialfall der allgemeinen Aussage Q
+
+Sofern v eine Variable ist, die in keiner Hypothese zur Herleitung von Q ungebunden auftaucht, dürfen wir folgendes Prädikat benutzen:
+
+FLGGEN(a,b,v,f,h,i) :=
+〈〈SEQUENZ(a,b,Sf,SSSSSS0) ∧ SEQUENZ(a,b,SSf,v)〉 ∧ ISTKOPIE(a,b,SSSf,Sh,i)〉
+P ist „Für alle v gilt Q“
+
+Die genannte Voraussetzung, dass v in keiner zur Herleitung benutzten Hypothese ungebunden auftaucht, lässt sich mit folgendem Prädikat prüfen
+
+GENTEST(a,b,d,l,v,f) :=
+∀h: 〈〈〈LESS(h,f) ∧ SEQUENZ(a,b,h,0)〉 ∧ ∀t:∀x:∀y: 〈〈〈SEQUENZ(l,b,h,x) ∧ SEQUENZ(l,b,S(t+ h),y)〉 ∧ LEQ(S(h+ t),f)〉 ⇒ LESS(x,y)〉 〉 ⇒ ∀x: ¬ 〈〈SEQUENZ(d,b,h,x) ∧ KOMMTVOR(a,b,v,h,x)〉 ∧ FREI(a,b,v,h,x)〉 〉
+v kommt in der Beweiskette (a,b) mit Längenfunktion (d,e) und Level-Funktion (l,m) in keiner Hypothese, die für die Kette ab Position f benutzt wird, ungebunden vor.
+
+Bemerkung: h durchläuft alle Interpunktions-Positionen vor f. Falls der Level zwischen h (ausschließlich) und f (einschließlich) stets größer ist als der Level bei h, so beginnt bei h eine für f benutzte Hypothese. In einer solchen darf v entweder gar nicht auftauchen oder quantisiert.
+
+Sofern Q die Hypothese einer Fantasie ist, R die letzte Aussage derselben Fantasie und P die auf die Fantasie folgende Aussage, so kann es sich um die Konklusion handeln:
+
+FLGKONKLUSION(a,b,f,h,i,k,l) :=
+FLGPONENS(a,b,k,l,f,h,i)
+Allerdings muss man hierzu die genannte Beziehung zwischen den Ketten erst prüfen.
+
+FANTASIEARTIG(b,l,f,h,j,k) :=
+∃x: 〈〈〈S(j+ k)=f ∧ SEQUENZ(l,b,h,x)〉 ∧ SEQUENZ(l,b,Sf,x)〉 ∧ ∀y:∀z: 〈〈LESS((h+ y),f) ∧ SEQUENZ(l,b,S(h+ y),z)〉 ⇒ LESS(x,z)〉 〉
+Bemerkung: Der Level macht bei h einen Sprung von x auf x+1, bei f umgekehrt und bleibt zwischendurch oberhalb x
+
+Für andere Schlussregeln ist die Verwendbarkeit wie folgt zu prüfen
+
+NUTZBAR(a,b,d,l,f,h,i) :=
+〈〈〈LESS(h,f) ∧ SEQUENZ(a,b,h,0)〉 ∧ SEQUENZ(d,b,Sh,i)〉 ∧ ∀x:∀y:∀z: 〈〈〈SEQUENZ(l,b,Sh,x) ∧ LEQ((h+ y),f)〉 ∧ SEQUENZ(l,b,S(h+ y),z)〉 ⇒ LEQ(z,x)〉 〉
+Bemerkung: h kommt vor f, beginnt eine Aussage, die Länge ist stimmig und von h+1 bis f+1 fällt der Level nie unter den bei h+1.
+
+Zusammenführung
+ISTLETZTES(a,b,c,d,e,f) :=
+∃p: 〈〈〈f=S(p+ c) ∧ SEQUENZ(d,e,p,0)〉 ∧ FREI(a,b,0,0,c)〉 ∧ ∀k:∀x: 〈〈LESS(k,c) ∧ SEQUENZ(a,b,k,x)〉 ⇒ SEQUENZ(d,e,S(p+ k),x)〉 〉
+ISTLEVELFUNC(a,b,c,d) :=
+〈〈SEQUENZ(d,b,0,0) ∧ SEQUENZ(d,b,c,0)〉 ∧ ∀k:∀x:∀y: 〈〈〈LESS(k,c) ∧ SEQUENZ(d,b,k,x)〉 ∧ SEQUENZ(d,b,Sk,y)〉 ⇒ 〈x=y ∨ 〈SEQUENZ(a,b,k,0) ∧ 〈x=Sy ∨ y=Sx〉〉〉〉 〉
+Bemerkung: Der Level ändert sich nur unmittelbar nach einem Interpunktionszeichen, wobei wir bei Level 0 beginnen und enden.
+
+ISTAXIOM(a,b,f) :=
+〈〈SEQUENZ(a,b,Sf,SSSSSS0) ∧ SEQUENZ(a,b,SSf,SSSSSSSSSS0)〉 ∧ 〈〈〈〈〈〈PRESEQUENZ(a,b,SSSf,SSSSSSS0) ∧ PRESEQUENZ(a,b,SSSSf,SSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSf,SSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSf,SSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSf,SSSSSSSSS0)〉 ∨ 〈〈〈PRESEQUENZ(a,b,SSSf,SSS0) ∧ PRESEQUENZ(a,b,SSSSSf,SSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSf,SSSSSSSSS0)〉 ∧ 〈〈PRESEQUENZ(a,b,SSSSf,SSSS0) ∧ PRESEQUENZ(a,b,SSSSSSSf,SSSSSSSSSS0)〉 ∨ 〈PRESEQUENZ(a,b,SSSSf,SSSSS0) ∧ PRESEQUENZ(a,b,SSSSSSSf,SSSSSSSSS0)〉〉〉〉 ∨ 〈〈〈〈〈〈〈〈PRESEQUENZ(a,b,SSSf,SSSSSS0) ∧ PRESEQUENZ(a,b,SSSSf,SSSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSf,SSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSf,SSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSf,SSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSSf,SSSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSSSSSf,SSSSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSSSSSSf,SSSSSSSSSSS0)〉 ∧ 〈〈〈PRESEQUENZ(a,b,SSSSSSf,SSSS0) ∧ PRESEQUENZ(a,b,SSSSSSSSSSf,SSSSSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSSSSf,SSSS0)〉 ∨ 〈〈〈PRESEQUENZ(a,b,SSSSSSf,SSSSS0) ∧ PRESEQUENZ(a,b,SSSSSSSSSSf,SSSS0)〉 ∧ SEQUENZ(a,b,SSSSSSSSSSSf,SSSSS0)〉 ∧ PRESEQUENZ(a,b,SSSSSSSSSSSSSSf,SSSSSSSSSS0)〉〉〉〉〉
+Bemerkung: Man beachte, dass aus 10 kleiner-gleich b*(f+3) die erforderlichen weiteren Ungleichungen folgen, so dass wir PRESEQUENZ nutzen können.
+
+THEOREM(x,y,z) :=
+∃a:∃b:∃c: ∃d: ∃l: 〈〈〈ISTLEVELFUNC(a,b,c,l) ∧ WOHLGEFORMT(a,b,c,d)〉 ∧ ISTLETZTES(x,y,z,a,b,c)〉 ∧ ∀p:∀q: 〈〈SEQUENZ(a,b,p,0) ∧ SEQUENZ(d,b,Sp,q)〉 ⇒ 〈ISTAXIOM(a,b,p) ∨ ∃r:∃s: 〈NUTZBAR(a,b,d,l,p,r,s) ∧ 〈〈〈〈〈〈〈〈〈〈〈FLGUEBERNAHME(a,b,p,r,s) ∨ FLGSYM(a,b,p,q,r,s)〉 ∨ FLGADDNONO(a,b,p,q,r,s)〉 ∨ FLGDELNONO(a,b,p,q,r,s)〉 ∨ FLGADDS(a,b,d,p,r,s)〉 ∨ FLGDELS(a,b,d,p,q,r)〉 ∨ FLGABTR1(a,b,p,q,r)〉 ∨ FLGABTR2(a,b,d,p,q,r)〉 ∨ FLGKONTRA(a,b,p,q,r,s)〉 ∨ FLGSPECIAL(a,b,p,q,r,s)〉 ∨ ∃v: 〈GENTEST(a,b,d,l,v,p) ∧ FLGGEN(a,b,v,p,r,s)〉 〉 ∨ ∃t:∃u: 〈NUTZBAR(a,b,d,l,p,t,u) ∧ 〈〈〈〈FLGKONJ(a,b,p,r,s,t,u) ∨ FLGPONENS(a,b,p,q,r,t,u)〉 ∨ FLGTRANS(a,b,p,q,r,s,t,u)〉 ∨ FLGIND(a,b,p,r,s,t)〉 ∨ 〈FANTASIEARTIG(b,l,p,r,t,u) ∧ FLGKONKLUSION(a,b,p,r,s,t,u)〉〉〉 〉〉 〉〉 〉
+Übungsaufgabe: Ist THEOREM(1249310,6,5) ein Theorem von TNT (wobei hier der Einfachheit halber 5 statt SSSSS0 usw. geschrieben wurde)? Was ist mit THEOREM(13309085,6,5)? Worin besteht der Unterschied? Wie weit können Sie bei der Beantwortung auf die „Meta-Ebene“ verzichten?
+Quine
+Zur Vollendungg des Diagonalargumentes benötigen wir noch die "Quinierung", das Einsetzen eirner Zahl in das von ihr codierte Prädikat.
+
+ERSZAHL(a,b,c,d,e,f,v,n) :=
+∃p:∃q: 〈〈SEQUENZ(p,q,0,0) ∧ SEQUENZ(p,q,c,f)〉 ∧ ∀k: 〈LESS(k,c) ⇒ ∀r:∀s: 〈〈SEQUENZ(p,q,k,r) ∧ SEQUENZ(a,b,k,s)〉 ⇒ 〈〈¬s=v ⇒ 〈SEQUENZ(p,q,Sk,Sr) ∧ SEQUENZ(d,e,k,s)〉〉 ∧ 〈s=v ⇒ 〈〈SEQUENZ(p,q,Sk,S(n+ r)) ∧ SEQUENZ(d,e,(n+ r),SSSSSSSSS0)〉 ∧ ∀i: 〈(i,n) ⇒ SEQUENZ(d,e,(i+ r),SSSSSSSS0)〉 〉〉〉〉 〉 〉
+Die (a,b,c) entsprechende Kette entsteht aus (d,e,f), indem die Variable v durch die Zahl n ersetzt wird. (Es ist vorauszusetzen, dass v nirgends gebunden ist)
+
+LUSTIG(n) :=
+∃d:∃e:∃f: 〈∃a:∃b:∃c: 〈ONEFORTHREE(n,a,b,c) ∧ ERSZAHL(a,b,c,d,e,f,SSSSSSSSSS0,n)〉 ∧ THEOREM(d,e,f)〉
+Die Zahl n ist Gödelnummer einer Prädikatsform, die, wenn man die Zahl n für die Variable a einsetzt, ein Satz wird.
+
+Sei n eine Gödelnummer für ¬LUSTIG(a). Dann stell sich die Frage, ob LUSTIG(n) wahr ist. Das wäre äquivalent dazu, dass das Einsetzen von n für a in ¬LUSTIG(a) einen Satz von TNT ergibt, also zu der Aussage, dass ¬LUSTIG(n) beweisbar ist. Wenn eine Aussage wahr ist, kann aber ihre Negation nicht beweisbar sein (es sei denn, TNT ist widersprüchlich). Es bleibt also noch die Möglichkeit, dass LUSTIG(n) falsch ist, also ¬LUSTIG(n) wahr, aber eben, wie es selber sagt, nicht beweisbar.
+
+Expansion der Prädikate
+Expandiert man das Prädikat, das die Crux des ganzen Beweises ist, nämlich ¬LUSTIG(a), so ergibt sich rein technisch
+
+¬∃b:∃c:∃d:〈∃e:∃f:∃g:〈a=((((((e+ f)+ g)· ((e+ f)+ g))· ((e+ f)+ g))+ ((e+ f)· (e+ f)))+ e) ∧ ∃h:∃i:〈〈〈∃j:h=(0+ (j· S(i· S0))) ∧ ∃j:(0+ j)=(i· S0)〉 ∧ 〈∃j:h=(d+ (j· S(i· Sg))) ∧ ∃j:(d+ j)=(i· Sg)〉〉 ∧ ∀j:〈∃k:(Sj+ k)=g ⇒ ∀k:∀l:〈〈〈∃m:h=(k+ (m· S(i· Sj))) ∧ ∃m:(k+ m)=(i· Sj)〉 ∧ 〈∃m:e=(l+ (m· S(f· Sj))) ∧ ∃m:(l+ m)=(f· Sj)〉〉 ⇒ 〈〈¬l=SSSSSSSSSS0 ⇒ 〈〈∃m:h=(Sk+ (m· S(i· SSj))) ∧ ∃m:(Sk+ m)=(i· SSj)〉 ∧ 〈∃m:b=(l+ (m· S(c· Sj))) ∧ ∃m:(l+ m)=(c· Sj)〉〉〉 ∧ 〈l=SSSSSSSSSS0 ⇒ 〈〈〈∃m:h=(S(a+ k)+ (m· S(i· SSj))) ∧ ∃m:(S(a+ k)+ m)=(i· SSj)〉 ∧ 〈∃m:b=(SSSSSSSSS0+ (m· S(c· S(a+ k)))) ∧ ∃m:(SSSSSSSSS0+ m)=(c· S(a+ k))〉〉 ∧ ∀m:〈∃n:(Sm+ n)=a ⇒ 〈∃n:b=(SSSSSSSS0+ (n· S(c· S(m+ k)))) ∧ ∃n:(SSSSSSSS0+ n)=(c· S(m+ k))〉〉〉〉〉〉〉〉〉 ∧ ∃e:∃f:∃g:∃h:∃i:〈〈〈〈〈〈∃j:i=(0+ (j· S(f· S0))) ∧ ∃j:(0+ j)=(f· S0)〉 ∧ 〈∃j:i=(0+ (j· S(f· Sg))) ∧ ∃j:(0+ j)=(f· Sg)〉〉 ∧ ∀j:∀k:∀l:〈〈〈∃m:(Sj+ m)=g ∧ 〈∃m:i=(k+ (m· S(f· Sj))) ∧ ∃m:(k+ m)=(f· Sj)〉〉 ∧ 〈∃m:i=(l+ (m· S(f· SSj))) ∧ ∃m:(l+ m)=(f· SSj)〉〉 ⇒ 〈k=l ∨ 〈〈∃m:e=(0+ (m· S(f· Sj))) ∧ ∃m:(0+ m)=(f· Sj)〉 ∧ 〈k=Sl ∨ l=Sk〉〉〉〉〉 ∧ ∀j:〈∃k:(Sj+ k)=g ⇒ ∀k:∀l:∀m:∀n:〈〈〈〈〈∃o:e=(k+ (o· S(f· Sj))) ∧ ∃o:(k+ o)=(f· Sj)〉 ∧ 〈∃o:h=(l+ (o· S(f· Sj))) ∧ ∃o:(l+ o)=(f· Sj)〉〉 ∧ 〈∃o:h=(m+ (o· S(f· SSj))) ∧ ∃o:(m+ o)=(f· SSj)〉〉 ∧ 〈∃o:h=(n+ (o· S(f· SS(m+ j)))) ∧ ∃o:(n+ o)=(f· SS(m+ j))〉〉 ⇒ 〈〈〈〈〈〈∃o:((j+ l)+ o)=g ∧ 〈∃o:(SSSSSSSSS0+ o)=k ⇒ l=S0〉〉 ∧ 〈〈〈k=0 ∨ k=SSSSSSS0〉 ∨ k=SSSSSSSS0〉 ⇒ l=Sm〉〉 ∧ 〈〈〈〈〈〈k=S0 ∨ k=SS0〉 ∨ k=SSS0〉 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ∨ k=SSSSSS0〉 ⇒ 〈l=S(m+ n) ∧ ∀o:〈〈∃p:〈∃q:(Sp+ q)=m ∧ 〈∃q:e=(o+ (q· S(f· S(Sj+ p)))) ∧ ∃q:(o+ q)=(f· S(Sj+ p))〉〉 ∧ ∃p:〈∃q:(Sp+ q)=n ∧ 〈∃q:e=(o+ (q· S(f· S(S(m+ j)+ p)))) ∧ ∃q:(o+ q)=(f· S(S(m+ j)+ p))〉〉〉 ⇒ 〈〈∀p:¬〈〈∃q:(Sp+ q)=m ∧ 〈∃q:e=(SSSSSS0+ (q· S(f· S(Sj+ p)))) ∧ ∃q:(SSSSSS0+ q)=(f· S(Sj+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SS(Sj+ p)))) ∧ ∃q:(o+ q)=(f· SS(Sj+ p))〉〉 ∨ ∀p:¬〈〈∃q:(Sp+ q)=n ∧ 〈∃q:e=(SSSSSS0+ (q· S(f· S(S(m+ j)+ p)))) ∧ ∃q:(SSSSSS0+ q)=(f· S(S(m+ j)+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SS(S(m+ j)+ p)))) ∧ ∃q:(o+ q)=(f· SS(S(m+ j)+ p))〉〉〉 ⇒ ∀p:¬〈〈∃q:(Sp+ q)=(m+ n) ∧ 〈∃q:e=(SSSSSS0+ (q· S(f· S(Sj+ p)))) ∧ ∃q:(SSSSSS0+ q)=(f· S(Sj+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SS(Sj+ p)))) ∧ ∃q:(o+ q)=(f· SS(Sj+ p))〉〉〉〉〉〉〉 ∧ ∀o:〈〈∃p:e=(o+ (p· S(f· SSj))) ∧ ∃p:(o+ p)=(f· SSj)〉 ⇒ 〈〈〈〈〈〈k=0 ∨ k=S0〉 ∨ k=SS0〉 ∨ k=SSSSSSS0〉 ⇒ 〈〈〈〈o=S0 ∨ o=SS0〉 ∨ o=SSS0〉 ∨ o=SSSSSS0〉 ∨ o=SSSSSSS0〉〉 ∧ 〈〈〈〈k=SSS0 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ∨ k=SSSSSSSS0〉 ⇒ 〈〈o=SSSS0 ∨ o=SSSSS0〉 ∨ ∃p:(SSSSSSSS0+ p)=o〉〉〉 ∧ 〈k=SSSSSS0 ⇒ ∃p:(SSSSSSSSSS0+ p)=o〉〉〉〉 ∧ ∀o:〈〈∃p:e=(o+ (p· S(f· SS(m+ j)))) ∧ ∃p:(o+ p)=(f· SS(m+ j))〉 ⇒ 〈〈〈k=0 ⇒ k=o〉 ∧ 〈〈〈k=S0 ∨ k=SS0〉 ∨ k=SSSSSS0〉 ⇒ 〈〈〈〈o=S0 ∨ o=SS0〉 ∨ o=SSS0〉 ∨ o=SSSSSS0〉 ∨ o=SSSSSSS0〉〉〉 ∧ 〈〈〈k=SSS0 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ⇒ 〈〈o=SSSS0 ∨ o=SSSSS0〉 ∨ ∃p:(SSSSSSSS0+ p)=o〉〉〉〉〉 ∧ 〈j=0 ⇒ k=0〉〉〉〉〉 ∧ ∃j:〈〈〈g=S(j+ d) ∧ 〈∃k:e=(0+ (k· S(f· Sj))) ∧ ∃k:(0+ k)=(f· Sj)〉〉 ∧ ∀k:¬〈〈∃l:(Sk+ l)=d ∧ 〈∃l:b=(SSSSSS0+ (l· S(c· S(0+ k)))) ∧ ∃l:(SSSSSS0+ l)=(c· S(0+ k))〉〉 ∧ 〈∃l:b=(0+ (l· S(c· SS(0+ k)))) ∧ ∃l:(0+ l)=(c· SS(0+ k))〉〉〉 ∧ ∀k:∀l:〈〈∃m:(Sk+ m)=d ∧ 〈∃m:b=(l+ (m· S(c· Sk))) ∧ ∃m:(l+ m)=(c· Sk)〉〉 ⇒ 〈∃m:e=(l+ (m· S(f· SS(j+ k)))) ∧ ∃m:(l+ m)=(f· SS(j+ k))〉〉〉〉 ∧ ∀j:∀k:〈〈〈∃l:e=(0+ (l· S(f· Sj))) ∧ ∃l:(0+ l)=(f· Sj)〉 ∧ 〈∃l:h=(k+ (l· S(f· SSj))) ∧ ∃l:(k+ l)=(f· SSj)〉〉 ⇒ 〈〈〈〈∃l:e=(SSSSSS0+ (l· S(f· SSj))) ∧ ∃l:(SSSSSS0+ l)=(f· SSj)〉 ∧ 〈∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSj))) ∧ ∃l:(SSSSSSSSSS0+ l)=(f· SSSj)〉〉 ∧ 〈〈〈〈〈〈∃l:e=(SSSSSSS0+ (l· S(f· SSSSj))) ∧ ∃l:e=(SSS0+ (l· S(f· SSSSSj)))〉 ∧ ∃l:e=(SSSSSSSS0+ (l· S(f· SSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSS0+ (l· S(f· SSSSSSSSj)))〉 ∨ 〈〈〈∃l:e=(SSS0+ (l· S(f· SSSSj))) ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSS0+ (l· S(f· SSSSSSSj)))〉 ∧ 〈〈∃l:e=(SSSS0+ (l· S(f· SSSSSj))) ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSSSj)))〉 ∨ 〈∃l:e=(SSSSS0+ (l· S(f· SSSSSj))) ∧ ∃l:e=(SSSSSSSSS0+ (l· S(f· SSSSSSSSj)))〉〉〉〉 ∨ 〈〈〈〈〈〈〈〈∃l:e=(SSSSSS0+ (l· S(f· SSSSj))) ∧ ∃l:e=(SSSSSSSSSSS0+ (l· S(f· SSSSSj)))〉 ∧ ∃l:e=(SSS0+ (l· S(f· SSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSS0+ (l· S(f· SSSSSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSSSS0+ (l· S(f· SSSSSSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSSSSSSSSj)))〉 ∧ ∃l:e=(SSSSSSSSSSS0+ (l· S(f· SSSSSSSSSSSSSSj)))〉 ∧ 〈〈〈∃l:e=(SSSS0+ (l· S(f· SSSSSSSj))) ∧ ∃l:e=(SSSSSSSS0+ (l· S(f· SSSSSSSSSSSj)))〉 ∧ ∃l:e=(SSSS0+ (l· S(f· SSSSSSSSSSSSj)))〉 ∨ 〈〈〈∃l:e=(SSSSS0+ (l· S(f· SSSSSSSj))) ∧ ∃l:e=(SSSS0+ (l· S(f· SSSSSSSSSSSj)))〉 ∧ 〈∃l:e=(SSSSS0+ (l· S(f· SSSSSSSSSSSSj))) ∧ ∃l:(SSSSS0+ l)=(f· SSSSSSSSSSSSj)〉〉 ∧ ∃l:e=(SSSSSSSSSS0+ (l· S(f· SSSSSSSSSSSSSSSj)))〉〉〉〉〉 ∨ ∃l:∃m:〈〈〈〈∃n:(Sl+ n)=j ∧ 〈∃n:e=(0+ (n· S(f· Sl))) ∧ ∃n:(0+ n)=(f· Sl)〉〉 ∧ 〈∃n:h=(m+ (n· S(f· SSl))) ∧ ∃n:(m+ n)=(f· SSl)〉〉 ∧ ∀n:∀o:∀p:〈〈〈〈∃q:i=(n+ (q· S(f· SSl))) ∧ ∃q:(n+ q)=(f· SSl)〉 ∧ ∃q:((l+ o)+ q)=j〉 ∧ 〈∃q:i=(p+ (q· S(f· SS(l+ o)))) ∧ ∃q:(p+ q)=(f· SS(l+ o))〉〉 ⇒ ∃q:(p+ q)=n〉〉 ∧ 〈〈〈〈〈〈〈〈〈〈〈∀n:∀o:〈〈∃p:(Sn+ p)=m ∧ 〈∃p:e=(o+ (p· S(f· S(n+ Sj)))) ∧ ∃p:(o+ p)=(f· S(n+ Sj))〉〉 ⇒ ∃p:e=(o+ (p· S(f· S(n+ Sl))))〉 ∨ 〈〈〈∃n:e=(SSS0+ (n· S(f· SSj))) ∧ ∃n:(SSS0+ n)=(f· SSj)〉 ∧ k=m〉 ∧ ∃n:∃o:〈〈S(n+ o)=k ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSj))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ SS(l+ n)))))〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SS(j+ o))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(j+ o)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ SSl))))〉〉〉〉 ∨ 〈〈〈∃n:e=(SSSSSSS0+ (n· S(f· SSj))) ∧ ∃n:(SSSSSSS0+ n)=(f· SSj)〉 ∧ k=SSm〉 ∧ ∀n:∀o:〈〈∃p:(Sn+ p)=m ∧ 〈∃p:e=(o+ (p· S(f· S(n+ SSSj)))) ∧ ∃p:(o+ p)=(f· S(n+ SSSj))〉〉 ⇒ 〈∃p:e=(o+ (p· S(f· S(n+ Sl)))) ∧ ∃p:(o+ p)=(f· S(n+ Sl))〉〉〉〉 ∨ 〈〈〈∃n:e=(SSSSSSS0+ (n· S(f· SSl))) ∧ ∃n:(SSSSSSS0+ n)=(f· SSl)〉 ∧ m=SSk〉 ∧ ∀n:∀o:〈〈∃p:(Sn+ p)=k ∧ 〈∃p:e=(o+ (p· S(f· S(n+ SSSl)))) ∧ ∃p:(o+ p)=(f· S(n+ SSSl))〉〉 ⇒ 〈∃p:e=(o+ (p· S(f· S(n+ Sj)))) ∧ ∃p:(o+ p)=(f· S(n+ Sj))〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈〈〈∃p:h=(n+ (p· S(f· SSSl))) ∧ ∃p:(n+ p)=(f· SSSl)〉 ∧ S(n+ o)=m〉 ∧ 〈∃p:e=(SSSSSSSS0+ (p· S(f· SSSj))) ∧ ∃p:(SSSSSSSS0+ p)=(f· SSSj)〉〉 ∧ 〈∃p:e=(SSSSSSSS0+ (p· S(f· SSSS(j+ n)))) ∧ ∃p:(SSSSSSSS0+ p)=(f· SSSS(j+ n))〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSSj))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SSl)))) ∧ ∃r:(q+ r)=(f· S(p+ SSl))〉〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSS(j+ n))))) ∧ ∃r:(q+ r)=(f· S(p+ SSSS(j+ n)))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SS(l+ n))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(l+ n)))〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈〈〈∃p:h=(n+ (p· S(f· SSSj))) ∧ ∃p:(n+ p)=(f· SSSj)〉 ∧ S(n+ o)=k〉 ∧ 〈∃p:e=(SSSSSSSS0+ (p· S(f· SSSl))) ∧ ∃p:(SSSSSSSS0+ p)=(f· SSSl)〉〉 ∧ 〈∃p:e=(SSSSSSSS0+ (p· S(f· SSSS(l+ n)))) ∧ ∃p:(SSSSSSSS0+ p)=(f· SSSS(l+ n))〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSl)))) ∧ ∃r:(q+ r)=(f· S(p+ SSSl))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSj))〉〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSS(l+ n))))) ∧ ∃r:(q+ r)=(f· S(p+ SSSS(l+ n)))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SS(j+ n))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(j+ n)))〉〉〉〉 ∨ 〈〈∃n:e=(SS0+ (n· S(f· SSl))) ∧ ∃n:(SS0+ n)=(f· SSl)〉 ∧ ∀n:∀o:〈〈∃p:(Sn+ p)=k ∧ 〈∃p:e=(o+ (p· S(f· S(n+ Sj)))) ∧ ∃p:(o+ p)=(f· S(n+ Sj))〉〉 ⇒ ∃p:e=(o+ (p· S(f· S(n+ SSl))))〉〉〉 ∨ ∃n:〈〈〈∃o:h=(n+ (o· S(f· SSSl))) ∧ ∃o:(n+ o)=(f· SSSl)〉 ∧ 〈∃o:e=(SS0+ (o· S(f· SSl))) ∧ ∃o:(SS0+ o)=(f· SSl)〉〉 ∧ ∀o:∀p:〈〈∃q:(So+ q)=k ∧ 〈∃q:e=(p+ (q· S(f· S(o+ Sj)))) ∧ ∃q:(p+ q)=(f· S(o+ Sj))〉〉 ⇒ ∃q:e=(p+ (q· S(f· S(o+ SS(l+ n)))))〉〉〉 ∨ 〈k=SSm ∧ ∃n:∃o:〈〈〈〈S(n+ o)=m ∧ 〈∃p:e=(S0+ (p· S(f· SSj))) ∧ ∃p:(S0+ p)=(f· SSj)〉〉 ∧ 〈∃p:e=(S0+ (p· S(f· SSl))) ∧ ∃p:(S0+ p)=(f· SSl)〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSS(j+ n))))) ∧ ∃r:(q+ r)=(f· S(p+ SSSS(j+ n)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ SSl))))〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSSj))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ SS(l+ o)))))〉〉〉〉 ∨ ∃n:∃o:∃p:∃q:〈〈〈m=SSq ∧ 〈∃r:e=(SSSSSS0+ (r· S(f· SSl))) ∧ ∃r:(SSSSSS0+ r)=(f· SSl)〉〉 ∧ 〈∃r:e=(n+ (r· S(f· SSSl))) ∧ ∃r:(n+ r)=(f· SSSl)〉〉 ∧ 〈∀r:〈∃s:〈∃t:(Ss+ t)=p ∧ 〈∃t:e=(r+ (t· S(f· S(o+ s)))) ∧ ∃t:(r+ t)=(f· S(o+ s))〉〉 ⇒ ∀s:¬〈〈∃t:(Ss+ t)=q ∧ 〈∃t:e=(SSSSSS0+ (t· S(f· S(SSSl+ s)))) ∧ ∃t:(SSSSSS0+ t)=(f· S(SSSl+ s))〉〉 ∧ 〈∃t:e=(r+ (t· S(f· SS(SSSl+ s)))) ∧ ∃t:(r+ t)=(f· SS(SSSl+ s))〉〉〉 ∧ ∃r:∃s:〈〈〈∃t:r=(0+ (t· S(s· S0))) ∧ ∃t:(0+ t)=(s· S0)〉 ∧ 〈∃t:r=(k+ (t· S(s· Sq))) ∧ ∃t:(k+ t)=(s· Sq)〉〉 ∧ ∀t:∀u:∀v:∀w:〈〈〈〈∃x:(St+ x)=q ∧ 〈∃x:r=(u+ (x· S(s· St))) ∧ ∃x:(u+ x)=(s· St)〉〉 ∧ 〈∃x:r=(v+ (x· S(s· SSt))) ∧ ∃x:(v+ x)=(s· SSt)〉〉 ∧ 〈∃x:e=(w+ (x· S(f· S(SSSl+ t)))) ∧ ∃x:(w+ x)=(f· S(SSSl+ t))〉〉 ⇒ 〈〈¬w=n ⇒ 〈〈∃x:e=(w+ (x· S(f· S(Sj+ u)))) ∧ ∃x:(w+ x)=(f· S(Sj+ u))〉 ∧ v=Su〉〉 ∧ 〈w=n ⇒ 〈∀x:∀y:〈〈∃z:(Sx+ z)=p ∧ 〈∃z:e=(y+ (z· S(f· S(o+ x)))) ∧ ∃z:(y+ z)=(f· S(o+ x))〉〉 ⇒ 〈∃z:e=(y+ (z· S(f· S((x+ u)+ Sj)))) ∧ ∃z:(y+ z)=(f· S((x+ u)+ Sj))〉〉 ∧ v=(p+ u)〉〉〉〉〉〉〉〉 ∨ ∃n:〈∀o:〈〈〈∃p:(So+ p)=j ∧ 〈∃p:e=(0+ (p· S(f· So))) ∧ ∃p:(0+ p)=(f· So)〉〉 ∧ ∀p:∀q:∀r:〈〈〈〈∃s:i=(q+ (s· S(f· So))) ∧ ∃s:(q+ s)=(f· So)〉 ∧ 〈∃s:i=(r+ (s· S(f· SS(p+ o)))) ∧ ∃s:(r+ s)=(f· SS(p+ o))〉〉 ∧ ∃s:(S(o+ p)+ s)=j〉 ⇒ ∃s:(Sq+ s)=r〉〉 ⇒ ∀p:¬〈〈〈∃q:h=(p+ (q· S(f· So))) ∧ ∃q:(p+ q)=(f· So)〉 ∧ ∃q:〈∃r:(Sq+ r)=p ∧ 〈∃r:e=(n+ (r· S(f· S(o+ q)))) ∧ ∃r:(n+ r)=(f· S(o+ q))〉〉〉 ∧ ∀q:¬〈〈∃r:(Sq+ r)=p ∧ 〈∃r:e=(SSSSSS0+ (r· S(f· S(o+ q)))) ∧ ∃r:(SSSSSS0+ r)=(f· S(o+ q))〉〉 ∧ 〈∃r:e=(n+ (r· S(f· SS(o+ q)))) ∧ ∃r:(n+ r)=(f· SS(o+ q))〉〉〉〉 ∧ 〈〈〈∃o:e=(SSSSSS0+ (o· S(f· SSj))) ∧ ∃o:(SSSSSS0+ o)=(f· SSj)〉 ∧ 〈∃o:e=(n+ (o· S(f· SSSj))) ∧ ∃o:(n+ o)=(f· SSSj)〉〉 ∧ ∀o:∀p:〈〈∃q:(So+ q)=m ∧ 〈∃q:e=(p+ (q· S(f· S(o+ SSSj)))) ∧ ∃q:(p+ q)=(f· S(o+ SSSj))〉〉 ⇒ 〈∃q:e=(p+ (q· S(f· S(o+ Sl)))) ∧ ∃q:(p+ q)=(f· S(o+ Sl))〉〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈∃p:(Sn+ p)=j ∧ 〈∃p:e=(0+ (p· S(f· Sn))) ∧ ∃p:(0+ p)=(f· Sn)〉〉 ∧ 〈∃p:h=(o+ (p· S(f· SSn))) ∧ ∃p:(o+ p)=(f· SSn)〉〉 ∧ ∀p:∀q:∀r:〈〈〈〈∃s:i=(p+ (s· S(f· SSn))) ∧ ∃s:(p+ s)=(f· SSn)〉 ∧ ∃s:((n+ q)+ s)=j〉 ∧ 〈∃s:i=(r+ (s· S(f· SS(n+ q)))) ∧ ∃s:(r+ s)=(f· SS(n+ q))〉〉 ⇒ ∃s:(r+ s)=p〉〉 ∧ 〈〈〈〈〈〈〈∃p:e=(SS0+ (p· S(f· SSj))) ∧ ∃p:(SS0+ p)=(f· SSj)〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=m ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSj))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ Sl))))〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SS(j+ m))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(j+ m)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· S(p+ Sn))))〉〉 ∨ 〈〈〈∃p:e=(S0+ (p· S(f· SSl))) ∧ ∃p:(S0+ p)=(f· SSl)〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSl)))) ∧ ∃r:(q+ r)=(f· S(p+ SSl))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ Sn)))) ∧ ∃r:(q+ r)=(f· S(p+ Sn))〉〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=k ∧ 〈∃r:e=(q+ (r· S(f· S(p+ Sj)))) ∧ ∃r:(q+ r)=(f· S(p+ Sj))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SS(l+ o))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(l+ o)))〉〉〉〉 ∨ 〈〈∃p:e=(SSS0+ (p· S(f· SSj))) ∧ ∃p:(SSS0+ p)=(f· SSj)〉 ∧ ∃p:∃q:∃r:〈〈〈〈〈S(p+ q)=k ∧ S(p+ r)=m〉 ∧ S(r+ q)=o〉 ∧ ∀s:∀t:〈〈∃u:(Ss+ u)=p ∧ 〈∃u:e=(t+ (u· S(f· S(s+ SSj)))) ∧ ∃u:(t+ u)=(f· S(s+ SSj))〉〉 ⇒ ∃u:e=(t+ (u· S(f· S(s+ SSl))))〉〉 ∧ ∀s:∀t:〈〈∃u:(Ss+ u)=r ∧ 〈∃u:e=(t+ (u· S(f· S(s+ SSn)))) ∧ ∃u:(t+ u)=(f· S(s+ SSn))〉〉 ⇒ 〈∃u:e=(t+ (u· S(f· S(s+ SS(l+ p))))) ∧ ∃u:(t+ u)=(f· S(s+ SS(l+ p)))〉〉〉 ∧ ∀s:∀t:〈〈∃u:(Ss+ u)=q ∧ 〈∃u:e=(t+ (u· S(f· S(s+ SS(j+ p))))) ∧ ∃u:(t+ u)=(f· S(s+ SS(j+ p)))〉〉 ⇒ ∃u:e=(t+ (u· S(f· S(s+ SS(n+ r)))))〉〉〉〉 ∨ ∃p:〈〈〈〈〈〈〈〈∃q:e=(SSSSSS0+ (q· S(f· SSj))) ∧ ∃q:(SSSSSS0+ q)=(f· SSj)〉 ∧ 〈∃q:e=(p+ (q· S(f· SSSj))) ∧ ∃q:(p+ q)=(f· SSSj)〉〉 ∧ 〈∃q:e=(SSSSSS0+ (q· S(f· SSn))) ∧ ∃q:(SSSSSS0+ q)=(f· SSn)〉〉 ∧ 〈∃q:e=(p+ (q· S(f· SSSn))) ∧ ∃q:(p+ q)=(f· SSSn)〉〉 ∧ 〈∃q:e=(S0+ (q· S(f· SSSSn))) ∧ ∃q:(S0+ q)=(f· SSSSn)〉〉 ∧ ∀q:∀r:〈〈∃s:(Sq+ s)=m ∧ 〈∃s:e=(r+ (s· S(f· S(q+ SSSj)))) ∧ ∃s:(r+ s)=(f· S(q+ SSSj))〉〉 ⇒ 〈∃s:e=(r+ (s· S(f· S(q+ SSSSn)))) ∧ ∃s:(r+ s)=(f· S(q+ SSSSn))〉〉〉 ∧ ∀q:∀r:∀s:〈〈〈∃t:(Sq+ t)=m ∧ 〈∃t:e=(r+ (t· S(f· S(Sl+ q)))) ∧ ∃t:(r+ t)=(f· S(Sl+ q))〉〉 ∧ 〈∃t:e=(s+ (t· S(f· S(SSSj+ q)))) ∧ ∃t:(s+ t)=(f· S(SSSj+ q))〉〉 ⇒ 〈〈s=p ⇒ r=SSSSSSSSS0〉 ∧ 〈¬s=p ⇒ r=s〉〉〉〉 ∧ ∃q:∃r:〈〈∃s:q=(SSSS(m+ l)+ (s· S(r· SSSSj))) ∧ ∃s:(SSSS(m+ l)+ s)=(r· SSSSj)〉 ∧ ∀s:∀t:∀u:∀v:∀w:〈〈〈〈〈∃x:(Ss+ x)=m ∧ 〈∃x:q=(t+ (x· S(r· S(SSSj+ s)))) ∧ ∃x:(t+ x)=(r· S(SSSj+ s))〉〉 ∧ 〈∃x:q=(u+ (x· S(r· SS(SSSj+ s)))) ∧ ∃x:(u+ x)=(r· SS(SSSj+ s))〉〉 ∧ 〈∃x:e=(v+ (x· S(f· S(SSSj+ s)))) ∧ ∃x:(v+ x)=(f· S(SSSj+ s))〉〉 ∧ 〈∃x:e=(w+ (x· S(f· St))) ∧ ∃x:(w+ x)=(f· St)〉〉 ⇒ 〈〈v=p ⇒ 〈〈u=SSt ∧ 〈∃x:e=(p+ (x· S(f· SSt))) ∧ ∃x:(p+ x)=(f· SSt)〉〉 ∧ w=SSSSSSSS0〉〉 ∧ 〈¬v=p ⇒ 〈u=St ∧ w=v〉〉〉〉〉〉〉 ∨ 〈∃p:〈〈〈S(n+ o)=j ∧ 〈∃q:i=(p+ (q· S(f· Sl))) ∧ ∃q:(p+ q)=(f· Sl)〉〉 ∧ 〈∃q:i=(p+ (q· S(f· SSj))) ∧ ∃q:(p+ q)=(f· SSj)〉〉 ∧ ∀q:∀r:〈〈∃s:(S(l+ q)+ s)=j ∧ 〈∃s:i=(r+ (s· S(f· SS(l+ q)))) ∧ ∃s:(r+ s)=(f· SS(l+ q))〉〉 ⇒ ∃s:(Sp+ s)=r〉〉 ∧ 〈〈〈∃p:e=(S0+ (p· S(f· SSj))) ∧ ∃p:(S0+ p)=(f· SSj)〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=m ∧ 〈∃r:e=(q+ (r· S(f· S(p+ SSj)))) ∧ ∃r:(q+ r)=(f· S(p+ SSj))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ Sl)))) ∧ ∃r:(q+ r)=(f· S(p+ Sl))〉〉〉 ∧ ∀p:∀q:〈〈∃r:(Sp+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· S(p+ Sn)))) ∧ ∃r:(q+ r)=(f· S(p+ Sn))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· S(p+ SS(j+ m))))) ∧ ∃r:(q+ r)=(f· S(p+ SS(j+ m)))〉〉〉〉〉〉〉〉〉〉〉〉
+¬∃b:∃c:∃d:〈∃e:∃f:∃g:〈a=((((((e+ f)+ g)· ((e+ f)+ g))· ((e+ f)+ g))+ ((e+ f)· (e+ f)))+ e) ∧ ∃h:∃i:〈〈∃j:h=(j· Si) ∧ 〈∃j:h=(d+ (j· S(i· Sg))) ∧ ∃j:(d+ j)=(i· Sg)〉〉 ∧ ∀j:〈∃k:S(j+ k)=g ⇒ ∀k:∀l:〈〈〈∃m:h=(k+ (m· S(i· Sj))) ∧ ∃m:(k+ m)=(i· Sj)〉 ∧ 〈∃m:e=(l+ (m· S(f· Sj))) ∧ ∃m:(l+ m)=(f· Sj)〉〉 ⇒ 〈〈¬l=SSSSSSSSSS0 ⇒ 〈〈∃m:h=S(k+ (m· S(i· SSj))) ∧ ∃m:S(k+ m)=(i· SSj)〉 ∧ 〈∃m:b=(l+ (m· S(c· Sj))) ∧ ∃m:(l+ m)=(c· Sj)〉〉〉 ∧ 〈l=SSSSSSSSSS0 ⇒ 〈〈〈∃m:h=S((a+ k)+ (m· S(i· SSj))) ∧ ∃m:S((a+ k)+ m)=(i· SSj)〉 ∧ 〈∃m:b=SSSSSSSSS(m· S(c· S(a+ k))) ∧ ∃m:SSSSSSSSSm=(c· S(a+ k))〉〉 ∧ ∀m:〈∃n:S(m+ n)=a ⇒ 〈∃n:b=SSSSSSSS(n· S(c· S(m+ k))) ∧ ∃n:SSSSSSSSn=(c· S(m+ k))〉〉〉〉〉〉〉〉〉 ∧ ∃e:∃f:∃g:∃h:∃i:〈〈〈〈〈∃j:i=(j· Sf) ∧ ∃j:i=(j· S(f· Sg))〉 ∧ ∀j:∀k:∀l:〈〈〈∃m:S(j+ m)=g ∧ 〈∃m:i=(k+ (m· S(f· Sj))) ∧ ∃m:(k+ m)=(f· Sj)〉〉 ∧ 〈∃m:i=(l+ (m· S(f· SSj))) ∧ ∃m:(l+ m)=(f· SSj)〉〉 ⇒ 〈k=l ∨ 〈∃m:e=(m· S(f· Sj)) ∧ 〈k=Sl ∨ l=Sk〉〉〉〉〉 ∧ ∀j:〈∃k:S(j+ k)=g ⇒ ∀k:∀l:∀m:∀n:〈〈〈〈〈∃o:e=(k+ (o· S(f· Sj))) ∧ ∃o:(k+ o)=(f· Sj)〉 ∧ 〈∃o:h=(l+ (o· S(f· Sj))) ∧ ∃o:(l+ o)=(f· Sj)〉〉 ∧ 〈∃o:h=(m+ (o· S(f· SSj))) ∧ ∃o:(m+ o)=(f· SSj)〉〉 ∧ 〈∃o:h=(n+ (o· S(f· SS(m+ j)))) ∧ ∃o:(n+ o)=(f· SS(m+ j))〉〉 ⇒ 〈〈〈〈〈〈∃o:((j+ l)+ o)=g ∧ 〈∃o:SSSSSSSSSo=k ⇒ l=S0〉〉 ∧ 〈〈〈k=0 ∨ k=SSSSSSS0〉 ∨ k=SSSSSSSS0〉 ⇒ l=Sm〉〉 ∧ 〈〈〈〈〈〈k=S0 ∨ k=SS0〉 ∨ k=SSS0〉 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ∨ k=SSSSSS0〉 ⇒ 〈l=S(m+ n) ∧ ∀o:〈〈∃p:〈∃q:S(p+ q)=m ∧ 〈∃q:e=(o+ (q· S(f· SS(j+ p)))) ∧ ∃q:(o+ q)=(f· SS(j+ p))〉〉 ∧ ∃p:〈∃q:S(p+ q)=n ∧ 〈∃q:e=(o+ (q· S(f· SS((m+ j)+ p)))) ∧ ∃q:(o+ q)=(f· SS((m+ j)+ p))〉〉〉 ⇒ 〈〈∀p:¬〈〈∃q:S(p+ q)=m ∧ 〈∃q:e=SSSSSS(q· S(f· SS(j+ p))) ∧ ∃q:SSSSSSq=(f· SS(j+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SSS(j+ p)))) ∧ ∃q:(o+ q)=(f· SSS(j+ p))〉〉 ∨ ∀p:¬〈〈∃q:S(p+ q)=n ∧ 〈∃q:e=SSSSSS(q· S(f· SS((m+ j)+ p))) ∧ ∃q:SSSSSSq=(f· SS((m+ j)+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SSS((m+ j)+ p)))) ∧ ∃q:(o+ q)=(f· SSS((m+ j)+ p))〉〉〉 ⇒ ∀p:¬〈〈∃q:S(p+ q)=(m+ n) ∧ 〈∃q:e=SSSSSS(q· S(f· SS(j+ p))) ∧ ∃q:SSSSSSq=(f· SS(j+ p))〉〉 ∧ 〈∃q:e=(o+ (q· S(f· SSS(j+ p)))) ∧ ∃q:(o+ q)=(f· SSS(j+ p))〉〉〉〉〉〉〉 ∧ ∀o:〈〈∃p:e=(o+ (p· S(f· SSj))) ∧ ∃p:(o+ p)=(f· SSj)〉 ⇒ 〈〈〈〈〈〈k=0 ∨ k=S0〉 ∨ k=SS0〉 ∨ k=SSSSSSS0〉 ⇒ 〈〈〈〈o=S0 ∨ o=SS0〉 ∨ o=SSS0〉 ∨ o=SSSSSS0〉 ∨ o=SSSSSSS0〉〉 ∧ 〈〈〈〈k=SSS0 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ∨ k=SSSSSSSS0〉 ⇒ 〈〈o=SSSS0 ∨ o=SSSSS0〉 ∨ ∃p:SSSSSSSSp=o〉〉〉 ∧ 〈k=SSSSSS0 ⇒ ∃p:SSSSSSSSSSp=o〉〉〉〉 ∧ ∀o:〈〈∃p:e=(o+ (p· S(f· SS(m+ j)))) ∧ ∃p:(o+ p)=(f· SS(m+ j))〉 ⇒ 〈〈〈k=0 ⇒ k=o〉 ∧ 〈〈〈k=S0 ∨ k=SS0〉 ∨ k=SSSSSS0〉 ⇒ 〈〈〈〈o=S0 ∨ o=SS0〉 ∨ o=SSS0〉 ∨ o=SSSSSS0〉 ∨ o=SSSSSSS0〉〉〉 ∧ 〈〈〈k=SSS0 ∨ k=SSSS0〉 ∨ k=SSSSS0〉 ⇒ 〈〈o=SSSS0 ∨ o=SSSSS0〉 ∨ ∃p:SSSSSSSSp=o〉〉〉〉〉 ∧ 〈j=0 ⇒ k=0〉〉〉〉〉 ∧ ∃j:〈〈〈g=S(j+ d) ∧ ∃k:e=(k· S(f· Sj))〉 ∧ ∀k:¬〈〈∃l:S(k+ l)=d ∧ 〈∃l:b=SSSSSS(l· S(c· Sk)) ∧ ∃l:SSSSSSl=(c· Sk)〉〉 ∧ ∃l:b=(l· S(c· SSk))〉〉 ∧ ∀k:∀l:〈〈∃m:S(k+ m)=d ∧ 〈∃m:b=(l+ (m· S(c· Sk))) ∧ ∃m:(l+ m)=(c· Sk)〉〉 ⇒ 〈∃m:e=(l+ (m· S(f· SS(j+ k)))) ∧ ∃m:(l+ m)=(f· SS(j+ k))〉〉〉〉 ∧ ∀j:∀k:〈〈∃l:e=(l· S(f· Sj)) ∧ 〈∃l:h=(k+ (l· S(f· SSj))) ∧ ∃l:(k+ l)=(f· SSj)〉〉 ⇒ 〈〈〈〈∃l:e=SSSSSS(l· S(f· SSj)) ∧ ∃l:SSSSSSl=(f· SSj)〉 ∧ 〈∃l:e=SSSSSSSSSS(l· S(f· SSSj)) ∧ ∃l:SSSSSSSSSSl=(f· SSSj)〉〉 ∧ 〈〈〈〈〈〈∃l:e=SSSSSSS(l· S(f· SSSSj)) ∧ ∃l:e=SSS(l· S(f· SSSSSj))〉 ∧ ∃l:e=SSSSSSSS(l· S(f· SSSSSSj))〉 ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSSj))〉 ∧ ∃l:e=SSSSSSSSS(l· S(f· SSSSSSSSj))〉 ∨ 〈〈〈∃l:e=SSS(l· S(f· SSSSj)) ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSj))〉 ∧ ∃l:e=SSSSSSSSS(l· S(f· SSSSSSSj))〉 ∧ 〈〈∃l:e=SSSS(l· S(f· SSSSSj)) ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSSSj))〉 ∨ 〈∃l:e=SSSSS(l· S(f· SSSSSj)) ∧ ∃l:e=SSSSSSSSS(l· S(f· SSSSSSSSj))〉〉〉〉 ∨ 〈〈〈〈〈〈〈〈∃l:e=SSSSSS(l· S(f· SSSSj)) ∧ ∃l:e=SSSSSSSSSSS(l· S(f· SSSSSj))〉 ∧ ∃l:e=SSS(l· S(f· SSSSSSj))〉 ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSSSj))〉 ∧ ∃l:e=SSSSSSSS(l· S(f· SSSSSSSSSj))〉 ∧ ∃l:e=SSSSSSSSSSS(l· S(f· SSSSSSSSSSj))〉 ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSSSSSSSSj))〉 ∧ ∃l:e=SSSSSSSSSSS(l· S(f· SSSSSSSSSSSSSSj))〉 ∧ 〈〈〈∃l:e=SSSS(l· S(f· SSSSSSSj)) ∧ ∃l:e=SSSSSSSS(l· S(f· SSSSSSSSSSSj))〉 ∧ ∃l:e=SSSS(l· S(f· SSSSSSSSSSSSj))〉 ∨ 〈〈〈∃l:e=SSSSS(l· S(f· SSSSSSSj)) ∧ ∃l:e=SSSS(l· S(f· SSSSSSSSSSSj))〉 ∧ 〈∃l:e=SSSSS(l· S(f· SSSSSSSSSSSSj)) ∧ ∃l:SSSSSl=(f· SSSSSSSSSSSSj)〉〉 ∧ ∃l:e=SSSSSSSSSS(l· S(f· SSSSSSSSSSSSSSSj))〉〉〉〉〉 ∨ ∃l:∃m:〈〈〈〈∃n:S(l+ n)=j ∧ ∃n:e=(n· S(f· Sl))〉 ∧ 〈∃n:h=(m+ (n· S(f· SSl))) ∧ ∃n:(m+ n)=(f· SSl)〉〉 ∧ ∀n:∀o:∀p:〈〈〈〈∃q:i=(n+ (q· S(f· SSl))) ∧ ∃q:(n+ q)=(f· SSl)〉 ∧ ∃q:((l+ o)+ q)=j〉 ∧ 〈∃q:i=(p+ (q· S(f· SS(l+ o)))) ∧ ∃q:(p+ q)=(f· SS(l+ o))〉〉 ⇒ ∃q:(p+ q)=n〉〉 ∧ 〈〈〈〈〈〈〈〈〈〈〈∀n:∀o:〈〈∃p:S(n+ p)=m ∧ 〈∃p:e=(o+ (p· S(f· SS(n+ j)))) ∧ ∃p:(o+ p)=(f· SS(n+ j))〉〉 ⇒ ∃p:e=(o+ (p· S(f· SS(n+ l))))〉 ∨ 〈〈〈∃n:e=SSS(n· S(f· SSj)) ∧ ∃n:SSSn=(f· SSj)〉 ∧ k=m〉 ∧ ∃n:∃o:〈〈S(n+ o)=k ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSS(p+ j))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SSS(p+ (l+ n)))))〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ (j+ o))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (j+ o)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SSS(p+ l))))〉〉〉〉 ∨ 〈〈〈∃n:e=SSSSSSS(n· S(f· SSj)) ∧ ∃n:SSSSSSSn=(f· SSj)〉 ∧ k=SSm〉 ∧ ∀n:∀o:〈〈∃p:S(n+ p)=m ∧ 〈∃p:e=(o+ (p· S(f· SSSS(n+ j)))) ∧ ∃p:(o+ p)=(f· SSSS(n+ j))〉〉 ⇒ 〈∃p:e=(o+ (p· S(f· SS(n+ l)))) ∧ ∃p:(o+ p)=(f· SS(n+ l))〉〉〉〉 ∨ 〈〈〈∃n:e=SSSSSSS(n· S(f· SSl)) ∧ ∃n:SSSSSSSn=(f· SSl)〉 ∧ m=SSk〉 ∧ ∀n:∀o:〈〈∃p:S(n+ p)=k ∧ 〈∃p:e=(o+ (p· S(f· SSSS(n+ l)))) ∧ ∃p:(o+ p)=(f· SSSS(n+ l))〉〉 ⇒ 〈∃p:e=(o+ (p· S(f· SS(n+ j)))) ∧ ∃p:(o+ p)=(f· SS(n+ j))〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈〈〈∃p:h=(n+ (p· S(f· SSSl))) ∧ ∃p:(n+ p)=(f· SSSl)〉 ∧ S(n+ o)=m〉 ∧ 〈∃p:e=SSSSSSSS(p· S(f· SSSj)) ∧ ∃p:SSSSSSSSp=(f· SSSj)〉〉 ∧ 〈∃p:e=SSSSSSSS(p· S(f· SSSS(j+ n))) ∧ ∃p:SSSSSSSSp=(f· SSSS(j+ n))〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· SSSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSSS(p+ j))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ l)))) ∧ ∃r:(q+ r)=(f· SSS(p+ l))〉〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSSSS(p+ (j+ n))))) ∧ ∃r:(q+ r)=(f· SSSSS(p+ (j+ n)))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ (l+ n))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (l+ n)))〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈〈〈∃p:h=(n+ (p· S(f· SSSj))) ∧ ∃p:(n+ p)=(f· SSSj)〉 ∧ S(n+ o)=k〉 ∧ 〈∃p:e=SSSSSSSS(p· S(f· SSSl)) ∧ ∃p:SSSSSSSSp=(f· SSSl)〉〉 ∧ 〈∃p:e=SSSSSSSS(p· S(f· SSSS(l+ n))) ∧ ∃p:SSSSSSSSp=(f· SSSS(l+ n))〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· SSSS(p+ l)))) ∧ ∃r:(q+ r)=(f· SSSS(p+ l))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSS(p+ j))〉〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSSSS(p+ (l+ n))))) ∧ ∃r:(q+ r)=(f· SSSSS(p+ (l+ n)))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ (j+ n))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (j+ n)))〉〉〉〉 ∨ 〈〈∃n:e=SS(n· S(f· SSl)) ∧ ∃n:SSn=(f· SSl)〉 ∧ ∀n:∀o:〈〈∃p:S(n+ p)=k ∧ 〈∃p:e=(o+ (p· S(f· SS(n+ j)))) ∧ ∃p:(o+ p)=(f· SS(n+ j))〉〉 ⇒ ∃p:e=(o+ (p· S(f· SSS(n+ l))))〉〉〉 ∨ ∃n:〈〈〈∃o:h=(n+ (o· S(f· SSSl))) ∧ ∃o:(n+ o)=(f· SSSl)〉 ∧ 〈∃o:e=SS(o· S(f· SSl)) ∧ ∃o:SSo=(f· SSl)〉〉 ∧ ∀o:∀p:〈〈∃q:S(o+ q)=k ∧ 〈∃q:e=(p+ (q· S(f· SS(o+ j)))) ∧ ∃q:(p+ q)=(f· SS(o+ j))〉〉 ⇒ ∃q:e=(p+ (q· S(f· SSS(o+ (l+ n)))))〉〉〉 ∨ 〈k=SSm ∧ ∃n:∃o:〈〈〈〈S(n+ o)=m ∧ 〈∃p:e=S(p· S(f· SSj)) ∧ ∃p:Sp=(f· SSj)〉〉 ∧ 〈∃p:e=S(p· S(f· SSl)) ∧ ∃p:Sp=(f· SSl)〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSSSS(p+ (j+ n))))) ∧ ∃r:(q+ r)=(f· SSSSS(p+ (j+ n)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SSS(p+ l))))〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=n ∧ 〈∃r:e=(q+ (r· S(f· SSSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSSS(p+ j))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SSS(p+ (l+ o)))))〉〉〉〉 ∨ ∃n:∃o:∃p:∃q:〈〈〈m=SSq ∧ 〈∃r:e=SSSSSS(r· S(f· SSl)) ∧ ∃r:SSSSSSr=(f· SSl)〉〉 ∧ 〈∃r:e=(n+ (r· S(f· SSSl))) ∧ ∃r:(n+ r)=(f· SSSl)〉〉 ∧ 〈∀r:〈∃s:〈∃t:S(s+ t)=p ∧ 〈∃t:e=(r+ (t· S(f· S(o+ s)))) ∧ ∃t:(r+ t)=(f· S(o+ s))〉〉 ⇒ ∀s:¬〈〈∃t:S(s+ t)=q ∧ 〈∃t:e=SSSSSS(t· S(f· SSSS(l+ s))) ∧ ∃t:SSSSSSt=(f· SSSS(l+ s))〉〉 ∧ 〈∃t:e=(r+ (t· S(f· SSSSS(l+ s)))) ∧ ∃t:(r+ t)=(f· SSSSS(l+ s))〉〉〉 ∧ ∃r:∃s:〈〈∃t:r=(t· Ss) ∧ 〈∃t:r=(k+ (t· S(s· Sq))) ∧ ∃t:(k+ t)=(s· Sq)〉〉 ∧ ∀t:∀u:∀v:∀w:〈〈〈〈∃x:S(t+ x)=q ∧ 〈∃x:r=(u+ (x· S(s· St))) ∧ ∃x:(u+ x)=(s· St)〉〉 ∧ 〈∃x:r=(v+ (x· S(s· SSt))) ∧ ∃x:(v+ x)=(s· SSt)〉〉 ∧ 〈∃x:e=(w+ (x· S(f· SSSS(l+ t)))) ∧ ∃x:(w+ x)=(f· SSSS(l+ t))〉〉 ⇒ 〈〈¬w=n ⇒ 〈〈∃x:e=(w+ (x· S(f· SS(j+ u)))) ∧ ∃x:(w+ x)=(f· SS(j+ u))〉 ∧ v=Su〉〉 ∧ 〈w=n ⇒ 〈∀x:∀y:〈〈∃z:S(x+ z)=p ∧ 〈∃z:e=(y+ (z· S(f· S(o+ x)))) ∧ ∃z:(y+ z)=(f· S(o+ x))〉〉 ⇒ 〈∃z:e=(y+ (z· S(f· SS((x+ u)+ j)))) ∧ ∃z:(y+ z)=(f· SS((x+ u)+ j))〉〉 ∧ v=(p+ u)〉〉〉〉〉〉〉〉 ∨ ∃n:〈∀o:〈〈〈∃p:S(o+ p)=j ∧ ∃p:e=(p· S(f· So))〉 ∧ ∀p:∀q:∀r:〈〈〈〈∃s:i=(q+ (s· S(f· So))) ∧ ∃s:(q+ s)=(f· So)〉 ∧ 〈∃s:i=(r+ (s· S(f· SS(p+ o)))) ∧ ∃s:(r+ s)=(f· SS(p+ o))〉〉 ∧ ∃s:S((o+ p)+ s)=j〉 ⇒ ∃s:S(q+ s)=r〉〉 ⇒ ∀p:¬〈〈〈∃q:h=(p+ (q· S(f· So))) ∧ ∃q:(p+ q)=(f· So)〉 ∧ ∃q:〈∃r:S(q+ r)=p ∧ 〈∃r:e=(n+ (r· S(f· S(o+ q)))) ∧ ∃r:(n+ r)=(f· S(o+ q))〉〉〉 ∧ ∀q:¬〈〈∃r:S(q+ r)=p ∧ 〈∃r:e=SSSSSS(r· S(f· S(o+ q))) ∧ ∃r:SSSSSSr=(f· S(o+ q))〉〉 ∧ 〈∃r:e=(n+ (r· S(f· SS(o+ q)))) ∧ ∃r:(n+ r)=(f· SS(o+ q))〉〉〉〉 ∧ 〈〈〈∃o:e=SSSSSS(o· S(f· SSj)) ∧ ∃o:SSSSSSo=(f· SSj)〉 ∧ 〈∃o:e=(n+ (o· S(f· SSSj))) ∧ ∃o:(n+ o)=(f· SSSj)〉〉 ∧ ∀o:∀p:〈〈∃q:S(o+ q)=m ∧ 〈∃q:e=(p+ (q· S(f· SSSS(o+ j)))) ∧ ∃q:(p+ q)=(f· SSSS(o+ j))〉〉 ⇒ 〈∃q:e=(p+ (q· S(f· SS(o+ l)))) ∧ ∃q:(p+ q)=(f· SS(o+ l))〉〉〉〉〉 ∨ ∃n:∃o:〈〈〈〈∃p:S(n+ p)=j ∧ ∃p:e=(p· S(f· Sn))〉 ∧ 〈∃p:h=(o+ (p· S(f· SSn))) ∧ ∃p:(o+ p)=(f· SSn)〉〉 ∧ ∀p:∀q:∀r:〈〈〈〈∃s:i=(p+ (s· S(f· SSn))) ∧ ∃s:(p+ s)=(f· SSn)〉 ∧ ∃s:((n+ q)+ s)=j〉 ∧ 〈∃s:i=(r+ (s· S(f· SS(n+ q)))) ∧ ∃s:(r+ s)=(f· SS(n+ q))〉〉 ⇒ ∃s:(r+ s)=p〉〉 ∧ 〈〈〈〈〈〈〈∃p:e=SS(p· S(f· SSj)) ∧ ∃p:SSp=(f· SSj)〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=m ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSS(p+ j))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SS(p+ l))))〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ (j+ m))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (j+ m)))〉〉 ⇒ ∃r:e=(q+ (r· S(f· SS(p+ n))))〉〉 ∨ 〈〈〈∃p:e=S(p· S(f· SSl)) ∧ ∃p:Sp=(f· SSl)〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ l)))) ∧ ∃r:(q+ r)=(f· SSS(p+ l))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SS(p+ n)))) ∧ ∃r:(q+ r)=(f· SS(p+ n))〉〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=k ∧ 〈∃r:e=(q+ (r· S(f· SS(p+ j)))) ∧ ∃r:(q+ r)=(f· SS(p+ j))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ (l+ o))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (l+ o)))〉〉〉〉 ∨ 〈〈∃p:e=SSS(p· S(f· SSj)) ∧ ∃p:SSSp=(f· SSj)〉 ∧ ∃p:∃q:∃r:〈〈〈〈〈S(p+ q)=k ∧ S(p+ r)=m〉 ∧ S(r+ q)=o〉 ∧ ∀s:∀t:〈〈∃u:S(s+ u)=p ∧ 〈∃u:e=(t+ (u· S(f· SSS(s+ j)))) ∧ ∃u:(t+ u)=(f· SSS(s+ j))〉〉 ⇒ ∃u:e=(t+ (u· S(f· SSS(s+ l))))〉〉 ∧ ∀s:∀t:〈〈∃u:S(s+ u)=r ∧ 〈∃u:e=(t+ (u· S(f· SSS(s+ n)))) ∧ ∃u:(t+ u)=(f· SSS(s+ n))〉〉 ⇒ 〈∃u:e=(t+ (u· S(f· SSS(s+ (l+ p))))) ∧ ∃u:(t+ u)=(f· SSS(s+ (l+ p)))〉〉〉 ∧ ∀s:∀t:〈〈∃u:S(s+ u)=q ∧ 〈∃u:e=(t+ (u· S(f· SSS(s+ (j+ p))))) ∧ ∃u:(t+ u)=(f· SSS(s+ (j+ p)))〉〉 ⇒ ∃u:e=(t+ (u· S(f· SSS(s+ (n+ r)))))〉〉〉〉 ∨ ∃p:〈〈〈〈〈〈〈〈∃q:e=SSSSSS(q· S(f· SSj)) ∧ ∃q:SSSSSSq=(f· SSj)〉 ∧ 〈∃q:e=(p+ (q· S(f· SSSj))) ∧ ∃q:(p+ q)=(f· SSSj)〉〉 ∧ 〈∃q:e=SSSSSS(q· S(f· SSn)) ∧ ∃q:SSSSSSq=(f· SSn)〉〉 ∧ 〈∃q:e=(p+ (q· S(f· SSSn))) ∧ ∃q:(p+ q)=(f· SSSn)〉〉 ∧ 〈∃q:e=S(q· S(f· SSSSn)) ∧ ∃q:Sq=(f· SSSSn)〉〉 ∧ ∀q:∀r:〈〈∃s:S(q+ s)=m ∧ 〈∃s:e=(r+ (s· S(f· SSSS(q+ j)))) ∧ ∃s:(r+ s)=(f· SSSS(q+ j))〉〉 ⇒ 〈∃s:e=(r+ (s· S(f· SSSSS(q+ n)))) ∧ ∃s:(r+ s)=(f· SSSSS(q+ n))〉〉〉 ∧ ∀q:∀r:∀s:〈〈〈∃t:S(q+ t)=m ∧ 〈∃t:e=(r+ (t· S(f· SS(l+ q)))) ∧ ∃t:(r+ t)=(f· SS(l+ q))〉〉 ∧ 〈∃t:e=(s+ (t· S(f· SSSS(j+ q)))) ∧ ∃t:(s+ t)=(f· SSSS(j+ q))〉〉 ⇒ 〈〈s=p ⇒ r=SSSSSSSSS0〉 ∧ 〈¬s=p ⇒ r=s〉〉〉〉 ∧ ∃q:∃r:〈〈∃s:q=SSSS((m+ l)+ (s· S(r· SSSSj))) ∧ ∃s:SSSS((m+ l)+ s)=(r· SSSSj)〉 ∧ ∀s:∀t:∀u:∀v:∀w:〈〈〈〈〈∃x:S(s+ x)=m ∧ 〈∃x:q=(t+ (x· S(r· SSSS(j+ s)))) ∧ ∃x:(t+ x)=(r· SSSS(j+ s))〉〉 ∧ 〈∃x:q=(u+ (x· S(r· SSSSS(j+ s)))) ∧ ∃x:(u+ x)=(r· SSSSS(j+ s))〉〉 ∧ 〈∃x:e=(v+ (x· S(f· SSSS(j+ s)))) ∧ ∃x:(v+ x)=(f· SSSS(j+ s))〉〉 ∧ 〈∃x:e=(w+ (x· S(f· St))) ∧ ∃x:(w+ x)=(f· St)〉〉 ⇒ 〈〈v=p ⇒ 〈〈u=SSt ∧ 〈∃x:e=(p+ (x· S(f· SSt))) ∧ ∃x:(p+ x)=(f· SSt)〉〉 ∧ w=SSSSSSSS0〉〉 ∧ 〈¬v=p ⇒ 〈u=St ∧ w=v〉〉〉〉〉〉〉 ∨ 〈∃p:〈〈〈S(n+ o)=j ∧ 〈∃q:i=(p+ (q· S(f· Sl))) ∧ ∃q:(p+ q)=(f· Sl)〉〉 ∧ 〈∃q:i=(p+ (q· S(f· SSj))) ∧ ∃q:(p+ q)=(f· SSj)〉〉 ∧ ∀q:∀r:〈〈∃s:S((l+ q)+ s)=j ∧ 〈∃s:i=(r+ (s· S(f· SS(l+ q)))) ∧ ∃s:(r+ s)=(f· SS(l+ q))〉〉 ⇒ ∃s:S(p+ s)=r〉〉 ∧ 〈〈〈∃p:e=S(p· S(f· SSj)) ∧ ∃p:Sp=(f· SSj)〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=m ∧ 〈∃r:e=(q+ (r· S(f· SSS(p+ j)))) ∧ ∃r:(q+ r)=(f· SSS(p+ j))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SS(p+ l)))) ∧ ∃r:(q+ r)=(f· SS(p+ l))〉〉〉 ∧ ∀p:∀q:〈〈∃r:S(p+ r)=o ∧ 〈∃r:e=(q+ (r· S(f· SS(p+ n)))) ∧ ∃r:(q+ r)=(f· SS(p+ n))〉〉 ⇒ 〈∃r:e=(q+ (r· S(f· SSS(p+ (j+ m))))) ∧ ∃r:(q+ r)=(f· SSS(p+ (j+ m)))〉〉〉〉〉〉〉〉〉〉〉〉

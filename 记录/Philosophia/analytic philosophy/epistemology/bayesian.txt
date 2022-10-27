@@ -1,0 +1,10 @@
+For example, some coherent priors lead to enumerative induction and some don’t (Carnap 1955, see Fitelson 2006 for a concise presentation), and some coherent priors lead to Ockham’s razor and some don’t (Forster 1995: sec. 3; Sober 2002: sec. 6).
+
+For a recent development of merging-of-opinions theorems and a defense of their use, see Huttegger (2015).
+
+Easwaran (2013) also argues that the Infinite Lottery Case only appears to be a counterexample to Countable Additivity and can be explained away.
+
+Bartha (2004) thinks that the answer is negative. He argues that, even if Countable Additivity is abandoned due to the Infinite Lottery Case, this poses no serious threat to its extensive applications.
+
+For more on the difference between learning and acquiring evidence, see Maher (1992: secs 2.1 and 2.3). So this approach to the problem of old evidence is often called logical learning.
+For criticisms of those assumptions as well as possible improvements, see Sprenger (2015), Hartmann & Fitelson (2015), and Eva & Hartmann (2020).

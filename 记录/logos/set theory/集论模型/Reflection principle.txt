@@ -1,0 +1,44 @@
+
+The Reflection Principle in Set Theory states for each formula ϕ(v1,...,vn) and for each set M there exists a set N which extends M such that the following holds
+
+ϕ^N(x1,...,xn) iff ϕ(x1,...,xn) for all x1,...xn∈N
+
+i.e.
+
+∀M0.∃M⊇M0.∀x1,…,xn∈M.(φ(x1,…,xn)⇔φ^M(x1,…,xn)),
+where φM is the M-relativization of φ.
+
+弱反射定理模式：
+
+对于任意phix, ZFC|-\exists aerfa (\forall x \in V_aerfa) Vaerfa |= \phi(x) <-> \phi(x).
+
+“编码版本”：
+
+对于任意自然数n，如果n编码了一个集合论语言的公式phix，则存在一个自然数k，使得k编码了一个ZFC的证明，使得...
+
+强反射定理模式：
+
+对于任意有限个语句phi1, ..., phin, ZFC|-\exists aerfa (\forall x \in V_aerfa) Vaerfa |= \phi(x) \land ... \land \phi(n) <-> \phi(x) \land ... \land \phi(n).
+
+（**）（internal theorem of ZFC+exists a strong inaccessible cardinal k）: 对于任意有限个ZFC的公理A1...An, Vk |=A1 \land ... \land An.
+
+i.e. 令#ZFC \subseteq \omega指代“ZFC公理的哥德尔编码的集合”
+
+对于任意的k1,...kn\in omega, 如果k1,...,kn \in #ZFC, 那么Sat(Vk, k_{\land})
+
+其中k_{\land}为[[k1,...kn所编码的公理]的合取]的哥德尔编码. Sat(x, y)是一个集合论语句，平时写作x|=y.
+
+(**) 里的"任意有限"是一个被ZFC语言所表达出来的表达方式. 相较之下, 强反射定理模式里面的"任意有限"并不是在ZFC里面表述的, 即: 我们并没有给出一句形如\forall x \in \omega 这样子的形式语言的语句. 我们可以把强反射定理模式理解为如下的非形式表达:
+
+如果你用纸和笔写下一堆ZFC的公理, 并且把它们给我看, 那么我可以写出它们对应的命题的证明给回给你.
+
+如"现实中的", "能用纸和笔写下来的"之类的表达方式, 都可以被翻译成某个固定的元理论(例如PRA)里面的关于自然数的表达, 要是想这么做的话, 我们就是得把ZFC当作对象理论, 与此同时还考虑对象语言ZFC中所编码的对象-对象理论#ZFC. 
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/449309200/answer/1779616790
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+
+

@@ -1,0 +1,38 @@
+作者：ZS Chen
+链接：https://www.zhihu.com/question/439722589/answer/1681996832
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+这是一个很好的问题, 但同时也是个很难的问题. 一方面, 根据题主的关键词, 我猜题主感兴趣的是偏武丁式/Cabal式的集合论方向和武丁关于ultimate L的纲领(Woodin's program), 这里的数学内容本身就已经是非常困难的了, 所以也导致了有能力结合这部分数学内容探讨其哲学影响的人少之又少, 加上集合论和数学哲学这两个方向都非常不好找工作, 所以愿意把时间花在写作介绍性材料上的人就更是找不出几个. 据我所知, 没有人系统地出版过这么前沿的数学哲学的综述 (相比之下, 力迫法+multiverse对数学哲学的影响的相关综述还是有不少的, 甚至在Weaver的力迫法教程里专门留了一章在这上面). 这方面的内容多数流传于各种seminar和conference的讲座里. 我自己也肯定没有能力给一个很全面的描述, 我只能根据自己接触过的内容推荐一些东西, 抛砖引玉.
+
+首先是一些大致的图景相关:Handbook of set theory的introduction章节, 特别是New Expansion这个子节, 虽然与哲学无关, 但是描述了近几十年来集合论的发展现状, 适合作为这个方向的数学历史/数学结果的一个概念索引. 实际上, Kanamori写的任何关于集合论历史的文章我都强烈推荐, 哪怕只是以学英语的角度出发, 也是非常值得一看的读物 (我个人认为Kanamori的行文风格非常漂亮, 有着显而易见的文化底蕴, 这点在The Higher Infinite里面也看得出来). 
+
+Maddy的Believing the Axioms I & II, 任何集合论哲学的工作/工作者都避不开的两篇论文. 称这两篇论文为Philosophy of Set Theory的开山奠基之作都不为过. 其中Part II跟题主的关键词比较符合.
+
+关于Woodin的数学与哲学工作:
+
+为什么我们/非集合论学者要关心集合论的大基数公理和generic absoluteness: 这是Woodin去年年底在北大的数理哲学活动上给的talk的一个话题, 这个talk的面向对象是偏哲学的, 非常适合了解一些ultimate L的big picture: [On the Mathematical Necessity of the Infinite by Hugh Woodin (PKU MathPhil2020)_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av928007214/)
+
+比上一条的内容更详细, 但是仍然是面向general math audience的: Woodin在2010年ICM上的plenary session: http://logic.harvard.edu/EFI_Woodin_StrongAxiomsOfInfinity.pdf . 内容组织上并不跟随上一条的主旨, 而是更专注地讨论关于generic absoluteness, 描述集合论, omega-logic, ultimate L的数学内容. 很适合作为相关数学文献的一个查找目录
+
+偏向集合论读者的: IN SEARCH OF ULTIMATE-L: THE 19TH MIDRASHA MATHEMATICAE LECTURES. 非常长, 非常难啃, 我们系组织过reading group来读这篇, 在前置知识没有完全准备好的情况下, 阅读过程用寸步难行来形容不为过. 但是有相关知识的情况下, 还是很有收获的. Colin Rittberg的How Woodin changed his mind: new thoughts on the Continuum Hypothesis是一篇不错的记录Woodin对于CH的看法的一篇论文, 可以当作"武丁研究学"的一个简单的索引
+
+除了上面三个, Woodin还有很多关于ultimate L的面向非集合论圈子的talk, 但内容都差不多.
+
+除了Woodin之外, John Steel和Donald Martin也是关心哲学的集合论工作者, 两人皆双聘于数学系与哲学系. 他们的一些文章也值得一读. Steel最近十年来在哲学上比较活跃, Steel, Woodin, Hamkins三人各自的multiverse view of set theory是目前multiversism里讨论得比较多的三个流派.
+
+Steel认为现在集合论的一个发展方向应该是考虑哥德尔纲领在力迫法与独立性结果横行的这个时代中的地位. 他的观点可以在这个talk和论文里面找到: 
+
+https://math.berkeley.edu/~steel/talks/stanford2013copy.pdf, https://math.berkeley.edu/~steel/papers/godelsprogrampub.pdfMartin
+
+在哲学上的注意力放在比较"大"的问题上. 相比起Steel, Martin关心的是一般意义上的"mathematical concept", "mathematical justification", "mathematical evidence"到底指的是什么. 但因为Martin自己的方向是集合论和递归论, 所以他所引用的例子和支持都是来自于这些方向, Martin的"Mathematical Evidence" (in Truth in Mathematics, H.G. Dales and G. Oliveri (eds.), Oxford: Clarendon Press (1998))里面就以描述集合论(determinacy hypotheses)为例讨论了数学中的evidence跟物理学中的evidence的相似与不同, 以及我们能否以"物理学家"的mindset来考虑应该接受什么数学公理. 
+
+Martin官网上一直挂着一篇"(Completeness or incompleteness of basic mathematical concepts)[https://link.zhihu.com/?target=https%3A//www.math.ucla.edu/~dam/booketc/efi.pdf]"其中有尝试严格化哥德尔-Maddy的intrinsic vs extrinsic justification
+
+除了大佬们本人的工作之外, 还有一个不错的信息来源是各种本科/硕士/博士论文. 这个比较繁杂, 也比较难找, 但是好的学位论文里面的introduction部分读起来还是很有帮助的. 在这里我举两个例子:Cavitt的本科论文, 偏数学 https://www.math.harvard.edu/media/cavitt.pdf
+
+Schatz的博士论文, 偏哲学: Axiom Selection by Maximization: V = Ultimate L vs Forcing Axioms ((Axiom Selection by Maximization: V = Ultimate L vs Forcing Axioms)[https://link.zhihu.com/?target=https%3A//escholarship.org/uc/item/9875g511]). 
+
+作为Maddy的学生, Schatz延续了Maddy的Maximize纲领, 并且将这个纲领放在了Ultimate-L的语境下讨论. 
+
+熟悉集合论工作者地理分布的人可能会发现我所引用的内容都是Cabal流派(https://en.wikipedia.org/wiki/Cabal_(set_theory))的工作. 系统性地关心哲学的集合论学家主要有两拨人, Cabal流派主要集中在加州和美国东岸, 另一拨则是集中在意大利和维也纳, 以Sy Friedman等人领导的Hyperuniverse program. 从学术血统的角度来说, 我自己也是属于Cabal流派. 在学习环境上和"社会工程学"的意义上, hyperuniverse program对我来说都是陌生及困难的, 所以这里并没有提到他们的工作.

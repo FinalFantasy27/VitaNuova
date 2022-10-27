@@ -1,0 +1,3 @@
+Langford, who applied it to the theory of dense order and Tarski’s procedure for the real numbers with the operations of addition and multiplication, obtained by 1931.
+See Vaught (1986) for the historical development, though presented in current model-theoretic terms.
+R. L. Vaught (1986), Tarski’s work in model theory, J. Symbolic Logic 51, 869-882.

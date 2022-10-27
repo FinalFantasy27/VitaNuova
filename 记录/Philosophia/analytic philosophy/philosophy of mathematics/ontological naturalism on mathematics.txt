@@ -1,0 +1,88 @@
+6. Ontological Naturalism
+Turning away from methodological naturalism, consider now ontological naturalism, the view that all entities are natural. One way to read this is that only the entities posited by the natural sciences exist. A second and perhaps more natural reading is that only spatiotemporal entities exist. We address both readings briefly in this final section, and take in epistemological naturalism briefly in 6.3.
+
+6.1 Natural Science as the Arbiter of Ontology
+On its first reading, ontological naturalism in the philosophy of mathematics is a straightforward consequence of methodological scientific naturalism. It states that the ontology of mathematics is the mathematical ontology of our best natural science. Scientific platonists claim, following Quine and Putnam, that this ontology is platonist, as do mathematical-cum-scientific platonists (e.g., Burgess and Rosen (1997)). Resistance to scientific platonism and the associated indispensability argument has been mounted on several fronts (e.g., Field 1980, Sober 1993, Maddy 1997, ch. II.6, Paseau 2007). Consult Colyvan (2011) for a detailed discussion.
+
+6.2 All Entities are Spatiotemporal
+The second reading of ontological naturalism, according to which all entities are spatiotemporal, amounts to a version of anti-platonism in the philosophy of mathematics.
+
+The position subdivides. On a reductionist view, mathematics is taken at logico-grammatical face value but its objects (numbers, functions, sets, etc.) are taken to be spatiotemporal. This view is advocated for sets in Armstrong (1991) and more generally in Bigelow (1988). Non-reductionist views are manifold. They include taking mathematics as meaningless symbol-manipulation (formalism), or as the exploration of what is true in all structures obeying the axioms (structuralism), or as the exploration of what is true in all possible structures obeying the axioms (modal-structuralism). Bueno (forthcoming) discusses various nominalisms, i.e., views which countenance only spatiotemporal entities. Since many of these nominalisms are compatible with non-naturalist as well as ontologically naturalist motivations, we do not discuss them here. We concentrate on a handful of issues relating mainly to reductionist versions of ontological realism.
+
+Reductionist ontological naturalism and non-modal structuralism about set theory face an immediate problem: there are apparently far fewer entities in spacetime than there are sets. Even on the most liberal assumptions (spacetime points and arbitrary regions thereof exist, some smallish infinity of entities may be collocated at any of these points or regions), the size of spacetime and the objects in it is a relatively low infinite cardinality (surely no more than Bethω—even that is generous). Thus there are not enough spatiotemporal entities to interpret set theory literally nor to make a structural interpretation of set theory non-vacuously true, and hence to ensure that set-theoretic falsehoods come out false rather than true. See Paseau (2008) for discussion of this and other problems for set-theoretic reductionism.
+
+Another problem is that even if spacetime were large enough to provide either a model for a literal interpretation of set theory or an instance for its structural interpretation, this would be a contingent fact about our universe. Set theory would be true but contingent. Since we typically think of mathematics as necessary, however, this is an untoward consequence for a philosophy of mathematics. Some might even call it a reductio.
+
+Versions of these problems also affect Mill's empiricism (1843). For Mill, mathematics and logic are natural sciences, and their principles are laws of nature. Arithmetic, for instance, is the theory of aggregates, i.e., the theory of collections of concrete entities. Geometry is the theory of idealised limits of concrete entities—lines, points, planes and so on—whose principles are “real facts with some of their circumstances exaggerated or omitted” (Mill 1843, vol. 1, bk. II, ch.v). Millian philosophy of mathematics is susceptible to the cardinality problem just given. (Of course this is an anachronistic criticism, since infinitary set theory had yet to be developed in Mill's time.) As for the contingency of mathematics, Mill bit the bullet and accepted it.
+
+A related problem for a Millian view, which arises even for the mathematics of Mill's day, is a dilemma concerning the existence of aggregates of aggregates, aggregates of aggregates of aggregates…. Higher-order aggregates, if they exist, can only be abstract—what else? But if they do not exist—if there are only first-order aggregates—then in particular there are no numbers of numbers, for instance it is meaningless or false to say that there are two primes between 20 and 30.
+
+Kitcher (1983) is an attempt to resuscitate Mill's philosophy of mathematics by modalising it. It accounts for mathematical truth in terms of the operations of a possible but non-actual ideal agent, and thus falls under the heading of modalist philosophies of mathematics. (Though Kitcher himself is not fond of the label (1983, 121–2).)
+
+Other apparent problems for reductionist ontological naturalism include the problem of arbitrariness and the fact that it goes profoundly against mathematical method. Suppose arithmetic is the study of some particular spatiotemporal entities. Very well; but which ones? Surely it is arbitrary which spatiotemporal entity is chosen as the number zero. This criticism is a version of a general anti-reductionist argument presented in Benacerraf (1965). The response to it is usually that reductionism does not seek to uncover the meaning of number terms but instead proposes a theoretical identification (Paseau 2009). The charge of contradicting mathematical method is a serious one too. If mathematical objects are spatiotemporal, why do mathematicians not perform experiments to discover their properties? If mathematics were genuinely concerned with the spatiotemporal, surely its methodology would be more empirical.
+
+Ontological naturalist views of the type discussed are for these and related reasons seen as problematic, and are consequently unpopular.
+
+6.3 Naturalist Anti-Platonism and Epistemological Naturalism
+Whatever their motivation, ontological naturalists are by definition (on this second reading of the doctrine) agreed that platonism is false. Sometimes ontological naturalism is motivated by metaphysical doctrines, for instance by the principle that everything that exists has causal powers. Subscribers to this principle include Armstrong (1997) who calls it the Eleatic Principle; for criticism, see Colyvan (2001 ch. 3) and Papineau (2009).
+
+The most popular argument for ontological naturalism is epistemological, and consequently ontological naturalism is often allied with epistemological naturalism. If there are abstract entities then it seems we cannot know nor form reliable beliefs about them (Benacerraf 1973, Field 1989), because of their causal isolation from us. Most philosophers take this to be the main problem afflicting platonism. Note that the argument typically leads to agnosticism rather than denial of abstract mathematical objects' existence. This is not the place to engage with the argument—for more details, see Balaguer (2009)—save to sketch how a platonist who is also a scientific or mathematical-cum-scientific naturalist—e.g., Quine—responds to it.
+
+The naturalist-platonist response is two-pronged (Burgess and Rosen 1997, 2005; for criticism, see Linnebo 2006, Chihara 2006). The first prong is that no simple criterion for knowledge (or reliable belief or justified belief) has ever been devised that succeeds in ruling out knowledge of the abstract without thereby ruling out types of knowledge most naturalists would accept (Steiner 1975). A couple of examples: (i) the condition that p is a cause of the belief that p is too strong, as it rules out knowledge of the future; (ii) as the naturalist-platonist sees it, that abstract mathematical reality is thus-and-so is in fact part of the best explanation for the belief that p; hence an explanatory condition of this kind turns out to be compatible with platonism. Moreover, naturalist-platonists complain that even if a criterion were found that draws the line where the nominalist wishes it to be drawn, it would beg the question against platonism.
+
+Secondly, naturalist-platonists run a standard Quinean line by construing any challenge to the reliability of our beliefs about platonic mathematical objects as a general challenge to the scientific method's reliability. (This is from the point of view of the scientific naturalist; the scientific-cum-mathematical naturalist can run the same line with corresponding adjustments.) However, by our best lights—according to our best theory of the world, i.e., natural science, which posits abstract mathematical objects—belief in abstract mathematical entities is arrived at by a reliable method, namely the scientific method. This is not simply self-vindication, since the scientific method is here being used to explain the reliability of mathematical beliefs, albeit holistically. But of course if the reliability of the scientific method itself is put into question, the naturalist has no choice but to use the scientific method itself to explain its own reliability. The naturalist-platonist may add that we can do no better, and that anyone who questions the scientific method's reliability has thereby abandoned the naturalist camp. From this perspective, then, there is no epistemological problem for platonism once it is settled that platonist mathematics is part of best science.
+
+Bibliography
+Armstrong, D.M., 1991, “Classes Are States of Affairs”, Mind, 100(2): 189–200.
+–––, 1997, A World of States of Affairs, Cambridge: Cambridge University Press.
+Baker, A., 2001, “Mathematics, Indispensability and Scientific Progress”, Erkenntnis, 55: 85–116.
+Balaguer, M., 2009, “Platonism in Metaphysics”, in The Stanford Encyclopedia of Philosophy (Summer 2009 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2009/entries/platonism/>.
+Bigelow, J., 1988, The Reality of Numbers, Oxford: Clarendon Press.
+Benacerraf, P., 1965, “What Numbers Could Not Be”, Philosophical Review 74, repr. in P. Benacerraf & H. Putnam (eds), Philosophy of Mathematics: Selected Readings 1983, Cambridge University Press.
+–––, 1973, “Mathematical Truth”, Journal of Philosophy 70, repr. in Benacerraf & Putnam (1983), Philosophy of Mathematics: Selected Readings, Cambridge: Cambridge University Press, pp. 403–420.
+Bigelow, J., 1988, The Reality of Numbers, Oxford: Clarendon Press.
+Bueno, O, forthcoming, “Nominalism in the Philosophy of Mathematics”, The Stanford Encyclopedia of Philosophy.
+Burgess, J., 1983, “Why I Am Not a Nominalist”, Notre Dame Journal of Formal Logic, 24: 93–105.
+–––, 1990, ‘Epistemology and nominalism’, in A. D. Irvine (ed.), Physicalism in Mathematics. Dordrecht: Kluwer, pp. 1–15.
+–––, 1998, “Occam's Razor and Scientific Method”, in M. Schirn (ed.), Philosophy of Mathematics Today, New York: Oxford University Press, pp. 195–214.
+Burgess, J. & Rosen, G., 1997, A Subject With No Object, New York: Oxford University Press.
+–––, 2005, “Nominalism Reconsidered”, in S.Shapiro (ed.), Oxford Handbook of the Philosophy of Mathematics and Logic, Oxford: Oxford University Press, pp. 515–535.
+Chihara, C., 2006, “Burgess's ‘Scientific’ Arguments for the Existence of Mathematical Objects”, Philosophia Mathematica 14: 318–37.
+Colyvan, M., 2001, The Indispensability of Mathematics, New York: Oxford University Press.
+–––, 2011, “Indispensability Arguments in the Philosophy of Mathematics”, The Stanford Encyclopedia of Philosophy (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2009/entries/platonism/>.
+Dieterle, J.M., 1999, “Mathematical, Astrological, and Theological Naturalism”, Philosophia Mathematica, 7: 129–135.
+Field, H., 1980, Science Without Numbers, Princeton: Princeton University Press.
+–––, 1989, Realism, Mathematics and Modality, Oxford: Basil Blackwell.
+Goodman, N. & Quine. W.V., 1947, “Steps Towards a Constructive Nominalism”, Journal of Symbolic Logic, 12: 105–122.
+Hellman, G., 1989, Mathematics Without Numbers, Oxford: Oxford University Press.
+Kitcher, P., 1983, The Nature of Mathematical Knowledge, Oxford: Oxford University Press.
+Lewis, D., 1991, Parts of Classes, Oxford: Blackwell.
+–––, 1993, “Mathematics is Megethology”, Philosophia Mathematica, 3: 3–23.
+Linnebo, Ø, 2006, “Epistemological Challenges to Mathematical Platonism”, Philosophical Studies, 129: 545–574.
+Linsky, B., and Zalta, E., 1995, “Naturalized Platonism vs. Platonized Naturalism”, The Journal of Philosophy, 92(10): 525–555 (October).
+Lycan, W.G., 1988, Judgement and Justification, Cambridge: Cambridge University Press.
+Maddy, P., 1997, Naturalism in Mathematics, Oxford: Oxford University Press.
+–––, 2001, “Naturalism: Friends and Foes”, Philosophical Perspectives, 15: 37–67.
+–––, 2005, “Three Forms of Naturalism” in S.Shapiro (ed.), Oxford Handbook of the Philosophy of Mathematics and Logic, Oxford: Oxford University Press, pp. 437–459.
+–––, 2007, Second Philosophy: A Naturalistic Method, Oxford University Press.
+Mill, J.S., 1843, A System of Logic. [several editions]
+Papineau, D., 2009, “Naturalism”, The Stanford Encyclopedia of Philosophy (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2009/entries/naturalism/>.
+Paseau, A., 2005, “Naturalism in Mathematics and the Authority of Philosophy”, British Journal for the Philosophy of Science, 56: 399–418.
+–––, 2007, “Scientific Platonism”, in M. Leng, A. Paseau & M. Potter (eds), Mathematical Knowledge, Oxford: Oxford University Press, pp. 123–149
+–––, 2008, “Motivating Reductionism about Sets”, Australasian Journal of Philosophy, 86: 295–307.
+–––, 2009, “Reducing Arithmetic to Set Theory”, in Ø. Linnebo & O. Bueno (eds), New Waves in the Philosophy of Mathematics, Palgrave Macmillan.
+Popper, K.R., 1935, Logik der Forschung, Vienna: Springer.
+Putnam, H., 1971, “Philosophy of Logic”, repr. in his Mathematics, Matter and Method: Philosophical Papers (Volume 1), Cambridge: Cambridge UP, pp. 323–57.
+Roland, Jeffrey, 2009, “On Naturalizing the Epistemology of Mathematics”, Pacific Philosophical Quarterly, 90(1): 63–97.
+Quine, W.V., 1955, “Posits and Reality”, repr. in The Ways of Paradox and Other Essays, Cambridge, MA: Harvard University Press, pp. 246–54.
+–––, 1981, “Things and their places in theories” in his Theories and Things, Cambridge, MA: Harvard University Press, pp. 1–23.
+–––, 1986, “Reply to Charles Parsons”, in L. Hahn & P. Schilpp (eds.), The Philosophy of W.V. Quine, La Salle: Open Court, pp. 396–403.
+–––, 1995, From Stimulus to Science. Cambridge, MA: Harvard University Press.
+Quine, W.V. and Ullian, J., 1970, The Web of Belief, New York: McGraw Hill.
+Roland, J., 2007, “Maddy and Mathematics: Naturalism or Not”, British Journal for the Philosophy of Science, 58: 423–450.
+Rosen, G., 1999, Review of Maddy (1997), British Journal for the Philosophy of Science, 50: 467–74.
+Shapiro, Stewart, and Patrick Reeder, 2009, “A Scientific Enterprise?: Penelope Maddy's Second Philosophy”, Philosophia Mathematica, 17(2): 247–271.
+Sober, E., 1993, “Mathematics and Indispensability”, Philosophical Review, 102: 35–58.
+Steiner, M., 1975, Mathematical Knowledge, Princeton: Princeton University Press.
+Tappenden, J., 2001, “Review: Recent Work in Philosophy of Mathematics”, Journal of Philosophy, 98: 488–97.
+Wittgenstein, L., 1953, Philosophical Investigations, Oxford: Blackwell.

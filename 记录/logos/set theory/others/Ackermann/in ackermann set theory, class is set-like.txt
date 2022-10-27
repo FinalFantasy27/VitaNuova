@@ -1,0 +1,1 @@
+ackermann集合论中类能作为类的成员，在某种意义下是set-like的。似乎可能引致superclass直至infinite regress的问题。在当代中则通过真类不能是其它类的成员禁绝这一后退。

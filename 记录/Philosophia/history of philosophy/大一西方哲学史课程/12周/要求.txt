@@ -1,0 +1,141 @@
+沉思3 论上帝的存在（of God that he exists）
+
+除了知道我是一个在思维的东西之外，同时“也知道必须具备什么条件，才可使得我确实认知某事（also know what is required in order for me to be certain of something）。在这认知的第一个行为中，只有对我所肯定之物的一个明白而清楚的知觉。…因此，我似乎可以建立一个总则：‘凡是我领会得十分清楚而明白的事物，都是真实的。’（For in this first act of knowledge [cognitione] there is nothing other than a clear and distinct perception of what I affirm to be the case; and this certainly would be insufficient to make me certain of the truth of the matter, if it could ever come to pass that something I perceived so clearly and distinctly was false. And therefore I seem already to be able to lay down, as a general rule, that everything I very clearly and distinctly perceive is true）”【34-35】这样，在认知第一个真理的同时Descartes也就认知了真理的标准。
+
+地、天、星辰等通过感官感觉到的事物是可疑的，然而，我们对这些东西的观念或思维本身则是清楚明白的。此外因为2+3=5一方面显得是恒真的，另一方面却又不排除来自上帝的某种欺骗。虽然这个怀疑是脆弱而不切实际的，“为了完全摒除这个怀疑的基础，我必须尽快探究上帝是否存在，或是否有上帝的问题，而且一旦发现他确实存在之后，还须进一步探究他到底是否是一个骗子（In order to remove it, then, at the first opportunity, I must examine whether there is a God, and, if there is, whether he can be a deceiver）。”【36】
+
+笛卡尔先区分了思维（thoughts）的种类： “观念（ideas）”即事物的影像（image of things）；意欲或情感（volitions or affections）；判断（judgments）。在意欲和判断中也包含了事物作为思维的对象。观念只要不牵涉到别的东西，不可能是假的；意欲或情感也不会有假的；判断则易于犯错，“最主要和最常见的错误在于我把我心里的观念判断为和在我以外的一些东西一样或相似。”【37】
+
+观念似乎有三类,内在的/天赋的（innate）、由外物而来的（adventitious）和自己制造的（invented）：内在观念或许称为内在能力更恰当，如理解事物、真理或思想的能力，（但沉思3的分析又表明，像自我、上帝的观念也是天赋的）；外来的如‘太阳’这一观念；制造的如“人鱼”的观念。但还需要明确这些观念的确切来源，而且主要地，Descartes要寻找相信那些由外物而来的观念与其对象相似的理由。自然倾向的认识或观念不由自主而呈现这两点都不能证实由外物而来的观念的存在，更不能表明观念与对象的相似。
+
+Descartes决定不将观念看为思维的模式（modifications of thinking），而是“把它们看作是表象事物的影像（as one represents one thing, another another, it is plain that they differ widely among themselves）。”【40，这是决定性的一个设定，直到Kant那里都是基本的】这样不同的观念就因事物而分享一种等级的objective reality，譬如实体观念就比表象偶性的观念有更多的实在。笛卡尔还引入或设定了因果实在性原则，“凭自然之光显然可以看出，在动因里一定至少和在它的结果里有更多的实在性（it is manifest by the natural light that there must be at least as much reality in the total and efficient cause as in its effect）。”【40，类似于Leibniz的充足理由律，似乎可以回溯到Aristotle】这一原则适用于things和ideas。观念含有的客观实在性必须追溯到具有至少同样多实在性的原因。“一种东西客观地，或者以观念存在于理智之中，不管这种东西是多么不完美，总不能说它不存在，也不能说它来自于虚无。（however imperfect the kind of being by which a thing exists objectively in the understanding in the form of an idea, it is certainly not nothing, and therefore cannot come from nothing）”【42】“正和存在的客观方式由于其本性而属于观念一样，存在的形式方式也由于本性而属于这些观念的原因（至少是属于观念的原始的、主要的原因）（just as this objective mode of being pertains to ideas from their very nature, so the formal mode of being pertains to the causes of the ideas—at least the first and dominant causes—from their nature also）。”【42，这里的‘objective’‘formal’两个区分是经院残余，剔除掉的话，在某种意义上或许也不影响思路;但其内蕴的material-formal的层级划分却又似乎是规定性的】而且也不能在观念中无穷回溯，而必须回溯到第一观念与其原型或thing的关系。【关于无穷回溯（infinite regress），参考阿奎那《神学大全》论题2.3中的反证法】“自然之光使我看出，观念在我心里就像一些图画或影像似的（it is clear to me by the natural light that the ideas in me are of the nature of images）。”【42】
+
+这样的一个思想对于笛卡尔是明晰的：“如果我的某一个观念的客观实在性使我清楚地认识到它既不是形式地，也不是卓越地存在于我，从而我自己不可能是它的原因，则我不能是它的原因。由此必然可推论出：我并不是世界上唯一的东西，一定还有别的东西存在，以作为那个观念的原因（if the objective reality of some one of my ideas is so great that I am certain that that reality does not exist in me either formally or eminently, and therefore that I myself cannot be the cause of this idea, it necessarily follows that I am not alone in the world, but that some other thing also exists that is the cause of this idea）。”【43】这样便需要检查我的观念。
+
+在我的观念中，有自我的观念（I myself,这里实在与观念同一了）、上帝、物体性而无生命的东西、天使、其他人和动物的观念。就算没有天使、其他人和动物，天使、其他人和动物的观念是可以由物体性的东西和上帝的观念混合而成的；
+
+物质性的东西的观念，完全可能是来自我自己：像蜜蜡一样，只有很少的东西领会得清楚：广延，形状、运动、实体和数目等；此外的颜色、声音、气味、味道、热冷等更模糊的性质【洛克primary qualities and secondary qualities的区分的雏形】，有可能是虚妄（ideas of nothing），是我自己造的。实体、时间和数目等观念能够来自我自己这一实体；“广延和形状等仅仅是实体的样态，而我自己是一个实体，因此它们似乎是能够卓越地包含在我心里（because they are only various modes of substance, and I moreover am a substance, it seems they could be contained in me eminently）。”【45】
+
+只剩下上帝的观念，“用上帝这个名称，我是指一个无限的、永恒的、常住不变的、不依存于别的东西的、至上明智的、无所不能的、以及我自己以及其他一切东西由之而被创造和产生的实体说的（By the name ‘God’ I understand an infinite, independent, supremely intelligent, supremely powerful substance, by which I myself and whatever else exists (if anything else does exist) was created）。”【45-46】这一观念不能单独地来源于我，因而必然得出“上帝存在”的结论，“因为实体的观念之在我心里就是由于我是一个实体，不过我是一个有限的东西，因而我不能有一个无限的实体的观念，假如不是一个什么真正无限的实体把这个观念放在我心里的话（even if the idea of substance is in me as a result of the very fact that I am a substance, the idea of an infinite substance would not therefore be in me, since I am finite, unless it derived from some substance that is really infinite）。”【46】
+
+这里对“无限（infinity）”的意识不是否定的，Descartes说，我明显看出，无限的实体比有限的实体有更多的实在性（reality），“因而，我是先有对无限的知觉，然后才有对有限的知觉，这就是说，先有对上帝的知觉，然后才有自我的知觉（therefore the perception of the infinite in me must be in some way prior to that of the finite: the perception of God, in other words, prior to that of myself）。”【46】因为没有对无限的观念，我就认识不到我是有限的。
+
+“这个无上完满的、无限的存在体的观念具有最高等级的真实性（This idea of a supremely perfect and infinite being is, I say, supremely true/true in the highest degree）。因为无限的观念不可能不给我表象任何实在的东西。”【46-47】这一观念也最清楚明白，因为一切领会为实在的和真实的，完满的东西都包含在这一观念里头。Descartes说，即使作为有限存在的我不理解无限，上述推理仍然是正确的，只要还接受“我明白地知觉到的一切事物所蕴含的完美和无限性，都以上帝为其形式的或超越的原因（judge that everything I clearly perceive, and that I know [scio] to involve some perfection, as well, perhaps, as innumerable other attributes I do not know, exists in God either formally or eminently）。”【47】
+
+接下里，笛卡尔澄清了一个疑点：或许上帝的完满性潜在于我心中。这不可能：上帝是纯现实（reality）；我的完满性增加是一种潜无限，而上帝是现实无限的。
+
+对论证的继续诠释。“如果没有上帝，我是否还会存在？…也许从我自己，或者从我的父母，或者从不如上帝完满的什么其他原因。”【49】我不能由自己而存在，因为如果这样：则我一定不再怀疑、不再希望、不缺乏任何完满性。而事实并不如此；甚至也不能说我过去一直就这样存在来避免这个论证，我的存在时时刻刻都需要被维系。我并没有洞察到这种自我维系的力量，“因此，我明显地认识到我依存于一个不同的事物（from this I very clearly realize [cognosco] that I depend upon some being distinct from myself）。”【50】
+
+我也不能由父母或其它不如上帝完满的原因而来，“不管最后我的存在的原因是什么，必须承认它一定同样是一个在思维的东西，本身具有我归之于上帝的一切完满性的观念（since I am a thinking thing, and one that has the idea of God in myself, it must be admitted that whatever cause is finally assigned to me must also itself be a thinking thing and one that has the idea of all the perfections I ascribe to God）。”【51，这里有一个规定性的因素：即存在的原因也是思维的thing,这其实规定了灵魂优于物体。】同样的推理回溯到最后原因，则回溯到了上帝。也不能说我是由许多原因共同做成的，因为上帝的统一性和单纯性是其完美特征之一，统一性和单纯性的概念也在我心里。父母“只能在我或心灵里根植一些特质（they only implanted certain dispositions in the matter that I judged myself (that is, my mind, which for the moment I take to be identical with my self ) to inhabit.）。”【52】综上，“必然得出这样的结论，即单从我存在和我心里有一个至上完满的存在体（也就是说上帝）的观念这个事实，就非常明显地证明了上帝的存在。”【52，这一论证模式有三个要点：观念；实在性的等级；因果性概念的设定。在明证性的层面上，这犹如建立了一个存在的天梯，自我仰望到了顶端的上帝。有点麻烦的是Descartes说无限或上帝是不可理解的，这似乎是一个缺陷。Leibniz在《人类理智新论》p530中指出：这一论证欠缺‘无限或上帝的观念是可能的’这样的条件。无论如何，因为依赖因果性概念，这一论证似乎与阿奎那的五路中的efficient cause论证部分相融合了。】
+
+剩下最后一个问题。上帝的观念是如何取得的？“只能说它和我自己的观念一样，是从我被创造那时起与我俱生的。”【53】“当我对自己进行反省的时候，我不仅认识到我是一个不完满、不完全、依存于别人的东西，这个东西不停地倾向、希望比我更好，更伟大的东西，而且我同时也认识到我所依存的那个存在，在他本身里面有我所希求的一切伟大的东西，不是不确定地、仅仅潜在地，而是实际地、现实地、无限地具有这些东西，而这样一来，他就是上帝。”【53，我的麻烦在于反省时理解不到上帝的观念】
+
+ 
+
+沉思4 论真理和错误（of truth and falsity）
+
+对物质性的东西认识很少，对人的精神认识得较多，关于上帝本身我们的认识还更多。由上帝的观念到上帝的存在这一论证是很明显的。则“发现了一条道路，顺着这条道路我们就能从深思真实的上帝走到认识宇宙间的其他事物。”【56】首先上帝绝对不能骗我，因为欺骗都包含着某种不完满性（imperfection）。因此，上帝给我的判断能力（faculty of judging）在正当使用时也不会出错。我心中也有否定的、“无”的观念，“我好像就是介乎上帝与无之间的，也就是说，我被放在至上存在体和非存在体之间（I see also that I am so constituted as a medium term between God and nothingness, or between the supreme being and non-being），…我处于一种无限缺陷的状态中，因此我不必奇怪我是会弄错的。”【57】“错误…仅仅是一种缺陷（deficiency）…我所以有时弄错是由于上帝给了我去分辨真和假的能力对我来说并不是无限的。”【57】
+
+因为错误不仅仅是单纯的否定，还是缺少了一些该有的知识，所以还得具体解释错误的来源。首先，上帝的作为超出我的精神的认识能力。这里的一个结论就是“一切的目的因都无助于解释物理界的事物。”【58，这算是对目的论的一个批评，有利于科学的独立】；其次，在判断上帝的作品是否完美时，不应该孤立考虑单独事物，而应该具有整体视角，这导致承认其它事物。更深入考察，“错误…是由两个原因造成的，即由于我心里的认识能力和选择能力（或自由意志），也就是说，由于我的理智，也由于我的意志。”【59】Descartes说，“单纯的理智只领会观念，而不加以肯定或否定（For through the intellect alone I only perceive ideas on which I can pass judgement, nor can any error in the strict sense be found in it when considered from this precise viewpoint）。”【59对理智的理解好像很怪嘛！但没有说清楚】
+
+我的“自由意志或意志是非常大、非常广的，什么界限都限制不住它。…在我心里的其他一切东西里面，没有一个能再比它更大、更完满的了。”【59】Descartes说，“我体验到，在我之内只有意志是大到我领会不到会有什么别的东西比它更大，比它更广的了。这使我认识到，我之所以带有上帝的形象和上帝的相似性的，主要是意志(It is only the will, or freedom of choice, that I experience in myself as so great that I can form the idea of none greater; so much so that it is chiefly on account of the will that I understand that I bear a certain image and likeness of God)。”【60】虽然由于知识和能力、由于其范围上，上帝的意志远远超过人的意志，但单纯就意志本身而言，上帝的意志并不比人的意志更大，因为“意志只是说我们有能力选择做某件事，或选择不做某件事（也就是说，肯定它或否定它，追从它或逃避它），或者说，它仅仅在于为了确认或否认，追从或逃避理智向我们提供的东西，我们做得就好像并不感觉到有什么外在的力量驱使我们似的（it consists purely in our ability to do or not to do a given thing (that is, to affirm or deny something, pursue something or avoid it); or rather, it consists purely in this: that we are moved in relation to that which the intellect presents to us as to be affirmed or denied, pursued or avoided, in such a way that we feel we are not being determined in that direction by any external force）。”【60】这里Descartes有一个额外的主题：为了自由并不一定要在两个相反选项的选择上中立，“上帝的恩宠和自然的知识不是减少我的自由，而是增强和加强了我的自由。因此，当我由于没有任何理由迫使我倾向于这一边而不倾向于那一边时，我所感觉到的这种中立的或无所谓的态度不过是最低程度的自由。这种无所谓的态度与其说是在意志里表现出一种完满性，不如说是在知识里表现出一种缺陷。”【61】
+
+那么错误就在于意志比理智大得多，“我却没有把意志加以同样的限制，反而把它扩展到我所理解不到的东西上去，意志对这些东西既然是无所谓的，于是我就很容易陷入迷惘，并且把恶的当成善的，或者把假的当成真的来选取了。这就使我弄错并且犯了罪。”【61】“自然之光告诉我们，理智的认识永远必须先于意志的决定。构成错误的形式就在于不正确地使用自由意志上的这种缺陷上。”【63】因此，应该“下定决心在我没有把事情的真相弄清楚以前无论如何不去下判断。”【65，62-65页对意志的警告的论述似乎将认识的标准限定在数学和逻辑明证性上，这样似乎没有给经验科学留下位置了。】
+
+ 
+
+沉思5 论物质性东西的本质；再论上帝的存在（of the essence of material things; and again of god, that he exists）
+
+检查物质性的东西的知识，从其观念开始。首先是广延和数量的概念、还有体积、形状和运动，以及运动的时间。这些东西的“真实性表现得非常明显，而且和我的本性那么相合。…最重要的是，我觉得在我心里有某些东西的无数观念。…它们并不是我凭空捏造的，而是有它们真实、不变的本性的。…三角形…最大的角对最大的边。…这些东西当然一定是真的…显然，凡是真的都是什么东西（For it is clear that everything that is true, is something）。我前面已经充分证明过，凡是我认识得清楚、分明的东西都是真的。…把我领会得清楚、分明的有关形状、数目和其他属于算学和几何学的东西列入常住不变的真理之中。”【68-69，这里与沉思3第45页中关于物质性存在的想法背道而驰；这是将truth扩展为存在，或者说是存在的一种唯灵论标准】
+
+以上分析的结论就是“凡是我清楚、分明地认识到是属于这个事物的性质都实际属于这个事物（everything I clearly and distinctly perceive to belong to the thing does in fact belong to it）。”【69】Descartes认为由此可以得出上帝存在的一个证明。我心里清楚分明地觉察到上帝的观念（一个至上完满的存在体的观念），因而“上帝的本质具有一种现实的、永恒的存在，其明白而清晰的程度，就像我知道任何形状或数目方面所能推论出来的性质，都确实属于这个形状或数目的本性一样。…上帝的存在至少与任何数学的真理同样确实（I clearly and distinctly understand that eternal existence belongs to his nature—just as clearly and distinctly as I understand that the properties I can demonstrate of some shape or number belong in fact to the nature of that shape or number. …I would still have to ascribe the same degree of certainty to the existence of God that I up to now have ascribed to mathematical truths）。”【69】上帝的存在犹如三角形的三角之和等于二直角一样。
+
+Descartes随即提到一个貌似后来Kant的反驳，“我领会到带存在性的上帝也并不能就说有一个上帝存在，因为我的思维并不给事物强加什么必然性。”【70】Descartes说这个反驳是一个诡辩，事实上，“仅仅由于我不能把上帝领会成不带存在性，所以存在性和上帝是不可分的，所以上帝是存在的。…是因为事物本身的必然性，即上帝的存在性，决定我的思维去这样领会它（the necessity of the thing itself, namely the existence of God, determines me to think it）。”【70】接下来的一个反驳中，Descartes又引入了 “存在是一种完满性”观念：“每当我想到一个第一的、至上的存在体，并且从我心的深处提出他的观念时，我必然要加给他各种各样的完满性。…在我认识了存在是一种完满性之后，就得出结论说，这个第一的、至上的存在体是真正存在的（whenever I choose to think about the first and supreme being, and bring forth the idea of him, so to speak, from the treasury of my mind, I must necessarily credit him with all perfections, even if at the time I neither list them all nor consider them individually. And this necessity is quite sufficient for me subsequently, when I recognize that existence is a perfection, to conclude, quite rightly, that the first and supreme being exists）。”【71】而“上帝的观念是一个真实不变之本性的表象或肖像。”【72】
+
+最后Descartes说，“其他一切事物的可靠性都是绝对取决于它（上帝）的。…虽然我是清清楚楚地理解了它的三角之和等于二直角，不过假如我不知道有一个上帝，我还是很可能会怀疑它的真实性的：大自然使我生来就很容易能够在即使我以为理解得最明显、最可靠的东西上弄错。…可是当我认识有一个上帝之后，同时也认识到一切事物都取决于他，而他并不是骗子，从而我断定凡是我领会得清楚分明的事物都不能不是真的。…一切知识的可靠性和真实性都取决于对于真实的上帝这个唯一的认识。”【73-74，可是这不是将上帝至于其它真理之上了，这似乎超出了存在论证所能证明的。】
+
+ 
+
+沉思6 论物质性东西的存在；论人的灵魂和肉体之间的实在差别（of the existence of material things, and the real distinction between mind and body）
+
+物质性事物的存在。1.作为纯粹数学的对象，因为我领会得很清楚分明，是可以存在的。【76，说物质性东西是数学对象，很怪】2. 想象力也证明物质性东西的存在。“想像力只是认识官能对于物体的一种应用，而物体是直接呈现给认识官能的，因此它的对象当然是存在的（if I consider more closely what kind of thing the imagination is, it appears to be nothing other than a certain application of the knowing faculty to a body intimately present to that faculty, and therefore existing）。”【76】
+
+Descartes说想象（imagination）与纯粹智力（pure intellection/understanding）之间有区别，区别于understanding的想像力对我的精神的本质决不是必要的，“即使我没有这种想象的能力，无疑我仍然会和现在的情况没有什么两样。…想像力依靠某些异于心灵的东西（it seems to follow that the imagination depends on something distinct from me）。”【77】“想象与纯粹理智的不同仅在于：在领会（understanding）时，精神以某种方式转向其自身，并且考虑在其自身里的某一个观念；而在想象时，它转向物体，思考物体中与观念契合的一些对象，而这观念若不是由它自身所构成的，就是由感官所得来的（this mode of thinking would differ from pure intellection in the following respect alone: that the mind, while it understands, turns itself in some way towards itself, and gazes on one of the ideas that are contained within itself; but, while it imagines, it turns itself towards the body, and considers something in it that corresponds either to an idea it understands itself or to an idea perceived by the senses）。”【78】不过依赖想象只能猜测物质性事物是存在的，因为“看不出从我的想像里的这种关于物体的本性清晰观念里能够得出什么物体存在的必然性的任何证明来。”【78】
+
+那么Descartes接下来检查感官（senses，因为通过感官能更好地察觉物体性东西），“看看从我称之为感觉的这种思维方式接受到我的心里来的这些观念里，我是不是能得出什么可靠的证据来证明物体性东西的存在（I should examine sensation at the same time, and see whether, from those things that are perceived by the form of thinking I call ‘sensation’, I can derive some decisive argument in favour of the existence of bodily things）。”【78】
+
+以前对感觉信任的原因是：1. 诸如手脚、天地海等由感觉来的“观念出现给我的思维并没有得到我的同意（these ideas as coming to me without any consent of mine）。”【79】2. 感官而来的观念比虚构的观念或记忆的观念要生动和明显得多。而且我记得使用感官先于使用理性，以至于“相信在我心里没有什么观念不是从前通过我的感官得来的。”【80】也相信我的肉体更真正地、更紧密地属于我。 但在检查的时候，发现痛苦之感与悲伤、胃的刺激和想吃东西等之间发现不了任何关系；而且许多经验破坏了对经验的信任（如巨大雕像在远处看很小）。另外两个怀疑的理由：1、醒着时的事物有时在睡梦中亦能感觉到；2.我还不认识我的创造者，或许我是如此被造以至于在表现得最真实的东西上弄错。现在更好地认识了自我和创造者之后，就不应该随便承认感官所教给我的一切，但也不该都统统怀疑。
+
+我有把握断言我的本质就在于我是一个在思维的东西。虽然我确实与肉体紧密地结合在一起，但我清楚地地看到“我只是一个在思维的东西而没有广延，而另一方面，我对于肉体有一个分明的观念，即它只是一个有广延的东西而不能思维，所以肯定的是：这个我，也就是说我的灵魂，也就是我之所以为我的这个东西，是完全、真正跟我的肉体有分别的，灵魂可以没有肉体而存在（on the one hand, I have a clear and distinct idea of myself, in so far as I am a thinking and not an extended thing, and, on the other, a distinct idea of the body, in so far as it is only an extended and not a thinking thing, it is certain that I am really distinct from my body,* and can exist without it）。”【82】
+
+我还认识到我有想象和感觉来年高中特殊的思维模式，我不依附它们，它们却依附于我犹如偶性依附于实体。还有如移动位置、改变形状的能力则依附于物体性的实体之上。我还有一种被动的感觉能力（passive faculty of sensation），“接受和认识可感知的东西的观念的功能。可是，如果我自身中，或其他事物中，并不包含其他可以构成或产生那些观念的能动功能（active faculty），则这种被动的知觉能力是毫无作用的。”【83】由于我仅仅是思维之物，这一能动能力存在于某个不同于我的实体：上帝或其它物体。不过上帝并不骗人，没有直接把那些观念传给我，相反让我倾向于相信这些观念来自于物体性的东西。由此“必须得出这样的结论：有物体性的东西存在。”【84，上帝不骗人保证物质性东西的存在，这是因为对物质性的东西的认知达不到数学真理那样的清晰性所以需要上帝的保证】
+
+因此有可靠的希望发现关于物体性事物的真理。首先，自然告诉我的都含有某种真实性。我有一个肉体，我还与肉体紧密地联结在一起。“所有这些饥渴疼等感觉不过是思维的某些模糊方式（confused modes of thinking），它们是来自并且取决于精神和肉体的联合，就像混合起来一样。”【85】自然还告诉我别的物体存在。有些东西不是自然告诉我的，而是我轻率的判断，譬如真空的存在。因此应该限定“自然的指示”这句话的意义：感官的感觉或知觉仅仅是警告什么东西对灵肉综合体有害或有益，“关于物体的本性和规律，它们能告诉我的却都是非常不清楚的。”【88】
+
+在自然的提示趋避的事情上，在内部感觉上，仍出错。人是一种有限的自然，只能具有有限完满性的认识（这里Descartes额外地将人比喻人一架机器）。为何上帝的至善不阻止这一切？在探究这一问题时，Descartes先指出肉精神和肉体的区别：肉体永远可分，精神则是不可分的；心灵并不直接从身体各部分接受印象，而只从大脑甚至其被称为common sense那一小部分接受印象；身体不能被远处的部分推动；大脑的每一个运动都只能引起一种最有利于维系健康的感觉。这反映出上帝的能力和善意。因此结论是，“上帝虽然是至善至美的，但是人类的本性既然由心灵和身体组合而成，则有时难免会犯错（notwithstanding God’s immense goodness, the nature of man, as a composite of mind and body, cannot but be liable to error at times）。”【92，笛卡尔始于“我是一个思维之物”，终于“人是身心综合体”】
+
+必须承认我们的本性是脆弱的。但感官的指示通常是真实的，而且能运用理智来发现错误的原因。因此，应该把过去几天的怀疑当作荒谬绝伦的东西摒弃掉。尤其梦与醒之间其实存在显著差异：“我们的记忆决不能像它习惯于把我们醒着时所遇到的那些事情连接起来那样，把我们的各种梦互相连接起来，把它们跟我们的整个日常生活贯串起来（dreams are never combined by my memory with the rest of the actions of my life, as happens with my waking experiences）。”【94】
+
+ 
+
+第一组反驳【by荷兰神学家Caterus】和答辩
+
+Caterus说“观念”仅仅是一个外部的称号，“它给事物增加不了什么实在的东西。”【96】；对无限的存在者的认识不可能是清楚分明地，而只能是模模糊糊的。从本质也推不出存在。
+
+ 
+
+第二组反驳【by一群神学家via Mersenne】和答辩
+
+质疑：1.或许思维的东西是一个物体，“你怎么证明一个物体不能思维，或者一些物体性的运动不是思维的本身呢？”【126】3. 自我挫败：“你说，如果你不首先肯定地清楚地认识上帝存在，你就不能确实知道任何东西。…那么这就等于你还不知道你是一个在思维着的东西。因为，这种认识取决于对一个存在着的上帝的清楚的认识。”【128-9】而无神论者是认识几何真理的。5.“因为用你为了做成一种不能有任何怀疑的可靠性而要求的这种清楚性和分明性，我们几乎什么都认识不了。”【130】…最后要求笛卡尔按几何学方法重述自己的论题。
+
+Descartes的回应：3.对“我思故我在”这个论证的结论“并不是从什么三段论式的出来的，而是作为一个自明的事情；他是用精神的一种单纯的灵感看出它来的（simple intuition of mind）。…由个别的认识做成一般的命题，这是我们精神的本性。”【144】无神论者的知识不能摆脱怀疑。
+
+…指出证明方式有分析的和综合的（由结果里检查原因），并仿效几何学家提供了一个对正文内容的几何式论证。
+
+ 
+
+第三组反驳【by霍布斯】和答辩
+
+霍布斯与笛卡尔之间的交锋几乎完全是鸡同鸭讲，没有交集，霍布斯是按照经验论的路子对笛卡尔的《第一哲学沉思》进行批评的。可以理解为源自纯数学与经验科学两者的较量。
+
+1. 区分梦与醒不易，这个Plato等早就指出，Descartes炒旧饭无聊。
+
+2. 从“我在思维”推导出“我是一个在思维的东西”很好，但加上“我是一个精神、一个灵魂，一个理智，一个理性。”就坏事了，因为不能“我是在散步，因而我是一个散步。”【173】，笛卡尔把thing that think和thinking混淆了。因此思维的主体可能是精神也可能是物质性的东西；而且鉴于不能无限后退，则应该说“一个在思维的东西是某种物体性的东西。”【174】 Descartes回应说自己尽可能简单和抽象的词句，而Hobbes则引入非常具体、非常复杂的词句，如主体、物质以及物体。【这里是重要的路径区别】而精神和物体两种实体是普遍被接受的。
+
+4. 对蜜蜡的了解的问题。想象就是conceiving it with my mind，而理智的领会就是reasoning，“推理不过是串联起来的一连串的名称的总和。…则推理取决于名称，名称取决于想象。”【179，这里与Descartes的想象/理解的并联模式不同，Hobbes提供了一个经验论的串联模式】
+
+5. “我们心里好像根本没有上帝的观念”【181】。Descartes回应说那是因为Hobbes只眼睛盯着物体性的物质及其影像。
+
+7.没有上帝的观念，自我的观念来自对身体的观看。没有灵魂的观念。
+
+8. 我们没有实体的观念，“实体是有推理而被发觉和证明出来的，可是它不能被领会，或者我们对它没有任何观念。”【186】
+
+12.自由意志的自由是假定的。
+
+13. “理智里面有一个巨大的清楚性”，这种讲法不明确。
+
+ 
+
+第四组反驳【by Arnauld】和答辩（略）
+
+ 
+
+第五组反驳【by Gassendi (1592-1655)】和答辩
+
+最长的反驳。Gassendi比较经验论和唯物论。指责笛卡尔装腔作势；觉得为何灵魂不可以是最精细的花或空气状的物体。“我们的全部知识似乎都来源于感官。”【270】然后产生各种组合加工。人毕竟还是一种动物。无限不能被理解。“假如你真的不理解无限而只能理解有限的话，那么你就没有一个真实的无限的观念，你有的只是一个有限的观念。”【299】
+
+Gassendi不把存在当作完满性的一种特征。“并不把存在当作特殊的的完满性，不把它当作完满性之一，而仅仅把它当作一种形式或一种现实，有了它，事物本身和它的一些完满性就存在。”【327】
+
+认为全部科学的可靠性和真实性都取决于对上帝的认识，这个难以相信。
+
+Gassendi认为想象和推理是同一种功能的两种活动，区别也仅仅是程度的，想象更为清晰。
+
+在回应中，Descartes也毫不客气，径自以Mind自居，对Gassendi这个肉发言。有一句话“我虽然认为事物的本质以及人们所能认识的这些数学真理都是取决于上帝的，不过我也认为，由于上帝愿意这样而且他是这样安排的，它们就是不变的，永恒的。”【379】
+
+ 
+
+第六组反驳【by许多神学家和哲学家】和答辩
+
+第四个疑难，数学真理即使没有上帝也是完全可靠的。第六个疑难：Descartes将认为indifference只是最低端的自由，这样的论述会损害上帝的自由。
+
+在回应中，Descartes确实说，无神论的知识甚至数学知识也是可疑的。因为他没有认识作为全部真理的原则的上帝（since his nature may be so imperfect he will be in error even when something appears most evident to him. Only the recognition of a truthful God can rid him of this doubt）。【413】而上帝的自由与人的自由大不相同。在上帝那里indifference是大能的一种表现。

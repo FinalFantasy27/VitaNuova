@@ -1,0 +1,23 @@
+
+
+The human mind is incapable of formulating … all its mathematical intuitions, ie., if it has succeeded in formulating some of them, this very fact yields new intuitive knowledge, eg., the consistency of this formalism. This fact may be called the ‘incompletability’ of mathematics. (Kurt Gödel)
+引自第172页
+
+书名: The Infinite
+作者: A.W. Moore
+页数: 268
+出版社: Routledge
+出版年: 2001-3-9
+
+哥德尔肯定了我们的数学直觉是可错的，并研究了数学中不同程度的清晰性和确定性。他还承认自然数比任意集合，客观性比客体有认识论上的优先性（逻辑之旅，p6）
+
+数看起来比集合更不具体，它们有不同的表示，是所有表示中共同的东西。（p328）
+
+我想大概没有多少人会认为数比集合更不具体。
+
+哥德尔迅速地从数学中的柏拉图主义推论出一般的柏拉图主义，而且显然认为不需要额外的理由，这经常使我感到诧异——他在卡尔纳普篇中就是这样的。（王逻96）
+
+数学直觉并不需要被设想成一种能给出对有关对象
+的直接知识的能力。倒似乎是，像在物理经验的情形中那样，我们
+也是在被直接给出的别的某种东西的基础上构成我们对那些对象的
+观念的（集合论与概念论第二版补遗，收录于郝兆宽, p.140）

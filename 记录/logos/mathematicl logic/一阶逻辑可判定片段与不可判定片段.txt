@@ -1,0 +1,8 @@
+
+“1915年，洛文海姆证明了仅包含一元谓词的命题是可判定的。“Über Möglichkeiten im Relativekalkül”，Mathematische Annalen，Vol. 76（1915），447-470，“On Possibilities in the Calculus of Relatives”，参见Jean van Heijenoort，ed.，From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931（Harvard University Press，1967），228-251；
+1928年，贝奈斯和施隆芬克尔（1889—1942）发表了以∃*∀*的判定过程，阿克曼则证明了∃*∀∃*，*代表任意数量；1932年，哥德尔给出了任意数量的存在量词间包含两个全称量词的判定过程；
+1920年，斯科莱姆证明∀*∃*定义了一个化简类（其有判定过程当且仅当全体一阶公式有）。1933年，哥德尔将范围缩小到∀∀∀∃*；
+图灵证明∀∃∀∃∃∃∃∃∃化简类，后优化到4个∃；
+1962年，瑞士的朱利叶（1924—1984）利用图灵机从另一方面着手研究判定性问题，并且成功地使证明简化了一点，表明，∃ and ∀∃∀形式的命题形成的是化简类（这类命题是两个项的合取，每一项都将自身的量词置于最前面），同时为证明∀∃∀命题形成化简类奠定了基础.
+
+Egon Börger、Erich Grädel和Yuri Gurevich的The Classical Decision Problem（Springer，1997）这本书是撰写判定问题和其部分解决方法论文时应该参考的好书。”

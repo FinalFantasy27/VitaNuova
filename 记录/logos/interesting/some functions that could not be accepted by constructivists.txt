@@ -1,0 +1,8 @@
+n = 5 if the continuum hypothesis true
+   = 17 otherwise
+
+n = 5 if there is life in other galaxies
+   = 17 otherwise
+
+n = 5 if God exists
+   = 17 otherwise

@@ -1,0 +1,3 @@
+一个对连续性的错误定义：A function f is continuous at c if the closer and closer x gets to c, the closer and closer f(x) gets to f(c).
+习题：错误在哪里呢？
+hint: distinguish get closer to with get close to, how close is enough?

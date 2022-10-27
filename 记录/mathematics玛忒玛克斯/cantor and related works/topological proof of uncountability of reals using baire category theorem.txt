@@ -1,0 +1,50 @@
+A subset A of a topological space X is dense for which the closure* is the entire space X (some authors use the terminology everywhere dense). A common alternative definition is:
+
+a set A which intersects every nonempty open subset of X.
+
+If U⊂X, a set A⊂X is called dense in U if A∩U is a dense set in the subspace topology of U. When U is open this is equivalent to the requirement that the closure (in X) of A contains U/A在U中稠密，当且仅当对于每个非空开集O，如果O∩Y≠{}，则(O∩Y)∩A≠{}.
+
+A set which is not dense in any non-empty open subset of a topological space X is called nowhere dense.
+
+A set which consists of limit points is called dense-in-itself.
+
+proposition: A \subseteq X a dense open, iff X-A closed nowhere dense.
+
+Definition: A \subseteq X is meager iff A is a union of countable nowhere dense set.
+
+Baire category theorem: Every complete metric space is a Baire space.
+
+Reals with order topology is a complete metric space, i.e. Reals is a Baire space.
+
+命题: 实数集 R 不可数.
+
+证明: 首先我们留意对于每一个实数R, 它的单点集{x}都是无处稠密(nowhere dense)的. 此时我们假设 R 可数, 即 R= \underset{n\in\omega}{∪}{x_n}( R 是可数个单点集的并集). 由于每一个单点集都是无处稠密, 根据定义我们可知 R 是meager的. 根据lemma. 如果X \subseteq R为非空开集，那么X非meager, 我们可知 R 不可能是非空开集. 这个结果与开集的定义矛盾, 所以我们的命题得证.
+
+lemma的证明. 证明: 令 X 为非空开集, 并且假设 X 是meager的, 我们将推导出矛盾. 因为我们假设了 X 为meager, 不妨将 X 写作 \underset{n\in\omega}{∪}A_n. 根据meager的定义, 其中每一个 An 都是nowhere dense. (这里的 An 不一定是闭集. 但我们不妨将 An 替换为它们的closure,并且注意到无处稠密集的closure仍然是无处稠密. 此外, 我们将接下来的" X= "为" X \subseteq "). according to proposition, 每个 An 都是某个稠密开集 On 的子集. 也就是说, X=\underset{n\in\omega}{∪}An=\underset{n\in\omega}{∪}(O_n)^c=(\underset{n\in\omega}{∩}O_n)^c . 此时, 根据Baire纲定理, (\underset{n\in\omega}{∩}O_n)为稠密集. 又因 X 为非空开集, 则根据定义, (\underset{n\in\omega}{∩}O_n) ∩ X ≠ {} . 但 X=(\underset{n\in\omega}{∩}O_n)^c , 所以得到矛盾, 引理得证.
+
+*Closure of a set
+A in a topological space X
+
+The intersection of all closed sets* of X containing the set A.
+
+The closure of A in X is the set of all x∈X satisfying: Every neighbourhood of x intersects A.
+
+*Closed set
+in a topological space
+
+A set containing all its limit points (cf. Limit point of a set*). Thus, all points of the complement to a closed set are interior points, and so a closed set can be defined as the complement to an open set. The concept of a closed set is basic to the definition of a topological space as a non-empty set X with a distinguished system of sets (called closed sets) satisfying the following axioms: X itself and the empty set ∅ are closed; the intersection of any number of closed sets is closed; the union of finitely many closed sets is closed.
+
+*Limit point of a set
+A point each neighbourhood of which contains at least one point of the given set different from it. The point and set considered are regarded as belonging to a topological space. A set containing all its limit points is called closed. The set of all limit points of a set M is called the derived set, and is denoted by M′. If the topological space X satisfies the first separation axiom (for any two points x and y in it there is a neighbourhood U(x) of x not containing y), then every neighbourhood of a limit point of a set M⊂X contains infinitely many points of this set and the derived set M′ is closed. Every proximate point* of a set M is either a limit point or an isolated point** of it.
+
+*Proximate point
+of a set A in a topological space X
+
+A point x such that every neighbourhood of it has non-empty intersection with A. The set of all proximate points forms the closure [A], or A¯, of A (cf. Closure of a set).
+
+**Isolated point
+of a subspace A of a topological space X
+
+A point a∈A such that the intersection of some neighbourhood of a with A consists of the point a alone.
+
+A subset A with no isolated points is dense-in-itself; a closed dense-in-itself subset is a perfect set.

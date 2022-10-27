@@ -1,0 +1,18 @@
+15.
+The first thing to note, as we approach ontological issues is that there are two ways in which one can express this historical fact about Socrates:
+
+(1) by a simple subject-predicate sentence (with an adverbial modifier),
+ran
+Socrates runs at t
+will run
+(2) by a counterpart sentence, the subject of which is an event expression
+A running by Socrates at t	took place
+is taking place
+will take place
+How is the connection between these two locutions to be understood?
+16. I propose to construe this relationship as akin to that between
+
+(3) Snow is white
+and
+(4) Being white is exemplified by snow
+and to apply to (2) the type of analysis I have given of (4).

@@ -1,0 +1,5 @@
+proof-theoretic semantics：gentzen, prawitz, dummett, Tennant and others
+second order logic: van, shapiro
+van mcgee
+
+dunn, read, restall, belnap. Mares, Routley, Priest……

@@ -1,0 +1,5 @@
+Pocket set theory可以很轻易的限制到你想要的WF_α高度
+
+\exists x (infx \land \forall y infy \to y≈x)
+\exists x y (infx \land infy \land ~x≈y land \forall z infz \to (z≈x \lor z≈y))
+……

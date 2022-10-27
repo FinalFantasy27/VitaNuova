@@ -1,0 +1,31 @@
+Abbreviations: S&S = Salmon and Soames, ed., Propositions and Attitudes; M = Martinich, ed., The Philosophy of Language -- copies on reserve in the graduate student lounge; R = xerox copy on reserve in the graduate student lounge
+
+Descriptivism
+Required Reading: Russell, "Knowledge by Acquaintance and Knowledge by Description" (S&S); Frege, "Thoughts" (S&S), Selection from the Frege-Russell correspondence (S&S).
+(Highly) Recommended Reading:  Frege, "On Sense and Nominatum" (M); Russell, "On Denoting" (M); Russell, "Descriptions" (M); Locke, "Of Words" (M)
+Critique of Descriptivism 1: Kripke
+Required Reading: Kripke, "A Puzzle about Belief" (S&S)
+Recommended Reading: Kripke, "Naming and Necessity" (M); Evans, "The Causal Theory of Names" (M)
+Critique of Descriptivism 2: Indexicals and Demonstratives
+Required Reading: Perry, "Frege on Demonstratives" (R), Kaplan, "Demonstratives" (R)
+Recommended Reading: Perry, "The Problem of the Essential Indexical" (S&S), Kaplan, "Dthat" (M)
+Neo-Fregean Theories
+Required Reading: Forbes, "The Indispensability of Sinn" (R); Richard, Propositional Attitudes, pp. 78-105 (R)
+Recommended Reading: Crimmins, "So-Labeled Neo-Fregeanism" (R)
+Hidden Indexical Theories
+Required Reading: Crimmins and Perry, "The Prince and the Phone Booth: Reporting Puzzling Beliefs" (R); Richard, Propositional Attitudes, pp. 133-190 (R); Sider, "Three Problems for Richard's Theory of Belief Ascription" (R); Soames, "Beyond Singular Propositions" (R); Richard, "Defective Contexts, Accommodation, and Normalization" (R)
+Recommended Reading: Saul, "The Best of Intentions: Ignorance, Idiosyncrasy, and Belief Reporting" (R); Crimmins, "Context in the Attitudes" (R); Richard, "Attitudes in Context" (R)
+Pretense
+Required Reading: Crimmins, "Hesperus and Phosphorus: Sense, Pretense, and Reference" (R); Stanley, "Fictionalism and Semantic Pretense" (R).
+I. L. F.s
+Required Reading: Davidson, "Truth and Meaning" (M); Larson and Ludlow, "Interpreted Logical Forms" (R)
+Neo-Russellianism 1
+Required Reading: Salmon, Frege's Puzzle, chapters 7-9 (R)
+Recommended Reading:  Tom McKay, "On Proper Names in Belief Ascription" (R)
+Neo-Russellianism 2: Saul on substitutivity in simple sentences
+Required Reading: Saul, "Substitution and Simple Sentences" (R)
+Recommended Reading: Forbes, "How Much Substitutivity?" (R), "Enlightened Semantics for Simple Sentences" (R); Moore, "Saving Substitutivity in Simple Sentences" (R), "Did Clinton Lie?" (R); Saul, ""Did Clinton Say Something False?" (R), "Substitution, Simple Sentences, and Sex Scandals" (R), "Reply to Forbes"(R)
+Neo-Russellianism 3: Criticisms and Developments
+Required Reading: Saul, "The Pragmatics of Attitude Ascription" (R), Braun, "Understanding Belief Reports" (R)
+Neo-Russellianism 4: Soames
+Required Reading: Soames, excerpts from Beyond Rigidity (R)

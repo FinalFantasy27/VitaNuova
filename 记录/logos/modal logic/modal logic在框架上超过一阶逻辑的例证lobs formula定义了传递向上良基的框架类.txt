@@ -1,0 +1,1 @@
+modal logic在框架上超过一阶逻辑的例证：lob's formula定义了传递向上良基的框架类

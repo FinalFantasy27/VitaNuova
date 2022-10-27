@@ -1,0 +1,61 @@
+https://mathoverflow.net/questions/73075/a-recommended-roadmap-into-inner-models
+
+Hi Asaf. Here is a quick answer, I'll try to expand once I have some time. I once prepared a short list to a similar question somebody asked me by email. What follows is based closely on that list:
+
+Let's see... (It is a long road.) It is useful to have a good understanding of the basics of fine structure before venturing too much into inner model theory proper, so I think one should begin with Jensen's paper, perhaps having Devlin's "Constructibility" book nearby. I would suggest after having some understanding of the basic notions as discussed in Jensen's paper, at least start reading the articles in the Handbook on fine structure, by Schindler-Zeman and Welch. There is a bit of hard work involved in going through these three papers, especially since it takes some time to reach applications, but one must first master the language. [On the side, you may want to read about the Mitchell order, strong cardinals and Woodin cardinals. As we climb up the large cardinal hierarchy, the associated models (the pre-mice) become more complicated, and their iterations become harder to describe, so it is a good idea to at least have the large cardinal notions clear before studying their associated pre-mice.]
+
+Then Mitchell's "Beginning inner model theory", also in the Handbook. And perhaps Schimmerling's "The ABC's of mice", in the Bulletin of Symbolic Logic. Steel has two excellent introductory papers (listed below), but these two papers are a good starting point.
+
+If one is interested in organizing the reading by strength of the assumptions studied, it is then time to look at Zeman's book "Inner models and large cardinals", which is also a useful reference to have. Continue with Schindler's "The core model for almost linear iterations", Annals of Pure and Applied Logic, 116:205-272, 2002 (leaving for later the proofs of iterability and covering).
+
+Schindler's paper appeared after the references below, but its setting is more restrictive, so some of the arguments are simpler. By now it may be a good idea to be reading on the side on iteration trees, which in itself is a demanding project. There is the original article by Martin and Steel, which may be a reasonable place to first find the notion. Its setting is not fine structural, so it lacks some complications. [You may want to look at Neeman's Handbook article as well, to get a good feeling on how iteration trees are used, why we care about them and about Woodin cardinals (Steel's Handbook article mentioned below also treats these topics in detail).]
+
+Then one cannot postpone it anymore, and it is time to read "Fine structure and iteration trees" by Mitchell-Steel and "The core model iterability problem" by Steel, together with Schindler-Steel-Zeman "Deconstructing inner model theory", Journal of Symbolic Logic, 67(2) (2002) 721-736, and Steel's "An outline of inner model theory", in the Handbook, and Löwe-Steel "An Introduction to Core Model Theory", in "Sets and Proofs, Logic Colloquium 1997 , volume 1", London Mathematical Society Lecture Notes 258, Cambridge University Press, Cambridge, 1999. Yes, they must be read more or less concurrently. Yes, this is overly ambitious and almost impossible.
+
+This plan, unfortunately, takes a huge amount of time. A shorter version would be to do Jensen's paper, with Devlin on the side in case there are details that are not clear in Jensen's paper, and then jump to "Fine structure and iteration trees" and the papers in the paragraph just above. One then revisits the other papers/books as needs demand.
+
+[That is how Steel introduced me to the subject. "Read Jensen's paper, and the first 3 chapters of FSIT, and next week we can begin with chapter 4."]
+
+The above requires some explanation, I believe. The problem is that "Fine structure ..." is, let's say, not as nicely written as one would like. Steel's Handbook paper covers a lot of the same ground (and much more) and it is very nice to read, but there are details missing, so having "Deconstructing ..." on the side may help (that paper fixes a gap in the definitions in "Fine structure...", so it is essential). Once that's done, it is easier to continue with "The core model iterability ...", which is also a nice read (perhaps skip the last chapter on a first reading), and read Löwe-Steel simultaneously, as it is a gentler, less technical introduction.
+
+The end of Steel's Handbook paper refers to more recent and technical work. There are some companion papers, "HOD^{L(R)} is a core model below theta", Bulletin of Symbolic Logic, vol 1 (1995), 75-84, and "Woodin's analysis of HOD^{L(R)}", an unpublished note available at Steel's page.
+
+Now, this road is intended to take you from the beginning to what three years ago was nearly the top. If you want to see applications to consistency strength questions, then specific details of the theory at levels below Woodin cardinals may be important, while those details are not so relevant higher up.
+
+I much recommend that you bookmark http://wwwmath.uni-muenster.de/logik/Personen/rds/bibliography.html although it is in terrible need of an update. There are many papers listed there that I haven't mentioned here.
+
+After the papers above, which form the core of the theory, I guess one could follow with Mitchell's paper on the covering lemma (in the Handbook), Steel's notes on "A theorem of Woodin on mouse sets", and the draft of his book with Schindler on "The core model induction". Past that, Sargsyan's thesis essentially takes you to the boundary of what is known. There is a recent paper by Jensen and Steel, not yet published, "K without the measurable", which explains how to eliminate a technical assumption we needed for many years. An update of Grigor's thesis will appear in the Memoirs, and it is available from his webpage, together with a gentler introduction, that he wrote for the Bulletin.
+
+[At this stage, it should be clear that learning determinacy is indispensable. Again, this is in itself a demanding task, as part of what one now needs is to work through the Cabal volumes.]
+
+And you may want to take a look at http://wwwmath.uni-muenster.de/logik/Personen/rds/core_model_induction_and_hod_mice.html and http://wwwmath.uni-muenster.de/logik/Personen/rds/core_model_induction_and_hod_mice_2.html for papers and references on the state of the art.
+
+Share
+Cite
+Improve this answer
+Follow
+answered Aug 17 '11 at 22:35
+
+Andrés E. Caicedo
+30.3k55 gold badges112112 silver badges199199 bronze badges
+Thinking about it, did you really read the Jensen paper and the first three chapters of FSIT in a week? :-) – 
+Asaf Karagila
+♦
+ Oct 28 '13 at 16:58
+2
+And did not sleep much. I got together with Peter Koellner one evening to read FSIT, and somehow many beers happened. – 
+Andrés E. Caicedo
+ Oct 28 '13 at 17:51
+1
+The last part sounds epic. – 
+Asaf Karagila
+♦
+ Oct 28 '13 at 18:34
+1
+I know this is late, but I would give a +2 if possible for "Yes, they must be read more or less concurrently. Yes, this is overly ambitious and almost impossible." – 
+Noah Schweber
+ Mar 21 '18 at 16:02
+@Noah: You give so many bounties, you do know that a 50 points bounty is exactly a +5, right? :-) – 
+Asaf Karagila
+♦
+ Jun 24 at 11:43

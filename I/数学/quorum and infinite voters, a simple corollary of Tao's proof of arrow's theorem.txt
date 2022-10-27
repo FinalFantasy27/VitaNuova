@@ -1,0 +1,23 @@
+
+In his Arrow's Theorem (https://www.math.ucla.edu/~tao/arrow.pdf), Terence Tao introduces the concept, "quorum", defined as any group of voters such that, if all the members in the quorum unanimously vote A above B and all the people not in the quorum vote B above A, then the voting system will place A above B.
+
+He first proves a lemma saying that if S is a quorum, and T is a quorum, then S∩T is a quorum, with the "no dictators" axiom showing that for every voter v, the set of voters, V, minus {v} is a quorum (otherwise v would be a dictator), then applies the lemma repeatedly showing that the empty set is a quorum, which contradicts the consensus axiom, and thus proves the arrow's axiom.
+
+An immediate corollary of the lemma is that finite intersection of quorums is still a quorum.
+
+And it is easy to see that if the countable intersection of quorums is still a quorum, then the arrow's theorem for infinite voters hold.
+
+Combing this fact to the result of [1] that in the case of infinite voters arrow's theorem does not hold, we get that: 
+
+corollary: the countable intersection of quorums is not necessarily a quorum
+
+[1] Peter C Fishburn,
+Arrow's impossibility theorem: Concise proof and infinite voters,
+Journal of Economic Theory,
+Volume 2, Issue 1,
+1970,
+Pages 103-106,
+ISSN 0022-0531,
+https://doi.org/10.1016/0022-0531(70)90015-3.
+(https://www.sciencedirect.com/science/article/pii/0022053170900153)
+Abstract: Arrow's impossibility theorem for social choice theory is proved by showing that his other conditions imply the contradictory of the condition that the set of individuals is nonempty and finite. These other conditions are shown to be consistent with the hypothesis that the set of individuals is infinite.

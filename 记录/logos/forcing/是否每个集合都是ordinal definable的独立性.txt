@@ -1,0 +1,12 @@
+
+一个集合X是ordinal definable，iff 存在一个公式phi和序数aerfa0-n使得
+
+X = {y | phi(y, aerfa0-n)}
+
+"X is ordinal definable" 是一个可被zfc表达的谓词
+
+“是否每个集合都是od”是独立于zfc的.
+假设V=L，那么每个集合都是ordinaldefinable.
+另一方面，从L出发，力迫加入一个cohenreal得到的L(c), 那么此时c并不是od.
+因为cohen poset有weakly homogeneous. 推论：M[G]|=phi(x0, ..., xn) -> 1|=phi(\overset{^}{x0-n}).
+由于所有序数在ground model里, 并且"1|=..."是一个能被ground model"看见且操作"的关系, 所以在L[c]中ordinal definable的集合已经能在L中被分离公理得到. 由此可以推论c不是ordinal definable的.

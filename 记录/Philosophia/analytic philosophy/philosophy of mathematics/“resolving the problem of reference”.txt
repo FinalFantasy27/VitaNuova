@@ -1,0 +1,1 @@
+resolving the problem of reference, my reference to the object of nonrigid structure by reference to the roles int he expanded structure

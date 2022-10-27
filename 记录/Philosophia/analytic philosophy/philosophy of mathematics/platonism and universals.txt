@@ -1,0 +1,8 @@
+“注意到一个符号是一个抽象的实体。我可以拿起一支粉笔，在黑板上写下''/''，并指向它，但是符号''/''与黑板上的粉笔颗粒集合并不完全相同。我可以把"/"写在一张纸上，也可以把"/"打到电脑上，然后用TEX把它转换成像素。如果所有这些五花八门的物理实体都应该是同一个符号，那么''符号''必须是一个抽象的实体”（Timothy Chow, The Consistency of Arithmetic, p8.）
+Note that a symbol is an abstract entity. I can pick up a piece of chalk and write ‘‘/’’ on a blackboard, and point to it, but the symbol ‘‘/’’ is not identical to the collection of chalk particles on the blackboard. I could have written / on a piece
+of paper, or I could have typed \phi into a computer and
+used TEX to convert it to pixels on a screen, and if all these
+multifarious physical entities are supposed to be the same
+symbol, then a ‘‘symbol’’ must be an abstract entity
+
+chow， p8

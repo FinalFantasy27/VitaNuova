@@ -1,0 +1,53 @@
+Conceptual scheme, up to translation, is unique.
+
+The third dogma: cotent and conceptual scheme
+
+rejection of conceptual schemes 
+
+ Sensation is not propositional and there is no special class of intermediate beliefs such as“observation sentences. If there is a distinction between observation sentences and other kinds of beliefs, it is a distinction of their causes, not of their justifications (1983: 145-6). Cause is not a justification.
+
+“nothing can count as a reason for holding a belief except another belief” (a coheren theory, 141)
+
+On the very idea of conceptual scheme
+The Myth of the Subjective
+
+"In Essay 3, ‘The Myth of the Subjective’, I try to make clear what it means to deny that there are objects before the mind when we have sensations or think. The idea that there is a fundamental distinction to be drawn between uninterpreted experience and an organizing structure of concepts is closely related to the supposed dichotomy of the subjective and the objective. These dualisms have dominated and defined the problems of much of modern philosophy, the problems not only of epistemology, but also of philosophy of language and philosophy of mind. In this essay I inveigh against the picture of the mind that is presupposed by the dualisms, and so against the dualisms themselves, and the epistemological and metaphysical positions based on them. The view that the subjective is the foundation of objective empirical knowledge is attacked; it is claimed that empirical knowledge has no epistemological foundation, and needs none. "
+(Subjective, Intersubjective, Objective, donald davidson CLARENDON PRESS · OXFORD, 2001, introduction, xiv.)
+
+Kant’s intuitions, Hume’s impressions and ideas, sense data, uninterpreted sensations, the sensuous given. Kant thought only one scheme was possible; but once the dualism of scheme and content is made explicit, the possibility of alternative schemes is apparent. The idea that we have a choice of schemes is explicit in the work of C. I. Lewis: ‘There are, in our cognitive experience, two elements; the immediate data, such as those of sense, which are presented or given to the mind, and a form, construction, or interpretation, which represents the activity of thought.’2
+C. I. Lewis, Mind and the World Order, 38. Lewis declares that it is the task of philosophy ‘to reveal those categorial criteria which the mind applies to what is given to it’ (p. 36). 
+
+
+作者：Meowth
+链接：https://www.zhihu.com/question/59970919/answer/560715387
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+戴维森的On the very idea of a conceptual scheme这一论文中的主要针对的就是所谓绝对的经验内容与相对的概念框架之间的划分，以及由这一划分而产生的概念框架真理相对主义。首先我们先来梳理组织一下戴维森的论证。
+
+1“概念图式”是什么？概念图式就是我们组织经验的方法，给予感觉材料以形式的范畴体系，同时也可以看作是个人，文化，时代看待眼前事物的视点。
+
+“Conceptual schemes, we are told, are ways of organizing experience ; they are systems of categories that give form to the data of sensation; they are points of view from which individuals, cultures, or periods survey the passing scene. ”
+
+在戴维森的论文中，概念图式=语言，这虽然并不是语言的标准解释，但可以看作是戴维森语言体系里面的一个对“语言”这一概念的定义，是一种约束表达。其为什么这样定义，私认为这些细节都是可以忽略的，跟后面的讨论也没太多关系，拿来用就行。
+问题是，我们怎样才能认为“概念图式”是个合理的概念，或者说什么情况下我们才可以说真的存在“概念图式”。这个问题可以归结为：如果两个人用互相无法翻译的语言来进行交谈，那么他们是否就是有不同的概念图式？也就是以两种语言不可互相翻译可来判断存在有两种不同的概念图式。（如果可互相翻译的话就说明两种语言共享一种概念图式）
+戴维森分了两种情况来考虑。
+翻译可能性完全的失败：一种语言的所有有意义的语句的集合里面任意一个语句都无法翻译成另外一种语言的情况。
+翻译可能性部分的失败：虽然其中一部分语句可以翻译，但是仍有不可翻译的部分的情况。
+
+2完全不可翻译的情况：
+戴维森认为没有办法翻译成我们所使用的语言的某种语言并不可以称之为是一种语言行为。
+基本可以确认这里戴维森的矛头指向的是库恩主义，也就是说在两种语言框架（理论框架，paradigm）中可以对同一事物的描述，但是这两种描述又是完全独立，其中一方无法还原为另一方，因此对同一个经验内容借由不同的理论可以拥有不同的对真理的叙述方式。
+（1）概念图式的根源：分析与综合的二元论与概念图式的相对主义这里特别提到了：放弃分析和综合（语意和事实）的区分，也就是丢弃语意和分析性的概念后，“概念图式”（以及具现化“概念图式”的“语言”）依然可能成立。而且放弃上述的区分甚至助长了概念相对主义。这是为什么呢？在我的理解中，戴维森想说的是，我们消除语意概念之后，我们的“经验内容”这一概念却没必要放弃掉，也就是说所有的语句都含有经验内容；但同时这也意味着我们无法对每一个语句都在同一种意义（语意）上赋予绝对中立的“经验内容”，也就是说我们可以在许多种不同的概念图式（或者说语言）中理解同一种经验内容。“概念图式”和“经验内容”的分离，这就是经验主义第三个也是最后一个dogma的根源。
+（2）概念图式为何不可能的论证：我们首先要承认，不存在互相翻译的可能性是不同概念图式（语言）存在的必要条件。如果否认这一点的话，那么只能考虑除了翻译可能性的其他的判断一个语言是不是语言的标准了。这个标准可以大体分为两种：概念图式（语言）以某种的方式组织化organization了世界或者经验，或者概念图式（语言）以某种方式适合于fitting这个中立的世界或经验。
+a）首先考虑组织化。在全面翻译失败的情况下，和我们的语言采取不同方式组织化这个世界是不可能的。组织化的最小的前提是，对中立世界或自然的结构，比如说对象的包含关系，构成关系等有理解，也就是说必须以理解世界的某种客观为前提的。然而这种客观必然是可在各种语言中得到翻译或者说共通理解的。我们脱离翻译的可能性去寻找这样一个语言性的基准是没有办法实现的。
+b）再来考虑适合的问题。我们所说的适合，是语句对于感觉经验的适合，若适合则语句为真。要想用适合这一概念来证明语言和概念图式的存在正当性，我们必须认为如果某个语句是“真的”，那它一定是一个可以接受的概念图式或者理论。（something is an acceptable conceptual scheme or theory if it is true.）我们来看怎么才能说一个语句是真的，这不得不说起我之前想要回答却鸽掉的关于戴维森的“真理条件语义学”。我们先引用戴维森在这篇文章里的一段吧。
+
+According to Tarski's Convention T, a satisfactory theory of truth for a language L must entail, for every sentence s of L, a theorem of the form ‘s is true if and only if p' where 's' is replaced by a description of s and 'p' by s itself if L is English, and by a translation of s into English if L is not English.
+我们可以清楚的看到，如果不满足可翻译的条件的话，是没有办法给出一个语句为真的判断的，自然也无从谈起语句是否适合感觉经验。综上我们可以看到全部不可翻译为我们母语的语言是不存在的或无法想象的。
+
+3部分不可翻译的情况：我们先来看戴维森继承奎因而来的radical interpretation理论基本的证据：we may without circularity or unwarranted assumptions accept certain very general attitudes towards sentences ，也就是我们要接受对语句的某种极为普遍态度，而不能假定这种态度是循环的或不合理的。为什么呢？因为解释的问题不能被态度所左右，我们要从有效意义的理论和可能信念的理论中抽取出证据来。
+举例说你看到一艘ketch驶过，而朋友说‘Look at that handsome yawl’，他在这种情况下把ketch和yawl给弄混了。不过我们要对此类的语言体系的误用报以宽容的态度。（这种解释的过程，就是从真的语句中构成与信念与意义有关的有效理论的过程。）
+根据戴维森说，宽容并不意味着挑选某个解释框架中的其中一个作为标准，而是，宽容自身是获得有效理论的条件！并且如果有人提出反对说承认了宽容原则的话就有可能会错误判断语句的真假，这个反对是无效的。在他的设想中，只有在假定了某一共同体中所有人的信念都大体上是正确的，才能够进行对语句的解释，我们也才能够很大程度上理解语言的含义，只有这时我们才能够说某个人的发言是错误的。
+由此我们也无法说存在部分不可翻译的情况。
+结合2、3，由于翻译失败的情况不存在，那么不同概念图式（语言）也就不存在了。

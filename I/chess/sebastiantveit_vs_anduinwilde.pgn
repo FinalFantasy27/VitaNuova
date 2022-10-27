@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.16"]
+[White "sebastiantveit"]
+[Black "anduinwilde"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "806"]
+[BlackElo "804"]
+[TimeControl "600"]
+[EndTime "6:14:46 PDT"]
+[Termination "anduinwilde won by resignation"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+1. e4 {[%clk 0:10:00]} e6 {[%clk 0:09:59]} 2. Qh5 {[%clk 0:09:59]} Nf6 {[%clk 0:09:54]} 3. Qf3 {[%clk 0:09:47]} Nc6 {[%clk 0:09:48]} 4. Nc3 {[%clk 0:09:22]} Nb4 {[%clk 0:09:46]} 5. Qd1 {[%clk 0:08:54]} b6 {[%clk 0:09:43]} 6. Nb5 {[%clk 0:08:51]} Bb7 {[%clk 0:09:37]} 7. e5 {[%clk 0:08:47]} Ne4 {[%clk 0:09:23]} 8. f3 {[%clk 0:08:29]} a6 {[%clk 0:09:02]} 9. Nd4 {[%clk 0:08:17]} Nc5 {[%clk 0:08:22]} 10. f4 {[%clk 0:07:58]} Ne4 {[%clk 0:08:11]}
+ 11. f5 {[%clk 0:07:44]} Bc5 {[%clk 0:08:08]} 12. fxe6 {[%clk 0:07:27]} Bxd4 {[%clk 0:08:01]} 13. exd7+ {[%clk 0:07:19]} Qxd7 {[%clk 0:07:57]} 14. Qh5 {[%clk 0:07:12]} Nxc2+ {[%clk 0:07:48]} 15. Kd1 {[%clk 0:07:08]} Nxa1 {[%clk 0:07:46]} 16. Nf3 {[%clk 0:07:05]} Nf2+ {[%clk 0:07:37]} 17. Ke1 {[%clk 0:07:02]} Nxh1 {[%clk 0:07:35]} 18. Nxd4 {[%clk 0:07:00]} Qxd4 {[%clk 0:07:31]} 19. d3 {[%clk 0:06:56]} O-O-O {[%clk 0:07:30]} 20. Qf5+ {[%clk 0:06:49]} Qd7 {[%clk 0:07:26]}
+ 21. Qg5 {[%clk 0:06:39]} Nc2+ {[%clk 0:07:24]} 22. Kd2 {[%clk 0:06:38]} f6 {[%clk 0:06:36]} 23. exf6 {[%clk 0:06:34]} gxf6 {[%clk 0:06:30]} 24. Qxf6 {[%clk 0:06:32]} Nd4 {[%clk 0:06:27]} 25. b4 {[%clk 0:05:56]} Rhf8 {[%clk 0:05:58]} 26. Qe5 {[%clk 0:05:44]} Rxf1 {[%clk 0:05:47]} 27. Bb2 {[%clk 0:05:40]} Rf2+ {[%clk 0:05:43]} 28. Kc3 {[%clk 0:05:34]} Rxg2 {[%clk 0:05:11]} 29. Qxd4 {[%clk 0:05:18]} Qxd4+ {[%clk 0:05:07]} 30. Kb3 {[%clk 0:05:15]} Qxd3+ {[%clk 0:05:05]}
+ 31. Ka4 {[%clk 0:05:11]} 0-1
+

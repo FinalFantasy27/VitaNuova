@@ -1,0 +1,12 @@
+Philosophy confines itself to universal concepts; mathematics can achieve nothing by concepts alone but hastens at once to intuition, in which it considers the concept in concre to, though not empirically, but only in an intuition which it presents a priori, that is, which it has constructed, and in which whatever follows from the universal conditions of the construction must be universally valid of the object thus constructed.
+—(Kant, Critique of Pure Reason A716/B744)
+引自第129页
+
+For Kant, the concept of the number 7 is available to the Understanding without the aid of Sensibility and, hence, without intuitions. But its schematization—the provision of a reference for any concept-expression associated with it—does require intuition.
+引自第141页
+
+书名: The Oxford Handbook of Philosophy of Mathematics and Logic
+作者: Shapiro, Stewart 编
+页数: 850
+出版社: Oxford University Press
+出版年: 2007-3-1

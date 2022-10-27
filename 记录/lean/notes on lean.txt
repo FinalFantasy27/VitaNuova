@@ -1,0 +1,138 @@
+
+·用Git bash执行命令
+·Lean projects 
+Every non-trivial piece of Lean code needs to live inside a Lean project (sometimes also called Lean package). This means a folder containing in particular a git repository and a file leanpkg.toml that gathers information about dependencies of the project, including for instance the version of Lean that should be used.
+
+Managing all this is done by a little python program called leanproject. This page describes the basic use of this tool, and should be sufficient for everyday use. 
+
+Creating a Lean project 
+We will now create a new project depending on mathlib. The following commands should be typed in a terminal.
+
+Go to a folder where you want to create a project in a subfolder my_project, and type leanproject new my_project. If you get an error message saying leanproject is an unknown command and you have not logged in since you installed Lean and mathlib, then you may need to first type source ~/.profile or source ~/.bash_profile.
+
+Launch VS Code, either through your application menu or by typing code my_project.
+
+If you launched VS Code through a menu: on the main screen, or in the File menu, click "Open folder" (on a Mac, just "Open"), and choose the folder my_project (not one of its subfolders).
+
+Your Lean code should now be put inside files with extension .lean living in my_project/src/ or a subfolder thereof. In the file explorer on the left-hand side of VS Code, you can right-click on src, choose New file, and type a filename to create a file there.
+
+If you want to make sure everything is working, you can start by creating, say my_project/src/test.lean containing:
+
+import topology.basic
+
+#check topological_space
+When the cursor is on the last line, the right hand part of VS Code should display a "Lean Goal" area saying: topological_space : Type u_1 → Type u_1
+
+If, for some reason, you happen to lose the "Lean Goal" area, you can get it back with Ctrl-Shift-Enter (Cmd-Shift-Enter on MacOS). Also, you can get the Lean documentation inside VS Code using Ctrl-Shift-p (Cmd-Shift-p on MacOS) and then, inside the text field that appears, type "lean doc" and hit Enter. Then click "Theorem Proving in Lean" and enjoy.
+
+Hosting your project on GitHub #
+Your project is already a git repository, and as it grows, you may want to host it on GitHub. If you take this step, the community offers some GitHub Actions scripts that could help manage your repository. But don't worry if you don't know what this means. It's not necessary for using Lean.
+
+Contributing to mathlib 
+See How to contribute to mathlib.
+
+
+·命题可以与函数对比（http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/：function world, Proposition world）
+·P Q : Prop,
+p : P,
+h : P → Q
+⊢ Q
+In this situation, we have true/false statements P and Q, a proof p of P, and h is the hypothesis that P⟹Q. Our goal is to construct a proof of Q. It's clear what to do mathematically to solve this goal, P is true and P implies Q so Q is true. But how to do it in Lean?
+Adopting a point of view wholly unfamiliar to many mathematicians, Lean interprets the hypothesis h as a function from proofs of P to proofs of Q, so the rather surprising approach
+
+exact h(p),
+
+works to close the goal.
+Note that exact h(P), (with a capital P) won't work; this is a common error I see from beginners. "We're trying to solve P so it's exactly P". The goal states the theorem, your job is to construct the proof. P is not a proof of P, it's p that is a proof of P.
+In Lean, Propositions, like sets, are types, and proofs, like elements of sets, are terms.（定义（definition）和论断（judgement）是类型（type），而证明（proof）是项（term））
+·Note for worriers.
+Those of you who know something about the subtle differences between truth and provability discovered by Goedel -- these are not relevant here. Imagine we are working in a fixed model of mathematics, and when I say "proof" I actually mean "truth in the model", or "proof in the metatheory".
+·After a split statement, one goal turns into two. A good programming style would be to use {} brackets to work on each goal individually, like this:
+
+begin
+  split,
+  { insert,
+    proof of,
+    first goal
+  },
+  { insert,
+    proof of,
+    second goal
+  }
+end
+This way you only ever have one goal to work on, and your code becomes easier to read. After split you might want to write
+
+{ sorry},
+{ sorry}
+so that your code has no errors while you're working on it.
+·在X : Type,
+A B : set X的情况下可以对(∀ (x : X), x ∈ A → x ∈ B) ↔ B = A ∪ B用类似rw ext_iff,等是因为\forall框在里面，而\forall框在外面时就不可直接用
+·类似 （在X : Type,
+A B : set X,
+x : X的情况下）x ∈ A → x ∈ B ↔ (x ∈ B ↔ x ∈ A ∨ x ∈ B)这样的也可用tauto!,
+·（have h2 := h a,
+replace h := h a,
+specialize h a
+The first one preserves h and creates a new hypothesis h2. The others replace h with h : a ∈ A → a ∈ B.）
+·/- Pro tip : semicolons
+If instead of a comma, you end a line with a semicolon, then
+Lean will apply the next tactic to all the goals created by the
+previous tactic, rather than just the top one.
+-/
+·If sth is true by definition, then you don't need to rewrite it.
+·We have used the namespace command to avoid conflicts with identifiers that are already declared in the Lean library.
+(Outside the namespace, the constant mul we just declared is named hidden.mul.) 
+·We can even declare infix notation of binary operations and relations:
+local infix + := add
+local infix * := mul
+local infix < := lt
+·In Chapter 7 we considered many-sorted logic, where one can have multiple universes. For example, we might want to use
+first-order logic for geometry, with quantifiers ranging over points and lines. In Lean, we can model this as by introducing
+a new type for each sort:
+variables Point Line : Type
+variable lies_on : Point → Line → Prop
+We can then express that two distinct points determine a line as follows:
+#check ∀ (p q : Point) (L M : Line),
+p ̸= q → lies_on p L → lies_on q L → lies_on p M →
+lies_on q M → L = M
+Notice that we have followed the convention of using iterated implication rather than conjunction in the antecedent. In
+fact, Lean is smart enough to infer what sorts of objects p, q, L, and M are from the fact that they are used with the relation
+lies_on, so we could have written, more simply, this:
+#check ∀ p q L M, p ̸= q → lies_on p L → lies_on q L →
+lies_on p M → lies_on q M → L = M
+·Remember that Lean expects a comma after the universal quantifier, and gives it the widest scope possible. For example,
+∀ x, P ∨ Q is interpreted as ∀ x, (P ∨ Q), and we would write (∀ x, P) ∨ Q to limit the scope
+·Typing begin and end anywhere a proof is expected puts Lean into tactic
+mode, which provides an alternative way of writing a proof: rather than writing it directly, you provide Lean with a list of
+instructions that show Lean how to construct a proof of the statement in question.
+·example : ∅ ⊆ A :=
+assume x,
+assume h : x ∈ (∅ : set U),     --因为在lean中，set总是相对着一个universel来的--
+show x ∈ A, from false.elim h
+·It is straightforward to interpret type theory in set theory, since we can view each type as a set. The type universes
+are simply large collections of sets, and dependent function types and inductive types can be explained in terms of settheoretic
+constructions. We can view Prop as the set {⊤, ⊥} of truth values, just as we did when we described truth-table
+semantics for propositional logic.
+Given this last fact, why not just use set theory instead of type theory for interactive theorem proving? Some interactive
+theorem provers do just that. But type theory has some advantages:
+• The fact that the rules for forming expressions are so rigid makes it easier for the system to recognize typographical
+errors and provide useful feedback. In type theory, if f has type N → N it can be applied only to a natural
+number, and a theorem prover can flag an error if the argument has the wrong type. In set theory, anything can be
+applied to anything, whether or not doing so really makes sense.
+• Again, because the rules for forming expressions are so rigid, the system can infer useful information from the
+components of an expression, whereas set theory would require us to make such information explicit. For example,
+with f as above, a theorem prover can infer that a variable x in f x should have type N, and that the resulting
+expression again has type N. In set theory, x ∈ N has to be stated as an explicit hypothesis, and f(x) ∈ N is then
+a theorem.
+• By encoding propositions as certain kinds of types, we can use the same language for defining mathematical objects
+and writing mathematical proofs. For example, we can apply a function to an argument in the same way we apply
+a theorem to some hypotheses.
+• Expressions in a sufficiently pure part of dependent type theory have a computational interpretation, so, for example,
+the logical framework tells us how to evaluate the factorial function, given its definition. In set theory, the
+computational interpretation is specified independently, after the fact.
+These facts hark back to the separation of concerns that we raised in Chapter 1: different axiomatic foundations provide
+different idealized descriptions of mathematical activity, and can be designed to serve different purposes. If you want
+a clean, simple theory that accounts for the vast majority of mathematical proof, set theory is hard to beat. If you are
+looking for a foundation that makes computation central or takes the notion of a function rather than a set as basic, various
+flavors of type theory have their charms. For interactive theorem proving, pragmatic issues regarding implementation and
+usability come into play.

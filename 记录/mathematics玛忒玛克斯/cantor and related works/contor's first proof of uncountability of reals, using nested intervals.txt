@@ -1,0 +1,6 @@
+反证法，假设x_n, n\in N 枚举了所有实数，a0 = x0, b0= x_k0, k_0是最小的k使得a0 < x_k.（least number principle: 每个非空自然数子集都存在最小元.）
+令a_n+1 = x_{i_n}, i_n是最小的满足an<xi<bn的i; 令b_{n+1} = x_{k_n}, k_n是最小的满足a_{n+1}<xk<bn的k.
+(a_n)n\inN有上界，因而有最下上界. 令为r. 因为每个xn都不在(an,bn)中，而r在每一个(an, bn)中，所以r不等于任何一个xn
+https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Georg_Cantor%2527s_first_set_theory_article
+
+“这个证明里用到的nested intervals传承了Weierstrass一脉学者常用的tricks, 是19世纪实分析证明风格的一个不错的体现.”https://zhuanlan.zhihu.com/p/51203067

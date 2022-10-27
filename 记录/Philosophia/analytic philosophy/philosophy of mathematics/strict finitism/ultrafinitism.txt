@@ -1,0 +1,16 @@
+
+The brand of ultrafinitism concerned with physical realizability of mathematics is often called actualism.
+
+Edward Nelson criticized the classical conception of natural numbers because of the circularity of its definition. In classical mathematics the natural numbers are defined as 0 and numbers obtained by the iterative applications of the successor function to 0. But the concept of natural number is already assumed for the iteration. In other words, to obtain a number like {\displaystyle 2\uparrow \uparrow \uparrow 6}2\uparrow \uparrow \uparrow 6 one needs to perform the successor function iteratively (in fact, exactly {\displaystyle 2\uparrow \uparrow \uparrow 6}2\uparrow \uparrow \uparrow 6 times) to 0.
+
+Yessenin-Volpin  introduced ultrafinitism, an extreme form of constructive mathematics that casts doubt on the existence of not only infinite sets, but even of large integers such as 10^12. He sketched a program for proving the consistency of Zermelo–Fraenkel set theory using ultrafinitistic techniques in (Ésénine-Volpine 1961), (Yessenin-Volpin 1970) and (Yessenin-Volpin 1981).
+
+Other mathematicians who have worked in the topic include Doron Zeilberger, Edward Nelson, Rohit Jivanlal Parikh, and Jean Paul Van Bendegem. The philosophy is also sometimes associated with the beliefs of Ludwig Wittgenstein, Robin Gandy, Petr Vopěnka, and Johannes Hjelmslev.
+
+Shaughan Lavine has developed a form of set-theoretical ultrafinitism that is consistent with classical mathematics.[4] Lavine has shown that the basic principles of arithmetic such as "there is no largest natural number" can be upheld, as Lavine allows for the inclusion of "indefinitely large" numbers.
+
+ "Philosophy of Mathematics (Stanford Encyclopedia of Philosophy)". Plato.stanford.edu. Retrieved 2015-10-07.http://plato.stanford.edu/entries/philosophy-mathematics/
+
+explicit finitism.Andras Kornai
+
+In her book The Philosophy of Set Theory, Mary Tiles characterized those who allow potentially infinite objects as classical finitists, and those who do not allow potentially infinite objects as strict finitists: for example, a classical finitist would allow statements such as "every natural number has a successor" and would accept the meaningfulness of infinite series in the sense of limits of finite partial sums, while a strict finitist would not. Historically, the written history of mathematics was thus classically finitist until Cantor created the hierarchy of transfinite cardinals at the end of the 19th century.

@@ -1,0 +1,18 @@
+reachability in graph theory
+
+compactness
+
+
+expressible in existential second-order logic
+
+\exists P \phi
+
+\exists P \forall x, y, z (C_1 \land C_2 \land C_3 \land C_4)
+
+where each C_i is a Horn clause
+
+C_1 := P(x, x)
+C_2 := P(x, y) \land P(y, z) \to P(x, z)
+C_3 := P(u, v) \to \bottom
+C_4 := R(x, y) \to P(x, y)
+

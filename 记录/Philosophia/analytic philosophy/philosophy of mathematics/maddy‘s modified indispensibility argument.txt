@@ -1,0 +1,3 @@
+The idea is that although it is physics that leads to our commitment to some mathematics, once we have a commitment to mathematics that commitment can be expanded using techniques internal to the development of mathematics: not every piece of acceptable mathematics needs to be directly tied to physics. Thus, according to the modified indispensability argument [Mad92, p. 280], "the calculus is indispensable in physics; the set-theoretic continuum provides our best account of the calculus; indispensability thus justifies our belief in the set-theoretic continuum, and so, in the set-theoretic methods that generate it; examined and extended in mathematically justifiable ways, this yields Zermelo-Fraenkel set theory."
+
+Understanding the infinite, p. 220

@@ -1,0 +1,22 @@
+
+https://mathoverflow.net/questions/94742/examples-of-interesting-false-proofs/
+
+. In the definition of an equivalence relation ∼, the reflexivity of ∼ is redundant: Indeed, for any x, by the symmetric property we have x∼y implies y∼x. By transitivity we have x∼y and y∼x imply x∼x. Therefore, using only symmetry and transitivity, we obtain reflexivity. 
+
+hint: "As Davidac says you only need that for any x there exists at least one y such that x∼y."
+John Engbers;
+
+· Theorem: Every implication or its converse must be true.
+
+Proof:
+
+Check the truth table for (P→Q)∨(Q→P) and note that it is a tautology.
+
+□
+
+However we know that there are many cases where neither an implication nor its converse is true. For example take P to be "n is odd" and Q to be "n is prime."
+
+hint: implicit quantification;  ∀x(P⟶Q) and ∀x(Q⟶P) 
+
+
+Jim Conant

@@ -1,0 +1,14 @@
+standard notations for ((( ))) and ((( ), ( ))) and ((( )), (( )))
+are omega and oemga2 and oemga^2 respectively. We have chosen our
+notation to emphasize that at no point are we appealing to
+the notion of an infinite set.
+
+chow, p4
+
+the tradition(see, for example, [Det86, p. 45], [Par7l, p. 50], [Res80, p. 86], [Tai8l,p. 544], and [vH67, p. 482]) by taking primitive recursive arithmetic (PRA),a system developed by Skolem [Sko23a], to be a part of finitary mathematics. It has been argued, I think fairly convincingly, that all of finitary mathematicscan be formalized within PRA [Tai8l]
+
+Understanding the infinite, p. 203
+
+In general, since every equation of PRA defines an effectively decidable predicate in a sense suitable to allow the constructivist to conclude that the law of the excluded middle holds, even the constructivist will grant that classical logic applies. (See [Dumn, pp. 20-21] for a discussion of effectively decidable predicates.)
+
+ibid, p.206

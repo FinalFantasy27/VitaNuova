@@ -1,0 +1,10 @@
+T=ZFC+V=L，我们可以证明存在一个序列（Quine \phi_n | n \in \omega）枚举了T的公理
+定义S \subseteq T为该序列最大一致前段。假设ZF一致，T也一致。但因第二不完备性定理，T不能证明S=T.
+T可以证明S一致。反射定理得对于T的每一个公理\phi，T都可证Quine\phi \in S。
+
+L的definable global well-ordering：
+P(x)<->x属于<_L序下最小的S的模型
+，这个模型用P代表
+T|-"P|=S"，对于每一个\phi \in S，T|-\phi^P。假设ZF一致，这样的\phi遍历所有T的公理
+
+M|=Quine\psi 当且仅当 \psi^M（ZF的一个定理模式）

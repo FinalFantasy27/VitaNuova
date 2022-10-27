@@ -1,0 +1,1 @@
+ Colin McLarty的工作是EGA和SGA（代数几何）的reverse analysis的一部分（也是Harvey Friedman计划的一部分）

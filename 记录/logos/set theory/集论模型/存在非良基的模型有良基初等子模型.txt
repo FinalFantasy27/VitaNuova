@@ -1,0 +1,6 @@
+与此同时, 也存在非良基的 M, E |= ZFC , 使得M有良基的初等子模型. 例如令 x, in | = ZFC , 然后取 omega 上的任意nonprincipal ultrafilter U, 这样得到的ultrapower  Ult(x, U)是非良基的(见Jech 17章课后练习第一题). 但是我们可以通过 j: y |-> [c_y] 的标准构造方法使得ran(j)是Ult(x,U)的一个初等子模型. 这个初等子模型会是良基的, 因为 x, in 是一个良基模型.
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/411011302/answer/1372512661
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

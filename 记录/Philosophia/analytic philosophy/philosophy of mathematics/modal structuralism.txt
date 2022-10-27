@@ -1,0 +1,13 @@
+sep: nominalism in philosophy of mathematics
+
+Two steps are taken. The first is to present an appropriate translation scheme in terms of which each ordinary mathematical statement S is taken as elliptical for a hypothetical statement, namely: that S would hold in a structure of the appropriate kind.
+
+For example, if we are considering number-theoretic statements, such as those articulated in Peano arithmetic (PA, for short), the structures we are concerned with are ‘progressions’ or ‘ω-sequences’ satisfying PA's axioms. In this case, each particular statement S is to be (roughly) translated as
+
+☐∀X(X is an ω-sequence satisfying PA's axioms → S holds in X).
+
+According to this statement, if there were ω-sequences satisfying PA's axioms, S would hold in them. This is the hypothetical component of the modal-structural interpretation (for a detailed analysis and a precise formulation, see (Hellman 1989, pp. 16–24)). The categorical component constitutes the second step (Helman 1989, pp. 24–33). The idea is to assume that the structures of the appropriate kind are logically possible. In that case, we have that
+
+◊∃X(X is an ω-sequence satisfying PA's axioms).
+
+That is, it is logically possible that there are ω-sequences satisfying PA's axioms. Following this approach, truth preserving translations of mathematical statements can be presented without ontological costs, given that only the possibility of the structures in question is assumed.

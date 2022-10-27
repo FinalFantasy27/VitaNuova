@@ -1,0 +1,45 @@
+
+如果你一开始的公理只有ZF(C), 那么你没法定义一个内模型并且证明这个内模型满足AC的否定. 这是因为如果你做到了这点, 那么你就从ZF(C)出发, 证明了V不等于L. 然而我们知道V=L是独立于ZFC的. 这其实和选择公理和它的否定没有什么特别关系, 因为同理, 任何L满足的命题, 都无法仅仅从ZFC出发通过内模型法证明相容性. 这也是为什么CH的独立性问题在内模型法后, 力迫法前这段时间内停滞了这么久.
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/364938949/answer/2305788136
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+我们有
+定理. 从ZF+SM或任何包含了ZF并与V=L一致的系统中，我们都不能证明AC真而CH不成立的不可数标准模型的存在性，也不能证明包含不可构造实数的不可数标准模型的存在性。
+
+证明.令M为一个不可数标准模型，阿尔法0=sup{阿尔法|阿尔法 \in M}，并且假设AC在M中成立。如果阿尔法0是不可数的，那么M就包含了所有可数序数。如果阿尔法0可数，让R_Beta为M中rank为 Beta的元素的集合。那么对某个小于阿尔法0的Beta，R_\Beta不可数。而由rank的绝对性，Rβ在M中可定义。所以我们就有了一个实际上不可数的集合，由AC其可良序化，这与我们的假设相违背。所以无论如何M都包含了所有可数序数。由V=L我们知道所有实数都可以从一个可数序数中构造出来，所以我们证明了，在M中所有实数都是可构造的。
+
+引理.ZF+所有实数可构造 蕴涵 CH
+证明.我们的假设蕴含了所有实数的集合C在L中。在L中，C的基数为aleph1。ThiS means there is a  map from the countable ordinals relative to L onto C, and since a countable ordinal in L is certainly countable, there is a map from aleph1 onto С. 
+（Cohen，109）
+
+所以我们得考虑可数模型. 
+
+https://mathoverflow.net/questions/415022/must-uncountable-standard-models-of-zfc-satisfy-ch
+
+In Cohen's article, The Discovery of Forcing, he says that "one cannot prove the existence of any uncountable standard model in which AC holds, and CH is false," and offers the following proof.
+
+If M is an uncountable standard model in which AC holds, it is easy to see that M contains all countable ordinals. If the axiom of constructibility is assumed, this means that all the real numbers are in M and constructible in M. Hence CH holds.
+
+the point is that V=L implies that CH holds in any uncountable standard model in which AC holds. So the existence of an uncountable standard model with AC and not-CH would imply V≠L. So you can't prove that such a model exists.
+
+The result "If T is consistent then T cannot prove the existence of an uncountable transitive model of ZFC+¬CH," where T = ZFC + "ZFC has an uncountable transitive model"
+
+(∗) Assuming Con(ZF+SM), V≠L is not provable from ZF+SM, where SM stands for the statement "there is standard (i.e., well-founded) model of ZF".
+
+(∗) is an immediate consequence of the the well-known fact that Con(ZF+SM) implies Con(ZF+SM+V=L). This well-known fact, in turn, follows from absoluteness considerations: if M⊨ZF+SM, then LM⊨ZF+SM+V=L, where LM is the constructible universe as computed in M.
+
+The quoted statement of Cohen in his article is phrased as the theorem below on pages 108-109 of his book "Set Theory and the Continuum Hypothesis". In Cohen's terminology SM stands for the statement "there is standard (i.e., well-founded) model of ZF".
+
+Theorem. From ZF+SM or indeed from any axiom system containing ZF which is consistent with V=L, one cannot prove the existence of an uncountable standard model in which AC is true and CH is false, nor even one in which AC holds and which contains nonconstructible real numbers.
+
+Remark (2) It is easy to see (using the reflection theorem and relativizing to the constructible universe) that, assuming the consistency of ZF+SM, the theory ZF+SM + "there is no uncountable standard model of ZFC" is also consistent.
+
+Remark (3) Within ZF + "there is an uncountable standard model M⊨ZFC+V=L such that ωM3 is countable", one can use forcing to build a generic extension N of M that violates CH; thus N is an uncountable standard model of ZFC+¬CH. More specifically, the assumption of countability of ωM3, and the fact that GCH holds in M, assures us that there exists a P-generic filter over M, where P is the usual notion of forcing in M for adding ω2 Cohen reals. Thus, in the presence of the principle "0♯ exists" (which is implied by sufficiently large cardinals, and implies that every definable object in the constructible universe is countable) there are lots of uncountable standard models of ZFC+¬CH .
+
+https://www.zhihu.com/question/458636875/answer/1881818876
+对于不可数传递模型（真类或集合模型）M，假设其中P(ω) \subseteq M，那么此时考虑加入一个Cohen Real的力迫偏序Add(ω, 1)，其是 M的元素。那么不存在一个G包含于Add(ω, 1)使得G是M-generic filter，因为如果这样一个G存在，那么∪G就是一个不属于M的实数，与条件矛盾。这相当于告诉了我们，M不存在可以加入新实数的generic extension
+
+

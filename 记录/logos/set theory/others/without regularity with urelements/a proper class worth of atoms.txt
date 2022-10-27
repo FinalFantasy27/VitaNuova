@@ -1,0 +1,1 @@
+a properclassworth of atoms is equiconsistent with ZFC: Take your favourite (V,∈)⊨ZF and define a relation x € y on V by the formula “y is a ∈-singleton and x is ∈ the element of y”. Then € is a well-founded relation, it is extensional-on-∈-singletons, and the atoms of (V,€) are all the nonsingletons of (V,∈)

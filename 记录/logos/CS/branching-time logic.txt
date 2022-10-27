@@ -1,0 +1,3 @@
+· tree model for CTL (there is a path or for all path)
+
+· A set of temporal connectives in CTL is adequate iff it contains at least one of {AX, EX}, at least one of {EG, AF, AU} and EU.

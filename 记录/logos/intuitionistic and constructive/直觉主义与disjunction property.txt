@@ -1,0 +1,17 @@
+说一个逻辑有disjunction property, 当且仅当该逻辑满足:
+
+如果"PVQ"是定理, 那么要么P是定理, 要么Q是定理.
+
+很显然, 经典逻辑没有disjunction property
+
+而Gentzen在1935年证明了直觉主义逻辑有disjunction property. 直到现在, 关于什么样的逻辑满不满足disjunction property都还是一个非常活跃的逻辑学研究领域.
+
+直觉主义分析学可以证明：
+\forallxy \neg\neg x <= y \land \neg (y <= x)
+
+但不能证明
+\forall x y (x<=yVy<=x)
+
+\forall x (x\not= 0 -> x<0 V 0<x)
+
+以上几个都是Brouwer的结果，叫weak counterexamples in intuitionism

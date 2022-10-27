@@ -1,0 +1,3 @@
+The conceptual issues about quantificational logic, formal proofs and models in the period before his own early work that Godel and Wang discussed have been treated in other publications besides those cited above, in particular the notes in Herbrand1971 as well as Goldfarb 1979. On semantics and completeness in the Hilbert school before Hilbert and Ackermann 1928, see now Sieg1999, section B3.
+
+381，collected works，V

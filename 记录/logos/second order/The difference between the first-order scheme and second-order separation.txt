@@ -1,0 +1,8 @@
+The difference between the first-order scheme and second-order separation is important, since the scheme falls well short of giving effect to what the platonist might be thought to intend.If we regard the issue metatheoretically, he reason for this inadequacy is clear enough: in the case where the level V is infinite, second-order separation encompasses uncountably many instances (cf.Cantor’s theorem 9.2.6), whereas the first-order scheme has only countably many instances since the language of set theory is countable. 
+引自第43页
+书名: Set Theory and Its Philosophy
+作者: Michael Potter
+副标题: A Critical Introduction
+页数: 360
+出版社: Oxford University Press, USA
+出版年: 2004-03-11

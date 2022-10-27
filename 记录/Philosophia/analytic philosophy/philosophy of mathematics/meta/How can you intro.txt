@@ -1,0 +1,7 @@
+How can you introduce a specified formalism without using words?
+Paul Finsler to Godel, collected works VI, 436.
+是一封荒乱的书信，但是其中的部分错误是在那些区分未成熟的阶段可理解的 
+
+Herbert Gross was a student of Finsler's and wrote the obituary [14](H Gross, Nachruf Paul Finsler, Elemente der Mathematik 26 (1971), 19-21). He writes there:-
+Finsler possessed to the same degree an immense logical sharpness, mathematical ability and a fine sense of humour. It was an experience as a mathematics student to hear his lectures. His style was reminiscent of the deep and witty remarks of Gottlob Frege. The most valuable thing Finsler has given to many of his students, is a great confidence in the ability of human reason and a distrust of any mathematical formalism, which pretends to be more than a shorthand notation, compared to that which can be expressed in mathematical thoughts and ideas.
+(https://mathshistory.st-andrews.ac.uk/Biographies/Finsler/)

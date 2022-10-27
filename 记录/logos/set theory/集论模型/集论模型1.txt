@@ -1,0 +1,36 @@
+
+Completeness Theorem. (Goedel 1929) If a theory is consistent, then it has a model that is a set.
+
+More generally, if a theory is consistent, then the upward Lowenheim-Skolem theorem shows that it has models of every larger cardinality, all of which are sets. In particular, since the language of set theory is countable, it follows that if ZFC is consistent, then it has models of any given (set) cardinality.
+
+it is a theorem that every model M of ZFC has an object m inside it which M believes to be a first order structure in the language of set theory, and if we look at m from outside M, and view it as a structure of its own, then m is a model of full ZFC. This was recently observed by Brice Halmi, but related observations are quite classical. The proof is that if M is an ω-model, then it will have the same ZFC as we do in the meta-theory and the same proofs, and so it will think ZFC is consistent (since we do), and so it will have a model. If M is not an ω-model, then we may look at the fragments of the (nonstandard) ZFC inside M that are true in some Vα of M. Every standard fragment is true in some such set in M by the Reflection Theorem. Thus, by overspill (since M cannot see the standard cut of its ω) there must be some Vα in M that satisfies a nonstandard fragment of its ZFC. Such a model m = Vα M will therefore satisfy all of the standard ZFC. But M may not look upon it as a model of ZFC, since M has nonstandard axioms which it thinks may fail in m.
+https://mathoverflow.net/questions/15685/is-it-necessary-that-model-of-theory-is-a-set/15713#
+
+
+This, in fact, cannot be proven, even in ZFC+Con(ZFC). This is because ZFC proves the following statement:
+
+If we have a model M of ZFC whose natural numbers are standard, then M satisfies ZFC+Con(ZFC).
+
+Indeed, Con(ZFC) is an arithmetic statement. Since we are assuming that ZFC has a model M, and hence that ZFC is consistent, N⊨Con(ZFC), and since NM≅N, NM⊨Con(ZFC), and hence M⊨Con(ZFC).
+
+Now if ZFC could prove "if there is a model of ZFC, then there is a model of ZFC with standard N", then we would get that ZFC+Con(ZFC) proves that ZFC+Con(ZFC) has a model, contradicting Godel's second incompleteness theorem.
+
+Therefore, we cannot conclude, from existence of a model, existence of a model with standard N.
+
+Thought it might be worth mentioning that this reasoning is under the assumption that ZFC+Con(ZFC) is consistent. In the other case, ZFC proves that ZFC has no models, so the implication I discuss holds vacuously.
+
+Will Sawin asks whether existence of a model of ZFC with standard N (apparently called ω-models, as Gro-Tsen's comment to the question notes) is equivalent to ZFC being arithmetically sound. The answer is negative (of course, again, under blanket consistency assumptions).
+
+The idea is very similar. Suppose ZFC is arithmetically sound, and that there is an ω-model M of ZFC. We claim M satisfies "ZFC is arithmetically sound". If we show that then we're done, since "ZFC is arithmetically sound" cannot prove Con("ZFC is arithmetically sound").
+
+Arithmetic soundness is equivalent to "for all n, ZFC is Σ0n-sound, and Σ0n-soundness is an arithmetic statement for each n. Since M has standard N, Σ0n-soundness holds in M as well. Now we use standardness of M's N again, to observe that Σ0n-soundness in M for all n in (external) N is equivalent to arithmetic soundness internally in M.
+
+As you can see, existence of an ω-model is a fairly strong property, much stronger than any consistency or soundness assumption.
+
+https://mathoverflow.net/questions/331897/existence-of-a-model-of-zfc-in-which-the-natural-numbers-are-really-the-natural#
+
+arithmetic soundness of ZFC, i.e. that all statements of PA proven by ZFC are true
+
+there are numerous different notions of 'correctness' that one can come up with, including consistency, arithmetical soundness, Σn-soundness, ω-consistency, existence of ω-model, and so on. The existence of an ω-model implies all the others I mentioned. And arithmetical soundness implies Σn-soundness for each natural n. But arithmetical soundness and ω-consistency are incomparable (as briefly sketched herehttps://en.wikipedia.org/wiki/Omega_consistency). However, ω-consistency implies Σ1-soundness, which implies consistency. All the implications are strict. 
+
+By the way, it may also be worth mentioning that except for "existence of ω-model", the rest of the notions I mentioned can each be expressed by an arithmetical sentence, though you still need the semantic viewpoint to 'see' that the arithmetical sentence really does mean the same as the normal definition. In fact, one common way to show that there are ω-consistent theories that are not (arithmetically) sound is to construct the arithmetical property ωCon expressing ω-consistency and show that PA+¬ωCon(PA) is ω-consistent but (obviously) unsound. (https://mathoverflow.net/a/267837)

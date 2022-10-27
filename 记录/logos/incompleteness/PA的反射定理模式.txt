@@ -1,0 +1,7 @@
+(可以在Kaye的Models of Peano Arithmetic找到证明):
+
+对于任意自然数s...s0, PA都能证明"s...s0不是0=1的证明的编码".
+
+
+ 我们称一个包含PA的理论T为omega-incomplete的, 当且仅当对于某个语句phix, 可以证明phi0, phi s0, phi ss0, ... 但是T不可以证明\forall x \in N phi (n). 则我们讨论的结果就是: ZFC和PA都是omega-incomplete的.
+

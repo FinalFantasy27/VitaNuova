@@ -1,0 +1,3 @@
+the liar sentence fits into such a gap. Thus, since the liar sentence isn’t true, we might expect that we could say that this very fact is true; i.e., that it is true that the liar sentence is not true. Kripke’s theory does not permit this: this is often known as a revenge problem (Leitgeb 2007).
+
+Leitgeb, H. (2007). What truth should be like (but cannot be). Philosophical Compass, 2(2), 276–290.

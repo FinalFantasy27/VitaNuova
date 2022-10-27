@@ -1,0 +1,7 @@
+Suppose a contradiction were to be found in the axioms of set theory. Do you seriously believe that a bridge would fall down?
+ Quoted in D MacHale, Comic Sections (Dublin 1993)
+
+There is also the issue of the Kleene-Rosser paradox (or its simpliﬁed version called Curry’s paradox), which shows that untyped lambda calculus is inconsistent; but a little inconsistency never stopped a programming language from being widely accepted.(Programming with haskell, p26, footnote 4)
+
+
+就算PA是不一致的，这说明了自然数是不一致的吗？不，仅仅是说明了自然数的某种形式化不一致罢了。

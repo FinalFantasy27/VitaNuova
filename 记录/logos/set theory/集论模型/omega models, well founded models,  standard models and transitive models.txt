@@ -1,0 +1,19 @@
+
+A model of ZFC is a pair (M,E) such that M is non-empty and E is well-founded, and (M,E)⊨ZFC. Using Mostowski's collapse lemma this is isomorphic to a transitive set, N such that (N,∈↾N)⊨ZFC.
+
+Given any standard model (M, \in_M)  of ZF we can construct an isomorphic non-standard model (M*, E*)  quite easily by taking M* = {{x} : x \in M} , and defining {x} E * {y} <=> x \in y. This model will be well-founded.
+https://math.stackexchange.com/questions/310162/are-non-standard-models-always-not-well-founded/310207#310207
+
+There are several different senses in which a set model of ZF set theory could be "standard". I have marked this answer as community wiki, so please feel free to add any other definitions that you think of.
+
+1The model could have an \omega  that is isomorphic to the standard \omega. These models are called omega-models.
+
+2The membership relation of the model could be well founded when viewed from the outside. These models are called well founded models.
+
+3The model could use the standard membership relation  rather than some other membership relation. These models are sometimes called standard models.
+
+4The model could be a transitive set, and use the standard membership relation . These models are called transitive models.
+
+For any given model, (4) implies (3) implies (2) implies (1), and none of the converse implications hold in general.
+
+The Mostowski collapse lemma shows that every model of ZF satisfying (2) is isomorphic to a model satisfying (4).

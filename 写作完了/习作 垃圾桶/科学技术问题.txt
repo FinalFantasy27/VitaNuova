@@ -1,0 +1,21 @@
+The Question Concerning Technology
+
+	我们问，什么是启蒙？启蒙是对理性的信任，是乐观，以及最著名的，”就是人类脱离自己所加之于自己的不成熟状态……Sapere aude!要有勇气运用你自己的理智！这就是启蒙运动的口号。“^[1]
+	乔姆斯基（Noam Chomsky）说道：“I am a Child of the Enlightenment.”^[2]可是，我们想到"A Child of  the Enlightenment"要经历什么：水俣病、切尔诺贝利、环境问题……
+	技术是“a way of revealing”^[3]。可是，难道“解蔽”（uncovering）不也是一种“遮蔽”吗？我们需要“解蔽”吗？
+	技术最大的矛盾是盾的发展永远也赶不上剑的发展。技术的问题只能由技术解决。人们无法回到过去。技术就像一座冒着隆隆的蒸汽狂呼乱叫着不停行驶的火车，它的轮子不断地飞快转动，两边的连杆不停地上下摆动，它行驶在一条单行道上，它无法停下，路上有无数的小石子、碎石、碎屑，它们堆积在路的两旁，或者在轨道上，它们不断地与摩擦、碰撞着车，对它造成了损坏……唯一克服困难的方法就是不断地向前开。^1
+	悬在我们头上的达摩克里斯之剑变成了最能保护我们免受伤害的东西。这个时代是托马斯·谢林（Thomas Schelling）们的胜利。可是当我们仔细考虑，事实真的就如那样叙事一般吗？
+	现代性与大屠杀。但考虑到成吉思汗杀了和古代的屠城。
+	我们可以说，现代强大的政治动员能力促成了图鲁族大屠杀和排华事件的诞生吗？
+	程序化与无责任体制，但這是事实，还是一种部分为了脱罪而进行的的事后的重构呢？
+	哈贝马斯说有人总是把现代性和工具理性等同起来了。^[4]一个批判是：将科学进步等同于技术进步，将科学实在论（一个认识论立场）等同于技术基要主义（一个价值论立场）。
+	“现代性是一项未完成的事业”（Modernity: an unfinished project）
+
+注释：
+1当然，这不是说我们不可以减速缓行或修缮我们的道路。
+
+参考文献：
+[1] 康德. 历史理性批判文集[M]. 何兆武 译. 北京：商务印书馆，1990. p22.
+[2] Chomsky. Chronicles of Dissent: Interviews with David Barsamian[M]. Monroe: Common Courage Press, 1992. p158. ，转引自Neil Smith and Nicholas. Chomsky: Ideas and Ideals, Third Edition[M]. Cambridge: Cambridge University Press, 2016. p1.
+[3] Heidegger, M.  The question concerning technology: and other essays[M]. W. Lovitt, Trans. New York: Harper Torchbooks, 1977. p12.
+[4] 尤尔根·哈贝马斯. 后形而上学思想[M]. 曹卫东 译. 南京：译林出版社，1998. p12.

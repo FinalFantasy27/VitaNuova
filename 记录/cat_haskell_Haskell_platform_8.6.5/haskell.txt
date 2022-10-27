@@ -1,0 +1,35 @@
+·fact n = product [1..n]
+
+The expression [1..n] is a list of integers from 1 to n. The function product multiplies all elements of a list. That’s just like a definition of factorial taken from a math text. 
+Compare this with C:
+
+int fact(int n) {
+int i;
+int result = 1;
+for (i = 2; i <= n; ++i)
+result *= i;
+return result;
+}
+
+·doubleSmallNumber' x = (if x > 100 then x else x*2) + 1
+else部分不可省略，省略括号就只会在小于100时加1
+·函数不能大写字母开头
+没有参数的函数就是定义
+·Unary minus There is a little gotcha with the unary minus: when you write a negative literal, like -8, it is treated like the application of the function negate to a literal 8. This is why you sometimes have to parenthesize it, as in:
+mod    (-8)    3 2    *    (-3)
+or
+Without parentheses, the Haskell compiler will issue one of its infamously cryptic error messages.
+·Multi-line   modes   in   GHCi        To   input   multiple   lines   of   Haskell   into   the   interactive environment at once, wrap  the  code  in :{  and :},  e.g.:
+:{
+let    abs    x    |    x    >=    0    =    x
+|    otherwise    =    - x
+:}
+A multi-line comments starts with {- and ends -}
+·Composition  in  Haskell  is  denoted  by  a  period  “.”   between  two  functions.   We  can deﬁne  new  functions by  composing  existing  functions, e.g.
+Prelude>    words    "Hello    world" ["Hello","world"]
+["Hello","world"]
+Prelude>    length    ["I","like","cats"]
+3
+Prelude>    let    countwords    =    length    .    words
+Prelude>    countwords    "Yay    for    composition!"
+3

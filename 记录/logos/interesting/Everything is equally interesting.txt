@@ -1,0 +1,34 @@
+Everything is Equally Interesting
+William Seager
+University of Toronto
+Andre' Vellino,
+Bell-Northern Research
+Parrsboro, Nova Scotia, 16 August 1989
+Theorem 1:
+If everything is equally boring then everything is equally interesting.
+Proof:
+Assume everything is equally boring but suppose that there exist an X such that X is less interesting than some Y, Y <> X. Clearly X is more boring than Y, which contradicts our assumption. QED.
+Theorem 2:
+
+Everything is interesting.*
+Proof:
+Suppose not. Then there are uninteresting things. Assuming the axiom of choice, the set of uninteresting things can be well ordered. Then there is a least element: a least uninteresting thing**. But this would be interesting.*** QED.
+Corollary:
+Nothing is boring.
+Proof:
+Note that if something is interesting it is not boring. QED.
+Theorem 3:
+
+Everything is equally boring.
+Proof:
+This follows immediately from the corollary to theorem 2. QED.
+Theorem 4:
+
+Everything is equally interesting.
+Proof:
+By modus ponens from theorems 1 and 3. QED.
+* This result is well known generalization of the famous proof by van Fraassen that every integer is interesting.
+
+** We are not claiming, of course, that the ordering relation is that of being more interesting, simply that there is a least element in the set of uninteresting things.
+
+*** This claim should not be confused with the meta-theoretical claim that it would be interesting {\em that} this thing is the least element in the set of uninteresting things. However, the fact that it is the least element {\em makes\/} it an interesting thing.

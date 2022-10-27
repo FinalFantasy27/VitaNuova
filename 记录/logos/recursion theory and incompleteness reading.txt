@@ -1,0 +1,11 @@
+
+Cutland
+Cooper+Shoenfield
+Rogers+Soare
+Fenstad 一般递归论Hinman 递归论层谱Lerman 不可解度Sacks 高级递归论
+Feferman1960
+Monk1976
+grzegorczyk
+1，Feferman 19602，Jeroslow 1971, 19733，monk 1976 不完备定理相关章节4，Girard 19875，Hajek, Pudlak 19936，Kotlarski 《A Model-Theoretic Approach to Proof Theory》7，Kripke “Elementary Recursion Theory and its Applications to Formal Systems”（未成书，1996年学生整理的讲义）8，smullyan和他的学生fitting的“不完备定理
+”（尤其是fitting那本“集论中的不完备性”
+）……

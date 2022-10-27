@@ -1,0 +1,12 @@
+一个修改（模态）论证的练习：
+
+17.“8. 所以，任何主观经验都必然有一个听觉的维度。 ” Presumably this conclusion (an extraordinary one) is reached by going through the two disjuncts in #7 and, in the more challenging case of the second disjunct (i.e., when there is no hearing organ), relying on #6. 
+But #6 speaks of “experience in an auditory-mode”, whereas #8 speaks of “an auditory dimension”. So at least formally, the conclusion does not follow, because “auditory-mode” is (by your own lights) not the same as “auditory”. 
+If #8 is to follow, it is necessary (though still not sufficient: see below) that #8 use “a dimension in the auditory-mode”, but then the burden of explaining “auditory-mode” remains undischarged. 
+ Further, #8 is formulated in the modality of “necessarily”. It is hard to see how this can be justified by the modality of “possibly” in #4 and hence in #6 (see comment on #6 above). 
+This jump in modality seems to somehow result from changing the subject-matter from #6 to #8. #6 is about a certain kind of subjects of experiences, whereas #8 is about experiences of subjects (“subjective experiences”). But these two belong to different logical categories (the category of SUBSTANCES or MATERIAL BODIES and the category of OCCURRENCES, respectively). It is hard to see how your change of subject-matter from #6 to #8 can be justified. 
+And it is hard to avoid the impression of a category-mistake here. 
+ What CAN be inferred from #6 (after clarifying its modality) and #7 is: 
+#7.5: Any subject of experience is capable of having experiences in an auditory-mode. 
+But this is a far cry from, and much less “exciting” than, #8. 
+ 回应：感谢两位外审专家所指出的论证中存在的这些瑕疵。按照两位专家的意见，在模态和主语上进 行了统一。新的论证（第11-12页）以“经验”作为主语，而不是在“经验”和“经验主体”之间来 回切换。 最后的结论从“任何主观经验都必然有一个听觉的维度”改为了“任何主观经验都必然包含听觉形态 的经验” 。这样的改动保留了原结论的要义。

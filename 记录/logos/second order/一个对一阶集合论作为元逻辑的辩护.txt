@@ -1,0 +1,3 @@
+一阶的M ⊨_s ϕ是绝对的，而二阶的不是
+
+we say that a formula \phi(x_1,\ldots,x_n) of the first order language of set theory is absolute relative to ZFC if there is a finite T⊆ZFC such that for all transitive models (M,∈) of T and all a1,…,an∈M we haveϕ(a1,…,an) if and only if (M, ∈)⊨ϕ(a1,…,an).

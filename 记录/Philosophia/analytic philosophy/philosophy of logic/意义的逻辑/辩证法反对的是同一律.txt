@@ -1,0 +1,56 @@
+我觉得paraconsistent logic和辩证法已经没多大关联了；由辩证法为代表的一派逻辑，与其说反对矛盾律，不如说反对的是同一律，ta们追问的是：为什么你就能够确定无疑地谈论“这个”或“那个”对象（也就是模型地的论域里面的东西都是固定好了的，元层面的话题），考虑“水=h2o；水必然=h2o”，“水”作为一个论域中的对象以及确定/固定下来了。我们可以引入时间因素，但是会把一切搞得复杂
+
+Analytic philosophers, to hark back to that earlier section, find it difficult to think of difference save in negative terms. The reasons for this are many and complex, and they may not be entirely philosophical. But they centrally include the fact that it would be impossible to recast the stand ard logic of numerical identity in terms of difference without the use of negation. That logic comprises two principles: (i) if a = b and a has feature F, then b has feature F; and (ii) a = a .34在命题逻辑中，这种情况只是被推迟到了元的情况中
+
+34 See Frege (1967), 20 and 21. How does (i) accommodate, say, the fact that Wilfrid was once clean-shaven and is now bearded? Analytic philosophers disagree about how to answer such questions. Some would construe ‘features’ in such a way as to exclude being clean-shaven and being bearded in favour of being clean-shaven-at- t1 and being bearded-at-
+t2. Others, notably Lewis (see Lewis (1986c), pp. 204–206), would deny that the entity which was once clean-shaven is numerically identical to the entity which is now bearded. There are many other views besides. For a very helpful survey, see Gibson (unpublished), Ch. 4, 4. For an excellent contribution to the discussion, see Sattig (2006).如果采纳前一种观点，那么同一性的问题就变成如何识别一个物体的不同时间片段如何归属于它？一个时间片段的不同部分中，哪些是属于它的，哪些不是属于它的？
+在Gibson那里，问题变成了有不同的“同一性”标准
+419
+
+in common with Nietzsche (Ch. 15, 7(b)), Bergson (Ch. 16, 4), Heidegger (Ch. 18, ?4), and Derrida (Ch. 20, 4), Deleuze wants to reject the prioritization of identity over difference that has been a characteristic of most of Western philosophy – and that is still indeed a characteristic of most of analytic philosophy. (Cf. p. xv.39)
+
+Even with haecceities excluded, this converse entailment has had its adherents, notably Leibniz, who thought that it followed from his principle of sufficient reason (e.g. Leibniz (1973d), pp. 88–89).
+554 
+
+A.W.Moore, The Evolution of Modern Metaphysics: Making Sense of Thing, Cambridge University Press, 2012
+
+我想谈谈违反同一律的动机或辩护。The idea comes from carnap and quine。carnap谈到对不同语言框架的“宽容原则”；而quine则谈到本体论相对性（例如你的论域可以选择“兔子”也可以选择“兔子的时空片段”）。违反同一律的情况也可以看作如此，它可能可以看作一种等价的不同的处理，或即使不等价但仍有一些别的优势的处理方式approach，或仅仅是作为一种可以保留的可能性。
+让我们来看几个例子：1+1=2，但是一堆谷堆“加上”一堆谷堆却不是两堆谷堆，而还是一堆谷堆；或者在化学反应中，一份化合物和另一份等剂量的同种化合物发生反应，一般来说最终的结果并不是两份量的这种化合物。当然有人可以辩护说当你将一堆谷堆和另一堆谷堆分别放置而不是混在一起时--也就是不互相影响/独立时，它们的加和的确是两堆谷堆。但我宁愿说这是一个细化分析后选取了不同的本体论处理方式的例子，对于化学反应的case也是如此。
+再考虑一个例子，让S_1代表“坐”，S_2代表1“站”，违背排中律，“矛盾派”可能会说A站着和A坐着反驳了排中律，加入时间因素可以保留排中律；但从一种相对的本体论来看用一种不加入时间因素的违反排中律的逻辑来试着讨论相关问题或许也是可行的
+就像在可能世界与命题集哪个优先的问题上，用布尔代数来讨论，两者都是等价的。
+On the one hand, Stalnaker has suggested that we should treat propositions as sets of possible worlds; on the other, Adams has suggested that we should treat possible worlds as maximally consistent sets of propositions. Stone’s Duality Theorem naturally suggests that these two approaches are notational variants, in some sense. Developing this, we show that the apparently rival perspectives are biinterpretable, in the sense of Chapter5.(p337)
+引自 13: Boolean-valued structures
+
+书名: Philosophy and Model Theory
+作者: Tim Button/Sean Walsh
+页数: 517
+出版社: Oxford University Press
+
+
+差异是必然的吗
+
+直观上，似乎可能有这样的情况：
+拜登和特朗普虽然在现实世界是两个人，但在别的可能世界里是同一个人。（或者考虑一个自然类的例子，“水”可不可以是“香蕉”？就算假设“水=h2o”是必然的，好吧，那么“h2o”可不可以是“香蕉”？）
+
+然而，一般的模态逻辑处理，如果两个常项a和b在某个世界v指称了同一个对象，那么它们在另一个世界w也一定指称了同一个对象。这就会导致上面那个直观可能的情况不可能
+
+但是如果不按通常的模态逻辑处理，似乎又违反了“拜登”和“特朗普”作为严格指示词的属性
+
+
+如果不考虑这个疑难问题，假设常项的指称是跨世界可以不同却还能保留专名作为严格指示词的“属性”。我们似乎仍能保留“同一的必然性”（∀x∀y(x=y→□x=y)），即通过莱布尼茨律和∀x□x=x。
+
+而差别的必然性¬x=y→□(¬x=y)可以被舍弃
+
+（以上的讨论要对frame作限制）
+
+考虑起源本质主义如果在这种情况下还是正确的话，也就是说一个人不可能不为ta父母（或至少那个精子和卵子）所生。
+那么假设拜登和特朗普可能是同一个人的话，那么这似乎意味着ta们的父母也要是同一对，一直追溯上去，或许要追溯到第一个生命。不考虑一些疑难问题，似乎起源本质主义与“直观想法”可以相容。
+
+最后，关于起源本质主义一直以来仍有一个疑问：我不可能在另一个世界是一根香蕉吗？
+而如果起源本质主义是对的话，我有没有可能在另一个世界是一根香蕉（假设在那个世界精子和卵子可以等同于结出我的树的话？）
+
+类似本体论的相对性，按照一些说法，“行星的数目”是个描述，不适合处理做一个对象（这里偏离nn了，我也不持下面的看法），不过假设我们的论域中有这么一个抽象的实体，那么它在世界w可能等于8，在世界v可能等于16（这里似乎没有不只差异必然，连同一必然也没有了）；当然，可能辩护说这里的“等于”关系不是一个真正的等于关系而只是一个等价关系。
+
+必然同一谈论的是名字的问题
+
+你怎么谈论特朗普和拜登这两个“对象”可以是一个

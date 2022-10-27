@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                        %
+%      This file is part of the 'lilyglyphs' LaTeX package.              %
+%                                ==========                              %
+%                                                                        %
+%              https://github.com/openlilylib/lilyglyphs                 %
+%               http://www.openlilylib.org/lilyglyphs                    %
+%                                                                        %
+%  Copyright 2012-2020 Urs Liska and others, ul@openlilylib.org          %
+%                                                                        %
+%  'lilyglyphs' is free software: you can redistribute it and/or modify  %
+%  it under the terms of the LaTeX Project Public License, either        %
+%  version 1.3 of this license or (at your option) any later version.    %
+%  You may find the latest version of this license at                    %
+%               http://www.latex-project.org/lppl.txt                    %
+%  more information on                                                   %
+%               http://latex-project.org/lppl/                           %
+%  and version 1.3 or later is part of all distributions of LaTeX        %
+%  version 2005/12/01 or later.                                          %
+%                                                                        %
+%  This work has the LPPL maintenance status 'maintained'.               %
+%  The Current Maintainer of this work is Urs Liska (see above).         %
+%                                                                        %
+%  This work consists of the files listed in the file 'manifest.txt'     %
+%  which can be found in the 'license' directory.                        %
+%                                                                        %
+%  This program is distributed in the hope that it will be useful,       %
+%  but WITHOUT ANY WARRANTY; without even the implied warranty of        %
+%  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                  %
+%                                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This file is part of the lilyglyphs package %
+% and defines one subset of glyphs            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Dynamic Script letters %
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--------------
+% Single Glyphs
+
+% The dynamics letters don't have to be accessed through special commands
+% but can be written through \lilyText.
+% A chain of glyphs can be printed at once, 
+% normal space is possible between letters
+% Available glyphs are
+	% f for forte
+	% p for piano
+	% m for mezzo
+	% r for rin-
+	% s for s- (as in sf)
+	% z for -z (as in sfz)
+
+% \lilyDynamics is just a wrapper around \lilyText
+% specifying a default scaling factor
+\newcommand{\lilyDynamics}[2][]{%
+	\setkeys{lilyDesignOptions}{scale=1.5,raise=0}%
+	\lilyPrint[#1]{#2}%
+}
+
+%-------------------------
+% Combined Dynamic Scripts
+
+% Combined dynamics aren't generally necessary
+% as \lilyText takes any combination of characters as argument.
+% Some combinations seem to need additonal kerning,
+% so we provide predefined commands for them
+
+% rinforzando 
+\newcommand{\lilyRF}[1][]{%
+	\mbox{\lilyDynamics[#1]{r\hspace{0.035ex}f}}%
+}
+	
+% rinforzando with trailing z
+\newcommand{\lilyRFZ}[1][]{%
+	\mbox{\lilyDynamics[#1]{r\hspace{0.035ex}fz}}%
+}
+
+%------------------------
+% Graphical Dynamic Signs
+
+% decrescendo Hairpin
+% created by buildglyphimages.py on 2012-11-08
+\newcommand*{\decrescHairpin}[1][]{%
+    \setkeys{lilyDesignOptions}{scale=0.9,raise=0}%
+    \lilyPrintImage[#1]{lily-decrescHairpin}%
+}
+
+% crescendo Hairpin
+% created by buildglyphimages.py on 2012-11-08
+\newcommand*{\crescHairpin}[1][]{%
+    \setkeys{lilyDesignOptions}{scale=0.9,raise=0}%
+    \lilyPrintImage[#1]{lily-crescHairpin}%
+}

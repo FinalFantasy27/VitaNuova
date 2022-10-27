@@ -1,0 +1,8 @@
+如果存在形如Laerfa的ZFC模型, 那就存在下标最小的一个这样的模型Laerfa0 (这也是另一个回答中引用的FOM论坛里说的"Shepherdson-Cohen minimal model"). 这个模型的一个性质是它的每个元素都能被无参数定义: 如果x\inLaerfa0, 那么就存在一个无参数的公式phi(y), 使得x是Laerfa0认为的满足phi(y)的唯一元素. 证明不难, 如果这不成立的话, 那么取Laerfa0中所有满足条件的集合, 就能得到它的真初等子模型, 这个子模型将会坍缩为更低的一个Laerfa, 与aerfa0的最小性矛盾.
+
+每个元素都可被描述的模型叫pointwise definable models of set theory. Hamkins等人写过一篇文章专门讨论这个问题, 很有意思: https://arxiv.org/abs/1105.4597
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/517534492/answer/2356990330
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

@@ -1,0 +1,9 @@
+Liouville theorem
+Nullstellensatz
+Noga Alon
+Roth
+Szemeredi
+Szeremedi's regularity Lemma
+Graph Counting Lemma和Graph Removal Lemma
+Triangle counting lemma
+Triangle removal Lemma

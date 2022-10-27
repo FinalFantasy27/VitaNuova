@@ -1,0 +1,13 @@
+另外请关注相关会议的最新动态：
+TARK. Conference on Theoretical Aspects of Rationality And Knowledge. (bi-annual)
+LOFT. Logic and the Foundations of Game and Decision Theory (bi-annual)
+LORI.  Workshop on Knowledge, Action and Rationality. (since 2007)
+AAMAS. International Conference on Autonomous Agents and Multiagent Systems (annual)
+AiML. Advances in Modal Logic. (bi-annual)
+M4M. Methods for Modalities (bi-annual)
+AAAI. AAAI Conference on Artificial Intelligence (annual)
+KR. Principles of Knowledge Representation and Reasoning. (annual)
+IJCAI. International Joint Conference on Artificial Intelligence. (bi-annual)
+LICS. IEEE Symposium on Logic in Computer Science. (annual)
+CSL.Conference on Computer Science Logic. (annual)
+WoLLIC. Workshops on Logic, Language, Information and Computation. (annual)

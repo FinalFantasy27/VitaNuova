@@ -1,0 +1,21 @@
+One form of the reflection principle in ZFC says that for any finite set of axioms of ZFC we can find a countable transitive model satisfying these axioms. (In particular this proves that, unless inconsistent, ZFC is not finitely axiomatizable because if it were it would prove the existence of a model of itself, and hence prove its own consistency, contradicting Gödel's second incompleteness theorem.)
+
+Another version of the reflection principle says that for any finite number of formulas of ZFC we can find a set Vα in the cumulative hierarchy such that all the formulas in the set are absolute for Vα (which means very roughly that they hold in Vα if and only if they hold in the universe of all sets). So this says that the set Vα resembles the universe of all sets, at least as far as the given finite number of formulas is concerned. In particular for any formula of ZFC there is a theorem of ZFC that the formula is logically equivalent to a version of it with all quantifiers relativized to Vα See (Jech 2002, p. 168).
+
+反射定理是定理模式(即对于每一个公式 都有一条定理)
+如果我们想要将反射定理单独表述为一条定理, 我们想一下需要怎么样表述. 直观地, 我们想要如下单独一条语句作为ZFC的定理:
+对于任意有限的语句集{\phi_1, ... , \phi_n}, 都存在一个序数α使得Vα|=\phi1 \land ... \land \phi_n \leftrightarrow \phi_1 \land ... \land \phi_n
+要想将这段内容用一个ZFC的语句表达出来, 我们需要
+
+1. 能够量化语句(集). 这点可以通过哥德尔编码做到. 即"任意有限的语句集"="任意有限个自然数, 其中每个自然数都是某个语句的哥德尔数"
+
+2. 能够表达Vaerfa的满足关系(Vaerfa|=phi). 这一点也可以做到, 这是稍微进阶一些的集合论教材里面必备的内容.
+
+3. 能够表达"phi为真".
+
+3就是为什么反射定理是定理模式而不是单独一条定理. 塔斯基不可定义定理告诉我们, 不存在一个语句Tr(x), 使得对所有自然数n, 如果n是phi的哥德尔数, 则Tr(n)当且仅当phi为真. 这说明了3是无法被满足的.
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/337331269/answer/1771650892
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

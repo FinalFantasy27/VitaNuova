@@ -1,0 +1,16 @@
+·Here’s a trivial example. If you or I were introducing a suitable language for doing propositional modal logic, we might say: OK, we need an unlimited supply of propositional atoms, and here they are, P, P’, P”, P”’, etc.; we want a couple of propositional connectives, say → and ¬; and the Box as a necessity operator. Then we’d remark, parenthetically, that of course the precise choice of symbolism is neither here nor there. Job done. For of course, sufficient unto the day is the rigour thereof.
+
+·"(iv) * \in SP; and if B \in SP, then
+ "(v) A \and B, B \and A, A\or B, ... \in SP.
+ "An alternative style of presentation of this definition is
+ "P = *| A \and P | P \and A | ...
+ "...
+ "SP = * | A \and SP | SP \and A| ..."(Basic Proof Theory, p6)
+
+·Every boy loves some girl.
+
+and
+
+Some boy loves every girl.
+
+例如，第二句被山治和弥勒例示

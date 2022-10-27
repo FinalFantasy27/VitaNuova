@@ -1,0 +1,26 @@
+cohen的原始进路叫strong forcing relation，在某种意义上来看是过时（obsolete）的，它的联结词和量词部分有着显然的定义： if a condition p "forces" (∃x)ϕ(x) to hold, there should be a term t such that p forces ϕ(t) to hold. (This intuition can be complicated, in the case of set-theoretic forcing, by the fact that the term t will be a P-name. But for recursion-theoretic forcing, t may well just be a natural number.)
+这是“直觉主义”式的，因为p||-~~\phi不意味着p||-\phi，例如空集||-~~Ex x \in G，但并不
+
+我们可以通过双重否定翻译来将经典逻辑嵌入直觉主义逻辑来得到waek forcing relation（due to shoenfield），它的定义是：c|=w p iff c|=s ~~p 
+在这个定义下，就有For example, in recursion theoretic Cohen forcing over a model of PA to construct a generic G⊆N, with the classical forcing relation ⊩, we have ⟨⟩⊩[5∈G∨5∉G], even though ⟨⟩⊮5∈G and ⟨⟩⊮5∉G. This is because ⟨⟩ strongly forces ¬¬(5∈G∨5∉G). Similarly ⟨⟩ forces (∃x)[x∈G] without strongly forcing any particular number to be in G, because ⟨⟩ does not strongly force G to be empty.
+
+Some modern accounts also incorporate classical logic into the definition of forcing by beginning with a limited set of connectives (e.g. including ¬, ∧, and ∀, but not ∃ and not ∨), and then assuming the other connectives are given by their classical definitions, which are not intuitionistically correct.
+
+Strong forcing: ~, c ||- \lor: c||-p or c||- q, c ||- \exists: exists x c||- (boolos)
+
+weak forcing: ~, \land, \forall （obvious analogous stipulation, ruizhiYang, p.136）
+or
+\bottom, \rightarrow: \forall q<=p (q||-\phi \rightarrow q||-\psi), \forall （Shen, pp.3-4; A tour）
+引理 3.27 (1) p||-\phi->\psi iff \lnot\exists q <=p (q|=\phi \land q|= \lnot\psi) (p.136), which is the definition of weaver: every q<=p q|=\psi_1 has an extension forces \psi_2 (p.41)
+and because of 引理 3.27 (3) p||-\phi iff \forall q <= p (q||-\ \lnot\phi), the two are equivalent.
+
+and \lor and \exists is abbreviation and so defined by "dense above p"
+
+c |=_w p iff c |=_s p (A tour, p.242)
+
+weak forcing: c|=p iff c|=~~p (A tour, Exercise 7(a))
+lemma 1.7 (Shen Guozhen)/Ruizhi Yang 引理3.27(2) (p.136). For all p \in P, \forall q >= q \exists r >= q (r |= ), then p |= .
+therefore the definition of Weaver: ~, \rightarrow: 
+\forall: for any P-name τ, the set of q which force ψ(τ, τ1, . . . , τn) is dense above p. (p. 41)
+
+Then the relationship between the two versions is that our d ||- P is equivalent to d ||-^C ~~ P, but weaker than d ||-^C P. So the forward direction of Exercise 7(a) fails for Cohen's forcing. (The reverse direction still holds, because Proposition 6.9) is still true for Cohen's forcing.) Because of this, Cohen's forcing was called strong forcing and what we have presented was called weak forcing. Since Exercise 7(a) is not correct for strong forcing, it is clear that Theorem 6.12 ({}||-P for each axiom P of ZF; {}||-P \land {}||-P -> Q, then {}||-Q; {}||-GCH and V=\L) cannot hold for strong forcing either. Cohen used strong forcing as his primary notion, but then essentially used weak forcing (by inserting ~~ before every formula) to state his main results. Eventually, weak forcing became the standard way to define forcing, so I have conformed to this usage. (A tour, p.242)

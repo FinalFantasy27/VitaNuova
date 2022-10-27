@@ -1,0 +1,9 @@
+ states of affairs 和 facts 之类的都是 abstract objects，而 events 是 concrete objects
+
+ sense-data/ sense-datum theory承诺了一种特殊的 mind-dependent objects，而这通常被认为是反物理主义的，例如 SDT 认为一些属性是属于 sense-datum 的，而物理主义可能认为只有物理对象才能具有属性，或者认为 sense-data 所占据的现象空间 (phenomenal space) 的概念是物理主义不能容纳的，在近年来还有认为 SDT 承诺了 acquaintance theory，而后者与物理主义是不兼容的
+
+qualia这个概念在很长一段时间内都被理解作 quality/ property of sense-datum。今天广义的 qualia 泛指一切 whatever qualities a state of mind has which constitute the state of mind's having the phenomenal character it has。狭义的 qualia 特指properties of a subject's mental states that are
+ineffable
+intrinsic / non-representational
+private
+directly or immediately apprehensible in consciousness [Daniel Dennett ‘Quining Qualia’ 1988]

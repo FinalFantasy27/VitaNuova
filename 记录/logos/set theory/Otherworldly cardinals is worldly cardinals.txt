@@ -1,0 +1,8 @@
+如果κ不是基数，那么它就能跟某一个在它下面的序数建立双射（更简单地说，它能跟|κ|建立双射）。那么这样一个双射f:|κ|<->κ，我们可以看作是给|κ|赋予了一个序<：对于x,y∈|κ|, 定义x<y iff f(x)∈f(y)。（这个理解起来可以可以把κ替换成ω+ω的具体例子来想，这样比较直观）。 这样子κ就是|κ|上的一个关系的order type.
+
+而由于|κ|, κ, 和刚才定义的的那个关系<都是Vλ的元素，而"|κ|上的关系<跟κ是同构的"对于包含|κ|, κ, <这三个元素的传递集合来说是绝对的，所以Vλ也满足"|κ|上的关系<跟κ是同构的"。也就是说，Vλ满足"|κ|上的关系<跟某个序数是同构的"。那么根据elementarity, Vκ也满足这句话。但是一个良序关系只能同构于唯一一个序数，而κ又不是Vκ的元素，所以Vκ不应该满足"|κ|上的关系<跟某个序数是同构的"
+​
+actually, Hamkins可能默认了一个引理，没有写出来，那就是当Vκ是Vλ的elementary submodel时，κ和λ都会是limit ordinal. 这个的证明是，如果κ=β+1，那么Vκ就会认为β是最高的序数，所以根据elementarity，Vλ也会这么认为。但Vλ能看见κ，并且能看见β∈κ，所以它不会认为β是最高的序数。（λ是limit ordinal的情况也类似，就是反证法，假设Vλ认为“有一个最高的序数”，然后把这句话带回Vκ里面再existential elimination就行）
+
+“Finitists hold that infinite sets (and geometrical infinities) are just convenient fictions, while only the finite is "real". This we must later consider. For that matter, is a finite set real? On the fourth day of Christmas, did my true love send me four colley birds or a set of four colley birds? Where is the set?”
+—Saunders Mac Lane

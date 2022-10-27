@@ -1,0 +1,3 @@
+31. Levy takes essentially what I am calling class models to be the basic notion when discussing set theory [Lev79, p. 33].
+
+Shoenfield caIled an interpretation [Sho67, 4.7].

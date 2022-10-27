@@ -1,0 +1,5 @@
+Hermann Weyl (1949, §2.7) suggested that if one admits that the Zeno race is possible, then one should equally admit that it is possible for a machine to carry out an infinite number of tasks in finite time. However, one difference between the Zeno run and a machine is that the Zeno run is continuous, while the tasks carried out by a machine are typically discrete.
+
+Weyl, H., 1949, Philosophy of Mathematics and Natural Science, Princeton: Princeton University Press.
+
+SEP

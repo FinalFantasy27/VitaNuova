@@ -1,0 +1,2 @@
+
+meta-operation [g/Z], when applied to a formula f, replaces all free occurrences of Z in f with g

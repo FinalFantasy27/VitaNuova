@@ -1,0 +1,32 @@
+Das Instrument, welches die Vermittlung bewirkt zwischen Theorie und Praxis, zwischen Denken und Beobachten, ist die Mathematik; sie baut die verbindende Brücke und gestaltet sie immer tragfähiger. Daher kommt es, dass unsere ganze gegenwärtige Kultur, soweit sie auf der geistigen Durchdringung und Dienstbarmachung der Natur beruht, ihre Grundlage in der Mathematik findet. Schon GALILEI sagt: Die Natur kann nur der verstehen der ihre Sprache und die Zeichen kennengelernt hat, in der sie zu uns redet; diese Sprache aber ist die Mathematik, und ihre Zeichen sind die mathematischen Figuren. KANT tat den Ausspruch: "Ich behaupte, dass in jeder besonderen Naturwissenschaft nur so viel eigentliche Wissenschaft angetroffen werden kann, als darin Mathematik enthalten ist." In der Tat: Wir beherrschen nicht eher eine naturwissenschaftliche Theorie, als bis wir ihren mathematischen Kern herausgeschält und völlig enthüllt haben. Ohne Mathematik ist die heutige Astronomie und Physik unmöglich; diese Wissenschaften lösen sich in ihren theoretischen Teilen geradezu in Mathematik auf. Diese wie die zahlreichen weiteren Anwendungen sind es, denen die Mathematik ihr Ansehen verdankt, soweit sie solches im weiteren Publikum geniesst.
+
+Trotzdem haben es alle Mathematiker abgelehnt, die Anwendungen als Wertmesser für die Mathematik gelten zu lassen. GAUSS spricht von dem zauberischen Reiz, der die Zahlentheorie zur Lieblingswissenschaft der ersten Mathematiker gemacht habe, ihres unerschöpflichen Reichtums nicht zu gedenken, woran sie alle anderen Teile der Mathematik so weit übertrifft. KRONECKER vergleicht die Zahlentheoretiker mit den Lotophagen, die, wenn sie einmal von dieser Kost etwas zu sich genommen haben, nie mehr davon lassen können.
+
+Der grosse Mathematiker POINCARÉ wendet sich einmal in auffallender Schärfe gegen TOLSTOI, der erklärt hatte, dass die Forderung "die Wissenschaft der Wissenschaft wegen"  töricht sei. Die Errungenschaften der Industrie zum Beispiel hätten nie das Licht der Welt erblickt, wenn die Praktiker allein existiert hätten und wenn diese Errungenschaften nicht von uninteressierten Toren gefördert worden wären.
+
+Die Ehre des menschlichen Geistes, so sagte der berühmte Königsberger Mathematiker JACOBI, ist der einzige Zweck aller Wissenschaft.
+
+Wir dürfen nicht denen glauben, die heute mit philosophischer Miene und überlegenem Tone den Kulturuntergang prophezeien und sich in dem Ignorabimus gefallen. Für uns gibt es kein Ignorabimus, und meiner Meinung nach auch für die Naturwissenschaft überhaupt nicht. Statt des törichten Ignorabimus heisse im Gegenteil unsere Losung:
+
+Wir müssen wissen,
+Wir werden wissen.
+
+翻译：
+
+数学是连接理论与实践、思考与观察之间的工具，在给两者搭起桥梁的同时，也使得它们之间的联系更加紧密。也正是因此，只要我们如今的文化仍建立于知识的洞见和对自然的驾驭之上，那么这份文化的奠基就是数学。伽利略曾经说过：“一个人要理解自然，必须要先学会自然向我们沟通时所用的语言和符号，然而这份语言就是数学，它的符号就是数学符号。”康德也曾表态：“我的观点是，一门自然科学中包含了多少科学真理，取决于它包含了多少数学真理”。实际上，直到我们能完全提取和剖析一门自然科学的数学内涵之前，我们都不能算完全理解了这门科学的理论。缺少了数学，当今的天文学和物理学都将不再可能；这两门学科的理论部分展开来后直接就是数学。这些现象和无数的数学应用，给予了数学它如今在公众视野里的声誉。
+
+尽管如此，数学家仍然不愿将应用价值当作数学的价值标杆。高斯曾经讨论过最早的数学家对数论着魔般的痴迷，它的丰富性远超当时别的数学方向。克罗内克也曾将数论学家比作食莲人[2] ，一旦尝到了数论的美味，就再也无法接受没有数论的日子。
+
+托尔斯泰曾经认为，“纯粹为了科学而做科学”是一项愚蠢的行为，这个观点遭受到了来自伟大的数学家庞加莱的尖锐抨击。要不是有纯粹为了科学而做科学的“蠢人”，又或者说，如果世上仅有满脑子应用的人，那么产业界如今的伟大成就将永无出头之日。
+
+正如来自科尼斯堡的伟大数学家雅可比所说，人类心智的荣耀，就是科学的单一目标。
+
+当今时代有一些人，带着哲学的有色眼镜，话语中总是高傲地预言文化的终结和奉劝各位接受终极不可知物。我们千万不可相信这类人的言辞。对于我们来说，没有什么是不可知的，以我的观点来看，哪怕在自然科学里，也是没有什么不可知物的。所以与其考虑这种愚蠢的不可知论，不如让我们铭记我们的箴言：
+
+我们必须知道，
+
+我们必将知道。
+
+^“ignorabimus”，拉丁语"我们将会无知"，延伸意义为“不可知物”，在德语世界中的广泛传播归功于科学家Emil du Bois-Reymond在1872年一场名为“科学的极限”的演讲，其中讨论了一些他认为科学永远无法回答的问题。
+
+^荷马史诗奥德赛中一群以忘忧果为食的岛民。故事中，奥德赛曾派三名部下去探索这个岛，而三人均因食用忘忧果后流连忘返不愿归船

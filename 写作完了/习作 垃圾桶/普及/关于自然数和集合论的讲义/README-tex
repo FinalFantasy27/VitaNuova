@@ -1,0 +1,7 @@
+This directory contains files to be found by LaTeX.
+
+The core/ and commands/ subdirectories
+_must_ remain beside the lilyglyphs.sty package!
+
+The pdfs/ subdirectory contains files
+that are _used_ by the package.

@@ -1,0 +1,100 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                        %
+%      This file is part of the 'lilyglyphs' LaTeX package.              %
+%                                ==========                              %
+%                                                                        %
+%              https://github.com/openlilylib/lilyglyphs                 %
+%               http://www.openlilylib.org/lilyglyphs                    %
+%                                                                        %
+%  Copyright 2012-2020 Urs Liska and others, ul@openlilylib.org          %
+%                                                                        %
+%  'lilyglyphs' is free software: you can redistribute it and/or modify  %
+%  it under the terms of the LaTeX Project Public License, either        %
+%  version 1.3 of this license or (at your option) any later version.    %
+%  You may find the latest version of this license at                    %
+%               http://www.latex-project.org/lppl.txt                    %
+%  more information on                                                   %
+%               http://latex-project.org/lppl/                           %
+%  and version 1.3 or later is part of all distributions of LaTeX        %
+%  version 2005/12/01 or later.                                          %
+%                                                                        %
+%  This work has the LPPL maintenance status 'maintained'.               %
+%  The Current Maintainer of this work is Urs Liska (see above).         %
+%                                                                        %
+%  This work consists of the files listed in the file 'manifest.txt'     %
+%  which can be found in the 'license' directory.                        %
+%                                                                        %
+%  This program is distributed in the hope that it will be useful,       %
+%  but WITHOUT ANY WARRANTY; without even the implied warranty of        %
+%  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                  %
+%                                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This file is part of the lilyglyphs package %
+% and defines the key-value functionality     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Define keys for keyval options
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Family lilyDesignOptions
+%
+% This family is used for defining default values for the options at design time
+% i.e. when developping predefined commands.
+\define@key{lilyDesignOptions}{scale}{\def\lilyDesignOptions@scale{#1}}
+\define@key{lilyDesignOptions}{raise}{\def\lilyDesignOptions@raise{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Family lilyGlobalOptions
+%
+% This family is used for globally adjusting the option values.
+% The user can globally override options at any time
+% using the command \lilyOptions.
+% This is originally intended for cases where the package defaults
+% are not very suitable for the font of the continuous text
+\define@key{lilyGlobalOptions}{scale}{\def\lilyGlobalOptions@scale{#1}}
+\define@key{lilyGlobalOptions}{raise}{\def\lilyGlobalOptions@raise{#1}}
+% Initialize these \defs to 'no adjustment' because the user doesn't have to do that
+\def\lilyGlobalOptions@scale{1}
+\def\lilyGlobalOptions@raise{0}
+
+% Change any of the global options at any place in the document
+% (only options that are present are affected)
+\newcommand*{\lilyGlobalOptions}[1]{\setkeys{lilyGlobalOptions}{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+% Family lilyCmdOptions
+%
+% This family is used for options the end user can use to fine tune the output
+% (i.e. within the actual document)
+\define@key{lilyCmdOptions}{scale}{\def\lilyCmdOptions@scale{#1}}
+\define@key{lilyCmdOptions}{raise}{\def\lilyCmdOptions@raise{#1}}
+
+% Calculate the effective option values from 
+% - global defaults,
+% - design time defaults and
+% - actual user options
+%
+% Scaling factors are multiplied.
+% Raise levels are summed.
+\newcommand*{\interpretLilyOptions}[1]{%
+	% initialize user arguments (no argument = no change)
+	% in order to avoid uninitialized arguments
+	\setkeys{lilyCmdOptions}{scale=1,raise=0}%
+	% Options that are present override the defaults
+	\setkeys{lilyCmdOptions}{#1}%
+	% calculate the scaling factor 
+	\pgfmathsetmacro{\lilyEffectiveScale}{%
+		\lilyGlobalOptions@scale * \lilyCmdOptions@scale * \lilyDesignOptions@scale}%
+	% calculate the raise level from the design value and the optional user value
+	\pgfmathsetmacro{\lilyEffectiveRaise}{%
+		\lilyGlobalOptions@raise + \lilyCmdOptions@raise + \lilyDesignOptions@raise}%
+}
+
+\makeatother
+

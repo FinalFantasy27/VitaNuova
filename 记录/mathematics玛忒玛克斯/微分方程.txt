@@ -1,0 +1,19 @@
+
+. 局部最大化的必要条件：f'>0和f''>0
+. 偏导（partial derivative）∂：在其它变量不变的情况下研究单一变量的“微小”改变造成的影响
+. 全微分：dy = ∂f/∂x_1 dx_1 + ... + ∂f/∂x_n dx_n
+
+尼科尔森第二章最优化的数学表达
+
+
+d/dt l(t) = \underset{\Delta t \rightarrow 0}lim  (l(t + \Delta t)-l(t))/\Delta t
+
+如果l(t)=sum t t_i v(t)dt，那么d/dt l(t) =\underset{\Delta t \rightarrow 0}lim   (sum t+\Delta t t_i v(t)dt - sum t t_i v(t)dt)/\Delta t = \underset{\Delta t \rightarrow 0}lim (sum t+\Delta t t v(t)dt)/\Delta t
+
+d/dt F(t) = f(t)
+sum f(t)dt表示函数f(t)的原函数，这叫作不定积分，之所以如此，是因为假设F(t)为f(t)的原函数，C为任意常数，根据微分的性质可知F(t)+C也是f(t)的原函数，常数C无法确定；sum b a f(t)dt为求得函数曲线形成的图形面积的积分为定积分
+对原函数进行微分得到导函数，对导函数进行积分得到原函数
+
+微积分基本定理：sum b a f(t)dt = F(b) - F(a)
+只要知道了原函数，求函数图形的面积时就不用一一求极限，而是通过原函数的减法就可以求得
+

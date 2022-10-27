@@ -1,0 +1,1 @@
+Girard对epistemic logic的criticism：大部分epistemic logic的工作都是，啊，我有一个intuition，我要开发一个系统capture这个intuition。然后开发出来的系统除了capture这个intuition之外，没有任何意义

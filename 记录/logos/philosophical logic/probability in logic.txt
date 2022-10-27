@@ -1,0 +1,11 @@
+
+.推出关系的“极限”定义：(a1->b1, …, an->bn|=a->b 当且仅当对所有epsilon，存在一个delta，such that for all probability measures P:
+if for all ϕi⇒ ψi it holds that P(ψi|ϕi) > 1 − δ, then P(β|α) > 1 − epsilon. )
+. 在能够在对象语言里表达概率的逻辑里能问出这样的问题： P(P(a) \in [0,0.5]) =0.5?
+.语义悖论的一个有趣版本：a当且仅当P(a)<1
+
+
+
+
+ 
+

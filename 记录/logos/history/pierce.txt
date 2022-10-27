@@ -1,0 +1,2 @@
+Peirce's work and notations were much better known to contemporary logicians, and we had to wait for Russell to reintroduce Frege's first ‘discovery’ of quantifiers (Putnam 1982). For example, Ernst Schröder's Vorlesungen über die Algebra der Logik (1895) adopted Peirce's notation. Hence, strictly speaking, the Frege-first view seems to be a more recent phenomenon than Peirce's/Frege's era.
+sep: peirce's logic

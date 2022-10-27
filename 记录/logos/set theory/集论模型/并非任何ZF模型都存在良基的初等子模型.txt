@@ -1,0 +1,23 @@
+
+1. 考虑M|=ZF+~ConZF. 假设N是M的良基初等子模型，那么N的mostowski collapse thinks ConZF 和 ~ConZF. (因为M是ZFC模型, 所以ZFC是一致的. . N的坍塌会是传递的. 而传递模型就包含了所有自然数了, 所以传递模型会正确地"计算"所有算术命题, 而con(ZFC)是一个算术命题.)
+
+2. 假设存在传递模型 (M, \in) |= ZF , 那么 L^M |= V=L. 又因为M∩On<On, 所以对于某个aerfa，L^M = L_aerfa . 也就是说存在 aerfa 满足 Laerfa |= ZF . 取最小满足条件的 aerfa . 这样一个 Laerfa 不能有nontrivial的良基初等子模型. 不然的话根据condensation*, 我们会得到一个 Lbeita, beita<aerfa , 与 aerfa 最小矛盾.
+
+作者：ZS Chen
+链接：https://www.zhihu.com/question/411011302/answer/1372512661
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+*Condensation lemma
+From Wikipedia, the free encyclopedia
+
+In set theory, a branch of mathematics, the condensation lemma is a result about sets in the constructible universe.
+
+It states that if X is a transitive set and is an elementary submodel of some level of the constructible hierarchy Lα, that is, {\displaystyle (X,\in )\prec (L_{\alpha },\in )}, then in fact there is some ordinal {\displaystyle \beta \leq \alpha } such that {\displaystyle X=L_{\beta }}.
+
+More can be said: If X is not transitive, then its transitive collapse is equal to some {\displaystyle L_{\beta }}, and the hypothesis of elementarity can be weakened to elementarity only for formulas which are {\displaystyle \Sigma _{1}} in the Lévy hierarchy. Also, the assumption that X be transitive automatically holds when {\displaystyle \alpha =\omega _{1}}.
+
+The lemma was formulated and proved by Kurt Gödel in his proof that the axiom of constructibility implies GCH.
+
+References
+Devlin, Keith (1984). Constructibility. Springer. ISBN 3-540-13258-9. (theorem II.5.2 and lemma II.5.10)

@@ -1,0 +1,10 @@
+
+·a model for linear temporal logic is such that every state in it has a transition
+
+·M,s \models \phi iff for every execution path \pi of M starting at s， we have \pi \models \phi
+
+·We say that two LTL formulas \phi and \psi are semantically equivalent if for all models M and all paths \pi in M: \pi \models \phi \iff \pi \models \psi
+
+·X (next) is dual with itself: \lnot X \phi \equiv X \lnot \phi
+
+

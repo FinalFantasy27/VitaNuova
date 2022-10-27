@@ -1,0 +1,8 @@
+proof by 
+	cases
+	(high school) algebra
+	induction
+	geometrical figure
+	combinatorics
+	modular arithemetic
+	identity

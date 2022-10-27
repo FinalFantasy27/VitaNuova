@@ -1,0 +1,5 @@
+Definition: A number is interesting if it has a short description; more formally, if it has low Kolmogorov complexity relative to its size, meaning that it can be printed by a short computer program.
+
+As a simple example, 2^1000 is interesting because it can be printed by a very short computer program (in fact just a for loop) relative to its size (1001 binary digits). Of course I haven't told you what "short" means, but everything I'm about to say goes through for various values of the word "short"; for example, "short" might mean a program less than a tenth as long as the number of binary digits.
+
+With this definition it's actually quite clear that most numbers are uninteresting, since most numbers can't have short descriptions; this is just a straightforward counting argument. Intuitively, the reason that most numbers are uninteresting is that most numbers are noise: they behave as if they were random strings of digits ("high Kolmogorov complexity" happens to be an excellent definition of what it means for a particular string to be "random"), and don't have any human-comprehensible structure.

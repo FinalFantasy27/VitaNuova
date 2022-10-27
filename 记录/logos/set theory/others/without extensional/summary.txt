@@ -1,0 +1,68 @@
+This is a response to a query of Paul B. Levy (April 1, 2015) who has asked:
+
+>>Is there a result in the literature along the following lines?
+
+>>Given a model of ZF without Extensionality, its "extensional quotient" is a model of ZF including Extensionality.
+
+The answer is in the positive, provided one uses the theory ZF*
+instead of ZF, where the axioms of ZF* are the same as ZF except that
+in ZF* the collection scheme and the separation scheme take the place
+of the replacement scheme of ZF.
+
+Of course ZF and ZF* have the same deductive closure, but it has been
+known since Scott's 1961-paper [1] that ZF\{Extensionality} is
+interpretable in Zermelo set theory (and therefore its consistency
+strength is strictly lower than that of ZF).
+
+I know of two papers in which the details of the interpretability of
+ZF in ZF*\{Extensionality} are established by the method of
+"extensional quotients"; namely Friedman's [2] and Hinnion's [3]
+below. Indeed [2] shows that ZF (with classical logic) is
+interpretable in the intuisionistic version of ZF*\{Extensionality}.
+
+Gandy's paper [4], mentioned in Tait's reply (April 1, 2015) to Levy's
+query uses a different method to interpret GB (Gödel-Bernays theory of
+classes) in GB\{Extensionality}.
+
+[1] D. Scott, More on the axiom of extensionality, in Essays on the
+foundations of mathematics,  pp. 115–13, Magnes Press, Hebrew Univ.,
+Jerusalem.
+
+[2] H. Friedman,  The consistency of classical set theory relative to
+a set theory with intuitionistic logic, J. Symb. Log. 38 (1973), pp.
+315–319.
+
+[3] R. Hinnion, Extensionality in Zermelo-Fraenkel set theory.
+Zeitschr. Math. Logik und Grundlagen Math. 32 (1986), pp. 51–60.
+
+[4] R. Gandy, On the axiom of extensionality. I. J. Symb. Logic 21
+(1956), pp. 36–48
+
+
+
+
+
+
+
+The Consistency of Classical Set Theory Relative to a Set Theory with
+Intuitionistic Logic Author(s): Harvey Friedman Source: The Journal of
+Symbolic Logic, Vol. 38, No. 2 (Jun., 1973), pp. 315-319
+
+[FOM] non-extensional models of set theory
+Ali Enayat ali.enayat at gmail.com
+Fri Apr 3 07:01:50 EDT 2015 (https://cs.nyu.edu/pipermail/fom/2015-April/018645.html)
+
+
+Dana S. Scott. More on the axiom of extensionality, in Essays on the foundations of mathematics, dedicated to Prof. A. H. Fraenkel on his 70th birthday, Magnes Press, The Hebrew University, Jerusalem, 1961, pp. 115–131. MR0163838 (29 #1137).
+
+Scott considers Zermelo's set theory Z, the standard system of Zermelo-Fraenkel ZF, and their variants Z≠ and ZF≠ where extensionality is not assumed. Recall that in Z we do not assume replacement. (The precise formulation of these theories has some minor technical caveats, see section 1 of the paper.)
+
+Scott shows:
+
+1. There is a relative interpretation of Z inside Z≠.
+
+2. There is a relative interpretation of ZF≠ inside Z.
+
+The significance of these results is that of course there is no such interpretation of ZF within Z, since in fact ZF proves the consistency of Z. On the other hand, 1 and 2 show that the theories Z, Z≠, and ZF≠ are equiconsistent. This proves that the removal of extensionality actually significantly weakens the reach of set theory, and leaves us with a theory of considerably lower consistency strength.
+
+Andrés E. Caicedo (https://math.stackexchange.com/questions/426959/axiom-of-extensionality-in-zf-pointless)

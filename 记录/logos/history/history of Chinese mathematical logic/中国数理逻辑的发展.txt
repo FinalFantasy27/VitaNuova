@@ -1,0 +1,17 @@
+
+以前关于CI刘易斯的严格蕴含系统的“悖论”的文章都可以发Bulletin of the American Mathematical Society
+
+王宪均—哥德尔；胡世华—肖尔兹；莫绍揆—Bernays；沈有鼎的老师则是谢弗和怀特海。他们的代表作有Paradox of the Class of All Ground Classes. The Journal of
+Symbolic Logic, 18(2)(1953)
+Two Semantical paradoxes, The Journal of Symbolic Logic,
+20(2)(1955)A paradox of Lewis’s strict
+implication. Bull. A.M.S., 42(1936), 707-709
+1956 年, 制定数理逻辑发展远景规划（⾦岳霖、王宪钧、胡世华）.
+1956 年之后的转向.
+递归论的研究（胡世华、莫绍揆）
+模型论（王世强）
+数理逻辑与计算机科学（吴允增、唐稚松），当时胡世华想的是让康宏逵负责概率逻辑，可惜康先生放弃了，不久又是那些事情
+再后来就是王浩和庄志达回来帮了
+
+原来王宪均是哥德尔的“集合论公理体系”这门课程唯⼀正式注册的学⽣。
+

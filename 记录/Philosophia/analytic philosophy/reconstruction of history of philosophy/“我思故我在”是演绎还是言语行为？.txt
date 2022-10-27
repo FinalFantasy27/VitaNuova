@@ -1,0 +1,33 @@
+Hintikka在他的Cogito, Ergo Sum: Inference or Performance?提出了这样一种对笛卡尔“我思故我在”的解读：它是一种言语行为（speech act）。
+
+有时候，笛卡尔将“我在”（sum）说成是一种直接的感知。(See e.g. L. Blanchet, Les antecedents du "Je pense, donc je suis" (Paris, I920); 1&tienne Gilson, t9tudes sur le rdle de la pensde mididvale dans la formation du systeme cartisien (tftudes de philosophic medidvale, XIII) (Paris, I930), 2d pt., ch. ii, and the first appendix; Heinrich Scholz, "Augustinus und Descartes," Bldtter fur deutsche Philosophie, V (1932), 406-423.)
+
+一些人以此为由认为在笛卡尔那里，“直觉”（intuition）并不是非理性的（rational），而是心灵的行动，即“理智直观”（intellect intuition）。L. J. Beck, The Method of Descartes (Oxford, I952), ch. iv.
+
+传统的诠释，即“我思故我在”（Cogito, Ergo Sum）是一个演绎。如果形式化的话，用B代表思考，是这样，B(a) → ∃x (x = a)，这里a是我（I）。
+
+这个推理是个一阶逻辑的有效式。但是，这种解读有两个问题：
+
+1. 它没有解释为什么笛卡尔用Cogito （thinking）而不用其它的如“walking”一样能使这个推理有效的词。正如Gassendi所指出的；
+
+2. 一阶逻辑是有存在预设的（existential presupposition），即每个常项都有指称，而这预设了这个推理要证明的。而如果我们使用没有存在预设的逻辑，这个推理就不是有效的。
+
+正如“哈姆雷特想了很多事情”并不能推出“哈姆雷特存“在一样。我们也在争论荷马到底存不存在。
+
+笛卡尔在沉思集里没有采用这种形式，而是在他的一本说教读物中运用了这种形式。（Gueroult, Ernst Cassirer）
+
+而Hintikka认为，我们只要注意到陈述（utterence）和语句（sentence）的区分，就会发现虽然“笛卡尔不存在”，这个语句本身不是逻辑上自相矛盾的，但是当这句话是由笛卡尔说出来时，它就会显得很尴尬，因为它违背了陈述的目的，即让人相信陈述所说的。
+
+这里提到了一个趣事，戴高乐像小孩一样，喜欢用第三人称称呼自己。
+
+这是因为“我不存在”这个语句，在hintikka看来，是“存在自悖”的，即它与“我存在”这个预设相悖。
+
+因此，笛卡尔的“我思故我在”是一个言语行为。这也解释了为什么笛卡尔要用thinking而不是别的如walking。因为只有thinking这样的行为才能作为一个（对自己的）陈述。
+
+笛卡尔含混地应用着这两层解读。
+
+一些历史注记：
+1.科耶夫指出，cogitare的意思传统上比今天单纯的“thought”更广，还包括了心灵行动和材料，如意愿、感受、判断和感知等等。See his introduction to Descartes, Philosophical Writings, ed. and trans. by E. Anscombe and P. Geach (Edinburgh, I954), p. xxxvii.
+
+2. 托马斯阿奎那也曾提到过，“一个有理智者并不通过它的本质认识到ta自己，而是通过它的行为”(Summa thelogica, I, Q.87, art. 1)
+

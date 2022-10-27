@@ -1,0 +1,9 @@
+a与b互素，从而当m≠n时am+b与an+b也互素
+
+a useful lemma of modular arithmetic
+
+n^2-n mod 2 
+is 
+either 0^2-0=0
+or
+1^2-1 = 0.

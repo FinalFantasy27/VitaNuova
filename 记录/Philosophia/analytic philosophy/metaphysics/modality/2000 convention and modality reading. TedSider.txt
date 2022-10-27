@@ -1,0 +1,103 @@
+LEWIS'S POSSIBLE WORLDS
+Required reading
+
+David Lewis, On the Plurality of Worlds, sections 1.1-1.3, 1.6-1.9, all of chapter 2, and sections 3.1 and 3.2.
+Scott Shalkowski, "The Ontological Ground of the Alethic Modality", section 2.
+Optional reading
+
+Divers, "The Analysis of Possibility and the Possibility of Analysis" (esp. § III)
+McGinn, "Modal Reality"
+Roy, "Worlds and Modality"
+Charles Chihara, The Worlds of Possibility: Modal Realism and the Semantics of Modal Logic, chapter 3.
+COMBINATORIALISM
+Required reading
+
+D. M. Armstrong, A Combinatorial Theory of Possibility, chapters 3-8.
+D. M. Armstrong, A World of States of Affairs, chapters 9, 10.
+David Lewis, "Critical Notice of D. M. Armstrong, A Combinatorial Theory of Possibility"
+Fraser MacBride, "Could Armstrong Have Been a Universal?"
+Scott Shalkowski, "The Ontological Ground of the Alethic Modality", section 3.
+Optional reading
+
+Holly Thomas, "Combinatorialism and Primitive Modality"
+Holly Thomas, "The Principle of Recombination and the Principle of Distinctness"
+FICTIONALISM
+Required reading
+
+Gideon Rosen, "Modal Fictionalism"
+Gideon Rosen, "A Problem for Fictionalism About Possible Worlds"
+Ted Sider, "The Ersatz Pluriverse" section IV
+Optional reading
+
+Daniel Nolan, "Three Problems for "Strong" Modal Fictionalism"
+Daniel Nolan and John Hawthorne, "Reflexive Fictionalisms"
+Stuart Brock, "Modal Fictionalism: A Response to Rosen"
+Peter Menzies and Philip Pettit, "In Defence of Fictionalism about Possible Worlds"
+Bob Hale, "Modal Fictionalism: A Simple Dilemma"
+Bob Hale, "A Desperate Fix"
+Gideon Rosen, "Modal Fictionalism Fixed"
+Harold Noonan, "In Defence of the Letter of Fictionalism"
+John Divers, "A Modal Fictionalist Result"
+John Divers, "Modal Fictionalism Cannot Deliver Possible Worlds Semantics"
+CONVENTIONALISM
+Classic views
+Required reading
+
+A. J. Ayer, Language, Truth and Logic, chapter 4
+Selections from Arthur Pap, Semantics and Necessary Truth
+Optional reading
+
+Rudolf Carnap, (something from Meaning and Necessity or The Logical Syntax of Language)
+Wilfred Sellars, "Inference and Meaning"
+A. C. Ewing, "The Linguistic Theory of A Priori Propositions"
+The translation objection
+Required reading
+
+Casimir Lewy, chapter 1 from Meaning and Modality
+John Ibberson, "Necessity by Convention"
+The contingency objection
+Required reading
+
+Casimir Lewy, "Logical Necessity"
+Valerie and Richard Routley, "Some Bad Arguments for and against Conventionalism"
+Quine
+Required reading
+
+W. V. O. Quine, "Truth by Convention"
+W. V. O. Quine, "Carnap on Logical Truth"
+W. V. O. Quine, "Two Dogmas of Empiricism"
+Optional reading
+
+Neil Tennant,"Conventional Necessity and the Contingency of Convention"
+Paul Grice and Peter Strawson, "In Defense of a Dogma"
+Paul Boghossian, "Analyticity Reconsidered"
+The challenge from the necessary a posteriori
+Required reading
+
+Alan Sidelle, chapters 1 and 2 from Necessity, Essence, and Individuation: a Defense of Conventionalism
+David Chalmers, selections from The Conscious Mind
+Optional reading
+
+Saul Kripke, selections from Naming and Necessity
+Hilary Putnam, "The Meaning of ‘Meaning'"
+Lloyd Humberstone and Martin Davies, "Two Notions of Necessity"
+Robert Stalnaker, "Assertion"
+Eli Hirsch, "Metaphysical Necessity and Conceptual Truth"
+The challenge from de re modality
+Required reading
+
+W. V. O. Quine, "Three Grades of Modal Involvement"
+Kit Fine, "The Problem of De Re Modality"
+Optional reading
+
+Tom McKay,"Essentialism in Quantified Modal Logic"
+Terence Parsons, "Grades of Essentialism in Quantified Modal Logic"
+Recent reductive theories
+Required reading
+
+Christopher Peacocke, "Metaphysical Necessity: Understanding, Truth and Epistemology"
+Mark Heller, "Property Counterparts in Ersatz Worlds"
+Optional reading
+
+Peter Sullivan, "The ‘Modal Extension Principle': A Question About Peacocke's Approach to Modality"
+Christopher Peacocke, "The Principle-Based Conception of Modality: Sullivan's Question Addressed"
