@@ -1,0 +1,206 @@
+    1.Proofs that p
+           来源：http://consc.net/misc/proofs.html#fn
+
+Davidson's proof that p:
+Let us make the following bold conjecture: p
+
+Wallace's proof that p:
+Davidson has made the following bold conjecture: p
+
+Grunbaum:
+As I have asserted again and again in previous publications, p.
+
+Putnam:
+Some philosophers have argued that not-p, on the grounds that q. It would be an interesting exercise to count all the fallacies in this "argument". (It's really awful, isn't it?) Therefore p.
+
+Rawls:
+It would be nice to have a deductive argument that p from self- evident premises. Unfortunately I am unable to provide one. So I will have to rest content with the following intuitive considerations in its support: p.
+
+Unger:
+Suppose it were the case that not-p. It would follow from this that someone knows that q. But on my view, no one knows anything whatsoever. Therefore p. (Unger believes that the louder you say this argument, the more persuasive it becomes).
+
+Katz:
+I have seventeen arguments for the claim that p, and I know of only four for the claim that not-p. Therefore p.
+
+Lewis:
+Most people find the claim that not-p completely obvious and when I assert p they give me an incredulous stare. But the fact that they find not- p obvious is no argument that it is true; and I do not know how to refute an incredulous stare. Therefore, p.
+
+Fodor:
+My argument for p is based on three premises:
+q
+r
+and
+p
+
+From these, the claim that p deductively follows. Some people may find the third premise controversial, but it is clear that if we replaced that premise by any other reasonable premise, the argument would go through just as well.
+Sellars' proof that p:
+Unfortunately limitations of space prevent it from being included here, but important parts of the proof can be found in each of the articles in the attached bibliography.
+
+Earman:
+There are solutions to the field equations of general relativity in which space-time has the structure of a four- dimensional Klein bottle and in which there is no matter. In each such space-time, the claim that not-p is false. Therefore p.
+
+Goodman:
+Zabludowski has insinuated that my thesis that p is false, on the basis of alleged counterexamples. But these so- called "counterexamples" depend on construing my thesis that p in a way that it was obviously not intended -- for I intended my thesis to have no counterexamples. Therefore p.
+.
+
+Outline Of A Proof That P (1):
+Saul Kripke
+
+Some philosophers have argued that not-p. But none of them seems to me to have made a convincing argument against the intuitive view that this is not the case. Therefore, p.
+_________________
+
+(1) This outline was prepared hastily -- at the editor's insistence -- from a taped manuscript of a lecture. Since I was not even given the opportunity to revise the first draft before publication, I cannot be held responsible for any lacunae in the (published version of the) argument, or for any fallacious or garbled inferences resulting from faulty preparation of the typescript. Also, the argument now seems to me to have problems which I did not know when I wrote it, but which I can't discuss here, and which are completely unrelated to any criticisms that have appeared in the literature (or that I have seen in manuscript); all such criticisms misconstrue my argument. It will be noted that the present version of the argument seems to presuppose the (intuitionistically unacceptable) law of double negation. But the argument can easily be reformulated in a way that avoids employing such an inference rule. I hope to expand on these matters further in a separate monograph.
+
+Routley and Meyer:
+If (q & not-q) is true, then there is a model for p. Therefore p.
+
+Plantinga:
+It is a modal theorem that <>[]p -> []p. Surely its possible thatp must be true. Thus []p. But it is a modal theorem that []p -> p. Therefore p.
+
+Chisholm:
+P-ness is self-presenting. Therefore, p.
+
+Morganbesser:
+If not p, what? q maybe?
+
+
+                        2.More Proofs that P
+            来源：http://consc.net/misc/moreproofs.html
+
+Anselm:
+I can entertain an idea of the most perfect state of affairs inconsistent with not-p. If this state of affairs does not obtain then it is less than perfect, for an obtaining state of affairs is better than a non-obtaining one; so the state of affairs inconsistent with not-p obtains; therefore it is proved, etc.
+
+Churchland:
+Certain of my opponents claim to think that not-p; but it is precisely my thesis that they do not. Therefore p.
+
+Feyerabend:
+The theory p, though "refuted" by the anomaly q and a thousand others, may nevertheless be adhered to by a scientist for any length of time; and "rationally" adhered to. For did not the most "absurd" of theories, heliocentrism, stage a come-back after two thousand years? And is not Voodoo now emerging from a long period of unmerited neglect?
+
+Goldman:
+Several critics have put forward purported "counterexamples" to my thesis that p; but all of these critics have understood my thesis in a way that was clearly not intended, since I intended my thesis to have no counterexamples. Therefore p.
+
+Plato:
+SOCRATES: Is it not true that p?
+GLAUCON: I agree.
+CEPHALUS: It would seem so.
+POLEMARCHUS: Necessarily.
+THRASYMACHUS: Yes, Socrates.
+ALCIBIADES: Certainly, Socrates.
+PAUSANIAS: Quite so, if we are to be consistent.
+ARISTOPHANES: Assuredly.
+ERYXIMACHUS: The argument certainly points that way.
+PHAEDO: By all means.
+PHAEDRUS: What you say is true, Socrates.
+
+Smart:
+Dammit all! p.
+
+Stove:
+While everyone knows deep down that p, some philosophers feel curiously compelled to assert that not-p, as a result of being closet Marxists. I shall label this phenomenon "the blithering idiot effect". As I have shown that all assertions of not-p by anyone worth speaking of, and several by people who aren't, are due to the blithering idiot effect, there remains no reason to deny p, which everyone knows deep down anyway. I won't even waste my time arguing for it any further.
+
+
+                         3.Still more proofs that P
+来源：http://consc.net/neh/proofs.html
+
+TOP TEN ARGUMENTS FOR P HEARD AT THE NEH INSTITUTE (T-shirt list, with attributions to arguer added).
+
+1. You don't think that phenomenology supports that P? Look haaaarder! Therefore P. [Charles Siewert, others]
+
+2. To think that not-P is to over-intellectualize. Therefore P. [Brian Loar]
+
+3. It's completely implausible and a violation of common-sense intuition to think that not-P. Therefore P. [various]
+
+4. P is a bold and controversial claim that shatters common-sense intuition. Therefore P. [various]
+
+5. Only philosophers would think that not-P. Therefore P. [Galen Strawson, Aaron Zimmerman]
+
+6. Not-P entails that there are sense-data. Therefore P. [various]
+
+7. Not-P is true from the transparent perspective. But I take the oblique perspective. Therefore P. [Brian Loar]
+
+8. See my "..." where I argued for P. Therefore P. [Bill Lycan]
+
+9. I know that P is true because I teach it to my undergraduates. Therefore P. [John Searle]
+
+10. Representationalism entails P & not-P. Therefore P & not-P. [Bill Lycan]
+
+MORE PROOFS THAT P
+
+No amount of tub-thumping by dualists (including my past self) carries any weight in establishing that not-P. Therefore P. [Frank Jackson]
+
+Sellars has established to McDowell's and my satisfaction that P. Therefore P. [Bob Brandom]
+
+Sellars argues that P. (Actually, Sellars argues that not-P, but that was wearing his black hat.) Therefore P. [Bob Brandom]
+
+Most philosophers think it is a priori that not-P. Therefore P. [Susan Hurley]
+
+P gives me an "aha!" reaction. Therefore P. [Susan Hurley]
+
+Someday someone might discover that P, and I want to get the credit. Therefore P. [Colin McGinn]
+
+Anyone who says that not-P is using the terms differently from me. Therefore P. [Galen Strawson]
+
+The argument for not-P has seven steps, and I'm way too old for that. Therefore P. [John Searle]
+
+I've considered and rejected one possible defense of a key premise in one possible argument for not-P. Therefore P. [Susanna Siegel]
+
+Not-P? That just doesn't work for me. Therefore P. [Brad Thompson]
+
+I have a lot of arguments for P, though none of them are very good. Therefore P. [Amy Schmitter]
+
+I'm tired, I went surfing, therefore P&~P. [by Becko Copenhaver, attributed to unnamed presenter]
+
+The folk think that not-P. But I just called them "the folk". Therefore P. [attributed to Frank Jackson]
+
+P* and representationalism holds. Therefore P. [by Amy Schmitter, attributed to unnamed presenter.]
+
+These considerations tend to suggest something in the vicinity of the ballpark of P. Therefore P. [David Chalmers]
+
+Now that I've taken you on this little journey, I'm beginning to lose my grip on what it means to say that not-P. Therefore P. [Charles Siewert]
+
+
+                             4.以下为合作社网友补充
+来源：https://phil-commune.net/bbs/forum.php?mod=viewthread&tid=920&extra=&highlight=that%2BP&page=1
+（1）gill
+Quine's proof that p: I can't make sense of not-p using first order logic. Therefore p.
+
+Wittgenstein's (according to one interpretation) proof (according to one interpretation) that p: "But don't we say things like q, r, and s?"—But ask yourself, what could possibly be the point of saying these things. Would a lion, if he could speak, say these things too? If not, why not? (Trying to cut a river at its "joints".)
+
+Jackson's/McGinn's proof that p: There appear to be many reasons to believe not-p. But who knows, maybe we're just to dumb to see that the truth is actually p. Therefore p.
+
+Nagel's proof that p: From an objective point of view it might seem not-p. But the objective point of view is incomplete and from a subjective point of view it seems p. Therefore p (and not-p too -- being insoluble is part of being a philosophical problem).
+
+Dennett's proof that p: Fodor has recently argued for not-p. He is, of course, wrong again. Therefore p.
+
+Skyrms's proof that p: Computer simulation shows p to be robust. Therefore p.
+
+Parfit's proof that p: Since the day I realized the truth of p my life has never been the same again. Unfortunately, some great philosophers have held the contrary view not-p. But that is only because they are tempted by some theoretical considerations into saying things which they don't really believe. Deep in their hearts, I'm sure, they actually agree with me that p is true.
+
+（2）gyro
+For Sellars, Or
+Sellars' proof that p: I have hinted at the proposition that p (see Sec. VIII of Chp. 3 and Sec. III of Chp. 8). Once again I have to be dogmatic. This is the only way I can make a contribution to this topic.
+
+Rorty's proof: to say p is no more than a willingness to include in one's core vocabulary the words q,r, and s; it is no more than a reluctance to burden oneself with arguing that not-p. Therefore p.
+
+
+（3）若林源三
+Chalmers: To clarify the issue, let me introduce the following terminology:A1, A2, A3, B1, B2, B3...and Z1,Z2, Z3. The subtlety of A，B, Cs is not relevant to present concern; Z is relevant, but I don't have space to explore the details here (See my 2002, 2003，2006). Therefore, p.
+
+孟子： 不相信p的人是小狗。所以，p。
+
+（4）ljs
+马克思：一切东西都是要被否定的（根据辩证法），-p是某种东西，所以p.
+
+兰德尔
+2021-11-16 11:57:50 兰德尔 (晚安好运)
+还应该补充一个，anscombe，而且是实例，一篇学术“论文”：
+
+*A Note on Mr Bennett* _By G.E.M. Anscombe_
+
+The nerve of Mr Bennett’s argument is that if A results from your not doing B, then A results from whatever you do instead of doing B.1 While there may be much to be said for this view, still it does not seem right on the face of it.
+
+1‘”Whatever the Consequences”‘, Analysis, January 1966, p. 96.
+
+兰德尔
+2022-10-31 20:05:21 兰德尔 (晚安好运)
+其实可以加上moore: p, which means p, i.e, p, which is to say, p, ..., p, ..., p, ..., p,..., p, p, p.

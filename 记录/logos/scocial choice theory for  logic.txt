@@ -1,0 +1,5 @@
+belief merging and judgment aggregation
+graph aggregation
+logic aggregation
+opinion formation and diffusion
+reason-based aggregation

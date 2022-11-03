@@ -1,7 +1,0 @@
-
-"The two most famous and--in the view of many--most important examples of conceptual analysis in twentieth century logic were Alfred Tarski's definition of truth and Alan Turing's definition of computability."
-Tarski's Conceptual Analysis of Semantical Notions
-Solomon Feferman
-1
-"In both cases a prior, extensively used, informal or intuitive concept was replaced by one defined in precise mathematical terms."
-
