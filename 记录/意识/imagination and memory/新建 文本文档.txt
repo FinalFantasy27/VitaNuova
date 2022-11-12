@@ -1,0 +1,23 @@
+来自纽约大学的研究团队对此展开了研究。研究人员通过功能性磁共振成像（Functional Magnetic Resonance Imaging，fMRI）记录了受试者观看计算机屏幕上不同位置的简单几何形状时视觉皮层的反应，以及后续被要求回忆这些图像时大脑皮层的活动。
+
+ 
+
+研究结果显示：和第一次视觉记录信息相比，大脑的记忆有着完全不同的工作方式。初级视觉皮层会提取图像的空间排列，次级和更高级的视觉皮层则会继续编码更复杂的信息；但是回忆过程则完全不同，由于回忆是从已经编码的高级信息开始回溯，因此导致第一次的视觉信息画面细节会逐渐模糊。两个过程可以用下面的图像较为清晰地表达：
+
+视觉记忆编码和记忆提取过程的对比 | 图片来源：Jonathan Winawer，纽约大学心理系
+
+
+
+这一研究结果解释了为什么我们记忆中的场景往往和第一次真实看到的场景存在出入，同时也可以解释为什么我们记忆中可用的细节很少。
+
+
+
+阅读论文：
+
+Favila, S.E., Kuhl, B.A. & Winawer, J. Perception and memory have distinct spatial tuning properties in human visual cortex. Nat Commun 13, 5864 (2022). https://doi.org/10.1038/s41467-022-33161-8
+
+人类大脑大约有800亿个神经元，神经元之间依靠“突触”连接在一起——大脑中同样有数以百亿计的突触，神经元持续的活动需要通过突触快速补充突触小泡以维持可靠的信息传递；但是如果某个神经元过度活跃就可能会耗尽神经递质的供应，从而导致大脑沟通中断和大脑功能障碍
+
+Weingarten, D.J., Shrestha, A., Juda-Nelson, K. et al. Fast resupply of synaptic vesicles requires synaptotagmin-3. Nature (2022). https://doi.org/10.1038/s41586-022-05337-1
+
+

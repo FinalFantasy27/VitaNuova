@@ -1,7 +1,3 @@
-Georg Kreisel argued that the regress is not vicious [Kre71, p. 97]: "it is by no
-means circular to use a concept in order to
-about it." He is an advocate of
-state the facts
-full second-order set theory (see [Kre71] and references therein). He suggested [Kre71
+Georg Kreisel argued that the regress is not vicious [Kre71, p. 97]
 
 Understanding the infinite p.227 note.15

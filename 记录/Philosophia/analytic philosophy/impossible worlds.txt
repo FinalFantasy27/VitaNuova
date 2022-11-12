@@ -1,0 +1,8 @@
+the impossible worlds approach: Nolan (1997); Vander Laan (2004); Krakauer (2012); Brogaard and Salerno (2013); Jago (2014); Kment (2014); Berto et al. (2018); Berto and Jago (2019); French et al. (2020). There are other approaches to hyperintensionality that I do not have space to consider here. See Fine (2012); Schaffer (2016); Wilson(2018); Leitgeb (2019) for some prominent examples. For an overview of different approaches to hyperintensionality, see Berto and Nolan (2021).
+
+V(p,w)\in\{0,1\} for each w\in P and each p \in Prop
+V(\phi, w) \in \{0,1\} for each w \in \bar{P} and for each \phi
+
+Following Tanaka, K. (2018). Logically impossible worlds. Australasian Journal of Logic, 15, 489–497., this clause could be generalized so that formulas can take multiple (or no) truth values at an impossible world. 
+
+Nolan, D. (1997). Impossible worlds: A modest approach. Notre Dame Journal of Formal Logic, 38, 535–572.: p. 563 argues that not every set of impossible worlds counts as a proposition.

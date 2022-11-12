@@ -1,2 +1,0 @@
-ageneral method: if S is P, and T is P, then S meet T is P; and if for all v, the whole set V -{v} is P, applying the above repeatedly we thus see that the empty set is P.
-C.f. Tao. Arrow

@@ -1,0 +1,5 @@
+根据谢立民，时态逻辑是Aseries的逻辑而一阶逻辑是Bseries的逻辑
+
+truth tree无法为\forall x (Gx \land \exists Fx)找到一个模型，因为Ga, Fb之后又有Gb, Fc以此反复
+
+search by size，如要找一个size为3的domain，将\forall x Fx 改为Fa \land Fb \land Fc

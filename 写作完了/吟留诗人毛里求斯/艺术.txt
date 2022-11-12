@@ -63,38 +63,38 @@
 	TIME: The Present(1942)
 	PLACE: London.
 
-	SCENE A rocky outcrop of a cliff
+	SCENE 悬崖上的岩石峭壁
 
-	A man with a disease that forgets what he has said in a second, awoke, finding him on a rocky outcrop of a cliff.
-	M: I cannot remember everything. I must have been unconscious most of the time. I remember only the grandiose moment when they all started to sing, as if prearranged, the old prayer they had neglected for so many years - the forgotten creed! But I have no recollection how I got underground to live in the sewers of Warsaw for so long a time. 
-	M: Where am I!? Why I am here?”
-	(Echoes.)
-	M: Is there any people? Who's there?
-	(Echoes.)
-	M: Yeah, I'm here.
-	(Echoes.)
-	M: Who are you?
-	(Echoes.)
-	M: I'm Manin Wilfrid.
-	(Echoes.)
-	M: You have the same name as me.
-	(Echoes.)
-	M: Really? What a coincidence!
-	(Echoes.)
-	M: And I live in the xxx.
-	(Echoes.)
+	一个患有会在一瞬间忘记了自己说过的话的人醒来后发现他在悬崖的岩石上。
+	男：I cannot remember everything. I must have been unconscious most of the time. I remember only the grandiose moment when they all started to sing, as if prearranged, the old prayer they had neglected for so many years - the forgotten creed! But I have no recollection how I got underground to live in the sewers of Warsaw for so long a time. 
+	M：我在哪里！？为什么我在这里？"
+	(回声。)
+	男：有什么人吗？谁在那里？
+	(回声。)
+	男：是的，我在这里。
+	(回声。)
+	男：你是谁？
+	(回声。)
+	男：我叫曼宁·威尔弗里德。
+	(回音)。
+	男：你和我有一样的名字。
+	(回音)。
+	男：真的吗？多么巧合啊！（回声）。
+	(回音)。
+	男：而且我住在贝克街221號B。
+	(回音)。
 	M: 
-	M: What are you saying?
-	(Echoes.)
-	M: I am sorry Sometimes I would forget what I have said. So excuse me, could you tell me something about what we were talking about?
-	(Echoes.)
-	M: I don't know.
-	(Echoes.)
+	男：你在说什么？
+	(回声。)
+	男：我很抱歉，有时候我会忘记我说过的话。所以请原谅，你能告诉我关于我们所谈的事情吗？
+	(回声。)
+	男：我不知道。
+	(回声。)
 	M:
-	A long time of slience.
+	很长一段时间的沉默。
 	M:
 	......
-	
+
 	“我想写这么一篇作品：堇作为老师，“我”作为学生，“我”喜欢着堇，见证了堇的爱情与终结，最后以一句“后面，就是“我”的故事了”作结。”
 	“脑海中的创作，没有标点。”	
 	“就算是在乡下农村里，我也是在凡尔赛宫；给我一片空旷的地，一栋两三层的房子，我就可以把它想象成凡尔赛宫。”

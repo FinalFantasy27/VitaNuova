@@ -1,0 +1,18 @@
+fast-growing function:
+Weiermann, A. (2006). Classifying the provably total functions of PA. Bull. Symbolic Logic
+12, no. 2, pp. 177–190.
+Fairtlough, M., Wainer, S. (1998). Hierarchies of provably recursive functions. Handbook of
+proof theory, Studies in Logic, 137, pp. 149–207.
+Friedman, H., Sheard, (1995). Elementary descent recursion and proof theory. Annals of Pure
+and Applied Logic, 71 (1), pp. 1–45.
+Buchholz, W., Wainer, S. (1987). Provably computable functions and the fast growing hierarchy,
+Contemporary Mathematics series of the AMS, 65, pp. 179-198.
+
+model-theoretic:
+Avigad, J., Sommer R. (1997). A model-theoretic approach to ordinal analysis. Bull. Symbolic
+Logic 3, pp. 17-52.
+Avigad, J., Sommer, R. (1999). The model-theoretic ordinal analysis of theories of predicative
+strength. Journal of Symbolic Logic, 64, pp. 327-349.
+H´ajek, P., Pudl´ak, P. (1993). Metamathematics of first-order arithmetic. Springer
+Kotlarski, H. (2003). A model-theoretic approach to proof theory for arithmetic. Unpublished
+book manuscript.
