@@ -1,1 +1,0 @@
-definability/pointwise does not correspond to leibnizian, because there are only countable formulae (with finite combination), and 2^n sets of formulas. And leibnizian does not correspond to rigid for structure larger than the continumm.

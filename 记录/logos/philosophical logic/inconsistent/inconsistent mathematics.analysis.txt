@@ -1,0 +1,1 @@
+Zach Weber showed that 在paraconsistent mathematics里，对于每一个经典数学分析的命题p，人们可以得到“p或矛盾”

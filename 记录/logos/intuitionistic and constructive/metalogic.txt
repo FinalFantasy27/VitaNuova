@@ -1,14 +1,7 @@
+邢滔滔将此问题归结为逻辑一元论还是多元论的问题
+
 关于在证明直觉主义逻辑相对于克里普克语义学的完全性时使用的元逻辑是经典逻辑（例如，在使用henkin方法证明直觉主义是完全时，使用了（元语言）中的排中律），Harty Field和Timothy Williamson等有过一些哲学讨论，一些哲学家以此为理由拒绝对哲学问题的非经典式处理（例如对于谷堆悖论/模糊性的多值逻辑处理，因为你使用的元逻辑还是经典的），Williamson提出了某一个逻辑的元逻辑至少应该对于对象理论时是valid的（例如，如果用经典逻辑作为多值逻辑的元逻辑，那么其就不是valid的）
-一个相关成果是，feferman的一个博士生（Ian Mason，The Metatheory of the Classical Propositional Calculus is not Axiomatizable）证明了经典命题逻辑的元理论（即理论<FORMULAS, TYPES, CONSEQUENCE, INCLUSION, OCCURENCE> （例如，内插定理是这一逻辑的内定理），与此对照的是，其片段<FORMULAS, CONSEQUENCE> and
-KTYPES, INCLUSION>都是可公理化的）是不可公理化的
-一些使用非经典逻辑作为元逻辑的相关进展有：Non-classical metatheory for non-classical logics（https://andrew-bacon.github.io/papers/Non-classical%20metatheories.pdf）和intuitionistic completeness proof·2
+一个相关成果是，feferman的一个博士生（Ian Mason，The Metatheory of the Classical Propositional Calculus is not Axiomatizable）证明了经典命题逻辑的元理论（即理论<FORMULAS, TYPES, CONSEQUENCE, INCLUSION, OCCURENCE> （例如，内插定理是这一逻辑的内定理）是，与此对照的是，其片段<FORMULAS, CONSEQUENCE> and <TYPES, INCLUSION>都是可公理化的）是不可公理化的
+intuitionistic completeness proof·2和A.S.Troelstra和D.van Dalen的Constructivism in Mathematics: an introduction, volume II一书的第13章completeness的第2节completeness for intuitionistic validity
+一些使用非经典逻辑作为元逻辑的相关进展有：Non-classical metatheory for non-classical logics（https://andrew-bacon.github.io/papers/Non-classical%20metatheories.pdf）, Zach Weber
 
-在A.S.Troelstra和D.van Dalen的Constructivism in Mathematics: an introduction, volume II一书的第13章completeness的第2节completeness for intuitionistic validity中，作者用一种来自Friedman的证明方法证明了以下结果：
-对于直觉主义谓词逻辑，我们可以构造出一个nonstandard Beth model B（这个模型有一些奇特的地方，就是 丄 可以在某些节点上为真，只要它并不在整个模型上为真）使得|- A <->  B |= A。（被作者称为Beth-valid，p. 685）
-具体的途径是：
-
-我们定义Γ |-_m A当且仅当A可以从Γ通过一个编码小于m的推演推导出来（这是可判定的）。
-
-而此方法也可以用来构造经典的模型
-
-这样或许就以一种可判定的方式进行了模型的构造（而避免了需要经典逻辑的对于一致与否的判断）。

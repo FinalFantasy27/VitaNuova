@@ -1,6 +1,0 @@
-Perhaps the sceptic wants us to think of 'inhabitants of a model’ along the lines of denizens of a (philosopher’s) possible world. In that case, the sceptic would be suggesting the following: there is a possible world, w, where the only (pure) sets in w form a countable transitive model; we in the actual world pity the denizens of w for their inability to access to Cantor’s paradise; and then we dimly form a concern, which we attempt to express by saying: perhaps we have also been shut out from paradise! But for this thought to have any bite, we would already have to have bought into a very particular and peculiar way of conceiving of the interaction between mathematical objects and possible worlds. Not many philosophical positions, after all, are forced to entertain the possibility that there could have been fewer pure sets than there actually are.(p216)
-引自 9: Transcendental arguments
-书名: Philosophy and Model Theory
-作者: Tim Button/Sean Walsh
-页数: 517
-出版社: Oxford University Press

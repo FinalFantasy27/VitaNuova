@@ -1,0 +1,17 @@
+Shapiro was unmoved by Quine's argument [Qui70, p. 66] that second
+order logic is "set theory in sheep's clothing." He accepted that second-order
+logic is nothing more than a fancy way of quantifying over all subsets of a
+domain. He granted Quine's conclusion that second-order logic and set the
+ory are intimately connected, but he rejected the implication that that some
+how renders second-order logic unfit to serve as logic. He outdid Quine in
+his antifoundationalism by denying that there is anything special about logic
+that requires that it be free of substantial mathematical commitments. If logic
+were to be in some sense prior to mathematics, that would be necessary. But,
+for Shapiro, the logical foundations of mathematics are just more mathemat
+ics. (See [Sha91, p. 97].)
+
+Understanding the infinite, p. 225
+
+Georg Kreisel argued that the regress is not vicious [Kre71, p. 97]
+
+Understanding the infinite p.227 note.15

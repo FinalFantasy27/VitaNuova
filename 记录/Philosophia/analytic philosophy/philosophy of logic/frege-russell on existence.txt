@@ -1,3 +1,0 @@
-Frege-Russell:
-Existence is not a first-level but a second-level concept,  we can meaningfully use the word 'exists' to say of a property or predicate that it is or is not instantiated, as when we say that there are tigers——that tigers eixst, the word 'exists' here is, so to speak, a property of properties, it holds of a property if it is instantiated.
-One cannot say of an object that it exists, or not, beacause, everything exists.

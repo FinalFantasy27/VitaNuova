@@ -1,0 +1,59 @@
+
+摩尔的文风
+And in order to point out to the reader what sorts of things I mean by sense-data, I need only ask him to look at his own right hand. If he does this he will be able to pick out something (and unless he is seeing double, only one thing) with regard to which he will see that it is, at first sight, a natural view to take, that that thing is identical, not indeed, with his whole right hand, but with that part of its surface which he is actually seeing, but will also (on a little reflection) be able to see that it is doubtful whether it can be identical with the part of the surface of his hand in question. Things of the sort (in a certain respect) of which this thing is, which he sees in looking at his hand, and with regard to which he can understand how some philosophers should have supposed it to be the part of the surface of his hand which he is seeing, while others have supposed that it can't be, are what I mean by sense-data.
+
+维特
+维特根斯坦有一次对石里克说,他只能跟那些用某种说法是“抓住了他的手”的人交谈。
+王，逻，131（英）
+
+维特根斯坦曾做过一个与此相关的对比:“是的,我认为我与黑格尔是不相投的。181依我看,黑格尔总想说,看似不同的事物实际上是相同的。而我的兴趣是要表明,看似相同的事物实际上是不同的。＂( Rhees ,1984,157)。recollections of witt oxford
+转引 逻，p230
+
+维特还喜欢硬汉派侦探小说，如雷蒙德钱德勒的小说
+Ray Monk
+
+“We have passed Wittgenstein.”
+
+Carnap gleefully classifies Heidegger's claim that "the Nothing itself nothings" as a pseudo statement Carnap (1932, p. 69).
+
+Their solution was to view mathematics as purely linguistic, as true by the conventions of language, as telling us nothing contentful about the world. Carnap (1950).
+
+书名: 卡尔纳普思想自述鲁道夫·卡尔纳普（R.Carnap）上海译文出版社1985
+
+卡尔纳普笔下哲学家们的人格
+
+罗素：
+
+我仍然全力从事符号逻辑的研究。由于《数学原理》这本书并不那么通俗易懂,于是我就着手撰写一本关于符号逻辑的教科书。当时在弗莱堡大学的图书馆中没有一本《数学原理》。德国正在闹通货膨胀，新书的价格之高令人难以问津。当我想在英国搞一本旧书的愿望破灭之后,我就贸然地写信请求罗素帮助搞一本书。我怎么也不会想到他给我寄来的却是一份由他亲手誊抄的长达三十五页的目录,上面抄下了《数学原理》一书中所有最重要的定义。我一直把这份目录作为无价之宝珍藏着
+引自第19页
+  
+
+石里克：
+
+我认为，在小组的讨论中这种志趣相投的气氛之所以能够形成，先应当归功于石里克的那种自始至终的善良、宽容和谦逊的品格。他对明确性的个人爱好和物理学方面的素养使得他极富于运用科学的思维方式。
+引自第32页
+维也纳小组的成员大多有科学背景，例如卡尔纳普、石里克（物理学）、纽特拉（社会学及心理学）、汉斯哈恩（数学）
+
+  
+
+维特根斯坦：
+
+而且迫切希望能见到他，请他解释书中某些使我们感到困惑不解的观点。但是维特根斯坦不愿意这样。石里克前后和他谈了几次，他才终于同意见一见魏斯曼和我。子是在1927年夏天,我们三人与维特根斯坦见了几次面。在第一次见面之前,石里克再三告诫我们，谈话时不要引起我们在小组中所习惯的那种讨论，因为维特斯坦这个人在任何情况下都不喜欢这种讨论。甚至提问时还应当极其小心，因为他非微敏感，直截了当地提问容易使他感到不安。石里克说，最好的方式是让维特根斯坦谈，只有在十分要他作出解释时，我们才可以小心翼翼地提些问题。
+当我见到维特根斯坦时，发现石里克的忠告是完全必要的。但是他的举止并不给人以做慢的感觉。一般说来，维特根斯坦富于同情心，而且心地也十分善良；然而他过于敏感，容易激动。维特根斯坦的谈话无论关于什么内容总是那么有趣，令人兴奋，而且他所选择的表达方式又总是那么令人着迷。他的观点以及他对人和各种问题、特别是理论问题的态度更象一个富于想象力的艺术家，而不象一个科学家。几乎可以说，他象一个宗教中的先知或预言者。每当维特根斯坦开始系地阐述他关于某些特殊的哲学问题的看法时,我们往往能够感到当时发生在他的内心深处的斗争。他剧烈面痛芾地挣扎着，试图通过这种斗争从黑暗中走向光明。这些甚至从他极富表情的脸上也能看得出来。直到最后，有时是经历了长时间的刻苦努力之后，他才终于找到了答案。他的陈述就像一件新创造的艺术品或一项神圣启示那样呈现在我们面前。这并不是说他好独断地提出自已的观点。尽管在他的《逻辑哲学论》中的某些公理看来不可能存在任何问题，但是维特根斯坦却常常流露出自认其陈述并不是很充分的心情。维特根斯坦给我们的印象是，他的思想是通过天才般的灵感获得的。这不禁使我们觉得，对于它们的任何一种严肃而合理的评注或分析都将成为某种亵读。（pp.38-9）
+
+Gettier
+Alvin Plantinga（1990 45）说：在 Gettier 之前，很难找到关于知识的 JTB 分析的明确陈 述；这⼏乎就像⼀个杰出的批评家在破坏传统的过程中创造了⼀个传统⼀样。
+
+Julien Dutant2015认为传统知识定义认为的好的理由是确凿不移的理由：如果有好的理由相信p，p一定为真。Pierre Le Morvan2017认为Paul K. Moser把gettier反驳的定义追溯到柏拉图，Laurence BonJour追溯到笛卡尔，Robert K. Shope追溯到康德，都是没有根据的。柏拉图专家Gail Fine1990，笛卡尔专家Lex Newman2019分别认为柏拉图、笛卡尔确实认可gettier反驳的定义（Newman指出笛卡尔的“理由”并不是确凿不移的理由）。
+
+罗素在Human Knowledge: Its Scope and Limits1948提出了与Gettier相似的例子。
+
+David Lewis (1983: x)暗示 Gettier 彻底驳倒了 knowledge = JTB，认为 Gettier 的论证和 Gödel 的证明⼀样 严谨，是哲学论证的模范。Peter van Inwagen（2006: 39）也把 Gettier 的论证和 Gödel 的证明并 列，认为它们是哲学史上罕⻅的成功论证（虽然它们的结论是否定性的）。Alvin Plantinga 甚⾄套⽤ 诗⼈赞美⽜顿的话来赞美 Gettier 。英国诗⼈ Alexander Pope 写诗赞美⽜顿：“⾃然和⾃然规律隐藏 在⿊夜之中，上帝说‘让⽜顿降⽣吧’，于是⼀切都被照亮” 。Plantinga（1993: 31）写道："知识是有 好理由⽀持的真信念——⾃古以来我们⼀直这么认为。然后上帝说，'让 Gettier 降⽣吧'；也许并⾮⼀ 切都被照亮，但⽆论如何，我们开始知道我们从前⼀直站在⼀个⿊暗的⻆落"。 16
+
+以上资料来⾃ Rodrigo Borges, Claudio de Almeida, and Peter D. Klein (2017: vii)
+
+叶峰是burgess的学生，与maddy是同门，burgess是sliver的学生
+
+普特南博士论文：The Meaning of the Concept of Probability in Application to Finite Sequences（普特南的导师是莱辛巴赫，普特南60年代之间有一段科学实在论时期，也是他技术性工作做的比较多的时期），学生有ned block，paul benacerraf（也是叶峰的导师），Boolos，博士论文做克尔凯郭尔的，fodor，David lewis（博士论文是著名的convention），科学哲学的elliot sober（博士论文simplicity），和其它更偏向于数学和逻辑、四论的学生
+
+

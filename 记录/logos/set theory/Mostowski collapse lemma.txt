@@ -1,0 +1,19 @@
+ Andrzej Mostowski (1949, theorem 3) and John Shepherdson (1953)
+
+Suppose that R is a binary relation on a class X such that
+
+R is set-like: R^{−1}[x] = {y : y R x} is a set for every x,
+R is well-founded: every nonempty subset S of X contains an R-minimal element (i.e. an element x ∈ S such that R−1[x] ∩ S is empty),
+R is extensional: R−1[x] ≠ R−1[y] for every distinct elements x and y of X
+
+The Mostowski collapse lemma states that for every such R there exists a unique transitive class (possibly proper) whose structure under the membership relation is isomorphic to (X, R), and the isomorphism is unique. The isomorphism maps each element x of X to the set of images of elements y of X such that y R x (Jech 2003:69).
+
+Generalizations
+Every well-founded set-like relation can be embedded into a well-founded set-like extensional relation. This implies the following variant of the Mostowski collapse lemma: every well-founded set-like relation is isomorphic to set-membership on a (non-unique, and not necessarily transitive) class.
+
+A mapping F such that F(x) = {F(y) : y R x} for all x in X can be defined for any well-founded set-like relation R on X by well-founded recursion. It provides a homomorphism of R onto a (non-unique, in general) transitive class. The homomorphism F is an isomorphism if and only if R is extensional.
+
+Application
+Every set model of ZF is set-like and extensional. If the model is well-founded, then by the Mostowski collapse lemma it is isomorphic to a transitive model of ZF and such a transitive model is unique.
+
+Saying that the membership relation of some model of ZF is well-founded is stronger than saying that the axiom of regularity is true in the model. There exists a model M (assuming the consistency of ZF) whose domain has a subset A with no R-minimal element, but this set A is not a "set in the model" (A is not in the domain of the model, even though all of its members are). More precisely, for no such set A there exists x in M such that A = R−1[x]. So M satisfies the axiom of regularity (it is "internally" well-founded) but it is not well-founded and the collapse lemma does not apply to it.

@@ -1,0 +1,5 @@
+即使是像Timothy Gower和David Mumford这样的数学家（都是菲尔兹奖得主）在阅读Donald Martin的Borel Determinacy的文章（1975年发表在annal of Mathematics）时，在没有对论文的重构（如一些集合论学生的硕士论文）的辅助下，都会感到“struggling reading”和“never became clear until  I read your remark”。对于任何东西来说，读原始论文确实就像是在啃生肉。
+
+solovay曾向nash指出其原始的nash嵌入定理证明中的一个细节的错误
+
+Pólya Prize

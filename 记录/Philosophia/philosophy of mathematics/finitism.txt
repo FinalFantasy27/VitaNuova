@@ -1,0 +1,10 @@
+Q (Robinson Arithmetic, which corresponds to strict finitism in the sense articulated by Nelson), the degree marked by PRA (Primitive Recursive Arithmetic, which corresponds to finitism in the sense articulated by Tait), and the degree marked by ATR0 (Arithmetical Transfinite Recursion, which corresponds to predicativism in the sense articulated by Feferman
+SEP. Large Cardinals and Determinacy
+
+Another interesting analysis of finitary proof, which, however, does not provide as detailed a philosophical justification, was proposed by Kreisel (1960). It yields the result that exactly those functions are finitary which can be proved to be total in first-order arithmetic PA. It is based on the proof-theoretic concept of a reflection principle; see Zach (2006) for more detail and Dean (2015) for an analysis. Kreisel (1970, Section 3.5) provides another analysis by focusing on what is “visualizable.” The result is the same: finitary provability turns out to be coextensive with provability in PA
+
+It is important to stress that this analysis is not carried out from within the finitist viewpoint itself. Since the general notions of “function” and “proof” are not themselves finitary, the finitist is unable to make sense of Tait’s thesis that everything provable in  PRA is finitistically true. According to Tait, a proper analysis of finitistic provability must not assume that finitism itself has access to such non-finitistic notions. Kreisel’s approach and some criticisms of Tait that rely on reflection principles or ω-rules run afoul of this requirement (see Tait 2002, 2005b).
+
+there are weaker but non-trivial theories which are related to smaller classes of functions than the primitive recursive ones, such as PV and EA, related to the polynomial-time and Kalmar-elementary functions respectively (see Avigad 2003 on how much mathematics can be carried out in 
+EA). Using an analysis along the same lines as Tait’s, Ganea (2010) has arrived at the corresponding class of Kalmar-elementary functions as those that are finitistic.
+SEP.Hilbert's Program

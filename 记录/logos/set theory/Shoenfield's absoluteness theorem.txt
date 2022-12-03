@@ -1,0 +1,8 @@
+Shoenfield's absoluteness theorem shows that \Pi _{2}^{1} and \Sigma _{2}^{1} sentences in the analytical hierarchy are absolute between a model V of ZF and the constructible universe L of the model, when interpreted as statements about the natural numbers in each model. 
+The theorem can be relativized to allow the sentence to use sets of natural numbers from V as parameters, in which case L must be replaced by the smallest submodel containing those parameters and all the ordinals.
+The theorem has corollaries that \Sigma _{3}^{1} sentences are upward absolute (if such a sentence holds in L then it holds in V) and \Pi _{3}^{1} sentences are downward absolute (if they hold in V then they hold in L). 
+Because any two transitive models of set theory with the same ordinals have the same constructible universe, Shoenfield's theorem shows that two such models must agree about the truth of all {\displaystyle \Pi _{2}^{1}}\Pi _{2}^{1} sentences.
+
+Jech, Thomas, 2003. Set Theory: The Third Millennium Edition, Revised and Expanded. Springer. ISBN 3-540-44085-2.
+Kunen, Kenneth, 1980. Set Theory: An Introduction to Independence Proofs. Elsevier. ISBN 0-444-86839-9.
+Shoenfield, Joseph, 1961. "The problem of predicativity", Essays on the foundations of mathematics, Y. Bar-Hillel et al., eds., pp. 132–142.

@@ -1,0 +1,3 @@
+Enriching ordinary propositional modal logic with nominals and satisfaction operators
+
+Basic hybird logic is computable: The satisfiability problem for basic hybird languages over arbitrary models is PSACE-complete. (Theorem 1 in "A roadmap of the complexity of hybird logics", Carlos Areces, Patrick Blackburn, and Maarten Marx, Computer science logic (J. Flum and M. Rodriguez-Artalejo, editors), LCNS, no. 1682, Springer, 1999, Proceedings of the 8th Annual Conference of the EACSL, Madrid, September 1999, pp. 307-321

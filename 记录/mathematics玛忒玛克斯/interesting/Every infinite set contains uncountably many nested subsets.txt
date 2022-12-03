@@ -1,0 +1,1 @@
+ All countable sets admit a 1-1 correspondence with the set of natural numbers and, therefore, between themselves as well. There is a 1-1 correspondence between any two countable sets, implying that, when choosing a countable subset of a given infinite set, we may imagine this countable subset to be any one of the better known countable sets.

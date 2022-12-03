@@ -1,2 +1,0 @@
-Set-theoretic constructions introduce a lot of irrelevant structure
-Maddy p16

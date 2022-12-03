@@ -1,6 +1,0 @@
-Modem set theory evolved out of two ideas. The first is that of an arbitrary
-function from the real numbers to the real numbers, not necessarily deter
-mined
-by a rule.
-
-Understanding the infinite, 242

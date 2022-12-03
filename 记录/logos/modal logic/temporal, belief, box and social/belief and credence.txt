@@ -1,0 +1,65 @@
+lockean thesis that one believe sth iff its credence is sufficiently high (higher than some threshold t) and lottery beliefs
+lockean beliefs: LP -> Bp
+lockean beliefs are not closed under MP 
+L(p->q)->(Bp->Bq) still holds
+Bp->Mp
+conjunctivity fails (lottery reasoning)
+~(Bp & B~p) valid iff the threshold t >= 50%
+Bp1 & Bp2 & ... & Bpn -> M(p1 & p2 & ... & pn) valid for n<=1/(1-t)
+Bp = S if P(p)>t, 0 otherwise; Bp->LBp, MBp->Bp, M~Bp->~Bp, ~Bp->L~Bp
+Lockean introspection: Bp->BBp, ~Bp->B~Bp
+
+axioms for lockean belief: 
+LP -> Bp
+Bp->Mp
+L(p->q)->(Bp->Bq)
+Bp1 & Bp2 & ... & Bpn -> M(p1 & p2 & ... & pn) for n<=1/(1-t)
+Bp->LBp, MBp->Bp
+added to LM logic
+
+B∞p iff P(p)=1
+B∞p is not strictly lockean, since (1,1] =/ {1}
+
+ Lp->B∞p (the converse is not valid, P(p)=1 does not mean necessarily p)
+B∞p -> Bp
+certain MP
+and distribution over conjunction
+MB∞p->B∞p 
+
+axioms
+
+conditional belief 
+B(p: q) iff P(q|p) > t or P(p) = 0
+B(⊥: p) valid
+
+B(p: q)
+B(p->q)
+[p:]Bq (update)
+
+assuming P(p)>0, t=n/m
+B(p: q) iff P(q|p) > t
+iff P(p & q)>t·P(p)
+iff (m-n)·P(p & q)> n·P(p & ~q)
+
+Bp <-> B(T: p)
+
+Ramsey test: [p]Bq <-> B(p: q)
+or maybe [p]Bq <-> (p-> B(p: q))
+
+~B(m&~Bm) valid
+so [m&~Bm!]~B(m&~Bm) is also valid
+
+[p!]Bq <-> (p-> B(p: q))
+if we replace p and q with (m&~Bm), then right side true then the left side false
+similar issues with [p:]
+
+B(p->q) does not imply B(p: q)
+
+Lewis's theorem
+there is no regular > such that B(p>q) <-> B(p: q) is  valid
+"regular" here means L(p<->q)->L((p>r)<->(q>r)); L(p<->q)->L((r>p)<->(r>q)) are valid
+
+B∞(p: q)<->B∞(p->q)
+
+natural deduction: belief v intro: |-B(p: q)->B(p: qvr)
+v elim

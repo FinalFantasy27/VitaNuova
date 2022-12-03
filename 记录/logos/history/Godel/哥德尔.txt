@@ -1,0 +1,55 @@
+Godel once told that he realized undefinability of truth firstly, then the incompleteness.
+The stuff is Wang, H. (1981). Some Facts About Kurt Gödel. The Journal of Symbolic Logic, 46(3), 653–659. https://doi.org/10.2307/2273764. A self-description of Godel also appears in Hao Wang's A Logical Journey from Goedel to Philosophy, cha.2.5.‘
+
+我迅速察觉算术的真概念在算术中不能定义。（哥德尔，王逻，p102）
+
+
+"Less than a week after the meeting, Zermelo wrote Godel to announce
+that he had found a gap i n Godel's proof. He questioned whether Godel's
+example of an undecidable proposition was actually a statement
+within Godel's system and endeavored to show that it was not by asserting that the same method would yield "a contradiction analogous to
+Russell's antinomy" if Godel's formal provability predicate Bew were replaced by the corresponding truth predicate." (Collected Works, V, p.419)
+Although is misunderstanidng
+
+哥德尔的一些其ta工作：二阶逻辑的不完全性；可构成性公理V=L的独立性，选择公理相对于zf的独立性（在类型论中）（书信和遗稿）（王浩评论回过头来看哥德尔的方法也能证明连续统假设独立性，但cohen说他直接访问哥德尔，而哥德尔明确否认用了类型论，并且cohen认为哥德尔可能没有在这上做出任何严肃的工作，因为哥德尔对模型论方法的忽略使他震惊）、1938年哥德尔证明了“假设zfc+v=L，则不存在不可测的投影集”，之后由1965年索洛维的结果导致了投影集可测问题的独立性（据康宏逵对王宪钧对哥德尔的回忆，哥德尔在证明了不完全性定理后说“不重要的东西都不值得做”，问到重要的是什么时，“现在嘛，集合论）
+
+
+GÖDEL, K., 'Some Basic Theorems in the Foundations of Mathematics and Their Philosophical Implications', in his Collected Works, Vol. III (Oxford: Oxford University Press, 1995). [This, the “Gibbs Lecture” from 1951 is not easy but is remarkably rich.]
+
+1931年一场数学会议上由当时的三大数学基础学派的年轻一代代表人物，代表逻辑主义的鲁道夫·卡尔纳普（ Rudolf Carnap ）、代表直觉主义的阿伦特·海廷（ Arend Heyting ）和代表形式主义的冯·诺依曼（ von Neumann ）宣读了三篇纲领性文献，分别介绍直到那时为止，三大主义内部一致认同的观点主张，以及已经取得的成果。这是一个颇具戏剧性的历史时刻，因为正是在同一场会议上，三位数学家宣读完本学派的总结性报告之后，年仅25岁的青年数学家库尔特·哥德尔就宣读了自己的《〈数学原理〉及有关系统中的形式不可判定命题》一文，提出了著名的哥德尔不完备定理，宣告了三大主义原有纲领的不同程度的失败，并使得数学基础和数理逻辑研究进入到新的阶段。”
+那场大会上维特根斯坦也就对数学基础的评论发表了演讲。不过他们所有人的都被哥德尔的光芒遮掩下去了
+
+大约从1950年起,我发现哥德尔证明的所有细节在司寇伦更早的工作中都可获得,这一事实使我惊异。我在初稿中这样解释这个事实,即哥德尔独立地发现了这一定理,并对之给出了颇有吸引力的处理方法。1967年12月7日,哥德尔回了一封信,并说明他这么晚答复是因为难以找到一个合适的角度,阐明他自己的贡献的新颖之处。我的解释使他不太高兴:“你事实上是说,完全性定理之所以归功于我,只是因为我的处理方法有吸引力。从逻辑目前的状况来看,情形也许如此。”他转而对这一问题的数学部分和哲学部分进行了区分,并且更一般地谈到了他的哲学观点在他的数理逻辑工作中所起到的作用。哥德尔的要点是:完全性结果公正地归功于他,是因为他正哥德尔的要点是:完全性结果公正地归功于他,是因为他正是具有得出那个结论“所需要的认识论态度”的人,虽然这一步从数学上说“几乎是微不足道的”。王，逻，165，133
+
+
+厄多斯( Paul Erdos )说,虽然他和哥德尔都对莱布尼茨进行了大量的研究,但他经常和哥德尔争论,对他讲:“你是一个数学家,因此应该是别人研究你,而不是你研究莱布尼茨。＂110
+
+我得到我对直觉主义算术的解释,并于1942年左右[应该是1941年]在普林斯顿和耶鲁作了有关演讲。耶鲁演讲时,阿廷 [ Emil Artin ]在场。但是没有人感兴趣。通过这一解释,古典算术的一致性证明比根岑的证明更显明。这一解释最后于1958年发表在贝奈斯(或《辩证法》)篇中。1941年4月15日在耶鲁的演讲名为《直觉主义逻辑在什么意义上是构造性的?》。1941年春,哥德尔也在普林斯顿作了关于直觉主义的一系列演讲,其中包括这一解释]
+哥德尔，王，逻，108
+
+摩根斯顿与哥德尔相熟,也(可能通过哥德尔)与爱因斯坦相识,他在1965年年底给奥地利政府写信,建议在哥德尔60生日时向他颁奖。信中说道:1.6.2爱因斯坦常常对我讲,他在晚境中一直找哥德尔与他相伴,为的是跟哥德尔交谈。有一次他对我说,他自已的工作不再有多大意义,他到高研院来只是要“得到与哥德尔一道散步回家的特权。”[所谓“晚境”大概始于1951年,其时爱因斯坦停下了统一场论的研究。]
+王浩逻73
+
+爱因斯坦和哥德尔都首先关心基本的东西,而且在晚年都几乎专注于此,不为其他。比如,爱因斯坦( Schilpp ,1949,15, Woolf ,1980,485)经常解释他之所以选择物理学而非数学,部分原因是他感到数学划成了太多的分支,而在物理学中他可以看到重要问题所在。然而,他对施特劳斯( Straus )却说:“既然遇到哥德尔,我明白了数学中也的确有同样的事情。”换言之,爱因斯坦对整个数学或整个物理学的基本问题感兴趣,但一开始只能在物理学中辨识出它们。哥德尔有一次对我说,几乎带着申辩的口气(可能是解释为什么他在后来几十年中未能达到他认可的成功),他也总是追求基本的东西。74
+
+在1976年4月的一封信里，哥德尔说到20世纪30年代以来他的声的增长：起先的10或15年里声名鹊起，后来则断续支绌，难以为继。逻辑之旅38 (32)
+
+KGFM 19: Cohen’s interactions with Gödel
+By Peter Smith / KGFM, Phil. of maths / Leave a Comment / November 21, 2011
+The next paper in KGFM is a short talk by the late Paul Cohen, ‘My Interaction with Kurt Gödel: The Man and His Work’. The title is full of promise, but there seems relatively little new here. For Cohen had previously written with great lucidity a quite fascinating paper ‘The Discovery of Forcing‘ and he already touches there on his interactions with Gödel:
+
+A rumor had circulated, very well known in all circles of logicians, that Gödel had actually partially solved the [independence] problem, specifically as I heard it, for AC and only for the theory of types (years later, after my own proof of the independence of CH, AC, etc., I asked Gödel directly about this and he confirmed that he had found such a method, specifically contradicted the idea that type theory was involved, but would tell me absolutely nothing of what he had done). … It seems that from 1941 to 1946 he devoted himself to attempts to prove the independence [of AC and CH]. In 1967 in a letter he wrote that he had indeed obtained some results in 1942 but could only reconstruct the proof of the independence of the axiom of constructibility, not that of AC, and in type theory (contradicting what he had told me in 1966).
+
+In this present paper, Cohen can shed no more real light on this unclear situation. But still,  what he writes is perhaps interesting enough to quote. So, Cohen first repeats again the basic story, though with a comment that chimes with other accounts of Gödel’s philosophical disposition:
+
+I visited Princeton again for several months and had many meetings with Gödel. I brought up the question of whether, as rumor had it, he had proved the independence of the axiom of choice. He replied that he had, evidently by a method related to my own, but he gave me no precise idea or explanation of why his method evidently failed to succeed with the CH. His main interest seemed to lie in discussing the truth or falsity of these questions, not merely their undecidability. He struck me as having an almost unshakable belief in this realist position that I found difficult to share. His ideas were grounded in a deep philosophical belief as to what the human mind could achieve.
+
+And then at the end of the talk, Cohen sums up his assessment like this:
+
+Did Gödel have unpublished methods for the CH? This is a tantalizing question. Let me state some incontrovertible facts. First, much effort was spent analysing Gödel’s notes and papers, and no idea has emerged about what kinds of methods he might have used. Second, I did ask him point-blank whether he had proved the independence of CH, and he said no, but that he had had success with the axiom of choice. I asked him what his methods were, and he said only that they resembled my own; he seemed extremely reluctant to give any further information.
+
+My conclusion is that Gödel did not complete any serious work on this topic that he thought was correct. In our discussions, the word model almost never occurred. Therefore I assume that he was looking for a syntactical analysis that was in the spirit of his definition of constructibility. His total lack of interest in a model-theoretic approach quite astounded me. Thus, when I mentioned to him my discovery of the minimal model also found by John Shepherdson, he indicated that this was clear and, indirectly, that he knew of it. However, he did not mention the implication that no purely inner model could be found. Given that I also believe he was strongly wedded to the syntactical approach, this would have been of great interest. My conclusion, perhaps uncharitable, is that he totally ignored questions of models and was perhaps only subconsciously aware of the minimal model.
+
+That hints at an interesting diagnosis of Gödel’s failure to prove the independence results he wanted.
+
+https://www.logicmatters.net/2011/11/21/kgfm-19-cohens-interactions-with-godel/

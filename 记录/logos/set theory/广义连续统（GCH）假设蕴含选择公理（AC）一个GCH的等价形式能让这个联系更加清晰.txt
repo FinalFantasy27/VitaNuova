@@ -7,8 +7,4 @@ AC可以这样表述：对于所有的x和y, 要么x<=y，要么y<=x.
 换句话说，AC等价于对于所有x,y，如果它们不是有限的，那么要么x<=y要么y<=x.
 对偶地，GCH有这样一个等价形式：对于所有x,y,如果x和y都并不是有限的，那么要么x<=y要么Py<=x.
 
-cf. Notre Dame Journal of Formal Logic
-Volume VII, Number 3, July 1966
-A SIMPLE VERSION OF THE GENERALIZED
-CONTINUUM HYPOTHESIS
-ROLF SCHOCK
+cf. Notre Dame Journal of Formal LogicVolume VII, Number 3, July 1966A SIMPLE VERSION OF THE GENERALIZED CONTINUUM HYPOTHESISROLF SCHOCK

@@ -1,0 +1,5 @@
+"This statement cannot be proved in Peano arithmetic in fewer than a googolplex symbols"
+
+is provable in Peano arithmetic (PA) but the shortest proof has at least a googolplex symbols, by an argument similar to the proof of Gödel's first incompleteness theorem: If PA is consistent, then it cannot prove the statement in fewer than a googolplex symbols, because the existence of such a proof would itself be a theorem of PA, a contradiction. But simply enumerating all strings of length up to a googolplex and checking that each such string is not a proof (in PA) of the statement, yields a proof of the statement (which is necessarily longer than a googolplex symbols).
+
+The statement has a short proof in a more powerful system: in fact the proof given in the previous paragraph is a proof in the system of Peano arithmetic plus the statement "Peano arithmetic is consistent" (which, per the incompleteness theorem, cannot be proved in Peano arithmetic).

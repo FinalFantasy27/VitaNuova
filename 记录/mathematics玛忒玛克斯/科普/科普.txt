@@ -1,3 +1,9 @@
+·所有的对数函数进行底的变换，其结果的差异也一定只会是常数倍的，因logAx=logAB^logBx
+=logBxlogAB
+logAx=logABlogBx
+其中前者是一常数
+
+无论怎样天才的程序员，也无法将比较排序算法的最大比较次数降低到小于nlogn阶
 . when continual, the probability of a single point could not be 0 or non-0, the solution is probability density (function)(PDF), and this is what means by "the probability is 0 is not equal to impossibility". (https://youtu.be/ZA4JkHKZM50(21.10.27))
 . "Almost" Fourier analysis: when a  wave of  frequency 2 cycles/second adds up a 3 cycles/second wave, its rotating vector, where its length is equal to the height of our graph at that time, when the frequency with which we are wrapping the graph around the circle matches the frequency of the singles(2 or 3 cycles/second), things nicely aligned (?question still) (https://youtu.be/spUNpyF58BY (21.10.27))
 . Disney is great at 3d and graphics; Tengxun and Baidu at ai.

@@ -1,5 +1,0 @@
-the trajectory of an object that is accelerated unboundedly, its velocity becoming in effect infinite in a finite time.
-By the time t = t*, the object has literally disappeared from the world—its world-line never reaches the t = t* surface.
-Xia (1992) showed that such acceleration can be accomplished by gravitational forces from only 5 finite objects, without collisions.
-
-time-reversibility

@@ -1,0 +1,16 @@
+“虽然希尔伯特在《论无限》里引用当时的物理学来论证将元数学限制在有穷数学的必要，但很难因此就说希尔伯特支持物理主义或严格有穷数学，至少希尔伯特并不觉得无穷数学是有没有真值的”
+
+在希尔伯特演讲的前一天，哥德尔宣读了他的不完备性定理
+
+The way to proceed, Hilbert argued,was to start with those finitary parts of mathematics that were incontrovertible; ……Instead he argued that ideal propositions had no meaning.They did not correspond to anything in mathematical reality in the way that finitary propositions did.Rather they were supplementary devices ofa purely formal kind that were invoked to facilitate proofs and to makefor greater elegance and perspicuity.
+引自第134页
+
+The InfiniteA.W. MooreRoutledge2001
+
+Hilbert never gave a general account of which operations and methods of proof are acceptable from the finitist standpoint, but only examples of operations and methods of inference in contentual finitary number theory which he accepted as finitary. Contentual induction was accepted in its application to finitary statements of the hypothetical, general kind explicitly in Hilbert (1922b). He (1923, 1139) said that intuitive thought “includes recursion and intuitive induction for finite existing totalities,” and used exponentiation in an example in 1928. Bernays (1930) explained how exponentiation may be understood as a finitary operation on numerals. Hilbert and Bernays (1934) give the only general account of finitary contentual number theory; according to it, operations defined by primitive recursion and proofs using induction are finitarily acceptable. All of these methods can be formalized in a system known as primitive recursive arithmetic (PRA), which allows definitions of functions by primitive recursion and induction on quantifier-free formulas (ibid.). However, neither Hilbert nor Bernays ever claimed that only primitive recursive operations count as finitary, and they in fact did use some non-primitive recursive methods in ostensibly finitary consistency proofs already in 1923 (see Tait 2002 and Zach 2003).
+SEP. Hilbert's Program
+
+Tait, 2002, “Remarks on finitism”, in Reflections on the Foundations of Mathematics. Essays in Honor of Solomon Feferman, Wilfried Sieg, Richard Sommer, and Carolyn Talcott, eds., Association for Symbolic Logic, LNL 15. Reprinted in Tait (2005a, 43–53). [Preprint available online]
+
+2003, “The practice of finitism. Epsilon calculus and consistency proofs in Hilbert’s Program”, Synthese, 137: 211–259. [Preprint available online]
+

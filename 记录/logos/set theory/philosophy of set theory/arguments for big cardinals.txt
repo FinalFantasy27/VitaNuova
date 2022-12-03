@@ -1,9 +1,4 @@
-The principle that every
-model of the strengthened set theory is embedded in a larger one then be
-comes,
-"there are unboundedly many hyperinaccessible cardinals," and
-so modal structuralism provides a kind of argument for the existence of
-hyperinaccessibles. Hellman has worked out analogous arguments for strong Mahlo cardinals, hyper-Mahlo cardinals, and so forth, though not
+The principle that every model of the strengthened set theory is embedded in a larger one then be comes, "there are unboundedly many hyperinaccessible cardinals," and so modal structuralism provides a kind of argument for the existence of hyperinaccessibles. Hellman has worked out analogous arguments for strong Mahlo cardinals, hyper-Mahlo cardinals, and so forth, though not
 for weakly compact cardinals [HeI89, pp. 83-91].
 
 Understanding the infinite, p.224

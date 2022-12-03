@@ -1,0 +1,18 @@
+一、数学跟逻辑分了家。数学只在逻辑之上而不在逻辑之内，可以有不在逻辑中定义的数学概念、不在逻辑中证明的数学原理。“大数学”集合论取代了“大逻辑”PM。
+康宏逵《王浩来信摘抄》，《康宏逵先生文章集锦》
+
+Suppose a contradiction were to be found in the axioms of set theory. Do you seriously believe that a bridge would fall down?
+ Quoted in D MacHale, Comic Sections (Dublin 1993)
+
+There is also the issue of the Kleene-Rosser paradox (or its simpliﬁed version called Curry’s paradox), which shows that untyped lambda calculus is inconsistent; but a little inconsistency never stopped a programming language from being widely accepted.(Programming with haskell, p26, footnote 4)
+
+
+就算PA是不一致的，这说明了自然数是不一致的吗？不，仅仅是说明了自然数的某种形式化不一致罢了。
+
+To append an apocryphal tale: A host of industrious spiders started to build an elabotate network of webs in newly excavated vaults beneath the cathedral. It quickly grew so thick and complex that no one could venture across without getting enmeshed. One day, a fearful wind came howling in and blew a gaping hole through the network, and in desperate response the spiders worked frantically to reestablish the connections. For you see, the spiders had become convinced that their carefully constructed webbing was the foundation without which the entire cathedral would totter. Of course, the craftsman above hardly raised an eyebrow.
+
+Akihiro Kanamori (金森晶洋), 高阶无限（第二版）（The Higher Infinite, second Edition）, 世界图书出版社 (Springer)
+
+一个寓言恰如其分地概括了本世纪有关数学基础的进展状况。在莱茵河畔，一座美丽的城堡已经矗立了许多个世纪。在城堡的地下室中生活着一群蜘蛛，突然一阵大风吹散了它们辛辛苦苦编织的一张繁复的蛛网，于是它们慌乱地加以修补，因为它们认为，正是蛛网支撑着整个城堡。
+
+莫里斯克莱因，数学：确定性的丧失湖南科学技术出版社Mathematics: the Loss of Certainty李宏魁1997第283页 灾难

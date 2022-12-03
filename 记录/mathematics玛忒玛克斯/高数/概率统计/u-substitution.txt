@@ -1,2 +1,0 @@
-du/dx=y
-ydx=du

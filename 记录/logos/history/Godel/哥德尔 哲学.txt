@@ -1,0 +1,26 @@
+
+
+The human mind is incapable of formulating … all its mathematical intuitions, ie., if it has succeeded in formulating some of them, this very fact yields new intuitive knowledge, eg., the consistency of this formalism. This fact may be called the ‘incompletability’ of mathematics. (Kurt Gödel)
+引自第172页
+
+The Infinite A.W. MooreRoutledge2001
+
+哥德尔肯定了我们的数学直觉是可错的，并研究了数学中不同程度的清晰性和确定性。他还承认自然数比任意集合，客观性比客体有认识论上的优先性（逻辑之旅，p6）
+
+数看起来比集合更不具体，它们有不同的表示，是所有表示中共同的东西。（p328）
+
+我想大概没有多少人会认为数比集合更不具体。
+
+哥德尔迅速地从数学中的柏拉图主义推论出一般的柏拉图主义，而且显然认为不需要额外的理由，这经常使我感到诧异——他在卡尔纳普篇中就是这样的。（王逻96）
+
+数学直觉并不需要被设想成一种能给出对有关对象的直接知识的能力。倒似乎是，像在物理经验的情形中那样，我们也是在被直接给出的别的某种东西的基础上构成我们对那些对象的观念的（集合论与概念论第二版补遗，收录于郝兆宽, p.140）
+
+应当提醒读者，E的个别元素会是很病态的。哥德尔的著名的“旋转宇宙”[12]，[13]就是场方程的一种解，在其中，空时中的每一位置都能从每一别的位置因果地通达：你“乘飞船环行”能由此及。这特殊的相对论模型的时态逻辑不外是前面§2一开头讨论的那种平庸的循环时间的逻...哥德尔则把他自己的工作解释成不能替时间谋求终极的形而上学实在性的一个理由：这样一来，他就仰仗更令人信服的论据，到达了与麦克塔格特一模一样的结论。（p182-3）
+
+[12] Godel, K., "An Example of a New Type of Cosmological Solution of Einstein's Field Equation of Gravition", Review of Modern Physics, vol. 21(1949).
+[13] ──, "A Remark about th Relationship between Relativity Theoy and Idealistic Philosophy", Albert Einstein, Philosopher-Scientist (P.A.Schilpp, editor). Harper, New York, 1959.
+
+可能世界的逻辑R.B.马库斯上海译文出版社1993
+
+【牧师】安 2021/5/30 22:51:08
+哥德尔关于哲学话题的一些论证还有：因为人的才智如此之广大，一世不能竭尽其用，所以上帝为了不让人的才智浪费，必然有来世（写给母亲的信）；因为哥德尔不完全性定理，所以机器不能把握全部的数学，可是人的心智能够把握那把握不到的东西（这一点存疑，哥德尔也是比较审慎的），所以人的心智必然是无限的，所以人不是机器。这一论证后来因lucas和彭罗斯的反复炒用而引起讨论；还有经典数学到直觉主义的否定性翻译，从而证明了经典数学相对于直觉主义数学的相对一致性，从而直觉主义数学在某种意义上并不比经典数学“安全”，想以此扼制直觉主义（似乎并不满意，隔了几十年才当做贝奈斯70岁生日的献礼发表）；

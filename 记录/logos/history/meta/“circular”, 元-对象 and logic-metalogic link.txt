@@ -1,0 +1,23 @@
+I call this the logic-metalogic link. There are two facets to the logic-metalogic link. First, when a logic is entangled with a substantive issue, the same position on that issue should be taken at the meta- level as at the object level; and second, if an expression has a clear meaning in natural language, then the corresponding concept can equally well be deployed in a formal language.
+
+Published: 19 December 2016Second-order Logic and the Power SetEthan Brauer Journal of Philosophical Logic volume 47, pages123–142 (2018)
+
+For first order logic it can be proved that “M |=_s  ϕ” is an absolute property of M, s and ϕ relative to ZFC. But Second-order is not. semantics of first order logic is absolute relative to ZFC. This gives some assurance that we need not continue asking, what the metatheory is.
+SEP.Second order
+
+自然语言是最强的元语言，因为它有矛盾
+塔斯基说了他的语义定义不能应用于自然语言
+不过一般人在说ta们的元语言或朴素集合论是自然语言时可能是倾向于某个（任意的）自然语言或朴素集合论的无矛盾的子片段
+
+Sheffer once called the ‘logocentric predicament’, that ‘In order to give an account of logic, we must presuppose and employ logic.’(p21)
+引自 1: Logics and languages
+
+Philosophy and Model TheoryTim Button/Sean WalshOxford University Press
+
+How can you introduce a specified formalism without using words?
+Paul Finsler to Godel, collected works VI, 436.
+是一封荒乱的书信，但是其中的部分错误是在那些区分未成熟的阶段可理解的 
+
+Herbert Gross was a student of Finsler's and wrote the obituary [14](H Gross, Nachruf Paul Finsler, Elemente der Mathematik 26 (1971), 19-21). He writes there:
+Finsler possessed to the same degree an immense logical sharpness, mathematical ability and a fine sense of humour. It was an experience as a mathematics student to hear his lectures. His style was reminiscent of the deep and witty remarks of Gottlob Frege. The most valuable thing Finsler has given to many of his students, is a great confidence in the ability of human reason and a distrust of any mathematical formalism, which pretends to be more than a shorthand notation, compared to that which can be expressed in mathematical thoughts and ideas.
+(https://mathshistory.st-andrews.ac.uk/Biographies/Finsler/)

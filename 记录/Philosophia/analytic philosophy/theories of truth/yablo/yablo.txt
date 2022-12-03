@@ -1,3 +1,0 @@
-Whether Yablo’s paradox really avoids self-reference is much-debated. See, for instance, Barrio (2012), Beall (2001), Cook (2006, 2014), Ojea (2012), Picollo (2012), Priest (1997), Sorensen (1998), and Teijeiro (2012).
-
-https://plato.stanford.edu/entries/liar-paradox/

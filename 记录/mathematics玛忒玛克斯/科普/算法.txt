@@ -1,6 +1,0 @@
-所有的对数函数进行底的变换，其结果的差异也一定只会是常数倍的，因logAx=logAB^logBx
-=logBxlogAB
-logAx=logABlogBx
-其中前者是一常数
-
-无论怎样天才的程序员，也无法将比较排序算法的最大比较次数降低到小于nlogn阶

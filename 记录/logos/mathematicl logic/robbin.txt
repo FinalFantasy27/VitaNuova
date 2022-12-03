@@ -1,0 +1,3 @@
+
+As in later chapters, Robbin buries some interesting results in the extensive exercises. Here’s one, pointed out to me by David Auerbach. Robbin defines negation in the obvious way from his two logical primitives, so that  ∼ φ = def(φ → f). And then his three axiom schemas can all be stated in terms of  ⊃  and  ∼ , and his one rule is modus ponens. This system is complete. However, if we take the alternative language with  ⊃  and  ∼  primitive, then the same deductive system (with the same axioms and rules) is not complete. That’s a nice little surprise, and it is worth trying to work out just why it is true.
+https://www.logicmatters.net/tyl/booknotes/robbin/

@@ -1,0 +1,5 @@
+More precisely Awodey and Reck point out that in the 2nd edition of Fraenkel's book (1923) he had distinguished between categoricity and deductive completeness. In the 3rd (1928) edition he also clarifies the distinction between syntactic and semantic completeness. Corcoran [Corcoran 1980] points out that Veblen in 1904 distinguishes deductive and semantic completeness but confuses semantic completeness and categoricity. Corcoran relates the generally unsettled nature of these notions in the first decades of the twentieth century and raises a number of precise historical questions.
+Baldwin.
+
+"Within logic, the informal concept of model has been traced back by Scanlan (1991) to the American "postulate theorists", launched by work of Huntington in 1902 and Veblen in 1904"
+Feferman. conceptual analysis

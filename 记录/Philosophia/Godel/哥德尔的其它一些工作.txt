@@ -1,4 +1,0 @@
-哥德尔的一些其ta工作：二阶逻辑的不完全性；可构成性公理V=L的独立性，选择公理相对于zf的独立性（在类型论中）（书信和遗稿）（王浩评论回过头来看哥德尔的方法也能证明连续统假设独立性，但cohen说他直接访问哥德尔，而哥德尔明确否认用了类型论，并且cohen认为哥德尔可能没有在这上做出任何严肃的工作，因为哥德尔对模型论方法的忽略使他震惊）、1938年哥德尔证明了“假设zfc+v=L，则不存在不可测的投影集”，之后由1965年索洛维的结果导致了投影集可测问题的独立性（据康宏逵对王宪钧对哥德尔的回忆，哥德尔在证明了不完全性定理后说“不重要的东西都不值得做”，问到重要的是什么时，“现在嘛，集合论）
-
-
-GÖDEL, K., 'Some Basic Theorems in the Foundations of Mathematics and Their Philosophical Implications', in his Collected Works, Vol. III (Oxford: Oxford University Press, 1995). [This, the “Gibbs Lecture” from 1951 is not easy but is remarkably rich.]

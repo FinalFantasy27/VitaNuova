@@ -1,6 +1,0 @@
-(b) all such theories are deterministic. (Here, (b) is almost certainly false; see Earman (1986),ch. XI).
-his recent update on the subject, “Aspects of Determinism in Modern Physics” (2007)
-
-A second class of determinism-breaking models can be constructed on the basis of collision phenomena. The first problem is that of multiple-particle collisions for which Newtonian particle mechanics simply does not have a prescription for what happens. (Consider three identical point-particles approaching each other at 120 degree angles and colliding simultaneously. That they bounce back along their approach trajectories is possible; but it is equally possible for them to bounce in other directions (again with 120 degree angles between their paths), so long as momentum conservation is respected.)
-
-uncomfortable with Norton‘s dome: Malament, D., 2008, “Norton's Slippery Slope,” Philosophy of Science, vol. 75, no. 4, pp. 799–816.

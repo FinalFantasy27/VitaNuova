@@ -1,1 +1,0 @@
-In 1700-1800s, there were debates on what function is, everyone agrees that f(x) = x^2 + 3x is a function, but for things like nowhere continuous function, there is doubt (Luzin.)
