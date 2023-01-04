@@ -1,3 +1,11 @@
+这些概念构成其自身的客观实在，这种客观实在性不是我们能创建或更改的，我们只可以感知和描述它。
+Gödel（1951：1995，第320页）
+
+我的印象是……柏拉图主义者的观点是唯一站得住脚的。对此，我的意思是，数学描述了非感性实在，其存在既独立于人类心灵的行为也独立于心灵的倾向，它只能被人的心灵知觉到，尽管这种知觉可能非常不完整。
+Gödel（1951：1995，第322～323页）
+
+……尽管它们远离感官经验，但我们对集合论的对象确实有某种类似知觉的经验，这一点可以从那些公理强迫我们接受其为真的事实中看出。我看不出有什么理由我们为什么对这类知觉的信心，即对数学直觉的信心，要比对感性知觉的信心弱。
+Gödel（1947：1990，第268页）
 
 
 The human mind is incapable of formulating … all its mathematical intuitions, ie., if it has succeeded in formulating some of them, this very fact yields new intuitive knowledge, eg., the consistency of this formalism. This fact may be called the ‘incompletability’ of mathematics. (Kurt Gödel)

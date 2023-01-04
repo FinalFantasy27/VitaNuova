@@ -1,33 +1,34 @@
 
+Burgess: econnomy of abstract ontology is not among the theoretical virtues: a matter to which most working scientists attach no importance whatsoever.
+
+Maddy: resisting holism, mathematical accounts of physical phenomenon are now not taken as literal truths but free-standing abstract models that resemble the world in complex ways. double standards. Shift our attention away from the questions of truth and existence to the challenge of understanding the common objectivity, the mathematical depth, underlying both Thin Realism and Arealism.
+
+
+Leng在《数学是发现还是发明》中质问Field：但请注意，这个解释承认，不可约模态事实的存在奠定了数学推理的客观性。尽管这个解释避开了承认存在抽象的数学对象，但它仍然要求我们接受一种支撑起数学发现的实在（虽然是模态事实而不是抽象的数学对象）。对此我们需要再次问一声：是什么允许我们人类能够具有关于这些模态事实的知识？
+
+
 epistemological problem
 Godel 1964 Benacerraf 1973
+Benacerraf frames the problem in his classic paper, ‘a satisfactory account of mathematical truth … must fit into an over-all account of knowledge in a way that makes it intelligible how we have the mathematical knowledge that we have’.
 
-What neural process, after al, could be described as the perception of a mathematical objects(putnam, p43)
-引自 2: Permutations and referential indeterminacy
-
-Philosophy and Model TheoryTim Button/Sean WalshOxford University Press
+What neural process, after al, could be described as the perception of a mathematical objects (putnam, p43)
+引自 2: Permutations and referential indeterminacy, Philosophy and Model TheoryTim Button/Sean WalshOxford University Press
 
 Field's epistemological problem
 Field himself then suggests a considerable further reduction of the problem: he does not question the explicability of the reliability of judgements about what follows logically or analytically from what. Thus whatever area is considered, the issue is not really about the reliability of arbitrary beliefs within that area, but rather about axiomatic beliefs, ones that are not believed simply because they follow logically or analytically from other, more basic beliefs. The challenge is thus to explain the reliability of axiomatic beliefs in set theory, to explain the correlation between axioms of standard set theory being believed and their being true.
 p.45
-
 A Subject With No ObjectJohn P. Burgess/Gideon RosenStrategies for Nominalistic Interpretation of Mathematics272Oxford University Press
 2000
 
 Maddy's modified indispensibility argument
 The idea is that although it is physics that leads to our commitment to some mathematics, once we have a commitment to mathematics that commitment can be expanded using techniques internal to the development of mathematics: not every piece of acceptable mathematics needs to be directly tied to physics. Thus, according to the modified indispensability argument [Mad92, p. 280], "the calculus is indispensable in physics; the set-theoretic continuum provides our best account of the calculus; indispensability thus justifies our belief in the set-theoretic continuum, and so, in the set-theoretic methods that generate it; examined and extended in mathematically justifiable ways, this yields Zermelo-Fraenkel set theory."
-
 Understanding the infinite, p. 220
 
 In a series of papers, Charles Parsons (Parsons 1964, 1969, 1984) has argued that the syntheticity of mathematical judgments depends on mathematical intuitions being fundamentally immediate, and he explains the immediacy of such representations in a perceptual way, as a direct, phenomenological presence to the mind
-
 2000, “Geometry, Construction and Intuition in Kant and His Successors”, in G. Scher and R. Tieszen (eds.), Between Logic and Intuition: Essays in Honor of Charles Parsons, Cambridge: Cambridge University Press, pp. 186–218.
-
-., 1964, “Infinity and Kant’s Conception of the ‘Possibility of Experience’”, The Philosophical Review, 73 (2): 182–197; reprinted in Parsons 1983.
+——, 1964, “Infinity and Kant’s Conception of the ‘Possibility of Experience’”, The Philosophical Review, 73 (2): 182–197; reprinted in Parsons 1983.
 –––, 1969, “Kant’s Philosophy of Arithmetic”, in S. Morgenbesser, P. Suppes, and M. White (eds.), Philosophy, Science and Method: Essays in Honor of Ernest Nagel, New York: St. Martin’s Press; reprinted in Parsons 1983 and in Posy 1992.
-
 –––, 1984, “Arithmetic and the Categories”, Topoi, 3 (2): 109–121; reprinted in Posy 1992.
 
 “At least one kind of essentially mathematical intuition, of symbol- and expression-types, is perfectly ordinary and recognized as such by ordinary language.” (1980, p. 155，转引自Parsons on Mathematical Intuition, James Page, Mind , Apr., 1993, New Series, Vol. 102, No. 406 (Apr., 1993), pp. 223-232
-
 Parsons, Charles.1980: "Mathematical Intuition". Proceedings of the Aristotelian Society, pp.145-168.)

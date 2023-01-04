@@ -1,0 +1,23 @@
+模态逻辑笔记
+•模态语言的词汇表中有T是因为虽然T可以由pV～p等定义，但有可能命题字母表是空集，就不可以这样做了
+•语法上来说用diamond还是box作初始词项会有一些不同，作为一个作业
+•计算机用的时态逻辑更复杂，例如使用不动点的技术；model checking的工作一部分就是找到更快的方法
+•关系可以看作矩阵，命题可以看作向量（在哪里为真） ，一个作业是：如何用矩阵的操作进行相关的计算呢
+•什么是两个（）的sameness呢？对一些来说isomorphism太限制了。例如“土”和“士”对一些外国人可能意味着同一个，因为在一些外国语言里，横杆的相对长度并不改变一个字词的本质，例如F的杆写互相相对长或短也不影响它是个F
+for instance, 结构M, 世界w的“路”｛s | s=a_0…a_k并且从w到w0到…到w_k分别有关系a_0, …, a_k｝，我们称两个世界，结构 的“迹/追”相同当且仅当它们有同样的路
+例如Wa1, Wb2（W和1等是世界，a等是关系）和va1, va2, vb3是迹相同的，因为它们的路都是｛a, b｝
+（即这个sameness这里只考虑“路径）
+什么时候结构等价和逻辑等价呢？例如上面这个等价关系可以用公式possible（简称p）_a_1…p_a_nT刻画
+对应等价关系的逻辑语言不一定是唯一的。例如对于真值表 整个命题逻辑的语言和只有命题字母的语言的区分能力是一样的
+
+exercise: 刻画complete trace的逻辑语言是什么呢？（第三讲）
+•induction不一定是trivial的，一个练习：第三讲59分的结论的归纳假设应该怎么设呢？
+•第三讲1：（）等价（限制在有穷情况下）还是可以找到模态公式来区分的，这不是那么trivial的一件事，可以想一想
+
+·lecture 8 filtration preserve formulae我没看到什么只能限于有限个语句的地方
+
+·ultrafilter extension of N, <
+0, 1, 2... \pi_1 \pi_2....
+\pi_i non principal ultrafilter and
+\pi_i > n for all n \in N, because non principal ultrafilter of an infinite set is a set of infinite sets, and m_R of an infinite set is the set of natural numbers N, 'cause there is no the biggest number in an infinite set, and N is in every ultrafilter 
+and \pi_{i_1} and \pi_{i_2} could reach each other

@@ -2,3 +2,5 @@ Plato may posit a kind of intermediate abstract entity, called a “mathematical
 
 THE REVIEW OF SYMBOLIC LOGIC, Volume 1, Number 1, June 2008, p. 16, HOW APPLIED MATHEMATICS BECAME PURE
 PENELOPE MADDY, p.1 注1
+
+柏拉图认为，数学领域的知识可以被解释为直接“观察”的结果。根据柏拉图的观点，数学对象属于永恒的形式领域，它由不朽的、无形的灵魂直接感知。这种感知在作为血肉之躯的人“出生”之前就有了。作为灵魂的物质化身的我们所具有的数学知识是我们通过对这种形式的直接经验的回忆而获得的（柏拉图，《美诺篇》，81 d～86 c）

@@ -1,0 +1,12 @@
+在文献Goldfarb, Warren , Frege's Conception of Logic. in The Analytic
+Tradition in Twentieth-Century Philosophy, ed. Juliet Floyd and
+Sanford Shieh. Oxford University Press , 2001.中， Goldfarb 指出现代逻辑的创始人弗雷格有着与"我们"完全不同的逻辑观念，他不认为逻辑是"模式化的" (schematic) 。（G相信模式化的逻辑观是最为自然，甚至不可避免的。
+因此，弗雷格逻辑观念的不同只有历史的意义。p.39）在Frege, Kant, and the Logic in Logicism, The Philosophícα1 Review,Vol. 111, No. 1 (January 2002)中，MacFarlane 则指出弗雷格的逻辑观念与康德的普遍逻辑也不相同，他不认为逻辑是纯形式的。事实上， Boolos 也在此之前注意到这点， (Logic, Logic, and Logic. Ed. Richard Jeffrey. Cambridge: Harvard University Press., 302) 而Goldfarb 更是提醒我们，早在上世纪60 年代开始， Burton Dreben 、Jean van Heijenoort 都已经注意到弗雷格拥有"独特的"逻辑概念这一点。(p. 25)
+而MacFarlane 则力图说明，纯形式不是康德逻辑观念的本质要求，而是“逻辑是普遍的”这一点在康德哲学框架内的一个推论。因此，弗雷格可以只接受逻辑的普遍性，而（通过拒绝康德的一些哲学假设）不接受逻辑是形式的，所以弗雷格在《算术基础》中对康德的批评值得对手认真对待，不能简单地以康德的逻辑与弗雷格的逻辑指的不是同一个概念而逃避。但是，为了达到这个目的， MacFarlane 要求弗雷格接受“逻辑是思想的普遍规则”，即，它是一个规范性的学科。(p. 13)
+
+对于弗雷格来说，所有量词变元都有不受限制的变域。假定这一点，同时
+假定 forall F forall x (Fx or ~Fx) 是逻辑定律，立刻会得到弗雷格所要求的（每个概念都有一个清晰的外延）。如果有一个概念，那它的一个表达式能够例示这个定律中的量词；因此我们能逻辑地得出，对每一个对象，此概念对它或者成立或者不成立。这就是弗雷格“清晰边界”所指的。36（G, p. 30）
+转引自 郝兆宽，逻辑观念的冲突与当代数学基础研究
+
+“我们此处仅仅试图否定其中的任何一个（逻辑原理），就完全陷入了混乱，思考似乎根本不再可能。算术的基础似乎比任何经验科学都都来得深刻，甚至比几何学还要深。其术具理统治着那些可计数的东西。这是最为广泛的领域，因为它不仅包括现实的，也不仅包括可直观的，还包括任何可思想的东西。”（Freg, Gottlob, The Foundations of Arithmetic, translated by J. L. Austin,
+Basil Blackwell Publisher, 1980. sec. 14）

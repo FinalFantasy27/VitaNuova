@@ -1,0 +1,15 @@
+A consistent theory U is essentially undecidable iff for all consistent V has the same language as U, and whose theorems is a superset of the theorems of U (in this case we call V contains U), V is undecidable.
+essentially hereditarily undecidable (abbreviated as ehu) iff for all consistent V contains U and for all W contained in V, W is undecidable.
+
+A consistent theory U is ehu iff for all W in the U-language, such that the union of U and W is consistent, W is undecidable. 
+Visser
+
+Suppose U is decidable, then so is U+phi.
+Proof. We have U+phi|-psi iff U|-phi->psi.
+
+Suppose A is finitely axiomtised and essentially undecidable. Then, A is ehu.
+P. Suppo W is a theory in the A-language, that is consistent with A and decidable. Then, W+A decidable. But W+A extends A. gives a contrad 
+
+A consistent theory U is ehu iff for all consistent V can interprets U and all W contained in V, W is undecidable.
+
+Q is ehu. Tarski shows that there is an extension of group theory that interprets Q. Ergo, group theory is undecidable. 

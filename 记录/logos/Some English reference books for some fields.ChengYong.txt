@@ -1,0 +1,38 @@
+Fundamentals of Mathematical Logic
+Herbert B. Enderton. A mathematical introduction to logic (2nd ed.), Boston, MA: Academic Press, 2001.
+John L.Bell, M. Machover. A Course in Mathematical Logic, Elsevier, 2015.
+George Boolos, John Burgess and Richard Jeffrey. Computability and Logic (5th ed.), Cambridge: Cambridge University Press, 2002.
+H.D.Ebbinghaus, J.Flum, W.Thomas. Mathematical Logic (second edition), Springer, 1994.
+Hedman, Shawn. A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity, Oxford University Press, 2004.
+Hinman, Peter G. Fundamentals of Mathematical Logic, A K PETERS, 2005.
+Introduction to Computability Theory
+N.J.Cutland. Computability: an introduction to recursive function theory. Cambridge University press, 1980.
+Rogers, Hartley; Rogers, H. Theory of Recursive Functions and Effective Computability, MIT Press, 1987.
+Robič, Borut. The Foundations of Computability Theory, Springer, 2016.
+Introduction to Set Theory
+K. Hrbacek, and T. Jech. Introduction to Set Theory, New York: Marcel Dekker, Inc, 1999.
+K. Kunen. Set Theory, An Introduction to Independence Proofs, Amsterdam: North-Holland, 1980.
+T. Jech. Set theory, 3d Edition, New York: Springer，2003.
+A. Kanamori. The Higher Infinite, Second Edition. Springer Monographs in Mathematics, New York: Springer， 2003.
+Introduction to Model Theory
+Chen Chung Chang and H. Jerome Keisler. Model Theory. Studies in Logic and the Foundations of Mathematics (3rd ed.). Elsevier, (1990) [1973].
+Slomson, A. B.; Bell, J. L. Models and Ultraproducts: An Introduction. Dover Publications, 2006.
+Introduction to Proof Theory
+Paolo Mancosu, Sergio Galvan, and Richard Zach. An Introduction to Proof Theory: Normalization, Cut-elimination, and Consistency Proofs. Oxford: Oxford University Press, 2021.
+Gaisi Takeuti. Proof theory (Second edition). Studies in logic and the foundations of mathematics, vol. 81. North-Holland, Amsterdam etc. 1987.
+Helmut Schwichtenberg and Stanley S. Wainer. Proofs and Computations. In Perspectives in Logic, Cambridge UniversityPress, 2011.
+John Stillwell, Reverse Mathematics: Proofs from the Inside Out, Princeton University Press, 2019.
+George Boolos. The Logic of Provability. Cambridge University Press, 1993.
+Topics on Gödel’s Incompleteness Theorem
+R. Murawski. Recursive Functions and Metamathematics: Problems of Completeness and Decidability, Gödel's Theorems. Dordrecht: Kluwer，1999.
+Per Lindström. Aspects of Incompleteness, Lecture Notes in Logic v. 10，1997.
+Raymond M.Smullyan. Gödel’s Incompleteness Theorems, Oxford University Press, 1992.
+Topics on Metamathematics of Peano Arithmetic
+P. Hájek and P. Pudlák. Metamathematics of First-Order Arithmetic, Berlin: Springer, 1993.
+Richard Kaye. Models of Peano Arithmetic, Oxford Logic Guides, Oxford: Oxford University Press，1991.
+Philosophy of Mathematics and Logic
+Hamkins, Joel David. Lectures on the Philosophy of Mathematics, MIT Press, 2021.
+Shapiro, Stewart. Thinking about Mathematics: The Philosophy of Mathematics, Oxford University Press, 2000.
+Solomon Feferman, John W. Dawson Jr, Warren Goldfarb, Charles Parsons and Wilfried Sieg. Kurt Gödel: Collected Works: Volume I-V, Oxford University Press, USA, 1986-2013.
+Shapiro, Stewart，The Oxford Handbook of Philosophy of Mathematics and Logic，Oxford University Press, 2007.
+H. G. Dales and G. Oliveri. Truth in mathematics, Clarendon Press; Oxford University Press 1998.

@@ -25,6 +25,7 @@ Leonardo vinci disscepolo della sperientia(莱昂纳多，经验的信徒)
 
 培根
 伽利略
+近代物理科学的形而上学基础埃德温·阿瑟·伯特伽利略以几何处理时空，将目的因变为动力因笛卡尔的机械-几何宇宙以及心物二元论；霍布斯以机械解释心灵，摩尔、巴罗关于灵魂广延性和绝对时间空间的设想：吉尔伯特利用以太精气解释非力学性质，波义耳把理论看做假说的实证主义方法论
 哈维
 笛卡尔
 笛卡尔反驳道：“我认为(经院学者们所持有的)是重性(pesenteur)将物体带向地球的中心这个观点，就好像是说它(重性)自身已经具有对于这个中心的认识一样。”(Méditations，Sixèmes Réponses，AT IX 240-241)
@@ -80,7 +81,24 @@ Jean Gaston Darboux, Nasir al-Din al-Tusi, Georg F. Frobenius, Emil Artin, Abu R
 J. Willard Gibbs, Hippocrates of Chios, William V.D. Hodge, Edmund G.H. Landau, Augustus F. Möbius, David B. Mumford, Louis Nirenberg, Nicole Oresme, Roger Penrose, Grigori Y. Perelman, Lev S. Pontryagin, Waclaw Sierpinski, Yakov G. Sinai, Isadore M. Singer, Thoralf A. Skolem, S.G. Vito Volterra, Shing-Tung Yau, Bernard P.J.N. Bolzano, Samuel Eilenberg, Eratosthenes of Cyrene, Gerd Faltings, R. Maurice Fréchet, Michael Freedman, Marie-Sophie Germain, Lars V. Hörmander, Vaughan F.R. Jones, Kunihiko Kodaira, Solomon Lefschetz, Leonardo da Vinci, Jean Leray, Madhava of, Sangamagramma, Gregori A. Margulis, Abraham de Moivre, Claude Shannon, Dennis P. Sullivan, Endre Szemerédi, Brook Taylor, sJacques Tits, Evangelista Torricelli, Karen K. Uhlenbeck, Andrew J. Wiles, Oscar Zariski, A.Baker, Bombieri, Bott, Bourgain, Connes, Fefferman, Furstenberg, Griffiths Hirzebruch, Itô, Kashiwara, Kontsevic, Lovász, Lurie, Mandelbrot, Manin, Matiyasevich, Mazur, Y.Meyer, Novikov, Quillen, J.Robinson, K.Roth, Scholze, Shimura, Stein, Varadhan, W.Werner, Al-Farisi, Al-Karaji, Al-Kashi, Aleksandrov, Apastambha, Babbage, Beltrami, Bháskara.I, Bradwardine, Bruno, Chang, Copernicus, Cremona, Dehn, L.Gersonides, 
 Heron, Ibn.Sinan, Lucretius, Menelaus, E.Moore, Nic.Cusa, Qin.J, Roberval, Seki   Strato, Theaetetus,  Zeno, Zermelo, Hironaka, sato, baire
 
+1. Positivism and empiricism: Hume, Enlightenment, Comte, J. S. Mill, Richard
+Avenarius, Mach.
+2. Foundations, aims and methods of empirical science (hypotheses in physics,
+geometry, etc.): Helmholtz, Riemann, Mach, Poincaré, Enriques, Duhem,
+BoItzmann, Einstein.
+3. Logistic and its application to reality: Leibniz, Peano, Frege, Schröder, Russell,
+Whitehead, Wittgenstein.
+4. Axiomatics: Pasch, Peano, Vailati, Pieri, Hilbert.
+5. Hedonism and positivist sociology: Epicurus, Hume, Bentham, J. S. Mill, Comte,
+Feuerbach, Marx, Spencer, Müller-Lyer, Popper-Lynkeus, Carl Menger (the
+elder).
+The Scientific
+Conception of the World:
+The Vienna Circle
+WISSENSCHAFTLICHE WELTAUFFASSUNG: DER WIENER KREIS 1
+Dedicated to Moritz Schlick
 
+Quesnay, Adam Smith, Ricardo, Comte, Marx, Menger, Walras, MüllerLyer
 
 
 

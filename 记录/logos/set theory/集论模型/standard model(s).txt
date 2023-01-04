@@ -1,3 +1,0 @@
-集合论跟PA的情况不同, 自然数我们会说有the standard model of arithmetic (就是我们直觉上都知道的那个自然数模型), 而集合论没有the standard model, 只有"a standard model/ standard models". 集合论上我们说一个集合M是ZFC的标准模型, 意思就是这个集合的属于关系是V上的∈关系限制在M上 (这里V指的是我们背景里默认的包含了所有集合论对象的一个类), 而在一定程度的一致性假设下, 这样子的M有很多很多个. 例如如果存在一个不可达基数κ, 那么ZFC至少存在κ那么多个标准模型.
-
-如果题目里的"标准模型"指的是"对集合论真理做出正确判断的模型", 那么这个模型还没人知道是什么, 甚至很多哲学家/集合论工作者认为这不是个良定义的概念. Hamkins的一系列multiverse的工作就是对这个idea的拓展; 他的"Is the dream solution to the continuum hypothesis attainable?" 是一篇对初学者比较友好的overview

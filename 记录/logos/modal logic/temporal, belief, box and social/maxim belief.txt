@@ -1,0 +1,73 @@
+BMp iff every state of maximal credence is a p-state
+no need for threshold, it can be that BM (p1 or p2 or p3 ) but ~BM (p1 or P2) (when P(p1)=P(p2)=P(p3) and p1, p2 and p3 are the most plausible states)
+
+Logic of MaxCred belief
+|-Lp->BM p
+|-BM p->Mp
+|-BM (p->q)->(BM p->BM q)
+|-(BM p->L BM p)&(M BMp->BM p)
+
+BM and B∞ has the same logic
+|-B∞p-> BM p
+
+with hard update
+
+BM (p: q) iff max[p] \subseteq [q],
+e.g. max[last two days] may be {Thursday}
+
+some axioms for max  credence cond belief
+L(p<->q)-> (BM (p: r)<-> BM (q: r))
+L(p<->q)-> (BM (r: p) -> BM (r: q))
+BM (p: q) -> BM (p->q)
+BM p <-> BM (T: p)
+BM (p: q)-> L BM (p: q)
+M BM (p: q)-> BM (p: q)
+BM (p: p)
+BM (p: q)-> BM (p: q or r)
+BM (p: r) & BM (q: r)-> BM (p or q: r)
+try others?
+(Oliver Board, Alexanaru Baltag, Sonja Smets)
+
+AGM
+1. B*p is a belief set
+2. p in B*p
+3. B*p \subseteq B+p=B\cup {p}
+4. if ~p not in B, B*p=B+p
+5.if B and p are consistent, so is B*p
+6. if p is logically equivalent to q, then B*p=B*q
+7.B*(p&q)\subseteq (B*P)+Q
+8. if ~Q not in B*p then (B*p)+Q subseteq B*(p&q)
+
+Cardenfors impossibility theorem 
+there is no operator * satifying AGM plus 
+q in B*p iff p->q in B
+
+B*p={q|BM (p: q)} satisfies the AGM axioms even when p is an epistemic formula 
+(minor modification to 5: B*p inconsistent iff L~p in B)
+
+upgrade
+strong belief p: For any q, M(p & q)->[q:]Bp 
+iff if s is in [p] and P(s)<P(t) then t is in [p]
+
+strong lockean belief p: min{P(s)|s in [p]}> T (threshold)
+if T>50%, then strong lockean belief p only if [p] is a singleton 
+
+radical upgrade: promote S to be a strong m.c. belief  (move S states all up above ~S state)
+exercise: is 'p radical upgrade' `BM p schematically valid or not?
+conservative upgrate : promote S to be a m.c. belief (move the top S state up above ~S state, this is the smallest change needed to ensure BM S)
+
+credence model <S, P> 
+s|= BM \phi iff t|= \phi for every t such that \Beta st
+\Beta st iff t has maximal credence: P(u)<=P(t) for every u in S
+
+radical upgrade: delte arrows form p to ~p, add arrows form ~p to p
+conservative: delete arrows from max p to ~p, add arrows from ~p to max p
+
+Aumman: K=L (necessity)
+Lehrer knowledge=belief that cannot be defeated by true updates, may be expressed as Kp<->\forall q [q!]BM p ([q!] has the precondition that q is true)
+K=[<=], s|=Kp iff t|=p for every t  such that P(s)<=P(t), s|=^Kp iff t|=p for some t such that P(s)<=P(t)
+robert stalknaker: BM p <-> `K Kp 
+B(p: q)<->(Mp->M(p&K(p->q)))
+strong belief p <-> (Bp->L(p->Kp))
+
+logic of LK,  LS5, K S4, |-Lp->Kp,|-(L(p or Kq)&L(q or Kp)->(Lp or Lq))
