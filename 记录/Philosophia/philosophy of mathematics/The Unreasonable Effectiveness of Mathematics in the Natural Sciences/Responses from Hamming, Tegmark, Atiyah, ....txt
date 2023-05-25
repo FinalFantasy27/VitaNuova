@@ -1,0 +1,42 @@
+
+Philosophy [i.e. physics ] is written in this grand book — I mean the universe — which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometrical figures, without which it is humanly impossible to understand a single word of it; without these, one is wandering around in a dark labyrinth. (Galilei, Il Saggiatore, 1623).
+
+Ivor Grattan-Guinness found the effectiveness in question eminently reasonable and explicable in terms of concepts such as analogy, generalisation and metaphor.
+Grattan-Guinness, I. (2008). "Solving Wigner's mystery: The reasonable (though perhaps limited) effectiveness of mathematics in the natural sciences". The Mathematical Intelligencer. 30 (3): 7–17. doi:10.1007/BF02985373. S2CID 123174309
+
+physics is so successfully described by mathematics because the physical world is completely mathematical, isomorphic to a mathematical structure, and that we are simply uncovering this bit by bit.
+Tegmark, Max (2008). "The Mathematical Universe". Foundations of Physics. 38 (2): 101–150. arXiv:0704.0646
+Tegmark, Max (2014). Our Mathematical Universe. Knopf. ISBN 978-0-307-59980-3.
+Atkins, Peter (1992). Creation Revisited. W.H.Freeman. ISBN 978-0-7167-4500-6.
+
+Michael Atiyah with his essay "The unreasonable effectiveness of physics in mathematics" argued that the toolbox of physicist enables a practitioner like Edward Witten to go beyond standard mathematics
+Michael Atiyah, Robbert Dijkgraaf, Nigel Hitchin, Geometry and physics, Phil. Trans. R. Soc. A 13 March 2010 vol. 368 no. 1914 913-926 (pdf, doi:10.1098/rsta.2009.0227)
+Gregory Moore, Physical Mathematics and the Future, talk at Strings 2014 (talk slides, companion text pdf, pdf)
+Robbert Dijkgraaf, The Unreasonable Effectiveness Of Quantum Physics in Modern Mathematics, Perimeter Public Lecture 2014 (https://pirsa.org/14030094, https://pirsa.org/C04001).
+David Tong, The Unreasonable Effectiveness of Physics in Mathematics, LMS Popular Lecture 2017 (webpage, https://www.youtube.com/watch?v=UVuKyZ4pBzg&ab_channel=LondonMathematicalSociety)
+Natalie Paquette, The Unreasonable Effectiveness of Physics in Mathematics, https://www.youtube.com/watch?v=XPxwabVs4Lc&ab_channel=StanfordAlumni
+
+
+Hamming, R. W. (1980). "The Unreasonable Effectiveness of Mathematics". The American Mathematical Monthly. 87 (2): 81–90.
+mulling over four "partial explanations" for it. Hamming concluded that the four explanations he gave were unsatisfactory. They were:
+
+1. Humans see what they look for. The belief that science is experimentally grounded is only partially true. Rather, our intellectual apparatus is such that much of what we see comes from the glasses we put on. Eddington went so far as to claim that a sufficiently wise mind could deduce all of physics, illustrating his point with the following joke: "Some men went fishing in the sea with a net, and upon examining what they caught they concluded that there was a minimum size to the fish in the sea."
+
+Hamming gives four examples of nontrivial physical phenomena he believes arose from the mathematical tools employed and not from the intrinsic properties of physical reality.
+
+Hamming proposes that Galileo discovered the law of falling bodies not by experimenting, but by simple, though careful, thinking. Hamming imagines Galileo as having engaged in the following thought experiment (the experiment, which Hamming calls "scholastic reasoning", is described in Galileo's book On Motion.):
+Suppose that a falling body broke into two pieces. Of course the two pieces would immediately slow down to their appropriate speeds. But suppose further that one piece happened to touch the other one. Would they now be one piece and both speed up? Suppose I tie the two pieces together. How tightly must I do it to make them one piece? A light string? A rope? Glue? When are two pieces one?
+Van Helden, Albert (1995). "On Motion". The Galileo Project. Retrieved 16 October 2013.
+
+There is simply no way a falling body can "answer" such hypothetical "questions." Hence Galileo would have concluded that "falling bodies need not know anything if they all fall with the same velocity, unless interfered with by another force." After coming up with this argument, Hamming found a related discussion in Pólya (1963: 83-85). 
+Pólya, George; Bowden, Leon; School Mathematics Study Group (1963). Mathematical methods in science; a course of lectures. Studies in mathematics. Vol. 11. Stanford: School Mathematics Study Group. OCLC 227871299.
+
+The inverse square law of universal gravitation necessarily follows from the conservation of energy and of space having three dimensions. Measuring the exponent in the law of universal gravitation is more a test of whether space is Euclidean than a test of the properties of the gravitational field.
+The inequality at the heart of the uncertainty principle of quantum mechanics follows from the properties of Fourier integrals and from assuming time invariance.
+Folland, Gerald B.; Sitaram, Alladi (1997). "The Uncertainty Principle: A Mathematical Survey". Journal of Fourier Analysis and Applications. 3 (3): 207–238. doi:10.1007/BF02649110. S2CID 121355943.
+Hamming argues that Albert Einstein's pioneering work on special relativity was largely "scholastic" in its approach. He knew from the outset what the theory should look like (although he only knew this because of the Michelson–Morley experiment), and explored candidate theories with mathematical tools, not actual experiments. Hamming alleges that Einstein was so confident that his relativity theories were correct that the outcomes of observations designed to test them did not much interest him. If the observations were inconsistent with his theories, it would be the observations that were at fault.
+2. Humans create and select the mathematics that fit a situation. The mathematics at hand does not always work. For example, when mere scalars proved awkward for understanding forces, first vectors, then tensors, were invented.
+
+3. Mathematics addresses only a part of human experience. Much of human experience does not fall under science or mathematics but under the philosophy of value, including ethics, aesthetics, and political philosophy. To assert that the world can be explained via mathematics amounts to an act of faith.
+
+4. Evolution has primed humans to think mathematically. The earliest lifeforms must have contained the seeds of the human ability to create and follow long chains of close reasoning.

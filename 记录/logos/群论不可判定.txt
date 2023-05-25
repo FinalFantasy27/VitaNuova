@@ -1,0 +1,6 @@
+forall a b c, a=bac -> c = id
+那这就相当于要你判定group presentation problem
+
+https://en.wikipedia.org/wiki/Word_problem_for_groups
+
+给定一个有限的群表现，判断一个元素是否是id是不可判定的，那有限群表现你可以直接翻译成一个一阶句子，比如这里在翻译 <a,b,c | a=bac>，你可以构造出一个群表现，它里的某个元素是单位元当且仅当一个图灵机停机

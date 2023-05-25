@@ -1,0 +1,43 @@
+《纯粹理性批判》（critique of pure reason (der reinen Vernunft)）
+
+康德要回答的，就是这三个问题：哲学（知识）是如何可能的？科学是如何可能的？道德是如何可能的？
+
+-康德说道德的建基是理性而不是情感。我对康德的道德信条的喜爱是建立在情感上的。
+
+康德将人类的知识能力区分为三种：感性、知性（understanding）和理性。感性只能直观，而知性只能思维。知性的作用是用概念（concept (begriff，其动词形式begriffen，字面意思即为“一起抓起来/一起把握”)）进行综合（sythesis）。
+
+康德将理性（reason (vernunft)）分为理论理性（theoretical）和实践理性（practical）。理论理性的对象是现象（appearance），实践理性的对象是物自体（thing-in-itself (Ding-on-sich)）。现象界遵循严格的因果律。而道德要求自由。知识是现象界的对象；而道德是物自体。
+
+物自体为道德奠基。它遵循着自由律。有三个根本的物自体：灵魂 (if soul is sth. then it must follow the necessity of the strict law of causation, and thus has no freedom)——道德要求同一性，而它是同一性的来源、上帝——道德要求我们有“善人得福报，坏人受惩罚”的希望(A805/B833，A809/B837)，在《纯粹理性批判》中，康德将 "我可以希望什么？"这一问题作为哲学的基本问题之一，排在 "我可以知道什么？"和 "我应该做什么？"之后。(A805/B833)。幸福和道德有一种必然的联系(A809/B837)，而在经验世界中，道德行为与幸福之间的必然联系是没有保证的，而只有一个最高的理性——上帝能保证我们这一切：好人上天堂享受永久的幸福，坏人下地狱得到永远的痛苦(A814/B842)和宇宙，即作为一个整全的外在世界（external world as a whole）。康德的实践理性批判的结尾是康德的墓志铭——（）。
+
+纯粹理性批判的第一版出版于1781年，在经批评后，1787年出版了第二版。
+
+“教条主义者……是专制的”（Aix, x）
+
+“科学”指科学的形而上学或作为科学的形而上学（形而上学这门科）
+
+"the most difficult of its (reason) task, namely that of self-knowledge..." (Axi, xii)
+
+Axi, xii脚注：“人们时常听到抱怨当代思维方式的肤浅和彻底科学研究的没落。但我看不出那些根基牢固的科学如数学和物理学等等有丝毫值得如此责备的地方。而现在，正是同一个彻底精神也将在另一些知识类型中表明其作用，只要我们首先留意对它们的原则进行校正。在缺乏这种校正的情况下，冷淡、怀疑，最后是严格的批判，反倒是彻底的思维方式的依据。我们的时代是真正的批判时代，一切都必须经受批判。通常，宗教凭借其神圣性，而立法凭借其权威，想要逃脱批判。但这样一来，它们就激起了对自身的正当的怀疑，并无法要求别人不加伪饰的敬重，理性只会把这种敬重给予那经受得住它的自由而公开的检验的事物。”我认为应该区分证成和认知机制。康德为科学辩护。为科学如何能够达到普遍、必然性进行证成，而将达到具体的结论的具体的认知机制仍然留给具体的经验科学。
+
+"I venture to maintain that there ought not to be one single metaphysical problem that has not been solved here, or at least to the solution of which the key has not been supplied" (Axiii, xiv)
+
+"For while he pretneds to extend human knowledge beyond all limits of possible experience, I confess most humbly that this is entirely beyond mu power"，意为将理性的能力限制在“一切可能的范围之内”。例如二律背反。当海森堡说“然后我们才能理解前面说过的无限小的二难推论在基本粒子物理学中已以一种非常微妙的方式解决了，这是一种既非康德也不是古代哲学家所能想到的方式：这就是说，“分割”一词失去了它的意义”（海森堡 1981, p.218）时，他其实是遵循了康德，把自己限制在了“一切可能的经验范围”之内；当当代的Big bang theory不去追问“宇宙大爆炸”之前有什么，因为它与我们没有任何因果关系的时候，也是把自己限制在了一切可能的经验范围之内。
+
+"Common logic gives an instance of how all the simple acts of reason can be enumerated completely and systematically. My question is what we can hope to achieve with reason when all the material and assistance of experience are taken away"
+
+斯特劳森在《怀疑主义与自然主义及其变种》第28页（中文版）中指出：在《纯粹理性批判》第二版的序言(B xi)中（译者指出该引文实际出处应为(纯粹理性批判)第二版序言中的Bxl处），康德说：“对于哲学和一般人类理性而言，仍有一桩丑闻，这就是，外在于我们的事物的存在……应当仅仅在信仰上被接受，如果有人突发奇想来怀疑它们的存在，那么我们并不能根据任何令人满意的证明来反对他的怀疑“
+
+在《存在与时间》I.6)中，海德格尔巧妙地反驳说：“‘哲学的丑闻’并非在于，这一证明不曾被给出，而是这样的证明一再地被指望并被尝试给出。”
+
+Reference
+
+北京大学哲学系外国哲学史教研室 (ed./tans.), 1982, 西方哲学原著选读(下卷), 商务印书馆
+
+康德，1781/1787[2004], 纯粹理性批判 (Kritik der reinen Vernunft),  邓晓芒 译，人民出版社
+
+——，1781/1787[2007], Critique of Pure Reason, Tanslated, edited, and with an Introduction by Marcus Weigelt, Based on the translation by Max Müller, Penguin Books, Penguin Classic
+
+海森堡，1958[1981], 物理学与哲学, 范岱年 译, 商务印书馆
+
+斯特劳森，1983[2018]，怀疑主义与自然主义及其变种，骆长捷 译，商务印书馆

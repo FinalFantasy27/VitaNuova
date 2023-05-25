@@ -1,0 +1,288 @@
+{BeringerSchindler2015,
+%%  AUTHOR =       {T. Beringer and T. Schindler},
+%%  TITLE =        {Reference Graphs and Semantic Paradox},
+%%  NOTE =        {Available at the website: https: www.academia.edu/19234872/Reference\_Graphs\_and\_Semantic\_Paradox},
+%%  year =         {2015},}
+%%isbn = "978-1-84890-213-8",
+%%%2016. “Reference Graphs and Semantic Paradox”, with Timo Beringer, in P. Arazim and M. Dancak (eds.), Logica Yearbook 2015, College Publications: London; 1-15
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@InProceedings{BeringerSchindler2016,
+  author    = {Timo Beringer and Thomas Schindler},
+  booktitle = {Logica Yearbook 2015},
+  title     = {Reference Graphs and Semantic Paradox},
+  year      = {2016},
+  address   = {London},
+  editor    = {Pavel Arazim and Michal Dan{\v{c}}{\'a}k},
+  pages     = {1-15},
+  publisher = {College Publications},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Patterns of Paradox
+%Author(s): Roy T. Cook
+%Source: The Journal of Symbolic Logic, Vol. 69, No. 3 (Sep., 2004), pp. 767-774
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{PatternsofParadox/Cook2004,
+  author  = {R. T. Cook},
+  journal = {Journal of Symbolic Logic},
+  title   = {Patterns of Paradox},
+  year    = {2004},
+  number  = {3},
+  pages   = {767-774},
+  volume  = {69},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/JPL/Gupta1982,
+  author  = {A. Gupta},
+  journal = {Journal of Philosophical Logic},
+  title   = {Truth and Paradox},
+  year    = {1982},
+  number  = {1},
+  pages   = {1-60},
+  volume  = {11},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{Gupta1982a,
+  author  = {A. Gupta},
+  journal = {Journal of Philosophical Logic},
+  title   = {Truth and Paradox},
+  year    = {1982},
+  note    = {reprinted in \cite{Martin84:_Recent_Essays_on_Liar_Paradox}, pp. 175-235},
+  number  = {1},
+  pages   = {1-60},
+  volume  = {11},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%Gupta, A. and Belnap, N. (1993), The Revision Theory of Truth, MIT Press, Cambridge.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Book{TheRevisionTheoryofTruth/GuptaandBelnap1993,
+  author    = {A. Gupta and N. Belnap},
+  publisher = {MIT Press},
+  title     = {The Revision Theory of Truth},
+  year      = {1993},
+  address   = {Cambridge},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%VOLKER HALBACH, HANNES LEITGEB and PHILIP WELCH:
+%Possible-Worlds Semantics for Modal Notions Conceived as Predicates, 32: 179-223, 2003.
+%(Journal of Philosophical Logic, 2002).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/JPL/HalbachLeitgebWelch2003,
+  author  = {V. Halbach and H. Leitgeb and P. Welch},
+  journal = {Journal of Philosophical Logic},
+  title   = {Possible-Worlds Semantics for Modal Notions Conceived as Predicates},
+  year    = {2003},
+  number  = {2},
+  pages   = {179-223},
+  volume  = {32},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/JPL/Herzberger1982,
+  author  = {H. G. Herzberger},
+  journal = {Journal of Philosophical Logic},
+  title   = {Notes on Naive Semantics},
+  year    = {1982},
+  number  = {1},
+  pages   = {61-102},
+  volume  = {11},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{Herzberger1982a,
+  author  = {H. G. Herzberger},
+  journal = {Journal of Philosophical Logic},
+  title   = {Notes on Naive Semantics},
+  year    = {1982},
+  note    = {reprinted in \cite{Martin84:_Recent_Essays_on_Liar_Paradox}, pp. 133-174},
+  number  = {1},
+  pages   = {61-102},
+  volume  = {11},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/JP/Herzberger1982,
+  author  = {H. G. Herzberger},
+  journal = {Journal of Philosophy},
+  title   = {Naive semantics and the {L}iar paradox},
+  year    = {1982},
+  number  = {9},
+  pages   = {479-497},
+  volume  = {79},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Ming Hsiung, "Jump Liars and Jourdain's Card via the Relativized T-scheme", Studia Logica Vol. 91 (2), pp. 239-271, 2009.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{LiarParadoxPostcardParadoxandColoringProblem/HsiungMing2007,
+  author  = {M. Hsiung},
+  journal = {Studia Logica},
+  title   = {Jump {L}iars and {J}ourdain's {C}ard via the Relativized {T}-scheme},
+  year    = {2009},
+  number  = {2},
+  pages   = {239-271},
+  volume  = {91},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Ming Hsiung, "Boolean Paradoxes and Revision Periods”, Studia Logica, 2017, online first: https: //%%link.springer.com/article/10.1007/s11225-017-9715-2, 2017.
+%%doi="10.1007/s11225-017-9715-2",
+%%url="https://doi.org/10.1007/s11225-017-9715-2"
+%%abstract="According to the revision theory of truth, the paradoxical sentences have certain revision periods in their valuations with respect to the stages of revision sequences. We find that the revision periods play a key role in characterizing the degrees of paradoxicality for Boolean paradoxes. We prove that a Boolean paradox is paradoxical in a digraph, iff this digraph contains a closed walk whose height is not any revision period of this paradox. And for any finitely many (but non-zero) numbers greater than 1, if any of them is not divisible by any other, we can construct a Boolean paradox whose primary revision periods are just these numbers. Consequently, the degrees of Boolean paradoxes form an unbounded dense lattice. The area of Boolean paradoxes is proved to be rich in mathematical structures and properties.",
+%%issn="1572-8730",
+%%month="Oct",
+%%day="01",
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{BooleanParadoxesandRevisionPeriods/StudiaLogica/Hsiung2017,
+  author  = {M. Hsiung},
+  journal = {Studia Logica},
+  title   = {Boolean Paradoxes and Revision Periods},
+  year    = {2017},
+  number  = {5},
+  pages   = {881--914},
+  volume  = {105},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{JLLI/YabloandLiar/Hsiung2013,
+  author  = {M. Hsiung},
+  journal = {Journal of Logic, Language and Information},
+  title   = {Equiparadoxicality of {Y}ablo's Paradox and the {L}iar},
+  year    = {2013},
+  issn    = {0925-8531},
+  number  = {1},
+  pages   = {23-31},
+  volume  = {22},
+  doi     = {10.1007/s10849-012-9166-0},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%What Paradoxes Depend on, Synthese, Vol.197 (2): 887-913, 2020. Cite this article as when First Online (03 March 2018): Hsiung, M. Synthese (2018). https://doi.org/10.1007/s11229-018-1748-1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{WhatParadoxesDependOn/Hsiung2018,
+  author  = {M. Hsiung},
+  journal = {Synthese},
+  title   = {What Paradoxes Depend on},
+  year    = {2020},
+  number  = {2},
+  pages   = {887--913},
+  volume  = {197},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%Unwinding Modal Paradoxes on Digraphs, Journal of Philosophical Logic, 50 (2): 319-362, 2021.https = {https://doi.org/10.1007/s10992-020-09567-4},
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{UnwindingModalParadoxes/Hsiung2021,
+  author  = {M. Hsiung},
+  journal = {Journal of Philosophical Logic},
+  title   = {Unwinding Modal Paradoxes on Digraphs},
+  year    = {2021},
+  number  = {2},
+  pages   = {319--362},
+  volume  = {50},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Leitgeb, H. (2005). What truth depends on. Journal of Philosophical Logic, 34:155-192.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/JPL/Whattruthdependson/Leitgeb2005,
+  author  = {H. Leitgeb},
+  journal = {Journal of Philosophical Logic},
+  title   = {What Truth Depends on},
+  year    = {2005},
+  number  = {2},
+  pages   = {155-192},
+  volume  = {34},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{DBLP:journals/JPL/Schlenker2007,
+  author  = {P. Schlenker},
+  journal = {Journal of Philosophical Logic},
+  title   = {The Elimination of Self-Reference: Generalized {Y}ablo-Series and the Theory of Truth},
+  year    = {2007},
+  number  = {3},
+  pages   = {251-307},
+  volume  = {36},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Sorensen, R. (2001), Vagueness and Contradiction, Oxford: Oxford University Press.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Book{VaguenessandContradiction/Sorensen2001,
+  author    = {R. Sorensen},
+  publisher = {Oxford University Press},
+  title     = {Vagueness and Contradiction},
+  year      = {2001},
+  address   = {Oxford},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%Wen, L. (2001). Semantic paradoxes as equations. Mathematical Intelligencer, 23(1), 43-48.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@Article{journals/MathematicalIntelligencer/wenlan2001,
+  author  = {L. Wen},
+  journal = {Mathematical Intelligencer},
+  title   = {Semantic Paradoxes as Equations},
+  year    = {2001},
+  number  = {1},
+  pages   = {43-48},
+  volume  = {23},
+}
+
+@Article{YablosequeUnwindingofBooleanParadoxes/Hsiung2019,
+  author  = {Z.B. Chen and Xiong, M. (Hsiung)},
+  journal = {Journal of South China Normal University (Social Science Edition)},
+  title   = {Yabloseque Unwinding of {B}oolean Paradoxes (Chinese)},
+  year    = {2019},
+  pages   = {183-188},
+  volume  = {4},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,2 @@
+bussproof和bussproof-extra
+然后用点latex小技巧把它们排得好看就行了。主要就是那里对齐，哪里排成一行哪里分两行排这样

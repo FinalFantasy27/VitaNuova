@@ -1,0 +1,117 @@
+http://wangyanjing.com/beyond-knowing-that/
+
+NASSLLI18 Course : Beyond “knowing that”: a new generation of epistemic logics
+
+Lecturer: Yanjing Wang (王彦晶) Department of Philosophy, Peking University
+
+Epistemic logic is a major field of philosophical logic studying reasoning patterns about knowledge. Despite its various applications in epistemology, theoretical computer science, AI, and game theory, the technical developments in the field have been mainly focusing on the propositional part, i.e., the propositional modal logics of “knowing that”. However, knowledge is also expressed in natural language by “knowing whether”, “knowing what”, “knowing how”, “knowing why” and so on (know-wh hereafter). Recent years witnessed a growing interest in non-standard epistemic logics of know-wh motivated by questions in philosophy, AI, and linguistics. Inspired by linguistic discussions on the semantics of questions, the new epistemic modalities introduced in those logics often share, in their formal semantics, the general schema of ‘exists x K phi’ (where K is the knowledge modality). For example, knowing how to achieve phi roughly says that there exists a way such that you know that it is a way to make sure that phi. The axioms of those logics intuitively capture the essential interactions of know-that and other know-wh operators, and the resulting logics are decidable. 
+
+A slightly outdated survey: Yanjing Wang: Beyond Knowing That: A New Generation of Epistemic Logics, in Jaakko Hintikka on knowledge and game-theoretical semantics, Springer, 12: 499—533, 2018
+
+In this course, I will survey the recent developments of this new research program on non-standard epistemic logics of know-wh and its various connections with existing logics and philosophical/AI/linguistic questions in the literature. Inspired by those logics, we will also discuss a very general and powerful framework based on a predicate language extended by new modalities which pack a quantifier and a modality together. We show that the resulting logic, though more expressive, shares many good properties of the basic propositional modal logic, such as the finite-tree-model property. This may also pave a new way to the discovery of new decidable fragments of first-order modal logic.
+
+Check the website of the previous ESSLLI15 course for an (outdated) preview of the course. 
+
+Day 1 Introduction (Slides)
+
+Main Ref (besides the “usual suspects”):
+
+Hintikka, J., Hintikka, M.: Reasoning about knowledge in philosophy: The paradigm of epistemic logic. In: The Logic of Epistemology and the Epistemology of Logic. Volume 200 of Synthese Library. Springer Netherlands (1989) 17–35
+Yanjing Wang: Beyond knowing that: a new generation of epistemic logic (arXiv) in Jaakko Hintikka on knowledge and game theoretical semantics: 499-533. Springer (See the section about Hintikka’s contributions and the references therein)
+Gochet P, Gribomont P (2006) Epistemic logic. In: Gabbay DM, Woods J (eds) Handbook of the History of Logic, vol 7
+Other pointers:
+About formal semantics and logic of questions (surveys):
+
+D. Harrah: The logic of questions, Handbook of Philosophical Logic, Second Edition (D. Gabbay and F. Guenthner, eds.), vol. 8, Kluwer, Dordrecht/Boston/London, 2002, pp. 1–60.
+A. Wiśniewski: Semantics of questions, Handbook of Contemporary Semantics. Second Edition (S. Lappin and C. Fox, eds.), Wiley-Blackwell, 2014.
+About embedded question, factivity: 
+
+P. ‎Egré: Question-embedding and factivity. Grazer Philosophische Studien 77(1) (2008) 85– 125
+About Techniques and philosophy of Quantified modal (epistemic) logics:
+
+Fitting, M., First-order intensional logic, Annals of Pure and Applied Logic 127 (2004), pp. 171-193.
+Holliday, Wesley H. & Perry, John (2014). Roles, Rigidity, and Quantification in Epistemic Logic. In Alexandru Baltag & Sonja Smets (eds.), Trends in Logic, Outstanding Contributions: Johan van Benthem on Logic and Information Dynamics. Springer 591-629.
+F. Belardinelli, A. Lomuscio, Quantified epistemic logics for reasoning about knowledge in multi-agent systems, Artificial Intelligence, Volume 173, Issues 9–10, June 2009, Pages 982-1013.
+G. Corsi, E. Orlandelli: Free Quantified Epistemic Logics. Studia Logica 101(6): 1159-1183 (2013)
+About concealed questions:
+
+Maria Aloni and Floris Roelofsen. Interpreting Concealed Questions Linguistics and Philosophy 34(5), 443-478, 2011
+Maria Aloni. Quantification under Conceptual Covers. PhD thesis University of Amsterdam, Amsterdam, 2001.
+About Inquisitive semantics and Logic
+
+See the website.https://projects.illc.uva.nl/inquisitivesemantics/
+==========
+
+Day 2 Knowing whether (Slides)
+
+Main Ref:
+
+Hart, S., Heifetz, A., & Samet, D.: Knowing whether, knowing that, and the cardinality of state spaces. Journal of Economic Theory, 70(1), 249–256. (1996)
+W. van der Hoek and A. Lomuscio: A logic for ignorance. Electronic Notes in Theoretical Computer Science, 85(2)(2):117-133, 2004.
+J. Fan, Y. Wang and H. van Ditmarsch: Contingency and knowing whether, in Review of Symbolic Logic8 (1):75-107 (2015), Cambridge University Press
+J. Fan, Y. Wang and H. van Ditmarsch: Almost necessary, in Advances in Modal Logic Vol. 10: 178-197 (2014), College Publications
+J. Fan, H. van Ditmarsch: Neighborhood Contingency Logic. in Proceedings of ICLA 2015: 88-99
+There is a large body of research on contingency logics (too many to be listed here): see our RSL paper and Jie’s thesis for surveys and comparisons with earlier work.
+如果你能读中文：范杰 《非偶然算子的逻辑研究》 博士论文 北京大学 2015 (Logical Studies for Non-contingency Operator PhD thesis of Jie Fan , in Chinese)
+
+Other pointers:
+
+Ciardelli, I., Roelofsen, F.: Inquisitive dynamic epistemic logic. Synthese 192(6) (2015) 1643– 1687
+M. Aloni, P. Égré, Tikitu de Jager: Knowing whether A or B. Synthese 190(14): 2595-2621 (2013)
+
+==========
+
+Day 3: Logics of “knowing what” (slides)
+
+Main Ref:
+
+Jan Plaza: Logics of public communications. In Proceedings of the 4th ISMIS Oak Ridge, TN: Oak Ridge National Laboratory, pp. 201–216. (1989)
+John McCarthy: First-Order theories of individual concepts and propositions, Machine Intelligence 9. (1979), pp. 129-147.
+Xiwen Ma, Weide Guo: W-JS: A modal logic of knowledge IJCAI83 关于马希文
+H. van Ditmarsch. Comments to ’logics of public communications’. Synthese, 158(2):181– 187, 2007.
+Yanjing Wang, Jie Fan: Knowing that, Knowing what, and Public Communication: Public Announcement Logic with Kv Operators, in Proceedings of IJCAI 2013: 1147-1154. AAAI press.
+Yanjing Wang, Jie Fan: Conditionally knowing what, in Advances in Modal Logic Vol. 10: 569-587 (2014), College Publications
+Tao Gu, Yanjing Wang: “Knowing value” logic as a normal modal logic. in Advances in Modal Logic Vol. 11:362-381, College Publications
+Jan van Eijck, Malvin Gattinger, Yanjing Wang: Knowing Values and Public Inspection. ICLA 2017: 77-90 Springer
+Alexandru Baltag: To know is to know the value of a variable.in Advances in Modal Logic Vol. 11, College Publications
+Yifeng Ding: The axiomatization and complexity of Knowing-What-Logic on model class K, Epistemic Logic with Functional Dependency Operator Studies in Logic
+如果你能读中文：熊世豪：逻辑ELKv^r的可判定性 本科生毕业论文 北京大学 2014
+About proving incompleteness and ETL-like method for PAL:
+Y. Wang, Q. Cao: On axiomatizations of public announcement logic. Synthese 190 (1s): 103-134 (2013). Springer
+About various kinds of knowledge in security:
+F. Dechesne, Y. Wang: To know or not to know: epistemic approaches to security protocol verification. Synthese 177(S1): 51-76 (2010), Springer
+About knowing value and knowing whether in AI (epistemic) planning:
+R. Petrick, F. Bacchus: A Knowledge-Based Approach to Planning with Incomplete Information and Sensing. AIPS 2002: 212-222
+============
+
+Day 4: Logics of “knowing how” (slides)
+
+Main Ref：
+
+Gochet, P.: An open problem in the logic of knowing how. In Hintikka, J., ed.: Open Problems in Epistemology. The Philosophical Society of Finland (2013)
+Ågotnes, T., Goranko, V., Jamroga, W., Wooldridge, M.: Knowledge and ability. In van Ditmarsch, H., Halpern, J., van der Hoek, W., Kooi, B., eds.: Handbook of Epistemic Logic. College Publications (2015) 543–589
+Yanjing Wang: A logic of knowing how, in Proceedings of LORI2015, Springer; extended journal versionat Synthese.A logic of goal-directed knowing how
+Raul Fervari, Andreas Herzig, Yanjun Li, Yanjing Wang: Strategically knowing how. IJCAI 2017: 1031-1038
+Yanjun Li, Yanjing Wang: Achieving While Maintaining: A Logic of Knowing How with Intermediate Constraints. ICLA 2017: 154-167
+Yanjun Li: Stopping Means Achieving: A Weaker Logic of Knowing How, Studies in Logic 9 (4): 34-54 2016
+Yanjun Li: Knowing what to do A logical approach to planning and knowing how. PhD Thesis Groningen University 2017
+Pavel Naumov, Jia Tao: Together We Know How to Achieve: An Epistemic Logic of Know-How (Extended Abstract). TARK 2017: 441-453
+Pavel Naumov, Jia Tao: Strategic Coalitions With Perfect Recall. AAAI 2018
+Pavel Naumov, Jia Tao: Coalition Power in Epistemic Transition Systems. AAMAS 2017: 723-731
+Jan M. Broersen: Making a Start with the stit Logic Analysis of Intentional Action. J Philos Logic (2011) 40:499–530
+Yanjing Wang: Representing Imperfect Information of Procedures with Hyper Models. in Proceedings of ICLA 2015: 218-231. Springer.
+Quan Yu, Yanjun Li, Yanjing Wang: A Dynamic Epistemic Framework for Conformant Planning, in Proceedings of TARK2015: 249-259, ACM Digital Library
+Tszyuen Lau and Yanjing Wang: Knowing your ability The Philosophical Forum 47(3-4)415-423, Wiley-Blackwell
+About discussion between intellectualism and anti-intellectualism see this Philpaper page (edited by Bengson)
+Yanjun Li, Yanjing Wang: Planning-based knowing how: a unified approach in Artificial Intelligence, Volume 296, 2021, 103487
+============
+
+Day 5: A general framework (slides)
+
+Main Ref:
+
+Yanjing Wang: A new modal framework for epistemic logic in Proceedings of 16th conference on Theoretical Aspects of Rationality and Knowledge (TARK2017): 515-534
+Anantha Padmanabha, R. Ramanujam, Yanjing Wang: Bundled fragments of first-order modal logic: (un)decidability FSTTCS: 43:1–43:20 (2018) (manuscript)
+Chao Xu, Yanjing Wang, Thomas Studer: A Logic of Knowing Why Synthese 198, pages 1259–1285 (2021) (manuscript)
+Yanjing Wang, Jeremy Seligman: When Names Are Not Commonly Known: Epistemic Logic with Assignments in AiML2018
+Maria Aloni: Knowing-who in quantified epistemic logic, Jaakko Hintikka on Knowledge and Game-Theoretical Semantics, Springer 2108

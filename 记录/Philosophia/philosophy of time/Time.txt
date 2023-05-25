@@ -1,0 +1,152 @@
+关于时间的哲学的综述是https://plato.stanford.edu/entries/time/，第5节是A/B theory，第6节是现在/永恒/block，第7节包括时间部分（temporal parts的内容，一个物体的整体在不同的时间还是一个物体有不同的时间部分），关于时间意识（temporal consciousness）有另一些词条https://plato.stanford.edu/entries/consciousness-temporal/；
+https://plato.stanford.edu/entries/time-experience/
+
+马蹄北去 2023/4/23 23:24:34
+B序列好像也没说过去和将来是相同的吧
+
+Nanachi 2023/4/23 23:26:59
+One of the most famous arguments about the nature of time in modern philosophy is presented in The Unreality of Time by J. M. E. McTaggart.[17] It argues that time is an illusion. McTaggart argued that the description of events as existing in absolute time is self-contradictory, 【【【because the events have to have properties about being in the past and in the future, which are incompatible with each other. 】】】McTaggart viewed this as a contradiction in the concept of time itself, and concluded that reality is non-temporal. He called this concept the B-theory of time.[4]
+
+Nanachi 2023/4/23 23:28:37
+Marina Cortês and Lee Smolin also argue that certain classes of discrete dynamical systems demonstrate 【【【time asymmetry and irreversibility】】】, which is inconsistent with the block universe interpretation of time.[29]
+
+马蹄北去 2023/4/23 23:31:16
+说实话光看这两段没明白为什么和时间的块解释不相容
+
+马蹄北去 2023/4/23 23:33:53
+block interpretation只是一个本体论框架，完全可以支持过去和未来时刻在物理表现上的不对称，除非斯莫林他们说的block interpretation是某个附加了特定的物理结构的
+
+马蹄北去 2023/4/23 23:48:04
+有量词的都有本体论(蒯因并感)
+
+Teki最初的梦想是成为第一 0:05:30
+A理论不一定是presentism
+
+Teki最初的梦想是成为第一 0:05:44
+但是A理论一定要承诺有一个本体论上优先的现在
+
+Teki最初的梦想是成为第一 0:05:58
+这一点才是和相对论不一致的
+
+马蹄北去 0:08:54
+突然想到一个神棍版本的
+
+马蹄北去 0:09:11
+优先的现在就是耶稣诞生之时
+
+jojoid 0:22:29
+Teki最初的梦想是成为第一  
+这一点才是和相对论不一致的
+@Teki最初的梦想是成为第一 跟牛顿力学一致吗？
+
+安 0:33:31
+有一个本体论优先的“现在”和牛顿力学并不会不一致；和相对论不一致是因为同时性的相对性使得说不清楚什么是“现在”
+
+安 0:35:08
+而永恒主义（过去、现在、未来都存在）令人不满是的一方面是因为似乎承诺了一种决定论
+
+jojoid 0:38:21
+永恒主义是不是决定论的同义词？
+
+马蹄北去 0:38:27
+同时的相对性本身并不导致无法定义现在，可以通过光线传播来对时，而且只要度规是时轴正交的，就可以定义等时面
+
+马蹄北去 0:38:39
+当然优先的现在依然是没有的
+
+安 0:43:25
+A理论和B理论的区别或许是有没有“变化”（change），当代辩证主义者（承认有矛盾或至少矛盾不是没有意义的人，如Graham Preist）的一个出发点就是change：https://plato.stanford.edu/entries/change/
+
+马蹄北去 0:54:33
+在黑格尔的辩证法框架下，变易是有和无之后引入的第一个合题，因而时间是由变易所定义的。但是在常识的理解中刚好相反，变易是由时间所定义的：变易就是在不同的时间不保持同一
+
+马蹄北去 0:55:14
+想起来哥德尔的一个评论：黑格尔将存在和无的合题规定为变易，这过早地引入了时间的概念。
+
+安 0:56:17
+相对的之一，罗素认为变化/运动不过就是“在时间t在某一地，在t’在另一地”（被称做at-at theory），不需要什么“在一刻既在某处又不在某处”，可参见https://math.dartmouth.edu/~matc/Readers/HowManyAngels/SpaceTimeMotion/STM.html
+
+安 1:04:24
+at-at theory一个后果可能是在这套框架里瞬时速度不存在：https://www.researchgate.net/publication/261779523_Are_There_Really_Instantaneous_Velocities
+
+jojoid 1:07:41
+马蹄北去  
+在黑格尔的辩证法框架下，变易是有和无之后引入的第一个合题，因而时间是由变易所定义的。但是在常识的理解中刚好相反，变易是由时间所定义的：变易就是在不同的时间不保持同一
+@马蹄北去 为什么有和无的合题是变易？
+
+马蹄北去 1:08:02
+黑格尔说的，别问我(
+
+安 1:10:07
+jojoid  
+永恒主义是不是决定论的同义词？
+@jojoid  决定论者可以没有永恒主义的本体论
+
+jojoid 1:10:45
+安  
+@jojoid  决定论者可以没有永恒主义的本体论
+@安 比如呢？
+
+马蹄北去 1:11:06
+不过我记得罗素在《我们关于外间世界的知识》里发展的时间理论是一种事件块本体论，而瞬间反而是由事件块的重叠共在定义的
+
+安 1:13:55
+jojoid  
+@安 比如呢？
+@jojoid 比如决定论或许可以持有block的观点（过去和现在存在并在不断生长），或是spotlight的观点（现在像一个光标一样移动）等等，只要这种生长或移动的方式是唯一的
+
+jojoid 1:15:42
+我挺好奇这三种决定论（永恒，生长，移动）在什么意义下有区别
+
+马蹄北去 1:17:15
+决定的方式不一样
+
+jojoid 1:18:27
+就是，实际上，它们是可分辨的吗
+
+马蹄北去 1:19:04
+对于永恒论来说，未来是决定的，是因为一个东西必然是它自身，既然未来是存在的，那么它就不可能不是这样存在的
+
+马蹄北去 1:20:06
+对于现在论而言，未来是决定的，可能是因为现在的因果规律强制它不可能不这么发展，或者有一个大能的意志强制它将来的发展
+
+Teki最初的梦想是成为第一 1:21:11
+永恒主义和B理论不是一样的
+
+Teki最初的梦想是成为第一 1:21:29
+A理论也可以有永恒主义，the moving spotlight就是一种永恒主义
+
+Teki最初的梦想是成为第一 1:21:47
+B理论的永恒主义叫block theory
+
+Teki最初的梦想是成为第一 1:21:59
+注意不是the growing block theory
+
+jojoid 1:23:29
+@马蹄北去 就是说，感觉这些都是没法实证的
+
+马蹄北去 1:23:45
+哲学要啥实证啊
+
+Teki最初的梦想是成为第一 1:23:59
+AB理论的区别是我们应该用什么概念来理解theorize时间
+
+jojoid 1:24:10
+马蹄北去  
+哲学要啥实证啊
+@马蹄北去 那就没法知道哪个对了啊
+
+Teki最初的梦想是成为第一 1:24:22
+A理论支持A-words B理论支持B-words
+
+马蹄北去 1:25:21
+为啥只有实证才能知道哪个对
+
+jojoid 1:26:19
+马蹄北去  
+为啥只有实证才能知道哪个对
+@马蹄北去 我是说如果，如果只有实证才能判断哪个对的话
+
+jojoid 1:27:04
+因为貌似这几个理论都可以用……
+

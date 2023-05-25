@@ -1,0 +1,49 @@
+王球
+
+王球，浙江淳安人，哲学博士，复旦大学哲学学院科学哲学与逻辑学系副教授、复旦大学智能科学与智能哲学研究中心（PSI）研究员。
+
+
+
+主要研究方向：认知科学哲学、心灵哲学、演化心理学、知识论。
+
+香港某大学一位博士生因将食盐撒在三只非洲大蜗牛身上致其死亡而遭举报，罪名是虐待动物，违反了当地的《防止残酷对待动物条例》
+
+丹尼尔·丹尼特（著）；罗军（译）：《心灵种种：对意识的探索》，第1章，上海：上海世纪出版集团，2012年
+intentional stance; interpretationalist
+Kristin Andrew, “Getting to Know Other Minds”, in Andrews, K., The Animal Mind, Cap. 2, London: Routledge, 2015, pp.4-22.
+Thomas Nagel, “What Is It Like to Be a Bat?”, in The Philosophical Review, Vol. 83(4), 1974, pp. 435-450.
+Sean Allen-Hermanson, “So That’s What it’s Like!”, in Andrews, K. and Beck, J. (eds.), The Routledge Handbook of Philosophy of Animal Minds, London: Routledge, 2018, pp.157-169.
+Matthias Michel, “Fish and Microchips: On Fish Pain and Multiple Realization”, in Philosophy Studies, 2019, Vol.176(2), pp.2411-2428.
+Peter Carruthers, “Meta-Cognition in Animals: A Skeptical Look”, in Mind and Language, 2008, Vol.23(1), pp.58-89.
+Jesse Prinz, “Attention, Working Memory, and Animal Consciousness”, in Andrews, K. and Beck, J. (eds.), The Routledge Handbook of Philosophy of Animal Minds, London: Routledge, 2018, pp.185-196.
+Michael Tye,“Reasoning about Other Species”, in Tye. M., Tense Bees and Shell-Shocked Crabs: Are Animals Conscious? Oxford: Oxford University Press, 2017, Cap.5, pp.69-90.
+Michael Tye,“Tense Bees and Shell-Shocked Crabs”, in Tye. M., Tense Bees and Shell-Shocked Crabs: Are Animals Conscious? Oxford: Oxford University Press, 2017, Cap.6, pp.134-159
+Donald Davidson, “Rational Animals”, in Dialectica, 1982, Vol.36(4), pp.317–327.
+在唐纳德 · 戴维森（Donald Davidson）和史蒂芬 · 斯蒂奇（Steven Stich）STICH S. Do Animals Have Beliefs?[J]. Australasian Journal of Philosophy, 1979, 57 (1): 15-28.看来，有理性意味着拥有信念、欲求这样的命题态度（propositional attitude）。由于只有人类才能拥有思想或命题态度，因而只有人类这种动物才是理性的。人的理性能力可以这样得以展示：“一些动物会思考和推理；他们琢磨、检验、拒斥和接受假说；他们根据理由行动，有时需要深思熟虑，想象行动的后果并去权衡成功的概率；他们有充分的理由去欲求、期待和讨厌一些东西；他们也会盘算出错、知行不一或者教条主义。然而以上这些当中的任何一条成就、活动、行为或错误，都充分显示了这样的动物是有理性的。”[14] 所谓思想或命题态度，就是主体的心理状态。S相信P，就是主体S对命题P持有相信的态度。S欲求Q，就是主体S对命题Q持有欲求的态度。命题是抽象的，但它指称世界中的事态。
+斯蒂奇论证说，我看到一条恶犬把一只猫赶到了后院的老槐树上，并盯着树上的猫看。请问：这只狗此时在想什么？它拥有怎样的信念？它是相信“猫在树上”，还是“那个毛茸茸的动物在槐树上”？难道不可以是相信“食物在树上”吗，或者干脆是“那个东西在那里”？斯蒂奇认为，我们无法在这些信念内容之间确定这只狗是怎么想的，所以我们无法把特定内容的信念归赋给眼前的这只狗。信念是精细的，既然确定不了狗的信念内容，这只狗有一个关于猫的信念的这个说法，就会因为太过粗糙而不能成立。所以我们只能说，这只狗没有任何信念。没有信念就是没有思想，也就是没有理性。
+戴维森的论证，根据汉斯—约翰 · 格洛克（Hans-Johann Glock）GLOCK H J. Animals, Thoughts and Concepts[J]. Synthese, 2000, 123: 35-64.的解读，可以总结如下：
+1. 思考（thinking）需要掌握概念。（概念论题）
+2. 掌握概念需要语言。（语言论题）
+3. 思考需要语言。（根据1和2）
+4. 动物缺乏语言。（无语言论题）
+5. 因此，动物不会思考。
+Roger Fellows, “Animal Belief”, in Philosophy, Vol.75, 2000, pp.587-598.
+Albert Newen & Tobias Starzak, “How to Ascribe Beliefs to Animals”, in Mind and Language, 2020, https://doi.org/10.1111/mila.12302
+Kristin Andrews, “Do Apes Attribute Beliefs to Predict Behavior? A Mengzian Social Intelligence Hypothesis”, in The Harvard Review of Philosophy, 2018, Vol.25, pp.89-110.
+Benz-Schwarzburg J, Monsó S, Huber L.,“How Dogs Perceive Humans and How Humans Should Treat Their Pet Dogs: Linking Cognition with Ethics”, in Frontiers in Psychology,  2020:11, Dec 16;11:584037.
+
+DRETSKE F. Conscious Experience[J]. Mind, 1993, 102(406): 263-83. 相信，一个系统具有信念和欲求这样的意向性能力，便是拥有了心灵。有意识的主观体验，终将也能用意向状态或心理表征加以说明。因而，在动物那里，只要具有信息表征能力——体现为有学习能力，便拥有意识。根据这种表征主义的看法，绝大多数动物都有意识
+CARRUTHERS P. Meta-Cognition in Animals: A Skeptical Look[J]. Mind and Language, 2008, 23(1): 58-89.
+高阶表征理论指出，现实中存在盲视（blind sight）或心理启动（priming）这样的认知现象。这些认知现象揭示，一些认知主体可以有心理表征以及相应的认知加工，但是缺乏有意识的体验，所以意识应当是关于一阶心理表征的高阶表征。高阶表征是主体思考了自己的思想（thoughts）的结果，这就需要意识主体具备元认知（meta-cognition）或读心（mind-reading）的能力。按照这个说法，除了灵长类动物和海豚等少数物种，绝大多数动物都缺乏反思自身思想的能力，因而没有意识。尽管许多动物有一阶的心理经验（experience），但那样的经验是无意识的，因为意识是对经验的觉知（awareness）
+
+信息整合理论（information integration theory，简称IIT）。IIT由神经科学家朱利奥 · 托诺尼（Giulio Tononi）提出，他把意识等同于信息的某种整合方式。在自然界当中，要产生意识，需要物理上（而不仅仅只是功能上）的因果力。意识有谱系上的程度化差异，原则上是可被测量的。
+TONONI G. An Information Integration Theory of Consciousness[J]. BMC Neuroscience, 2004, 42(5).
+王球：一方面，我在起床洗漱完毕后，确实比闹铃刚响时更加清醒了，或者“意识程度”增加了，但那是一种“不及物的生物意识”（intransitive creature consciousness），它区别于具有主观体验的“现象意识”（phenomenal consciousness）；另一方面，很难说现象意识有光谱般的程度区分。当我被玻璃划伤手指时，感受到一种难以忍受的刺痛。如果一只水母被玻璃划伤，但仅感受到了“微弱程度”的刺痛，那仍然是疼痛，只不过强度轻微一点而已——但这不是 IIT所提的“意识程度”想要表达的原意。因此，IIT无法断言哪些动物有意识。
+
+科学家已在意识的神经相关物（Neural Correlate of Consciousness，简称NCC）的研究上取得了进展，这将有助于解答动物是否有意识的问题。不过，这条进路同样面临一些难题，比如要确定哪些是NCC，不同的科学家承诺的理论预设可能不一致。加里 · 瓦尔纳（Gary E. Varner）认为，要考察水母有没有疼痛的意识体验，需要考察以下事项：拥有与大脑相连的痛觉感受器（nociceptors），大脑产生内源性阿片肽物质，有机体应对肌体损伤刺激的行为反应（例如学习能力下降、缺乏食欲、表现出躲避行为等）接近于人类，以及上述反应会因止痛剂起效而得以缓解。根据他的研究，脊椎动物大概率能感知疼痛，但在无脊椎动物中，也许只有章鱼这样的头足类动物才有意识。
+VARNER G. Personhood, Ethics, and Animal Cognition: Situating Animals in Hare's Two Level Utilitarianism[M]. Oxford: Oxford University Press, 2012: 113.
+
+杰西 · 普林茨（Jesse Prinz）青睐更“硬核”的注意中层表征理论（Attended Intermediate-Level Representations，简称AIR）。根据这种理论，意识产生于层级式的感知系统的中间层次——感知系统的底层是局域性的感知器（例如眼睛、耳朵或痛觉感受器），高层是抽象化的概念表征网络，人类意识大致在这两极的中间产生。只有当感知信息被注意所调控，并且进入工作记忆中，意识才会出现。此外，人脑的伽马波（25赫兹—100赫兹）也被视为意识的重要相关物。如此一来，是否具备注意能力、工作记忆和伽马波，就成为判定动物是否有意识的参考指标。根据这些指标判断，昆虫竟然也是有意识的。
+PRINZ J. Attention, Working Memory, and Animal Consciousness[M]// The Routledge Handbook of Philosophy of Animal Minds, London: Routledge, 2018: 185-191.
+
+Human and Animal Minds: The Consciousness Questions Laid to Rest, Peter Carruthers, Oxford University Press，2019

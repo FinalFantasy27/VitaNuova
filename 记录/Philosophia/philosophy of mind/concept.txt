@@ -1,0 +1,9 @@
+Psychology.At the center of this work is the discovery that certain categories are taken to be more representative or typical and that typicality scores correlate with a wide variety of psychological data (for reviews, see Smith & Medin 1981, Murphy 2002).For instance, apples are judged to be more typical than plums with respect to the category of fruit, and correspondingly apples are judged to have more features in common with fruit.
+Hampton, J. (2006). Concepts as Prototypes, in B.H. Ross (ed.), Psychology of Learning and Motivation (Volume 46), New York: Academic Press, pp. 79–113
+SEP.Concept
+
+当我们说“我有3个离开的理由”时，我们是在给“理由”计数，就好像它们是某种东西（当然，我们并不会真的认为可以将“理由”搁在桌上，或把它踢进房间）。平克
+凯伦·韦恩（Karen Wynn）最近指出，5个月大的婴儿已经懂得简单的心算。她采用的是婴儿知觉研究中的一种常用方法：拿一些东西给婴儿看，时间一久，婴儿就会对它们失去兴趣，并把头转向别处；而如果把场景稍作改变，婴儿就会发现其中的差别，并重新产生兴趣。通过这种方法，科学家发现出生仅5天的婴儿对数目就已非常敏感了。在某个实验中，研究人员让一名婴儿观看某个物体，直到他丧失兴趣，然后再用一块幕布把这个物体挡住。当研究人员把幕布移走之后，如果这个物体和刚才一模一样，婴儿在看了一下之后就会再度失去兴趣。但是，如果研究人员暗中把物体的数目增加两个或三个，那么等幕布移走之后，婴儿会颇感惊讶，注视的时间也会更长 […]
+摘自：《语言本能》 — [美] 史蒂芬·平克
+不过，虽然物理学家无法为颜色的分类找到理论依据，但生理学家却不这么认为。眼睛记录波长的方式与温度计记录气温的方式不同，视网膜上分布着三种视锥细胞，它们分别对应着不同的色调。这些视锥细胞以特定的方式与神经元相连，这导致了神经元对“绿底的红色”“红底的绿色”“黄底的蓝色”“白底的黑色”最为敏感。
+摘自：《语言本能》 — [美] 史蒂芬·平克

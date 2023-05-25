@@ -1,0 +1,151 @@
+2021
+陆俏颖
+
+2016年博士毕业于中山大学科学哲学专业，现任北京大学哲学系助理教授。
+
+研究方向：科学哲学、生物学哲学、进化论相关议题。
+
+Peter Godfrey-Smith的教材Philosophy of Biology
+问题：
+
+
+
+1.作者所理解的“哲学本质”（the nature of philosophy）有哪两个特点？你是否赞同，为什么？
+
+ 
+
+2. 简要说明“科学哲学”（philosophy of science）和“自然哲学”（philosophy of nature）的区别。
+
+ 
+
+3. 简要说明“生命之树”（tree of life）在进化论之前（如有神论）和之后的区别。
+
+4.图片
+
+5. 现代进化综合（the synthesis）的两个问题分别是什么？
+
+作业：试以你较为熟悉的任一学科中的一条定律、或一个机制解释、或一个模型为例，以你感兴趣的方面为切入点，进行分析和论述（300-400字）
+定律、机制与模型
+Glennan, S. S. (1996). Mechanisms and the nature of causation. Erkenntnis, 44(1), 49–71.
+Woodward, J. (2002). What is a mechanism? A counterfactual account. Philosophy of Science, 69(S3), S366–S377.
+
+1. 关于Law（定律），被广泛接受的特征有哪两个？请稍作说明。
+
+
+
+2. 作者提议，针对生物学中的孟德尔定律以及克雷伯定律，一个比Law更好的标准是什么？请简要说明。
+
+
+
+3. 一个机制（mechanism）是指什么？“基于机制的解释”和“基于定律的解释”有何不同？
+
+
+
+4. 机制解释适用于生物学中的哪类现象？另一类现象又包含了哪些领域？
+
+5. 模型（Model）可以有哪些含义？建模的产物是什么？
+
+
+作业：试分析进化和自然选择这两个概念的联系和区别（尽量用最简洁的文字表达最准确的内容，无字数限制）
+进化与自然选择
+Hull, D. L., & Ruse, M. (2007). The Cambridge companion to the philosophy of biology. Cambridge University Press. Chapter 2 Population Genetics.
+
+1.图片
+
+2. 简述达尔文和Lewontin各自对于自然选择的总结，并简述两者的异同。
+
+
+
+3. 简述fitness的三种含义（提示：fitness as a propensity；fitness as part of a causal sequence；realized fitness）。
+
+
+
+*选做：分析Price Equation的公式，并说明如何运用到脚注2的例子中。
+
+
+
+4. 请以人类眼睛的进化为例，说明自然选择在何种意义上能够解释眼睛的起源（the origin of human eyes）
+
+
+
+5.简述David Hull的复制子和作用子（replicator and interactor）的含义，并说明这个区分如何回应了对George Williams论证的批评。
+
+适应与功能
+
+1. 翻译下面这句话，并说明这样理解的“适应”（adaptation）有什么问题？
+
+A particular trait is an adaptation if it has in fact been favored by natural selection, whether it seems to involve harmony with the environment or not (Brandon 1990, Sober 1993).
+
+
+
+2. 简述三种“适应主义”（adaptationism）。
+
+
+
+3. Lewontin认为，有两种方式理解有机体在环境中的角色：一是有机体被动对环境变化做出反应（passively respond），二是有机体主动构建环境因素（actively construct）。请说明以下公式组分别对应了哪种理解方式？Lewontin拥护哪一种理解方式，请说明他给出的三个理由（提示：三个真实的现象）？
+图片
+
+4. 简述“适应”的广义理解和狭义理解。并且说明，如何用“适应”的广义概念理解有机体对环境的构建（提示：有机体对环境的构建是一种适应吗？）。
+
+
+
+5. 简要说明对“功能”（function）的三种理解（提示：a low-key way；systemic concept；etiological concept）
+
+作业： 对于一个几近完美的生物性状，若我们已知它是由自然选择演化得到，那么当我们说“自然选择设计（design）了这个性状”时，此时“设计”是什么意思，此用法与日常的用法有何不同？（300-400字）
+
+Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London B: Biological Sciences, 205(1161), 581–598.
+Hull, D. L., & Ruse, M. (2007). The Cambridge companion to the philosophy of biology. Cambridge University Press. Chapter 1 Adaptationism.
+
+基因与遗传
+1. 什么是基因型（genotype）、表型（phenotype）？基因（gene）在产生之初，是一个什么概念？
+
+ 
+
+2. Moss的gene-p和gene-d指什么？其中哪个对应于传统理解的基因，哪个对应于分子生物学中的基因？
+
+ 
+
+3. 什么是因果特异性（causal specificity）?如何用这个概念来避免“乏味的交互主义”（bland interactionism）？
+
+ 
+
+4. 为什么说“Whereas the importance of the “code” idea was in the explanation of protein synthesis, the importance of the “program” idea lies in gene regulation. ”？（提示：如何从信息角度理解DNA分子的两类功能）
+
+ 
+
+5. 传统的进化模型把基因看作是“颗粒化基因”（particle-like genes），但随着我们对DNA分子的了解，产生了一个历史性转变（historical shift），这个转变是什么？*它会对传统模型造成问题吗（选做）？
+
+Oyama, S., Griffiths, P. E., & Gray, R. D. (Eds.). (2001). Cycles of contingency: Developmental systems and evolution. MIT Press. Chapter 1 Introduction.
+Laland, K. N. et al. (2014). Does evolutionary theory need a rethink? Nature, 514(7521), 161.
+
+生物个体性
+1. 在常识生物学（folk-biology）看来，一个有机体有哪两个特征？作者提及了哪三类现象，来说明常识生物学的理解似乎存在问题（提示：“vegetable individual”, “quaking aspen”, “collective entities”）？
+
+
+
+2. 繁殖（reproduce）可分为哪三种基本形式，分别有什么例子？
+
+
+
+3. 分析下图中的坐标轴，以及图中所标示的点。
+图片
+
+4. 什么是“达尔文式个体”（Darwinian individuals）（提示：Lewontin关于Evolution by natural selection的三个标准）。“进化中的大跃迁”（Major transition in evolution）是指什么？
+
+
+
+5. 如何用共生现象（symbiosis）来说明，有机体可以不是达尔文个体？
+
+Okasha, S. (2005). Multilevel Selection and the Major Transitions in Evolution. Philosophy of Science, 72(5), 1013–1025.
+Pradeu, T. (2016). Organisms or biological individuals? Combining physiological and evolutionary individuality. Biology & Philosophy, 31(6), 797–817. 
+
+进化与社会行为
+Okasha, S. (2013). Biological Altruism. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2013). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/fall2013/entries/altruism-biological/
+
+生物学中的还原
+Keller, Evelyn Fox (2009). It is possible to reduce biological explanations to explanations in chemistry and/or physics. In Contemporary Debates in Philosophy: Contemporary Debates in Philosophy of Biology, Francisco Ayala and Robert Arp, (eds.) (pp. 19-31).
+
+Dupre, John (2012). It is not possible to reduce biological explanations to Chemistry and/or physics. In Contemporary Debates in Philosophy: Contemporary Debates in Philosophy of Biology, Francisco Ayala and Robert Arp, (eds.) (pp. 32-48).
+
+生物学中的信息
+Maynard Smith, J. (2000). The concept of information in biology. Philosophy of Science, 67(2), 177–194.

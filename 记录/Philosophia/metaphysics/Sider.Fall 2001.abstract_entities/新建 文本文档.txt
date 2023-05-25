@@ -1,0 +1,42 @@
+Pap) some nominalists won’t like invoking modality, subjunctive conditionals, etc.
+
+problems of "in some respect" for resemblence nominalists.对每一方面的相似都引入一个谓词的话，如smell like ［...］，就像universal又重现了一样 and Exemplars "in some respect" and Exemplers
+
+paradox of a universal set does not arise for mereology and plural quantification
+they do not give the explosion of reality that set theory does.
+
+But in what sense abstracta are they causally inert? They’re involved in causal transactions just as much as are particulars, apparently, since what gets caused and does causing are objects having properties. (Ted Sider)
+
+Amstrong's Euthyphro argument (in Ted Sider): it is bizarre to say that snow is white because it is called "white". (for Predicate nominalism)
+
+classes vs. aggregates: not every part of the aggregate of one-kg things is one kg
+
+class nominalists (e.g., Lewis): they think class as particular rather than universal therefore are nominalists in the sense that rejecting universals
+
+structuralist (fundamental) ontology of function: A structuralist generally says that a statement about classes phi will be reinterpreted as the statement: ?for any singleton function, f, phi(f).
+
+"Price says a number of things here, but the most important one is: no!" (Ted Sider). I love this sentence.Price answered the Russellian argument (resemblance must itself be a universal)
+If we wish to avoid the universals whiteness and triangularity, we shall choose some particular patch of white or some particular triangle, and say that anything is white or a triangle if it has the right sort of resemblance to our chosen particular. But then the resemblance required will have to be a universal. Since there are many white things, the resemblance must hold between many pairs of particular white things; and this is the characteristic of a universal. It will be useless to say that there is a different resemblance for each pair, for then we shall have to say that these resemblances resemble each other, and thus at last we shall be forced to admit resemblance as a universal. (p. 48) 
+Russell, Bertrand. 1959. The Problems of Philosophy. (Oxford: Oxford University Press). First published in the Home University Library, 1912.
+
+1.有“白”的共相，那么也有“浅白”“深白”……的共相。但“浅白”“深白”……的共相不是白的；它们和“白”是别的什么关系呢？realists should give an account of how sparse their ontology is? And if it is contains shade of whiteness as universals, he shall point out the relationship between shade of whiteness and whiteness. And how we learn/kow/access it  
+responses: Ted Sider mentions some, Price
+2.relativity.难道“大”“小”不是一些比较而得来的关系吗？对于大象来说，蜜蜂是小的；可是对于微生物来说，蜜蜂是大的；难道我们要说，存在着的是“对于蜜蜂来说是大的”“对于微生物来说是大的”这些共相吗？realists either hold a unacceptable absolutist view about relative relation, or have to admit that some appearent universals is not univsrsal at all and give an account of how sparse their ontology is? Does the relative relations depending on a species exist? Does the relative relations depending on  a particular creature exist?
+3. vagueness and artificial.我们会发现，我们对某些概念的定义完全是人为的，如“红”，我们将其划分为某个特定的光谱，可是为什么超过那些光谱一点不能算作是红呢？这一点不仅对人为的概念，对那些如果真实存在的，人只是不完美地认识它们的那些共相也是一样的。a commitment to epistemicism. how sparse is?
+而也正因为语义上的概念是人创造的，它们本来就是不精确的（inexact）、含糊的，那么我们是否也要说，对应着的它们的共相，也是含糊的呢？
+The Philosophy of Universals tells us that resemblance is derivative, not ultimate; that when two objects resemble each other in a given respect, it is because the very same universal is present in them both. This seems to leave no room for inexact resemblance.
+Now if we consider the various white objects I mentioned before — the whole series of them, from the freshly fallen snow to the unwashed bowtie — how can anyone maintain that the very same characteristic, whiteness, recurs in all of them? Clearly it does not. If it did, they must be exactly alike in their colour; and quite certainly they are not. (p. 29)
+
+what could the defender of universals say here?
+could be sparse and say that whiteness is not a universal. The only universals are things like charge; and whenever you have any charge-resemblance, you have exact charge-resemblance. (Ted Sider)
+2.Price eventually gets around to saying the following: whiteness is indeed a universal; it’s just a non-specific universal. Two white things do resemble exactly in terms of whiteness. They don’t share any shade of whiteness
+shade of whiteness vs. whiteness
+
+Pap’s argument from vagueness (against resemblence nominalism)
+Pap, A. Nominalism, Empiricism, and Universals -ii. Philosophical Quarterly. 1960; 10,44-60
+Pap, A. Nominalism, Empiricism, and Universals -i. Philosophical Quarterly. 1959; 9,330-340
+
+我一直没明白说一个实体是由属性组成的是什么意思。有很多个白的物体，它们都由白组成，那么有很多个白吗？那么这些白和我们谈论的那个单个的白的共相是什么关系？是分有关系吗？例示关系吗（“白”是白的吗？）？这不就是一种trope理论吗？无论如何，束理论对于我们如何认知共相的问题没有帮助。
+还是只有一个白？也就是同时出现在不同的实体中的，在运动着的。那永恒静止的天上国度的宫殿就失却了。而难道，这不就是一种唯名论吗？
+
+

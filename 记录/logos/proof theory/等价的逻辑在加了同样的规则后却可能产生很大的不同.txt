@@ -75,4 +75,4 @@ a ≤ b, b ≤ c, Γ ⇒ ∆
 仿射几何的定律也可以作为好的规则给出，一致性证明随之而来，平行公设的独立性的证明也是如此。这方面的细节在Sara Negri and Jan von Plato中。
 
 来自PeterSmith关于Sara Negri and Jan von Plato’s Structural Proof Theory作的笔记：
-https://www.logicmatters.net/resources/pdfs/Negri_Plato6.pdf
+httpswww.logicmatters.netresourcespdfsNegri_Plato6.pdf

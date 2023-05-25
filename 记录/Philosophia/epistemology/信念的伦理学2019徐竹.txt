@@ -1,0 +1,15 @@
+信念是当代认识论的基本主题之一。知识通常被看作是一种特殊的真信念。知识与信念的辩护最终着眼于回答“是否应该相信”的理由，既包括认识上的理由（epistemic reasons）也同样需要考虑实践上的理由（pragmatic reasons）。信念伦理学试图借鉴对行动的伦理学辩护来处理认识论上的辩护议题。然而这引起的一种理论焦虑是：信念能够像行动那样享有意志自由吗？研讨课将从介绍被广为接受的信念非意志论的论证开始，考察信念意志论者的种种批评与回应，反思作为认识主体的我们究竟在何种意义上可能拥有“相信的自由”（doxastic freedom），并且将这些思考与当下正在演进之中的认识论议题联系起来，例如信念与信度（credence）的关系问题，信念蕴涵的规范性承诺，以及自我知识的议题。
+
+1. William Alston: “The Deontological Conception of Epistemic Justification” (Philosophical Perspectives, Vol. 2, Epistemology (1988), pp. 257-299)
+2. Bernard Williams: “Deciding to Believe” (in Problem of the Self, pp. 136-151)
+3. Richard Feldman: “The Ethics of Belief” (Philosophy and Phenomenological Research 2000, 60(3): 667-695)
+4. Sharon Ryan: “Doxastic Compatibilism and the Ethics of Belief” (Philosophical Studies 2003, 114: 47-79)
+5. Matthias Steup: “Doxastic freedom” (Synthese 2008, 161:375–392)
+6. Brian Huss: “Three challenges (and three replies) to the ethics of belief” (Synthese 2009, 168: 249–271); Matthias Steup: “Belief, Voluntariness and Intentionality” (Dialectica 2011, 65(4): 537–559)
+7. Nishi Shah and J. David Velleman: “Doxastic Deliberation” (Philosophical Review 2005, 114(4): 497-534)
+8. Elizabeth Jackson: “Belief and credence: why the attitude-type matters” (Philosophical Studies 2018, doi.org/10.1007/s11098-018-1136-1)
+9. Eric Mandelbaum: “Thinking is Believing” (Inquiry 2014, 57 (1): 55–96)
+10. Seth Yalcin: “Belief as Question-Sensitive” (Philosophy and Phenomenological Research 2018, 97 (1): 23-47); Van Leeuwen: “Religious credence is not factual belief” (Cognition 2014, 133: 698–715)
+11. Adam Leite: “Changing One’s Mind: Self-Conscious Belief and Rational Endorsement” (Philosophy and Phenomenological Research 2018, 97 (1): 150-171.)
+12. A. Coliva: The Varieties of Self-knowledge (London: Palgrave Macmillan, 2016), Chapter 3 “Varieties of Self-knowledge”.
+13. A. Coliva: The Varieties of Self-knowledge, Chapter 7 “Constitutive Theories”.

@@ -57,8 +57,6 @@
 
 	“文傻故事书，特别是历史书……”另一个人插进话来说，“计量单位不同…”穿插着交响回错的声音：“有什么需要思考的必要吗？”“P大历史系才子一天都以二十本为单位。”“你看…”说完感刚刚那句话的人微微颤抖了一下，仿佛被自己那句话中的事实震颤到了。“这不，你能一天看，20本，线性代数吗？”
 
-	库恩的《科学革命的结构》，“有的人海德格尔，要十几本书起步，有的人看科学哲学，就这一本，然后就懂了，很有画面感。”
-
 	一个法国的分析哲学家作了自己的区分：
 
 	(1) Philosophy, like science, is a common enterprise. What philosophers say has to be discussed, criticized, argued about, and no philosopher can expect to produce good arguments. or good
@@ -123,7 +121,7 @@ and sanction of other researchers.
 
 	“也可以做两边都不要的人，像Rorty。”
 
-	一个对哲学感兴趣的新人问道：“话说后现代既然左，应该也批评过大学霸权专业垄断，那他们自己有没有用“哲学就是占星术、占卜一样的产业”来批评过自己呢?”
+	一个对哲学感兴趣的新人问道：（）
 
 	“批评过啊，自反性从来都是这群人的一大特征。只是，后现代小将和圭亚那语者从来不会理会这些就如（）说的一样，得有内在的反讽。而不是天天瞎几把在那吹巧乐兹*是20世纪最伟大的哲淆家，没有之一，这种话内在的反讽:一边嘲讽体制哲学，一边在大学领工资怎么说吧你说这群人言行不一不诚实，也行，他说这本身就说自反性的体现关键是，小将天天把这群人当神明一样供着连这种虚伪的自我批评都没球德了。”
 
@@ -137,13 +135,9 @@ and sanction of other researchers.
 
 	“大词的诱惑力！”
 
-	“一个人必须先理解戏谑，才能理解严肃。”
+	“一个人必须先理解戏谑，然后才能理解严肃。”
 
 	“以自便其固陋。”
-
-	“其特征是诉诸价值以对抗事实。”	
-
-	“我们看到，（传统）哲学家们解决问题的方式就是给它们一个语词，例如“绝对”、为了解决孤立的个人观的问题的“共在”，可是ta们却从不去追问什么是“绝对”，它们能给我们的解释和预测带来什么效用？它们的具体细节、实现的方式，程度与量地方面。或许，ta们只是追求的只是一种抚平问题的慰藉。……实际上，我们怎能这么轻易地把问题抛却。这些问题本来就是难得。为什么要认为一个人仅凭ta自己就可以把握世界。”
 
 	“ta们不懂程度。”
 
@@ -157,9 +151,7 @@ and sanction of other researchers.
 
 	“吾最恨呼先王以欺愚者。”
 
-        思而不学则殆
-
-	“余尝听人读佛书,其数十万言谓可数谈而尽。”
+	“余尝听人读佛书，其数十万言谓可数谈而尽。”
 
 	“垃圾堆里淘金。”
 
@@ -175,35 +167,17 @@ and sanction of other researchers.
 
 	当然是找不到一点点踪迹”
 
-	“给我两句话，还你十本书。”
-
-	“吾尝终日而思矣，不如须臾之所学也。”
-
 	“守旧的逻辑家竟能不同不闻新逻辑的重要贡献，好比有了现成的汽车不用，宁坐破旧不堪的轿子。”这话是沈有鼎说的。
-
-	“这些后现代有一个好：但凡科学有一点进步，不管自己懂不懂，跟进扯淡的速度比谁都快，但说来说去就这么几个名词博眼球。”
 
 	毕加索说：“我读一本爱因斯坦的物理学教程时，我什么也没弄懂，可是弄懂了其它东西。”
 
 	创造性误读……可是真理如何呢？哦，别来真理之路、意见之路的老套了吧……
-
-	“想法贫乏至极，就找些所谓经典和牛鬼蛇神撑腰。”
-
-	“我觉得欧陆很多人的政治哲学都这样……核心想法简陋至极，但和观念论、精神分析、古典哲学缝合一下，就显得自己很强。”
-
-	“感觉你说的有，二施，朗西埃，南希，巴丢。”
 
 	“分析壬滴优势就是立场可以像水，进行各种微操调整；而，，某类废物壬，由于确实不会argumentation，就只能复读。这样，死魂灵，也可以有生命。”
 
 	别一直看，让书休息会。
 
 	那边几个人正在讲情话呢：我思必然能够伴随我对你的一切表象。。。
-
-	这是康德的风味。
-
-	“凡是你说的，都是合理的”
-
-	这是黑格尔的味道。
 
 	“哲学史，不应该重构论证了，应该彰显出前人的incoherence！”
 
@@ -249,35 +223,9 @@ and sanction of other researchers.
 
 	“外国人语言混乱，先去看看医生。”
 
-	在演讲台上，对着底下的一大堆观众，讲者讲起了营销的学问：
+	“假如哲学的根本问题是在屎味的巧克力和巧克力味的屎中选择，那么理性主义者大概会选择屎味的巧克力而经验主义者大概率会选择巧克力的屎。而康德则可能会两者皆选。而后现代主义者和法国哲学家则选择了屎味的屎。其实康德的选择也有道理，因为毕竟巧克力味可能盖过屎味，而你又吃到了巧克力（假如巧克力是值得追求的话），这样你可能会以为你是在吃巧克力味的巧克力。而那些相对主义者、主观主义者则认识到了一个道理，那就是：彼之砒霜，吾之蜜糖。因此，即使那是屎味的，可是只要你认为它是巧克力味的，即使它是屎，你也可以吃到巧克力味的巧克力。”
 
-	“黑格尔是一个非常晦涩难懂的哲学家，我们用简单易懂的例子先来讲讲意识、自我意识、理性、精神分别是什么。
-
-	“对于人类来说，如果他是一个新生儿，他就会产生一个婴儿应有的意识。婴儿应该有的意识是什么？是他觉得冷了，觉得饿了，觉得不舒服了，这是意识。
-
-	“等变成少年的时候，就开始有自我的意识，自我的意识是什么？你会发现你喜欢文科，你喜欢理科，你要决定在P京上大学了，要上一个什么学校，因为你产生自我意识，自我意识会驱动你做某些选择。
-
-	“然后，你会产生理性，就像在座的大多数人一样，你会选择一个你觉得应该奋斗的公司，应该奋斗的行业，你会看这个公司给你多少钱，你愿意付出多长的时间。再往后，你就会有精神指引你做一些事情，这些事情让你变得更加强大。
-
-	“今天，我希望大家能用哲学的角度，或者意识的五个阶段看待这个时代最有趣的平台，抖音。因为黑格尔是一个唯心主义的哲学家，所以他还有一个绝对精神的层面，在他认为是类似于上帝的视角。我们现在把品牌主的意识分成四个阶段，第五个阶段现在还很难达到。
-
-	“第一个阶段，今天绝大多数的品牌主已经产生了意识，要去做抖音、做营销。他下意识就会觉得：我要找KOL带货。
-
-	“但有些品牌主会觉得，好像找KOL带货不是那么回事，有很多坑，还有坑位费，有可能遇坑，也没有形成日常的销售。这就进入了自我意识阶段：我要把抖音小店开起来，我自己每天都去直播。更加理性的去看待，在抖音这个平台应该做什么样的事情。
-
-	“慢慢的，我相信每个品牌都会产生它的自我意识，最终会从自我意识升级到理性的思考：我雇这么多人做直播，我投一个星期，我能算清ROI吗？我的直播间有这么多人看，我到底是要我的品牌曝光还是GMV？如何看待在抖音长期投入的ROI？最终，会有一部分品牌进化出它自己对于抖音和对于内容电商的理解，这就是他的精神。从精神的层面，能够理解到抖音本质上是一个内容的平台，能够把营销的内容做成抖音想要的内容，然后不断拿到新的曝光。
-
-	“得知要做这个演讲之后，我就一直在想，要用一个什么样的切入点让大家理解如何在抖音做营销。正好这段时间我在读哲学家黑格尔的书。黑格尔把意识分成五个阶段，就是意识、自我意识、理性、精神和绝对的精神。
-
-	“这让我联想到，精神现象学的五个阶段，恰可以与当下品牌主对于抖音营销的认知做了一个对应。我希望通过这个对应，帮助大家最终能理解下列问题：为什么要在抖音做营销？为什么很多品牌主只停留在认为营销就是找KOL带货？又为什么很多理性的投放在抖音并没有形成（预期效果）？这些问题背后都有一些非常深入的原因。”
-
-	“我个人排无聊程度的话，现象学大于观念论大于分析哲学大于分哲人搞的哲学史，最适合我的哲学书大概就是那种一百来页某某某入门系列吧（
-
-	“后现代没法排，他们超越了文本。”
-
-	“假如哲学的根本问题是在屎味的巧克力和巧克力味的屎中选择，那么理性主义者大概会选择屎味的巧克力而经验主义者大概率会选择巧克力的屎。而康德则可能会两者皆选。而后现代主义者和法国哲学家则选择了屎味的屎。其实康德的选择也有道理，因为毕竟巧克力味可能盖过屎味，而你又吃到了巧克力(假如巧克力是值得追求的话)，这样你可能会以为你是在吃巧克力味的巧克力。而那些相对主义者、主观主义者则认识到了一个道理，那就是:彼之砒霜，吾之蜜糖。因此，即使那是屎味的，可是只要你认为它是巧克力味的，即使它是屎，你也可以吃到巧克力味的巧克力。”
-
-	“这许多事物挤在一处,正如我辈约了燧人氏以前的古人,拼开饭店一般,即使竭力调和,也只能煮个半熟；伙计们既不会同心，生意也自然不能兴旺——店铺总要倒闭。”
+	“这许多事物挤在一处，正如我辈约了燧人氏以前的古人，拼开饭店一般，即使竭力调和，也只能煮个半熟；伙计们既不会同心，生意也自然不能兴旺——店铺总要倒闭。”
 
 	“西方（看来讲话的这位是个“东方”人）再也看不到无所不包的「宏大理论」或「全能大师」。虽然西医尊称希波克拉底和盖仑为医学之父，称渥寇为医学教皇，但除了对历史的好奇外，现代医学生再也不读他们的原著。西医每年都有众所注目的诺贝尔生理医学奖大师出现，但是他们只能在其钻研的领域中有所成就。而且其学说注定在几十年后被修正或遗忘。再权威的医学教科书，十年二十年后一定会改版，否则就没有人去念。西医似乎重拾起泰利斯说的那句话：「这是我的看法，我的想法，你们要努力改进我的教导。」 ”
 
@@ -289,17 +237,9 @@ and sanction of other researchers.
 
 	怎么还有人看文学啊，喜欢文学的人都是恋物癖，这是我在面对了那么多那样的人和那样的作品后的亲身感受。
 
-	“论古典，还是要看正统古典学毕业的奥斯丁艾耶尔戴维斯
-
-	“海德格尔懂什么古典呢！”
-
-	“所以学文学应该看正经法国文学毕业的金在权”
-
 	“怪话人的根本问题：我研究的才配叫哲学史，我不研究的都不重要
 
-	“选择性懂几个人，背几个stereotype就敢说懂哲学史了”
-
-	“马克思超越了以往的哲学家；海德格尔超越了以往的哲学家；德勒兹超越了以往的哲学家！每个人都超越了哲学史！”
+	“选择性懂几个人就敢说懂哲学史了”
 
 	达尔文明确地表达出斯宾塞的著作给他的印象平平，因为他们缺少好的观察和实验证据：“每次看完他的一些论述后，这一精细的话题估计足够我研究好几年的了。”
 
@@ -314,8 +254,6 @@ and sanction of other researchers.
 	“之前不就吐槽过，柄谷相信艾滋还是什么的是权力的建构。”
 
 	“最佩服哲学家的就是他们永远能在自身一无所知的情况下让就人闭嘴。”
-
-	“研究黑格尔，你会发现非常装x，但如果你研究黑格尔本人发迹的人生轨迹，你会发现这是一部厚黑学然后会心一笑，呵呵。大众看到的哲学史是被阉割的。最重要的部分，都以一笔带过的形式阚割。教育你把人生目标变成和大脑搏斗的理论，全被大书特书，嘿嘿。教科书会告诉你，曾经有这么一个学派，代表人物是xyz，影响了bb。没了。没有学术刊物会接受它们的研究，没有哪个院系会有教育它们学派的老师，法兰克福派后边全是犹太资本大手笔的投资，才成为流量明星。不要觉得你在学习真理，在资本掌握的舆论教育部门里边，你只是一个客户，一个花钱来求被洗脑的对象。”
 
 	为什么我们的时代还要读拉康？
 
@@ -383,15 +321,11 @@ and sanction of other researchers.
 
 	Erdos在一旁对哥德尔说：“you became a mathematician so that people should study you, not that you should study Lebiniz!”
 
-	有时是悠远的想象：“罗素如果是去听皮亚杰而不是皮亚诺，历史的进程又将会如何发展呢？我不禁浮想联翩。”
-
 	“好女人上天堂，坏女人哪里都能去。”
 
 	“我们花两年学会说话，却要花六十年学会闭嘴。”
 
 	“一个人，当一个人感到彻底的孤独，那些从它处出发的（）对ta还有什么用呢？这不就是彻底的唯我论吗！？面对这样一股巨大的情感思潮，辩驳不是显得无力吗？”
-
-	“自由、平等，……或在这些概念里|人真的活在这些概念里吗？”
 
 	“当我在说人民的时候，我指的是任何一个具体的人吗？”
 
@@ -415,37 +349,17 @@ and sanction of other researchers.
 
 	牧师柯林斯正站在台上，又或是在一个孤僻的角落里，宣讲着自己的独白，或是在自己跟自己对话，又像是作一个总结：
 
-	“笛卡尔的论证：“我思是不可怀疑的 “·我在思考”这件事是不可怀疑的，因为要怀疑它，我就在怀疑，而怀疑本身也是一种思考 ·因为“我思”存在，而“我”等于“我思”（另一种理解是：“我”拥有“我思”），所以我存在。第一，笛卡尔只能知道“it thinks”或者"there is a thought going on"（就像“it has”），而不是“I am thinking”；他似乎只能证明“有思想正在发生”这件事是不可怀疑的；因此笛卡尔无权推出在思想的“底下”还有一个实体叫“自我”；第二，ta心问题和唯我论：因为笛卡尔只能推知一个“我思”存在。”
-
-	“……得有，就必须有两种怀疑止点：无疑问的事实和无疑问的推理原则。 笛卡尔的无疑问的事实是他自己的思维。按最广的意义使用“思维”这个词。“我思”是他的原始前提。这里“我”字其实于理不通:他该把原始前提叙述成“思维是有的”这个形式才对。“我”字在语法上虽然便当，但是它表述的不是已知事项。等他再往下讲“我是一个作思维的东西”，这时他已经在漫无批判地应用经院哲学传下来的范畴工具。他在什么地方也没证明思维需要有思维者，而且除按语法上的意义来讲，并没有理由相信这点。”
+	（）
 
 	不同的声音在大脑里响起，仿佛在帮他说出悠远时想过的话。
 
-	“根据笛卡尔的观点，怀疑我存在是尤其没有道理的。这里，怀疑只不过证实了被怀疑的对象。我思故
-
-我在。在这种情况下，我至少拥有客观知识。我的存在这个事实是一个客观事实；它是关于这个世界的事实，而不仅仅是关于某个人的感知。不管这个世界包含什么它都包含了一个思维着的存在，这个存在就是我。康德的同时代人利希滕贝格指出，笛卡尔不应该得出这种结论。“我思”表明存在一种思想，但是并不表示有一一个我去思考。康德同样不满意笛卡尔的观点。”
-
-	“按照从这些观点中推出的灵魂理论，他认为自我知识的确定性受到了错误描述。的确，不论我对这个世界有多么地怀疑，我都不可能把这种怀疑延伸到主观领域(意识领域) : 所以我能够直接确定自己当下的精神状。但是我无法直接确定我是什么，或者确定实际上是否存在一个这些状态所归属的“我”。这些进一步的命题必须通过某种观点来建立，而那样的观点还有待发现。”
-
-	“movie playing simultaneously”
-
-	“据康德说，这要准确地理解有关表象“我”的逻辑角色的陈述；这告诉我们，“我”在任何判断中都必定占据着主词的位置。所以，真确的只是必须把“我”视作康德所谓的“主体”的逻辑意义上的主体。而且就“我”是在主体非逻辑的或实在的意义上的主体，是奠基性的基底而言，这里根本就推不出什么来。”
-
-	“如果我们能用英语说“思想认为”（it thinks），就像我们说“天下雨”（it rains）或“风在吹（it blows）”那样，那么我们就应该以更简约、更少预设的方式陈述事实。既然我们还做不到这一点，那我们就简单地说思想在继续。”
-
-	“感觉作用和内感。”
-
-	“除此之外，则没有独立的自我。詹姆士认为从事占有的并不是自我，而不过是人们的身体所感受到的流逝着的经验。”
-
-	“詹姆士的关于精神是从各项经验中建造出来的理论，实在模仿休谟的“一束知觉的观点”。像休谟一样，他认为没有理由假定被称为各种各样的纯粹自我、或者灵魂、或者精神实体那样的东西存在着。不仅因为这样一种实体是无可证实的，而且“为了象它们实际显现的那样来表达意识的现实主观现象”也不需要“实体的观点”。”
+	就像一部自动放映的电影
 
 	“我们难于判断这些“链”“流”是不是初始给定的东西（条件）。”
 
-	“视域。罗素用此术语来指一切短暂的感觉材料集合，不管是知觉到的还是未知觉到的，它从某个特定的角度呈现了宇宙。罗素在使用此术语时，用到了心理学家在对殊相微分类时用的主观材料，它们对应于物理学家在对对象分类时用到的“事物”，罗素把实际任意特定时刻所具有的世界观，个人生活的整个视域就是此人的“传记”。
-
 	我们就像一只蚂蚁在沙滩上留下了可识别的丘吉尔的漫画像。
 
-	布劳德说：“每当我睁开眼睛时，我就看到一个有色彩的视觉领域，我将称之为“视域”。”
+	“视域”
 
 	“主体不属于世界：它们是世界的界限，that they are a limit of the world; that the world is theirs。”
 
@@ -453,41 +367,128 @@ and sanction of other researchers.
 
 	“维特根斯坦在《笔记本1914-1916》，1916年9月2日上写道：哲学上的我不是人类，不是人的身体或具有心理学性质的人的灵魂，而是形而上学的主体，是世界的分界线（而不是一部分）。”
 
-	“我不相信单纯印象。”
-
-	“感觉材料无概念则盲。”
-
 	“我们不要被这段妙语连珠的文字所迷惑，以为蒯因认为我们能够不依赖任何文化假定描述经验之流……他反对从感觉材料出发，他的根据是，这些感觉材料作为一个自主的领域不能首尾一贯，他甚至进而主张，只有通过假定物理对象，我们才能获得进行系统处理的材料。”
 
 	Quine 1981, p.21:
 	It is within science itself, and not in some prior philosophy, that reality is to be identified and described.
 
-	“我们不能控制它们。There is the fact that we find ourselves cast into a world that is not of our own making, the fact that we find ourselves confronted with what is other than us. Man was cast adrift in a world that was not of his own making.”
-
-	“唯心论的那种“us”在这里是没有用的，那只是在欺骗自己。”
+	“There is the fact that we find ourselves cast into a world that is not of our own making, the fact that we find ourselves confronted with what is other than us. Man was cast adrift in a world that was not of his own making.”
 
 	“我说手的时候既没想到什么实体，也没想到什么现象，我说的手就是“手”。”
-
-	“孩子们学的不是书存在，扶手椅存在，等等——他们学的是拿书、坐在扶手椅上，等等。”
-
-	“时间不再像漏钟里的水那样是“流动”的。”
 
 	“Doing justice to what we know.”
 
 	接着他述说他的理想，他接着继续述说下去他无止境的絮语。	
 
-	“我们要体验所有的类型。我希望有一种体验机，它能让我们获得任意的体验。比如吃江豚的体验。当然我不是在鼓励吃江豚，而只是说，类型本身就是意义。
+	“我们要体验所有的类型。我希望有一种体验机，它能让我们获得任意的体验。类型本身就是意义。
 
 	“在现代，声音简直就像是一种暴力似的，在敲打（着）我们。我们的视觉被广告所填塞。我们的触觉…我们的触觉……应该制造一种机器，它能完全将人与外部世界隔离、不受打扰。
 
 	“我相信神，也相信神经。
 
-	接着，他滔滔不绝地说起他崇拜或仰慕的人：拿破仑、康德、斯宾诺莎、埃米•诺特、居里夫人、奥黛丽赫本、哥德尔、斯寇伦、道尔顿、汉密尔顿、杰斐逊、麦迪逊、马歇尔。
+	接着，他滔滔不绝地说起他崇拜或仰慕的人：拿破仑、康德、斯宾诺莎、埃米•诺特、居里夫人、奥黛丽赫本、哥德尔、斯寇伦、道尔顿、汉密尔顿、杰斐逊、麦迪逊、马歇尔大法官。
 
-	他罗列出他认为重要的哲学家：柏拉图、亚里士多德、伽利略、洛克、牛顿、莱布尼茨、休谟、康德、尼采、马克思、胡塞尔、海德格尔、梅洛庞蒂、福柯、德里达、希尔伯特、爱因斯坦、摩尔、罗素、维特根斯坦、哥德尔、塔斯基、根岑、图灵、柯尔哥莫洛夫、香农、奎因、克里普克、塞拉斯、普特南、罗尔斯、Feferman、Woodin、费曼、温伯格、庞加莱……格里菲斯、爱森斯坦、戈达尔、伯格曼、费里尼……伯努利、罗巴切夫斯基、玻尔、德布罗意、海森堡、薛定谔……哈维、波义尔、拉瓦锡、达尔文、法拉第、麦斯韦兹、伽罗瓦、布劳威尔、Weyl.……施密特、阿伦特、乔布斯、扎克伯格……简奥斯丁、艾略特、巴赫、贝多芬、安格尔、塞尚、赖特、柯布西耶、布列松……
+	他罗列出他认为重要的哲学家：
 
-	符合他心意的、他赞同的哲学家：王浩、贝特、麦金农、萨特、加缪。
+亚里士多德
+柏拉图
+“柏拉图是我们的朋友，可是真理是一个更好的朋友。”（EN 1096a15-20）
+逻辑学
+前苏格拉底时代形而上学的收录和形而上学的辞典：《形而上学》
+动物学植物学
+尼各马可伦理学
+诗学
 
+唯名论和唯实论
+
+思维经济原则——“如无必要，勿增实体”(entities should not be multiplied unnecessarily)(又称“奥卡姆剃刀”)
+
+“在相当大程度上，伽利略对落体的运动学分析就是发挥和运用了从14世纪牛津和巴黎发展出来的运动学基本原理。伽利略能够认识到运动学和动力学之间的差别这一事实，揭示出布拉德沃丁和奥里斯梅以来科学传统的影响。当我们研究伽利略的运动学时，他所用的概念框架，包括空间、时间、速度和加速度概念，很明显是中世纪运动学的概念框架，他的数学方法也大量取自14世纪。完整的伽利略理论中的主要部分源于中世纪的具体定理，包括‘均速定率’和‘默顿规则’。的确，现在作为伽利略运动学成就具体表现(V∝t和S∝t2)的有关数学关系的部分，正是14世纪提出的定义或定律的简单表述。”[美]戴维·林德伯格：《西方科学的起源》，王珺、刘晓峰、周文峰等译，北京：中国对外翻译出版公司，2001年，第380页。
+
+Leonardo vinci disscepolo della sperientia(莱昂纳多，经验的信徒)
+
+“最后，文艺复兴运动产生了坚持观察和精心改进观察技巧的强烈主张。通过改进观察而转变为第一个科学部门的正是解剖学，即画家的科学，亦即由维萨里使之复兴的科学，这或许不是偶然的，因为在他们中间，艺术家的头脑与科学家的头脑看来几乎已经合而为一了。”
+  [美]赫伯特·巴特菲尔德：《近代科学的起源：1300—1800年》，张丽萍、郭贵春等译，北京：华夏出版社，1988年，第36页。
+
+培根
+伽利略
+近代物理科学的形而上学基础埃德温·阿瑟·伯特伽利略以几何处理时空，将目的因变为动力因笛卡尔的机械-几何宇宙以及心物二元论；霍布斯以机械解释心灵，摩尔、巴罗关于灵魂广延性和绝对时间空间的设想：吉尔伯特利用以太精气解释非力学性质，波义耳把理论看做假说的实证主义方法论
+哈维
+笛卡尔
+笛卡尔反驳道：“我认为(经院学者们所持有的)是重性(pesenteur)将物体带向地球的中心这个观点，就好像是说它(重性)自身已经具有对于这个中心的认识一样。”(Méditations，Sixèmes Réponses，AT IX 240-241)
+帕斯卡
+波义尔
+Robert Boyle (1661), John Herschell (1830) ... are some of the philosophers and philosophically-minded scientists, historians, and sociologists of science who gave serious consideration to the distinction between observing and experimenting. 
+SEP. Theory and Observation in Science
+洛克
+牛顿
+休谟
+康德
+拉瓦锡
+罗巴切夫斯基
+达尔文
+马克思
+尼采
+亥姆霍兹
+孟德尔
+“1872建立起实数理论后转向自然数，1888《数是什么和应当是什么》，戴德金关于自然数概念的研究“通过概念分析来决定公理的一个最精彩的例证，是一个大型的“哲学”进展。”（王浩，转引自汪芳庭《算术超滤》，p12）
+马赫
+塞尚
+玻尔兹曼
+弗雷格
+贝尔电话的意义 莱特兄弟飞机的意义 林白飞越大西洋的意义
+庞加莱
+希尔伯特
+罗素
+爱因斯坦
+玻尔
+外尔
+杜尚
+维特根斯坦
+费舍尔
+德布罗意
+乔治·爱德华·勒梅特
+海森堡
+"The two most famous and--in the view of many--most important examples of conceptual analysis in twentieth century logic were Alfred Tarski's definition of truth and Alan Turing's definition of computability."
+"In both cases a prior, extensively used, informal or intuitive concept was replaced by one defined in precise mathematical terms."
+根岑论证他的超穷序数的使用是可接受的
+费曼
+费里尼
+伯格曼
+普特南
+休·埃弗莱特
+温伯格
+贝尔
+克里普克
+www
+……
+
+Archimedes, Carl F. Gauss, Leonhard Eule, Bernhard Riemann, Joseph-Louis Lagrange, Euclid of Alexandria, Gottfried W. Leibniz, Alexandre Grothendieck, John von Neumann, Pierre de Fermat, Évariste Galois, Srinivasa Ramanujan, Karl W. T. Weierstrass, Peter G. L. Dirichlet, Georg Cantor, Brahmagupta, Niels Abel, Augustin Cauchy, Emmy Noether, Arthur Cayley, Pythagoras of Samos, William R. Hamilton, Carl G. J. Jacobi, Apollonius of Perga, Leonardo `Fibonacci', Charles Hermite, Pierre-Simon Laplace, Carl Ludwig Siegel, Johannes Kepler, Diophantus of Alexandria, Aryabhata
+Muhammed al-Khowârizmi, Richard Dedekind, Felix Christian Klein, Kurt Gödel, Bháscara (II) Áchárya, Blaise Pascal, Élie Cartan, Archytas of Tarentum, Godfrey H. Hardy, Andrey N. Kolmogorov, F.E.J. Émile Borel, Giuseppe Peano, Hipparchus of Nicaea, Alhazen ibn al-Haytham, Julius Plücker, Joseph Liouville, Jacob Bernoulli, Stefan Banach, Jean le Rond d'Alembert, F. Gotthold Eisenstein, Panini of Shalatula, André Weil, Jean-Pierre Serre, Jacques Hadamard, Marius Sophus Lie, Jakob Steiner, Eudoxus of Cnidus, M. E. Camille Jordan, François Viète, Joseph Fourier, Christiaan Huygens, Bonaventura Cavalieri, Hermann G. Grassmann, James C. Maxwell, Girolamo Cardano, Michael F. Atiyah, Atle Selberg, Alfred Tarski, Israel M. Gelfand, L.E.J. Brouwer, Johann H. Lambert, John E. Littlewood, Felix Hausdorff, Liu Hui, Gaspard Monge, Henri Léon Lebesgue, Baire, René-Louis, George Pólya, John F. Nash, Jr., Ernst E. Kummer, Johann Bernoulli, George D. Birkhoff, Shiing-Shen Chern, Jean-Victor Poncelet, Adrien M. Legendre, James J. Sylvester, John Wallis, Pafnuti Chebyshev, Omar al-Khayyám, Thales of Miletus, Simon Stevin, Hermann Minkowski, Nicolai Lobachevsky, Andrei A. Markov, Daniel Bernoulli, Mikhail L. Gromov, Paul J. Cohen, John Willard Milnor, Robert P. Langlands, John Horton Conway, Pierre René Deligne, William P. Thurston, Edward Witten, Saharon Shelah, Terence Chi-Shen Tao, John G. Thompson, Simon K. Donaldson, Vladimir I. Arnold, Stephen Smale, Timothy Gowers, Lennart A.E. Carleson, Lars Valerian Ahlfors, Pappus of Alexandria, Sofia Kovalevskaya, Leopold Kronecker, Thabit ibn Qurra, Siméon-Denis Poisson
+Jean Gaston Darboux, Nasir al-Din al-Tusi, Georg F. Frobenius, Emil Artin, Abu Rayhan al-Biruni, William K. Clifford, Tullio Levi-Civita, James Gregory, Ptolemy of Alexandria, J. Müller `Regiomontanus', John Napier of Merchiston, Paul Erdös, John T. Tate, George Boole, Peter David Lax, Alexis C. Clairaut, Zhu Shiejie, Colin Maclaurin, Norbert Wiener, Oswald Veblen, Ivan M. Vinogradov, Oliver Heaviside, Henry J.S. Smith, Abu Yusuf Al-Kindi, Rafael Bombelli, Henri P. Cartan, Michel F. Chasles, Alfred Clebsch, Gérard Desargues, Paul A.M. Dirac
+J. Willard Gibbs, Hippocrates of Chios, William V.D. Hodge, Edmund G.H. Landau, Augustus F. Möbius, David B. Mumford, Louis Nirenberg, Nicole Oresme, Roger Penrose, Grigori Y. Perelman, Lev S. Pontryagin, Waclaw Sierpinski, Yakov G. Sinai, Isadore M. Singer, Thoralf A. Skolem, S.G. Vito Volterra, Shing-Tung Yau, Bernard P.J.N. Bolzano, Samuel Eilenberg, Eratosthenes of Cyrene, Gerd Faltings, R. Maurice Fréchet, Michael Freedman, Marie-Sophie Germain, Lars V. Hörmander, Vaughan F.R. Jones, Kunihiko Kodaira, Solomon Lefschetz, Leonardo da Vinci, Jean Leray, Madhava of, Sangamagramma, Gregori A. Margulis, Abraham de Moivre, Claude Shannon, Dennis P. Sullivan, Endre Szemerédi, Brook Taylor, sJacques Tits, Evangelista Torricelli, Karen K. Uhlenbeck, Andrew J. Wiles, Oscar Zariski, A.Baker, Bombieri, Bott, Bourgain, Connes, Fefferman, Furstenberg, Griffiths Hirzebruch, Itô, Kashiwara, Kontsevic, Lovász, Lurie, Mandelbrot, Manin, Matiyasevich, Mazur, Y.Meyer, Novikov, Quillen, J.Robinson, K.Roth, Scholze, Shimura, Stein, Varadhan, W.Werner, Al-Farisi, Al-Karaji, Al-Kashi, Aleksandrov, Apastambha, Babbage, Beltrami, Bháskara.I, Bradwardine, Bruno, Chang, Copernicus, Cremona, Dehn, L.Gersonides, 
+Heron, Ibn.Sinan, Lucretius, Menelaus, E.Moore, Nic.Cusa, Qin.J, Roberval, Seki   Strato, Theaetetus,  Zeno, Zermelo, Hironaka, sato, baire
+
+1. Positivism and empiricism: Hume, Enlightenment, Comte, J. S. Mill, Richard
+Avenarius, Mach.
+2. Foundations, aims and methods of empirical science (hypotheses in physics,
+geometry, etc.): Helmholtz, Riemann, Mach, Poincaré, Enriques, Duhem,
+BoItzmann, Einstein.
+3. Logistic and its application to reality: Leibniz, Peano, Frege, Schröder, Russell,
+Whitehead, Wittgenstein.
+4. Axiomatics: Pasch, Peano, Vailati, Pieri, Hilbert.
+5. Hedonism and positivist sociology: Epicurus, Hume, Bentham, J. S. Mill, Comte,
+Feuerbach, Marx, Spencer, Müller-Lyer, Popper-Lynkeus, Carl Menger (the
+elder).
+The Scientific
+Conception of the World:
+The Vienna Circle
+WISSENSCHAFTLICHE WELTAUFFASSUNG: DER WIENER KREIS 1
+Dedicated to Moritz Schlick
+
+Quesnay, Adam Smith, Ricardo, Comte, Marx, Menger, Walras, MüllerLyer
+
+	真正的哲学家是戴雪、杜南、古斯塔夫·穆瓦尼耶这样的人
  
 
 *即黑格尔（Hegel），因发音类戏讽作“黑狗”；黑话，即黑格尔的话；海哥，即海德格尔；淆，即学；海口，即海德格尔的话；巧乐兹，即德勒兹
@@ -510,7 +511,7 @@ and sanction of other researchers.
 
  
 
-	罗素作为开场作了介绍：他受的教育是武尔夫派传述的莱布尼兹哲学，但是有两个影响力量，即卢梭和休谟,使他放弃了这种哲学。休谟通过对因果性概念的批判，把他从独断的睡梦中唤醒过来至少他这样讲：但是唤醒只不过是暂时的，他不久就发明了一种让他能够再人睡的催眠剂。”
+	罗素作为开场作了介绍：“他受的教育是武尔夫派传述的莱布尼兹哲学，但是有两个影响力量，即卢梭和休谟，使他放弃了这种哲学。休谟通过对因果性概念的批判，把他从独断的睡梦中唤醒过来至少他这样讲：但是唤醒只不过是暂时的，他不久就发明了一种让他能够再人睡的催眠剂。”
 
 	“其他问题——诸如世界有三个领域，精神有九种或十二种范畴等都是次要的，不过是些游戏而已”，那是正在思考自杀的加缪。
 
@@ -518,7 +519,7 @@ and sanction of other researchers.
 
 	批评者认为<范畴表>是张恣意的一览表而加以摒弃（把康德对亚里士多德提出的指控再适用于康德本人）。黑格尔抱怨缺乏“真正的演绎”；“大家知道，康德已经使自己把发现这些范畴表弄成很方便的事情。”
 
-	人们接着提出其它指控：康德本人反怀疑论的努力纯然建立在独断论的根基之上；弗雷格下了对“分析”的定义：If the proof relies only on “general logical laws and definitions,” then the proposition is analytic. But if the proof requires assumptions that “belong instead to the domain of a particular science, then the proposition is synthetic”，并认为这才是康德心中真正所想的，接着他在一旁论证算术是“先验分析的”；罗素则说着：我很喜欢那些推理和规则，因为它们表面康德的画图不是必要的；康德的二律背反没有考虑到世界“有限而无界”的可能性；非欧几何和相对论的横空出世，布劳威尔因此只用时间直观，等等。
+	人们接着提出其它指控：康德本人反怀疑论的努力纯然建立在独断论的根基之上；弗雷格下了对“分析”的定义：If the proof relies only on “general logical laws and definitions,” then the proposition is analytic. But if the proof requires assumptions that “belong instead to the domain of a particular science, then the proposition is synthetic”，并认为这才是康德心中真正所想的，接着他在一旁论证算术是“先验分析的”；罗素则说着：我很喜欢那些推理和规则，因为它们表面康德的画图不是必要的；康德的二律背反是如此的贫乏以至于可以说一说；布劳威尔只用时间直观，等等。
 
 	当然，人们可以辩护说广义相对论所揭示的既非“纯粹空间”也不是“纯粹时间”，而是在经验材料中对它们的认识给予我们称之为“实在”的东西。
 
@@ -526,9 +527,7 @@ and sanction of other researchers.
 
 费希特
 
-	1914年第一次世界大战爆发后，舍勒发表了大量为战争辩护的作品，如《战争天才与德意志战争》( Der Genius des Krieges und der Deutsche Krieg, 1915-1917年)、《战争与建设》( Krieg und Aufbau,
-
-1916年)、《德意志仇恨的源起》( Die Ursachendes Deutschenhasses，1919年)等，他把这些著作视为他在《伦理学中的形式主义与质料的价值伦理学》中"所阐释的一般伦理学原理在一系列个别问题和时代问题上的具体运”。这些作品当时影响极大，德国外交部甚至因此而请他到国外从事宣传工作。
+	1914年第一次世界大战爆发后，舍勒发表了大量为战争辩护的作品，如《战争天才与德意志战争》( Der Genius des Krieges und der Deutsche Krie，1915-1917年)、《战争与建设》( Krieg und Aufbau，1916年)、《德意志仇恨的源起》( Die Ursachendes Deutschenhasses，1919年)等，他把这些著作视为他在《伦理学中的形式主义与质料的价值伦理学》中"所阐释的一般伦理学原理在一系列个别问题和时代问题上的具体运”。这些作品当时影响极大，德国外交部甚至因此而请他到国外从事宣传工作。
 
  
 
@@ -542,11 +541,9 @@ and sanction of other researchers.
 
 	他接着继续说道：“赤裸裸的胡说八道，拼凑无意义的、荒谬的话语，如人们从前只在疯人院听过的最大的狂妄，最后出现在黑格尔身上。这种狂妄已经成为有史以来最无耻、最普遍的神秘化工具，取得过后世难以相信的成果，它也将成为德国人愚蠢心理的一座纪念碑。”
 
-	威廉.詹姆斯谈到他使用笑气进行的试验。在吸入笑气后，他肆意写下一切出现在脑海中的句子。当笑气的作用消退，重读这些句子，他发现它们与黑格尔写的句子如出一辙。比如其中一句:“如果区别的程度不在相同与不同之间，就不存在区别。”
+	威廉.詹姆斯谈到他使用笑气进行的试验。在吸入笑气后，他肆意写下一切出现在脑海中的句子。当笑气的作用消退，重读这些句子，他发现它们与黑格尔写的句子如出一辙。比如其中一句：”如果区别的程度不在相同与不同之间，就不存在区别。”
 
 	罗素接着发言：“黑格尔（Georg Wilhelm Friedrich Hegel ，1770—1831）是德国哲学中由康德启始的那个运动的顶峰；虽然他对康德时常有所批评，假使原来没有康德的学说体系，决不会产生他的体系。黑格尔的影响固然现在渐渐衰退了，但已往一向是很大的，而且不仅限于德国，也不是主要在德国。十九世纪末年，在美国和英国，一流的学院哲学家大多都是黑格尔派。在纯哲学范围以外，有许多新教神学家也采纳他的学说，而且他的历史哲学对政治理论发生了深远的影响。大家都知道，马克思在青年时代是个黑格尔的信徒，他在自己的完成了的学说体系中保留下来若干重要的黑格尔派特色。即使（据我个人认为）黑格尔的学说几乎全部是错误的，可是因为他是某种哲学的最好代表人物，这种哲学在旁人就没有那么一贯、那么无所不包，所以他仍然保持着不单是历史意义上的重要地位。”
-
-	“黑格尔由“芝诺悖论”和“二律背反”得出了结论：矛盾在世界中是无处不在的。”
 
 	某位研究黑格尔的仁兄正在张狂、欣喜若狂地说着黑格尔哲学的妙处：“……内容才可以避免任何预设。然而，这种完全空洞无内容的起点似乎没有什么了不起，即使它真的没有预设，从它开始我们又可以得到什么知识，建立什么哲学系统呢？况且它真的没有任何预设吗？黑格尔不是经过仔细分析“开端”概念才能到达这个开端吗？这是否代表黑格尔在批评别人之余，自己却以为找到了真正直接的起点呢？黑格尔的批评，不也可以用在自己的开端身上吗？当然可以！而这正是黑格尔的理论巧妙之处。“纯粹存在”虽然代表简单和无规定的直接性，但这并不表示它是全无中介、全无条件全无预设。黑格尔也承认“这个纯粹存在既是这个绝对直接的，又同样是绝对有中介的东西。但同样重要的是，必须仅仅片面地把纯粹存在当作纯粹直接的东西，正因为这里它是作为开端。””
 
@@ -604,11 +601,7 @@ and sanction of other researchers.
 
 	“黑格尔的哲学确实有跳大神的意思。”
 
-	“无、有、变之后是什么，黑格尔没说。无论下一层是什么，它都不会是什么有趣的东西：因为它只是黑格尔脑海里的东西。”
-
-	“可是时间过程却跟纯运辑的辩证法过程有密切关系实上，世界历史一向就是历经从中国的“纯有"(关于中国，黑格尔除知道有它外毫无所知)到“绝对理念的各范畴而进展的对理念看来在普鲁士国家即便没有完全实现，也接近实现了。据黑格尔自己的形而上学，我不能了解世界历史反复辩证法的名个转变这一看法有什么理由，然而这却是他在《历史哲学)中所发挥的论点。这是一个有趣的论点，它使人世间的种种变革获得了统一性和意义。这论点也和其他历史理论一样，如果要想说来似乎有道理，需要对事实作一些歪曲，而且相当无知。黑格尔同他以后的马克思和斯宾格勒一样，这两样资格都具备。奇怪的是，一种被说成是宇宙性的历程竟然全部发生在我们这个星球上，而且大部分是在地中海附近。并且，假若“实在”是无时间性的，也没有任何理由说这历程后来的部分
-
-要比在前的部分体现较高的范畴除非人 当真要采取这样一种裘读不敬的假定：宇宙渐渐在学习黑格尔的哲学。”
+	“可是时间过程却跟纯运辑的辩证法过程有密切关系实上，世界历史一向就是历经从中国的“纯有”（关于中国，黑格尔除知道有它外毫无所知)到“绝对理念的各范畴而进展的对理念看来在普鲁士国家即便没有完全实现，也接近实现了。据黑格尔自己的形而上学，我不能了解世界历史反复辩证法的名个转变这一看法有什么理由，然而这却是他在《历史哲学）中所发挥的论点。这是一个有趣的论点，它使人世间的种种变革获得了统一性和意义。这论点也和其他历史理论一样，如果要想说来似乎有道理，需要对事实作一些歪曲，而且相当无知。黑格尔同他以后的马克思和斯宾格勒一样，这两样资格都具备。奇怪的是，一种被说成是宇宙性的历程竟然全部发生在我们这个星球上，而且大部分是在地中海附近。并且，假若“实在”是无时间性的，也没有任何理由说这历程后来的部分要比在前的部分体现较高的范畴除非人 当真要采取这样一种裘读不敬的假定：宇宙渐渐在学习黑格尔的哲学。”
 
 	人们七嘴八舌地说啊说啊，谈到黑格尔的“主奴辩证法”，他的有趣的“历史哲学”等等。……花了好长一段时间，人们谈到了黑格尔的自然哲学。
 
@@ -644,51 +637,21 @@ and sanction of other researchers.
 
 	在一旁的是陀思妥耶夫斯基：“人们非常偏好理论体系与抽象思考，为了证明自己的逻辑，甚至愿意歪曲真理，否认察觉到的真相。”
 
-	“前提推导出的结论与现实特征不符，正常情况下是去重新审视预设的前提和论证过程，而不是去想办法否定现实。”
-
 	当然，也有几位（倒不如说是很多）科学家说自己“受了辩证法影响”云云。
-
-	“反正，也没人计较德国观念论几个死人，主要是给他们牌位上香的信众，太傻逼了。”
 
 	“神殿中本就没有神明，有的只是信徒们无休止的传唱。”
 
 	“黑格尔并没有脱离那个时代的趣味，即，发明一些概念词组，拓展加深一下外延内涵，然后原地打转。当然，这也是传统的人文行业的主要生产方式，几千年如一日孜孜不倦的快乐来源。”
 
-	“讲个笑话，19世纪末在剑桥与哲学系新黑格尔主义派共事的罗素与后面的人谁更了解黑格尔。”
-
  
 
-* Arthur Schopenhauer, On the Basis of Morality, trans. E.F.J.Payne (Indianapolis: Bobbs-Merrill, 1965), pp.15—16”
-
- 
-
-叔本华
-
- 
-
-	“叔本华他们好像有一种倾向，只要最后是痛苦的，或消失了，那么前面一切的也无意义，或是“虚假的”。”
-
-	“让一个生活根本失败的人教你怎么生活，还有比这更（）的事了吗？”
-
-	“他有格外多次热情而琐屑的恋爱事件：他格外爱争吵，而且异常贪婪，有一次一个上了年纪的女裁缝在他的房间门外边对朋友讲话，惹得他动火,把她扔下楼去，给她造成终身伤残。她赢得了法院判决，判决勒令叔本华在她生存期间必须每季付给她一定的钱数(十五塔拉)。二十年后她终于死了，当时他在账本上记下:“Obit anus,abit onus. ”除对动物的仁慈外，在他一生中很难找到任何美德的痕迹，而他对动物的仁慈已经做到反对为科学面做活体解制的程度。在其他各方面，他完全是自私的。很难相信，一个深信禁欲主义和知命忍从是美德的人，会从来也不曾打算在实践中体现自己的信念。”
-
- 
-
-柏格森
-
- 
-
-	“A long line of philosophers, from Zeno to M.Bergson, have based much of their metaphysical upon the supposed impossibility of infinite collections.... ”(Bertrand Russell)
+* Arthur Schopenhauer, On the Basis of Morality, trans. E.F.J.Payne (Indianapolis: Bobbs-Merrill, 1965), pp.15—16
 
  
 
 埃德蒙·胡塞尔
 
- 
 
-	“哦，你说胡塞尔啊，他被认为开创了“现象学”这一哲学领域，即只研究世界如何在我们的意识中显现给我们的研究。这意味着他给形而上学的问题（即世界本身真正是什么样的）“加了括弧”，当然也给“我们怎么知道我们经验到的是真的”加了括弧。这种哲学曾在一小段时间里极度流行，后来每个人都对它感到疲劳，并决定成为一个后现代主义者。”
-
-	“Edmond Husserl is credited with starting the philosophical field of "phenomenology", which is the study of how the world appears to us in our minds only. This means that he "brackets" questions of metaphysics (i.e. how the world truly is in itself), which of course also brackets questions like "how do we know what we are experiencing is true". This philosophy was extremely popular for a brief time, then everyone got tired of it and decided to be postmodernists.”
 
 	突然，在一旁的海德格尔陷入了回忆之中：“哥廷根1913年：整整一个学期，胡塞尔的学生们争论一个邮箱如何显现。人们有人用这种方式去谈论宗教经验。如果这就是哲学，那么我完全赞成辩证法。”
 

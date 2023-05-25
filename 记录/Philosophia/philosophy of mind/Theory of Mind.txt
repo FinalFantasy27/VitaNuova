@@ -1,0 +1,95 @@
+associationism
+Symbolism：Fodor，Pylyshyn
+connectionism（对c的批判：Symbolism（比如Fodor，Pylyshyn）批评它是associationism；Bayesian（比如Griffiths, Tenenbaum）批判它只是point estimate，而且在表征的方式上不够多元。Examplar theorist of categorization（比如Ambridge，Chandler）批判它是prototype theory，不如examplars那么flexible，也解释不了PET FISH）
+Bayesian：Griffiths, Tenenbaum
+prototype theory 
+PET FISH
+Examplar theorist of categorization：Ambridge，Chandler
+
+mindreading
+LESLIE A M.Children’s understanding of the mental world[M] // In GREGORY R L.(EdS.) The Oxford companion to the mind.Oxford：Oxford University Preses，1987：139-142.
+(1)在一般情境中预测人类行为的能力;(2)attribute mental states to others; (3)能够凭借人类拥有的心理状态来解释人类的行为的能力
+NICHOLS S，STICH S P.Mindreading：an integrated account of pretence，self-awareness，and understanding other minds[M].New York：Oxford University Press，2003：2.
+
+Premack and Woodruff, 1978, "Does the Chimpanzee Have a Theory of Mind?"
+PREMACK D G，WOODRUFF G.Does the chimpanzee have a theory of mind?[J].Behavioral and Brain Sciences，1978(1)：515-526.
+
+Morton Theory theory
+MORTON A.Frames of mind：constraints on the common-sense conception of the mental[M].Oxford：Clarendon Press，1980：15.
+
+Wimmer and Perner false belief test
+实验者给儿童被试呈现一个木偶剧场景，介绍其中一个被称作Maxi的木偶，并向儿童被试展示Maxi有一块巧克力，然后将他的巧克力藏在“橱柜”——一个纸板箱里，并且宣称Maxi要出去玩并离开现场。此时再介绍第二个木偶入场，她是Maxi的妈妈。妈妈在柜子里找到巧克力，然后把它移到第二个盒子里，即“冰箱”。木偶剧的第三幕是妈妈离开，Maxi回来说要取回他的巧克力。随机暂停木偶剧，实验者会向儿童被试者提出一些控制问题，以检查他们是否理解在这个木偶剧中发生了什么。他们向儿童提问：Maxi会在哪个盒子里寻找他的巧克力?橱柜或冰箱?实验的结果非常有趣：大约四岁的孩子通常会回答说Maxi会在冰箱里寻找，而五岁以上的孩子通常会说Maxi会在橱柜里寻找。
+WIMMER H，PERNER J.Beliefs about beliefs：representations and constraining function of wrong beliefs in young children’s understanding of deception[J].Cognition，1983(13)：103-128.
+
+nativism vs. empiricism
+
+Gopnik child as little scientist view
+GOPNIK A.Scientific thinking in young children：theoretical advances，empirical research，and policy implications[J].Science，2012(6102)：1623-1627.
+
+Xu和Garcia的实验使用了一种被广泛用于研究婴儿认知的“观察时间”技术，即婴儿观察意外事件的时间更长。该实验给婴儿看了一个装满白球和红球的盒子。然后主试闭上眼睛，随意地从盒子里拿出一些球，放进另一个小盒子里。如果样本确实是随机的，那么箱子中的球的分布应该与盒子中的球的分布相匹配。婴儿会看到一个分布相匹配或不匹配的样本，他们对不匹配的样本进行了更长时间的观察(当实验者从一盒主要是白色的球中取了一个主要是红色的乒乓球样品时，婴儿观察的时间比从一盒主要是红色的球中取出主要是红色的球的时间要长)。在控制条件下，婴儿只看到相同的事件序列，但实验者将球从自己的口袋里拿出来，而不是从盒子里拿出来，这种情况下婴儿在观察时间上的差异消失了。该实验显示，八个月大的婴儿对统计抽样模式很敏感
+XU F，GARCIA V.Intuitive statistics by 8-month-old infants[J].Proceedings of the National Academy of Sciences of the United States of America，2008(105)：5012-5015.
+
+Baron-Cohen 人类有eye-direction detector， EDD，可以探测到类似眼睛的刺激并计算注视方向 intentionality detector， ID shared attention mechanism， SAM Theory-of-Mind-Mechanism
+BARON-COHEN S.The Mindreading System：new directions for research[J].Current Psychology of Cognition，1994(13)：724-750.
+
+近来的ERP、MEG、fMRI以及fNRIS等脑成像研究表明，基于信念来理解和预测他人行为的基本神经结构可能在人类生命早期(大约七个月)就存在了。
+HYDE D C，SIMON C E，TING F，et al.Functional organization of the temporal-parietal junction for theory of mind in preverbal infants：a near-infrared spectroscopy study[J].The Journal of Neuroscience，2018(18)：4264-4274.
+这些脑区包括双侧内侧前额皮层、脑岛、次级感觉皮层、背侧前中部扣带回、颞顶联结、颞上沟等，统称为“心智化系统”(mentalizing system， MENT)RICHARDSON H，LISANDRELLI G，RIOBUENO-NAYLOR A，et al.Development of the social brain from age three to twelve years[J].Nature Communications，2018(1)：1027.
+modularity
+内侧前额皮层(MPFC)及颞顶联结(TPJ)。例如，在经典心智理论的任务中，要求被试对他人的意图和信念进行推断，激活了内侧前额皮层及颞顶联结。当我们对他人心理状态进行思索时，内侧前额皮层始终处于激活状态。
+AMODIO D M，FRITH C D.Meeting of minds：the medial frontal cortex and social cognition[J].Nature Reviews Neuroscience，2006(7)：268-277.
+当我们对他人当前的信念进行推断，评价他人的长期心理特征和性情状况，以及我们对自己的心理状态进行思考时该区域也会激活。事实上，当我们对动物的心理进行推断时其也会激活内侧前额皮层。
+MITCHELL J P，BANAJI M R，MACRAE C N.The link between social cognition and self-referential thought in the medial prefrontal cortex[J].Journal of Cognitive Neuroscience，2005(17)：1306-1315.
+即便我们没有与外面世界进行互动，无论何时，只要我们对心理进行思考，内侧前额皮层就会产生自发的活动。
+BUCKNER R L，CARROLL D C.Self-projection and the brain[J].Trends in Cognitive Sciences，2007(2)：49-57.
+当我们产生有关自己或者他人心灵的认识时，后扣带回皮层也会被激活，在休息时该皮层显示出与内侧前额皮层功能性耦合的属性。
+SAXE R，POWELL L J.It’s the thought that counts：specific brain regions for one component of theory of mind[J].Psychological Science，2006(17)：692-699.
+为了更加逼真地模拟现实生活中社会互动的卷入性特征(engagement)(即被试作为互动的真实参与者而不仅仅是旁观者)，研究人员使用了一种新的实验范式，让被试得以在接受脑部活动记录的同时，通过一个屏幕实时地看到另外一个由真人控制的虚拟形象的眼部活动。因为各自的眼部活动和注视的方位在实验中可以被对方看到，这样就形成了一种第二人称的社会互动。被试在两种条件下进行这种互动，用自己的目光引领他人注视屏幕上三个物体中的一个，或者被试跟随他人的目光去注视三个物体中的一个，从而形成共同注意(joint attention)。在这两种条件下，有一些实验试次会让在互动中处于追随地位的那一方故意不配合，让实验中没有出现共同注意。研究人员预测在有归因关于他人心理状态时，内侧前额皮层会在任务中激活，并且神经活动在由自己引起的共同注意和他人引起的共同注意之间会有区别。实验结果支持了这些假设，在形成共同注意的条件下的确引发了内侧前额叶的激活，并且内侧前额叶的前部在由自己引发的共同注意中激活程度高于由他人引发的共同注意
+SCHILBACH L，WILMS M，EICKHOFF S B，et al.Minds made for sharing：Initiating joint attention recruits reward-related neurocircuitry[J].Journal of Cognitive Neuroscience，2010(22)：2702-2715.
+Mar对86项fMRI研究的元分析显示，在人类大脑中用于理解故事的神经网络与用来引导我们与其他个体进行互动的神经网络存在大量重叠。例如，内侧前额皮层(mPFC)、双侧后侧颞上沟和颞顶联结(pSTS/TPJ)、双侧前颞区(anterior temporal areas)以及左侧额下回(IFG)等
+MAR R A.The neural bases of social cognition and story comprehension[J].Annual Review of Psychology，2011(62)：103-134.
+近期的fMRI研究发现，人类大脑的右后部颞上沟(pSTS)、左侧顶内沟后部(aIPS)负责意向性检测，在将几何图形的运动感知成具有生命性的过程会产生激活
+GAO T，SCHOLL B J，MCCARTHY G.Dissociating the detection of intentionality from animacy in the right posterior superior temporal sulcus[J].Journal of Neuroscience，2012(41)：14276-14280.
+颞上沟也是心智化系统的重要组成部分。该区域与行为识别(behavioral identification)相联系，尤其是对于有意图的行为。观看以不同方式执行的具有相同意图的行为(例如，以不同方式抓握花生)，激活了灵长类动物颞上沟中的相同神经元。然而，那些不带有意图的行为(例如，跌倒)却不能激活该脑区
+ALLISON T，PUCE A，MCCARTHY G.Social perception from visual cues：role of the STS region[J].Trends in Cognitive Sciences，2000(4)：267-278.
+当视频中的这些几何图形似乎在打架时，与人们真实的打架中观察到的生物运动在视觉上很少有共同点。然而，当被试观看这些视频剪辑时，他们想象到了真实的人类行为，并且以一种自上而下而非自下而上的方式激活了颞上沟。具体而言，复杂的生理活动携带的生命性(animacy)信号会激活高阶视觉区，该区域位于颞上皮层后部，是进行客体确认(包括梭状回面孔区)和视觉导向行为加工流的交界处
+SCHULTZ J，FRISTON K J，O’DOHERTY J，et al.Activation in posterior superior temporal sulcus parallels parameter inducing the percept of animacy[J].Neuron，2005(4)：625-635.
+
+Carruthers曾尽可能地列出一些候选定律。例如，“有人想让q状态出现。他相信，如果p那么q，并相信自己有能力使p出现;因此，在其他条件相同的情况下，他就会形成一个促使p出现的意图。若有人已经形成了意图，促使‘R出现，p就出现’得以实现，且他相信R会出现，因此，他就会采取能够促使p出现的行动”
+CARRUTHERS P.Simulation and self-knowledge：a defense of the theory-theory[M]// In CARRUTHERS P，SMITH P K .(Eds.) Theories of theories of mind.Cambridge：Cambridge University Press，1996：21-38.
+Wellman称这样的描述为“框架理论”(framework theories)。“框架理论”只能对相关研究领域的实体因果机制给出一般性的定义，而不能推论得出具体的、局部的、个性化的因果关系
+WELLMAN H M.The child’s theory of mind[M].Cambridge：MIT Press，1990：143.
+
+“无论这一理论的成果如何丰富，它都存在着一个核心理论的模糊性。支撑理论的表征和支撑理论变革的学习机制都还不清楚。认知科学的基本观点是将大脑视为一种由进化设计来执行特定认知功能的计算机。发展认知科学的前景是我们可以发现发展背后的计算过程。与皮亚杰的建构主义理论一样，该理论也缺乏实现这一承诺的精确性。至关重要的是，它缺乏一个令人信服的计算方法来解释让理论发生变化的学习机制。这个理论的核心类比是儿童的理论就像科学理论一样。但这个类比只是第一步。我们需要理解理论变化在原则上是如何发生的，无论是在童年时期还是在科学领域。”
+ GOPNIK A，WELLMAN H M.Reconstructing constructivism：causal models，Bayesian learning mechanisms，and the theory theory[J].Psychological Bulletin，2012(6)：1085-1108.
+
+内隐记忆和外显记忆的差异神经激活。事件相关电位在外显记忆检索和隐式记忆检索中表现出不同的时空成分。
+RUGG M D，MARK R E，WALLA P，et al.Dissociation of the neural correlates of implicit and explicitmemory[J].Nature，1998(392)：595-598.
+内隐记忆检索依赖于前额叶、梭状回和纹外区，而外显记忆检索依赖于后扣带回、楔前叶和顶下小叶。上述例子或许适用于对ToM的早期形式或前体(precursor)的理解，这些心智化的早期形式在婴儿期或童年早期可能代表了一种内隐的心智化，而更多以言语形式呈现的心智化(例如，学龄前儿童的错误信念表现)可能代表一种外显的心智化。
+APPERLY I A，BUTTERFILL S A.Do humans have two systems to track beliefs and belief-like states?[J].Psychological Review，2009(4)：953-970.
+
+Wellman等发现，婴儿对有意行为的注意可以预测他们学龄前期对ToM的理解，这表明从内隐心智化到外显心智化之间存在联系
+WELLMAN H M，LOPEZ-DURAN S，LABOUNTY J，et al.Infant attention to intentional action predicts preschool theory of mind[J].Developmental Psychology，2008(44)：618-623.
+
+内隐心智化和外显心智化是否如同外显记忆和内隐记忆一样有着泾渭分明的神经基础；心智化从内隐转变为外显的过程，是否伴随着神经活动的变化，尤其是两种心智化系统在脑区之间连接的形式是否发生了变化
+
+未来的研究需要进一步厘清是否存在支持不同类型的心智理论判断(例如，“信念归因”、“情绪归因”)的一般机制，或者不同的独立结构是否共存并支持每种类型的心智化推理。
+QUESQUE F，ROSSETTI Y.What do theory-of-mind tasks actually measure?Theory and practice[J].Perspectives on Psychological Science，2020(2)：384-396.
+例如，识别他人躯体感受状态(如饥饿、疼痛、痒)的功能和判断他人心理状态(如信念、愿望)的功能在脑机制上的差异。现有的研究已经发现，前者主要涉及双侧颞顶联结、前躯体感觉区、背侧前额皮层、中前额皮层和腹内侧前额皮层，后者主要涉及双侧内侧额叶、脑岛、次级感觉皮层、背侧前中部扣带回。
+VOGELEY K.Two socialbrains：neural mechanisms of intersubjectivity [J/OL].Philosophical Transactions of the Royal Society B，2017，372(1727)：20160245.[2017-07-03]http：//dx.doi.org/10.1098/rstb.2016.0245.
+近期，Richardson等对122名3～12岁的儿童和33名成年人进行fMRI研究显示，心智理论网络内部区域之间的连接程度与心智理论测试任务成绩正相关，心智理论网络与疼痛脑网络之间的同步程度则与心智理论测试任务成绩负相关。这意味着儿童心智理论网络内部脑区之间的联系越紧密，同时心智理论与疼痛脑之间的功能越分离，其心智理论发展得越好。
+MITCHELL J P，BANAJI M R，MACRAE C N.The link between social cognition and self-referential thought in the medial prefrontal cortex[J].Journal of Cognitive Neuroscience，2005(17)：1306-1315.
+
+
+在心灵哲学领域福多的思维语言遭到了帕特里夏·丘奇兰德的反驳，她从进化论的角度认为思维语言（LOT）应当存在进化上的连续性，然而根据目前的了解，非语言或前语言的生物拥有完整的LOT似乎根本不可能，另外即使没有LOT，非语言的生物种群似乎仍然可以认知以及拥有合理的计划。
+LOT vs 联结主义
+联结主义的架构包含简单的单元，每个单元都具有确定的激活度，并以抑制和激活关系与其它相邻单元相联系。而在整个系统中存在大量平行的情形，也就是不同区域的单元同时进行着计算（激活度的传递），并且这种运作构成了一种动态的平衡系统，所以联结主义也被称作平行分布式处理（parallel distributed processing）。与此同时，系统中的数字变量被假定为与概念层次下对象的细节特征相对应，而后者往往被用于描述对象的运作状态。另外当我们借用联结主义的框架来描述具体事件的时候我的描述往往借助一整体单元的激活模式，而不是个体单元的特征。
+福多主张认知的联结主义方法是不当的，因为他们认为一个知道“约翰爱姑娘”是什么意思的生物一定也同时能够知道“姑娘爱约翰”是什么意思，而这只可能存在“约翰”、“姑娘”、“爱”这几个符号表征以及相应的组合规则的情况下才是可能的，而这恰恰是联结主义所缺乏的。而这种批评其实就表明了心灵哲学如何已经与认知科学的根基密切缠结在一起的。
+
+
+模拟论主张人们运用模拟启发法将心理状态归因于他人，并预测和解释他人的行为。进一步而言，这种理论认为理解根本上就是一种移情和心理投射，简言之就是把自己放在别人位置上的换位思考。
+在模拟模型中有三个基本要素。第一，模拟者必须构建一个虚构的心理状态以尽可能反映被模拟者的真实状态，而这种构建建立在模拟者对被模拟者的情况的掌握；第二，模拟者的认知结构对这一虚构的心理状态进行操作从而产生进一步的心理状态，在这里我们假定模拟者和被模拟者的认知结构是相似的；第三，模拟者在接收到进一步的心理状态后不会直接产生行动，而是将自己的离线状态作为输入状态并将其归因于被模拟者的行动基础。在这里，模拟模型和民众心理理论最大的差别在于模拟模型下的人们并不知道心理规律是怎么来的，而仅仅依照模拟者和被模拟者之间的相互对应。
+
+
+自闭症和唐氏综合症之间的比较。在实验中他们发现平均年龄大约十二岁的自闭症儿童在处理信念归因的问题上表现出了与三岁儿童完全相同的结果...然而平均IQ更低的唐氏综合症一般都能正确回答相应的问题。进一步的研究又发现自闭症在理论和推理方面没有缺陷，但是缺乏移情能力，并且在假装游戏这种活动中表现很糟糕。这一系列现象似乎都在支持模拟论的进路，因为这都可以模拟装置的故障来解释，但这并非结论性的，因为民众理论的辩护者可以说自闭症没有一般意义上的理论能力方面的缺陷，但可能缺少某种特殊的理论能力
+《认知科学的哲学应用》

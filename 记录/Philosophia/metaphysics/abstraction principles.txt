@@ -1,0 +1,5 @@
+ abstraction principles, which are used for supplying abstract objects with criteria of identity. The idea of this method of characterizing abstract objects is also largely due to Frege, who wrote:
+
+If the symbol a is to designate an object for us, then we must have a criterion that decides in all cases whether b is the same as a, even if it is not always in our power to apply this criterion. (Frege 1884, trans. Beaney 1997: 109)
+Wrigley 2006: 161, Lowe 1997: 619
+sep.truth value

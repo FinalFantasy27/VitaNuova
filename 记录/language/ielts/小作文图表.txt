@@ -1,0 +1,142 @@
+graph线图，饼图，柱状图
+chart线图，饼图，柱状图，表格
+diagram流程图，地图
+
+it's best to give an overview of the data/shape in paragraph 1. 
+
+with 60%
+
+those
+
+people born in ...; born abroad
+
+there had been
+
+going up to
+
+the figure for ... reached 40% for the 40-49 age group, on a par with the proportion of people of the same age studying for personal interests
+
+under-24 age group/under 24-year-old people/30-39 age group/30-39-year-old people/over-50 age group/over 50-year-old people
+
+tertiary institutions
+
+there was a twofold increase in the birth rate to 2%
+double/increase twofold/triple/quarduple to 4%
+the birth rate of the country A is twice as high as that of country B
+
+Compared with country A, country B has a smaller population.
+similar
+
+the growth was significant during the period (around 4%)
+increase by
+rise to
+saw a dramatic increase of ... in[!] (the sales of videos)
+show an increase of
+was on the rise
+there was an upward trend in sales
+
+soar to/decline by/a decline of/the decline was dramatic/see a steep drop/the trading volume dropped to 3 million a day, down 35%/dop to/in decline/downward trend
+Europe, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation and over-grazing
+
+ferry摆渡；渡船
+coach长途客车；火车车厢
+
+twenty per cent of Americans now admit to suffering from procrastination, a fifteen per cent jump from 1970.
+
+in the east part of ... lies the ...
+
+变化：recover 略有回升
+转折： however, whereas, nevertheless, nonetheless, though, although, even though, while, yet, on the contrary, contrarily, in contrast, conversely, on the other hand, unlikely, in stead (of), in spite of, despite of ... 
+similarly, likewise(句首/尾), at the same time, equally ... 
+增加：increase / raise / rise / go up ... 减少：decrease / grow down / drop / fall ... 
+波动：fluctuate / rebound / undulate / wave ... 稳定：remain stable / stabilize / level off ... 
+
+泛指一份数据图表：a data graph/chart/diagram/illustration/table 
+饼图：pie chart                         直方图或柱形图：bar chart / histogram 
+趋势曲线图：line chart / curve diagram    表格图：table 
+流程图或过程图：flow chart / sequence diagram     程序图：processing/procedures diagram 
+
+the situation reached a peak(a high point at) of ...
+the figures reached the bottom/a low point/hit a trough
+the graphs show a threefold increase in the number of...     该图表表明...的数目增长了三倍
+Person B has 3 times as many oranges as Person A
+
+road-tracking
+
+goods不能用number修饰
+during the period 1994-2002
+the figure for road transportation
+quantity/amount/volume
+
+Barchart
+p1intro (parapharase)
+present information about
+show/illustrate the changes in 
+show  the differences between ... in
+compare ... in terms of ....
+p2overview
+p3details
+p4details
+
+account for 
+contribute most; rank the second
+in this respect
+the figure for
+the vast majority of 
+9 out of ten
+three quarters of 
+nearly
+one in ten
+more than two out of ten
+the proportion of boys is relatively low at 40%
+inverse relation反比关系
+
+present information about; show/illustrate the changes in; show the differences between ... in ...; compare ... in terms of ...
+
+小作文句型总结：动态类：1． It has fluctuated since 1995, but now provide 35 q by 2008.2． From 35 q and 28 q respectively in 1980, coal consumption showed an initial fall and gas consumption a gradual increase with the two fuels equal between 1990 and 1995.3． It is expected to maintain this level until 2015, while others should rise marginally.4． The total amount had since then risen steadily, despite fluctuation, andreached about 100 mil by 2002.5． …, before dropping back to 1980 figure. （前面一段趋势描述，后面表示回落到1980的数据水平）。6． Swiss sales figure jumped from 15-46 mil across these five years, whereas in the UK and Belgium sales only grew from 1-5.5 and from 0.6-4 mil respectively.7． …, after which the level of consumption will not experience any remarkable change.静态类：1． …, it was followed by Sweden and Italy (9.5 mil and 4.7 mil respectively). （前面写谁的量最大）2． Meanwhile, the numbers of part-time work and unemployment, 17734 and 16235 respectively, were similar, whereas the least were those doing the voluntary work, with only 3500 in this year.3． Even though A is accounted for the dominant part, with 234 in 2008, which constitute almost a third of the total, the amount of A is only 200 larger than that of B, namely, 2500 tons.
+goods不能用number修饰，用quantities或volumes
+turn something into electricity，你要会替换，比如用transform, convert
+
+地图作文
+A在B的东西南北方(内部/接壤/不接触)：Aisin/on/totheeast/west/south/northofB.
+高阶表达：
+A在B的东西南北方(内部)：A is in the eastern/southern/western/northern part of B.
+A在B的东西南北角落：A is at/in the eastern/southern/western/northern corner of B.
+A坐落于距离B……远处：A is (数字) kilometers/miles to the east/west/south/north of B.
+A和B很近：A is near/next to/close to B.
+A在B的对面：A is opposite/on the opposite side of B
+第二组：变化词
+其实，地图题目当中蕴涵的变化，从本质来说，无非是三种，一种为所谓的“加变化”也就是在原本基础上出现了新增的部分，另一种为“减变化”，也就是原本的内容出现了缩减。所谓“恒定表达”，即前后没有发生变化。还有一种涉及到了两种内容之间的转化，被称之为“转化表达”。
+加变化：
+A尺寸上变大了…：The size of A has been enlarged by…
+A被建造在B：A is constructed/established in B.
+A被增建在B：A is added to B.
+减变化：
+A尺寸上变小了…：The size of A has been reduced by…
+A消失了：A disappeared/is removed.
+A被推倒了：A is pulled down/knocked down/torn down.
+恒定表达:
+A has remained unchanged.
+转化表达:
+A被改造成了B：A is transformed/reconstructed into B
+A被B替代了：A is replaced/substituted by B.
+
+The two maps compare changes
+layout 
+four main [areas] could be noticed in each [corner; end] of  ...
+situate in/lay in
+surrounded by ..., intersected [another road] leading to ... in the [south-eastern part]
+with several [trees] between them
+to its opposite side, there was ...
+board [a drama room and a music room boarding a big car park]
+had been removed/demolished, and an [indoor] one
+which had been divided into two so that half part served as
+had become twice as large as it was in
+the original [drama room] was turned into
+the place before which was gained by the car park
+In summary
+
+logic: so its capacity was enlarged
+
+tremendous
+a house in the proximity of (= near) the motorway; The proximity of the college to London makes it very popular.; The area has a number of schools in close proximity to each other.

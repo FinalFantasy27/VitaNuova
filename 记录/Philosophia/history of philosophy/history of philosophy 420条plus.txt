@@ -1,0 +1,624 @@
+PRESOCRATICS
+1. Thales
+2. Anaximander, Anaximenes
+3. Xenophanes
+4. Pythagoras
+5. Heraclitus
+6. McCabe on Heraclitus
+7. Parmenides
+8. Zeno and Melissus
+9. Atomism
+10. Anaxagoras
+11. Empedocles
+12. Schofield on Presocratics
+13. Hippocrates
+14. Sophists
+SOCRATES AND PLATO
+15. Socrates without Plato
+16. Plato's Socrates
+17. Woolf on Socrates
+18. Plato's Life and Works
+19. Charmides, Euthydemus
+20. Plato's Gorgias
+21. Plato's Meno
+22. Plato's Theaetetus
+23. McCabe on Plato
+24. Plato's Phaedo
+25. Plato's Republic pt.1
+26. Plato's Republic pt.2
+27. Plato's Parmenides
+28. Leigh on the Sophist
+29. Plato's Cratylus
+30. Plato's Timaeus
+31. Plato's Erotic Dialogues
+32. Sheffield on Platonic Love
+33. Plato on Myth
+ARISTOTLE
+34. Aristotle's Life and Works
+35. Aristotle's Logic
+36. Aristotle's Epistemology
+37. Hugh Benson on Aristotle
+38. Aristotle on Substance
+39. Aristotle's Four Causes
+40. Aristotle's Physics
+41. Sorabji on Aristotle
+42. Aristotle on Soul
+43. Aristotle's Biology
+44. Aristotle's Ethics 1
+45. Aristotle's Ethics 2
+46. Scott on Aristotle
+47. Aristotle on Mind and God
+48. Political Philosophy
+49. Rhetoric, Poetics
+50. Aristotle on Plato
+51. Successors
+HELLENISTIC
+52. Hellenistic Schools
+53. The Cynics
+54. The Cyrenaics
+55. Epicurus' Principles
+56. Epicurean Ethics
+57. Epicurean Therapy
+58. Lucretius
+59. Warren on Epicurus
+60. Stoic Logic
+61. Stoic Epistemology
+62. Stoic Physics
+63. Stoic Ethics
+64. Sedley on Stoicism
+65. Seneca
+66. Epictetus
+67. Marcus Aurelius
+68. Sellars on Roman Stoics
+69. Pyrrho
+70. New Academy
+71. Cicero
+72. Woolf on Cicero
+73. Sextus Empiricius
+74. Long on the Self
+75. Ancient Medicine
+76. Hankinson on Galen
+LATE ANTIQUITY
+77. Introduction
+78. Middle Platonism
+79. Philo of Alexandria
+80. Plutarch
+81. Opsomer on Platonism
+82. Aristotelianism
+83. Alexander of Aphrodisias
+84. Rhetoric and Philosophy
+85. Astronomy and Astrology
+86. Cuomo on Mathematics
+87. Plotinus Life and Works
+88. Plotinus on the One
+89. Plotinus on the Soul
+90. Plotinus on Matter & Evil
+91. Wilberding on Plotinus
+92. Porphyry
+93. Iamblichus
+94. Proclus
+95. Sheppard on Aesthetics
+96. O'Meara on Neoplatonism
+97. The Last Pagans
+98. Philoponus
+99. Sorabji - the Commentators
+100. Ancient Culture
+ANCIENT CHRISTIANITY
+101. Introduction
+102. Greek Church Fathers
+103. Origen
+104. Cappadocians
+105. Pseudo-Dionysius
+106. Maximus the Confessor
+107. Asceticism
+108. Boys-Stones - Patristics
+109. Latin Church Fathers
+110. Augustine's Confessions
+111. Augustine on Language
+112. Augustine on Freedom
+113. Augustine City of God
+114. Byers on Augustine
+115. Augustine on Mind
+116. Brittain on Augustine
+117. Latin Platonism
+118. Boethius
+119. Marenbon on Boethius
+FORMATIVE PERIOD
+120. Philosophy and Islam
+121. Mu'tazilites
+122. Translation Movement
+123. Al-Kindī
+124. Judaism and Philosophy
+125. Saadia Gaon
+126. Al-Rāzī
+127. Pormann on Medicine
+128. The Baghdad School
+129. Al-Fārābī
+130. Al-Fārābī Political
+131. Black on al-Fārābī
+132. Vision
+133. Music and Philosophy
+134. Arabic Ethics
+135. The Būyid Age
+136. Daftary on Ismā'īlism
+137. Ash'arites
+138. Avicenna's Life
+139. Avicenna on Existence
+140. Avicenna on God
+141. Avicenna on Soul
+142. Gutas on Avicenna
+143. Al-Ghazālī
+144. Al-Ghazālī "Incoherence"
+145. Griffel on al-Ghazālī
+ANDALUSIA
+146. Introduction
+147. Islamic Law
+148. Ibn Ṭufayl
+149. Averroes
+150. Arabic into Latin
+151. Averroes on Intellect
+152. Taylor on Averroes
+153. Ibn 'Arabī's mysticism
+154. Ibn Khaldūn
+155. Ibn Gabirol
+156. Pessin Jewish Platonism
+157. Judah Hallevi
+158. Freedom and Astrology
+159. Ethics and Judaism
+160. Maimonides
+161. Maimonides on eternity
+162. Stroumsa on Maimonides
+163. Maimonides Controversy
+164. Gersonides
+165. Crescas
+166. Rudavsky Interview
+167. Book of Job
+168. Kabbalah
+169. Albo and Abravanel
+170. Freudenthal Interview
+EASTERN TRADITIONS
+171. Introduction
+172. Al-Baghdādī
+173. Fakhr al-Dīn al-Rāzī
+174. Suhrawardī
+175. Illuminationism
+176. Al-Ṭūsī
+177. Existence Debate
+178. Rūmī and Sufism
+179. Rustom on Sufism
+180. Logical Tradition
+181. Ibn Taymiyya
+182. Mongol Era
+183. Shiraz
+184. Wisnovsky Commentaries
+185. Safavids
+186. Mullā Ṣadrā on Existence
+187. Mullā Ṣadrā on Motion
+188. Rizvi on Mullā Ṣadrā
+189. Islamic India
+190. Ottoman Empire
+191. European Encounters
+192. Women and Islam
+193. 'Abduh and Iqbāl
+194. After Ṣadrā
+195. von Kügelgen Interview
+EARLY MEDIEVAL
+196. Introduction
+197. Carolingian Renaissance
+198. Eriugena on Freedom
+199. Eriugena's Periphyseon
+200. Kraye and Marenbon
+201. Gersh on Platonism
+202. Roots of Scholasticism
+203. Can God Change the Past?
+204. Anselm's Life and Works
+205. The Ontological Argument
+206. Sweeney on Anselm
+207. Problem of Universals
+208. Heloise and Abelard
+209. Abelard’s Ethics
+210. Marenbon on Abelard
+211. The Victorines
+212. Debating the Trinity
+213. Philosophy at Chartres
+214. Philosophy of Nature
+215. Medieval Podcasters
+216. Individuation
+217. Arlig on Mereology
+218. Early Political
+219. Gratian and Lombard
+220. Humfress on Law
+221. Hildegard of Bingen
+222. Translations into Latin
+223. Rise of the Universities
+224. Emery on Institutions
+THIRTEENTH CENTURY
+225. 13th Century Logic
+226. 13th Century Physics
+227. 13th Century Psychology
+228. The Transcendentals
+229. 13th Century Ethics
+230. Robert Grosseteste
+231. Roger Bacon
+232. Burnett on Magic
+233. Bonaventure
+234. Peter Olivi
+235. Toivanen on Animals
+236. Franciscan Poverty
+237. Hadewijch and Mechthild
+238. Robert Kilwardby
+239. Dutilh Novaes on Logic
+240. Albert on Nature
+241. Albert's Metaphysics
+242. Cory on Self-Awareness
+243. Thomas Aquinas
+244. Aquinas Soul Knowledge
+245. Ethics in Albert, Aquinas
+246. The Rule of Law
+247. Just War Theory
+248. MacDonald on Aquinas
+249. The Condemnations
+250. Q&A
+251. "Latin Averroism"
+252. Eternity of the World
+253. Speculative Grammar
+254. Romance of the Rose
+255. Speer Medieval Aesthetics
+256. Henry of Ghent
+257. Pickavé on Henry of Ghent
+258. Trinity Eucharist
+259. Cross on the Trinity
+260. Scotus on Being
+261. Scotus on Freedom
+262. Scotus on Ethics
+263. Scotus on Universals
+264. Pini on Scotus
+FOURTEENTH CENTURY
+265. Introduction to 14th c.
+266. Pink on the Will
+267. Marguerite Porete
+268. Dante Alighieri
+269. Church and State
+270. Marsilius of Padua
+271. Ockham Ethics Politics
+272. Ockham’s Nominalism
+273. Ockham on Mental Language
+274. Brower-Toland on Ockham
+275. Responses to Ockham
+276. Foreknowledge
+277. 14th Century Logic
+278. Uckelman on Obligations
+279. Oxford Calculators
+280. 14th Century Physics
+281. Green on Medicine
+282. John Buridan
+283. Zupko on Buridan
+284. Autrecourt's Skepticism
+285. Perler on Skepticism
+286. Medieval Economic Theory
+287. Meister Eckhart
+288. German Dominicans
+289. Angels
+290. Pickavé on Emotions
+291. English Mysticism
+292. Chaucer and Langland
+293. Gender and Sexuality
+294. Davis on Chaucer
+295. Jean Gerson
+296. John Wyclif
+297. Scholasticism in Europe
+298. Ramon Llull and Petrarch
+299. Pasnau on Substance
+300a. Ancient Philosophy Today
+300b Medieval Philosophy Today
+BYZANTINE
+301. Introduction
+302. Syriac and Armenian
+303. Iconoclasm
+304. John of Damascus
+305. Louth on John of Damascus
+306. Photius
+307. Michael Psellos
+308. O'Meara on Psellos
+309. John Italos
+310. Political Philosophy
+311. Rhetoric in Byzantium
+312. Byzantine Historiography
+313. Anna Komnene
+314. Ierodiakonou Commentaries
+315. Gender in Byzantium
+316. Law, Money, and War
+317. Manuscripts
+318. Primavesi on Manuscripts
+319. The Proclus Revival
+320. Byzantium and Islam
+321. Herrin Byzantium & Islam
+322. Palaiologan Science
+323. Palamas and Hesychasm
+324. Latin in Byzantium
+325. Gemistos Plethon
+326. Later Orthodox
+327. Trizio on East and West
+ITALIAN RENAISSANCE
+328. Introduction
+329. Greek Scholars in Italy
+330. Italian Humanism
+331. Lorenzo Valla
+332. Kraye on Humanism
+333. Humanist Ethics
+334. Reviving Hellenistic
+335. Ebbersmeyer on Emotions
+336. Christine de Pizan
+337. Italian Women Humanists
+338. Defense of Women
+339. Florentine Platonism
+340. Marsilio Ficino
+341. Theories of Love
+342. Robichaud on Plato
+343. Jewish Philosophy
+344. Pico della Mirandola
+345. Human Nature
+346. Muratori on Animals
+347. Savonarola
+348. Civic Humanism
+349. Machiavelli
+350. Machiavelli Republicanism
+351. Skinner on Machiavelli
+352. Renaissance Histories
+353. Italian Utopias
+354. Renaissance Economics
+355. Italian Universities
+356. Aristotle Reception
+357. Lines on Aristotle
+358. Pomponazzi and Nifo
+359. Zabarella
+360. Hasse on Arabic Learning
+361. Mathematics and Art
+362. Renaissance Medicine
+363. Cardano
+364. Giglioni on Medicine
+365. Telesio and Campanella
+366. Magic and Astrology
+367. Copenhaver on Magic
+368. Giordano Bruno
+369. Galileo and Renaissance
+370. Rowland on Rome
+CENTRAL EUROPE
+371. Introduction
+372. Printing Press
+373. Northern Humanism
+374. Nicholas of Cusa
+375. Blum on Nicholas of Cusa
+376. Erasmus
+377. Northern Scholasticism
+378. Martin Luther
+379. Roper on Luther
+380. Erasmus vs Luther
+381. Melanchthon
+382. The Peasants’ War
+383. Huldrych Zwingli
+384. John Calvin
+385. Protestant Scholasticism
+386. Cornelius Agrippa
+387. Hattab on Protestantism
+388. Paracelsus and Alchemy
+389. Theories of Matter
+390. Dutch Toleration
+391. Lipsius and Stoicism
+392. Sellars on Modern Stoics
+393. Copernicus
+394. Tycho Brahe
+395. Kepler
+396. Daston on Science
+FRANCE
+397. French Humanism
+398. Marguerite of Navarre
+399. Rabelais
+400. Philosophy Podcasters
+401. Logic and Language
+402. Medicine
+403. Peter Ramus
+404. Goulding on Ramus
+405. Ramism
+406. Toleration in France
+407. Antognazza on Toleration
+408. The Huguenots
+409. Jean Bodin
+410. Blair on Bodin
+411. Later French Humanism
+412. Montaigne
+413. French Skepticism
+414. Lagerlund on Skepticism
+415. Marie de Gournay
+ORIGINS
+1. Introduction
+2. Historical Overview
+3. The Vedic Period
+4. The Upanisads
+5. The Self in the Upanisads
+6. Karma
+7. Black on the Upanisads
+8. Panini's Grammar
+9. The Buddha
+10. The Buddha’s Teaching
+11. Kautilya and Ashoka
+12. Gethin on Buddhism
+13. The Mahabharata
+14. The Bhagavad-Gita
+15. Non-Violence
+16. Women in Ancient India
+17. Frazier on Hinduism
+AGE OF THE SUTRA
+18. Age of the Sutra
+19. Rise of Skepticism
+20. Mimamsa-Sutra
+21. Mimamsa on Knowledge
+22. Freschi on Mimamsa
+23. Vedanta-Sutra
+24. Advaita Vedanta
+25. Bhartrihari on Language
+26. Clooney on Vedanta
+27. Samkhya
+28. Ayurvedic Medicine
+29. Yoga-Sutra
+30. Maas on Yoga
+31. Nyaya-Sutra
+32. Nyaya on Perception
+33. Nyaya on Reasoning
+34. Nyaya on the Mind
+35. Jha and Jha on Nyaya
+36. Vaisesika-Sutra
+37. Vaisesika on Complexity
+38. Theories of Time
+39. Naturalism
+40. Materialism
+41. Chadha on Mind
+42. Aesthetics of Rasa
+BUDDHISTS AND JAINS
+43. Buddhists and Jains
+44. Nagarjuna on Emptiness
+45. Nagarjuna on Change
+46. Nagarjuna’s Tetralemma
+47. Westerhoff on Nagarjuna
+48. Jain Theory of Standpoints
+49. Jains on Truth
+50. Gorisse Jain Epistemology
+51. Vasubandhu and Yogacara
+52. Dignaga on Perception
+53. Dignaga's Logic
+54. Graham Priest on Buddhism
+55. Dignaga on Consciousness
+56. Buddhaghosa
+57. Tantra
+58. Carpenter on Animals
+59. Indian Influence on Greece
+60. Influence on Islam, Europe
+61. Later Indian Philosophy
+62. Kit Patrick
+PRECOLONIAL
+1. Introduction
+2. Prehistoric Africa
+3. Ancient Mesopotamia
+4. Ancient Egypt
+5. Egyptian Instructions
+6. Egyptian Narratives
+7. Parkinson on Egypt
+8. Early Ethiopian Philosophy
+9. Zera Yacob
+10. Walda Heywat
+11. Kiros on Ethiopia
+12. Subsaharan Islam
+13. Sokoto Caliphate
+14. Diagne on Islam in Africa
+15. Oral Philosophy in Africa
+16. Imbo on Okot p'Bitek
+17. Philosophy of Time
+18. God in African Philosophy
+19. Philosophy of the Person
+20. Communalism
+21. Divination and Witchcraft
+22. Gender in Africa
+23. Nzegwu on Gender
+24. Professional School
+25. Sage Philosophy
+26. Kresse on Anthropology
+27. Beyond the Reaction
+28. Jeffers African Philosophy
+SLAVERY / DIASPORA
+29. Introduction
+30. Anton Wilhelm Amo
+31. Smith on Amo
+32. Early Writing in English
+33. Phillis Wheatley
+34. Lemuel Haynes
+35. Sancho and Banneker
+36. Cugoano and Equiano
+37. Haitian Revolution
+38. Baron de Vastey
+39. Garraway on Haiti
+40. Early Black Institutions
+41. Colonization Controversy
+42. Sidbury African Identity
+43. David Walker
+44. Maria W. Stewart
+45. Hosea Easton
+46. Rogers Political Thought
+47. Frederick Douglass
+48. Douglass Speeches
+49. Henry Highland Garnet
+50. Martin Delany
+51. Truth and Harper
+52. Emigration to Canada
+53. Alexander Crummell
+54. Moses on Nationalism
+55. Africanus Horton
+56. Edward Blyden
+57. T. Thomas Fortune
+58. Anténor Firmin
+59. Thomas and Durham
+60. Abolitionism in Brazil
+61. Anna Julia Cooper
+62. Ida B. Wells
+63. Cooper on Women Activists
+64. Henry McNeal Turner
+65. Booker T. Washington
+66. Introducing Du Bois
+67. Jeffers on Part Two
+AFRICANA 20TH CENTURY
+68. Introduction
+69. American Negro Academy
+70. Curry on Early 20th C.
+71. West African Intellectuals
+72. African American Socialism
+73. Wills on Marxism
+74. Marcus Garvey
+75. Two Amy Garveys
+76. Dawson on Garvey
+77. Harlem Renaissance
+78. Alain Locke
+79. Harris on Locke
+80. Professional Philosophers
+81. Carter G. Woodson
+82. The Florida Project: Zora
+83. The Negro Spiritual
+84. Later Du Bois
+85. Bright on Du Bois
+86. Negritude
+87. Leopold Senghor
+88. Aimé and Suzanne Césaire
+89. E. Franklin Frazier
+90. C.L.R. James
+91. Cox and Williams
+92. Claudia Jones
+93. Boyce Davies on Jones
+94. Richard Wright
+95. Ralph Ellison
+96. James Baldwin
+97. Martin Luther King Jr
+98. Krishnamurthy on King
+99. Malcolm X
+100. Jeffers on Part Three
+101. Later Malcolm X and MLK
+102. Juan Rene Betancourt
+103. Azikiwe & Awolowo
+104. Kwame Nkrumah
+105. Fanon Black Skin
+106. Fanon Wretched
+107. Gordon on Fanon
+108. Lorraine Hansberry
+109. Black Power
+110. Black Panthers
+111. Maulana Karenga
+112. Black Arts Movement
+113. Black Theology
+114. Julius Nyerere
+115. Amílcar Cabral
+116. Taiwo x 2 on Cabral
+117. Mandela and the ANC
+118. Nascimento
+119. Afrofuturism
+120. Reggae & Rastafari
+121. Kuti and Soyinka
+122. Steve Biko
+123. Walter Rodney
+https://historyofphilosophy.net/

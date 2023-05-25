@@ -1,0 +1,13 @@
+Housekeeping and cooking
+
+1 Do you like cooking?
+
+2 Would you like to learn how to cook?
+
+3 Who normally does the cooking in your family?
+
+4 Do you think your home is clean and tidy?
+
+5 Did you do some house cleaning when you were young?
+
+6 What housework do you like or dislike?

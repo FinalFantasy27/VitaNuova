@@ -1,0 +1,1 @@
+perfect recall.nothing known is lost in the update.if before updating with p we know that were we update with p, q must then be the case, then, after updating p, we know that q must be the case.

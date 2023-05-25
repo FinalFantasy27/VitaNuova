@@ -1,0 +1,75 @@
+Description
+This course will be concerned with the ontological status of abstract entities. As in: are there any? Are there any such things as numbers, or sets, or propositions, or properties?
+
+We will start with the classic problem of universals, then move to contemporary literature on the existence of properties and relations, in particular the work of D. M. Armstrong. Our concern will mostly be the foundational issue of whether properties or relations exist at all, and less with related debates over the nature of properties and relations, universals vs. tropes, the bundle theory, etc.
+
+Then we will discuss ontological commitment and the nature of existence. We will begin with the contemporary paradigm, due to Quine, which requires nominalists to engage in the familiar project of paraphrasing sentences that appear to carry commitments to abstracta. We will then consider alternate conceptions of existence and/or ontological commitment that would eliminate the need for this project of paraphrase.
+
+Finally we will turn to mathematical entities. After a review of the nature of the problem of mathematical existence, we will discuss several arguments for the existence of mathematical entities. First we will discuss the Fregean argument for the existence of numbers, as defended by Crispin Wright. Second we will discuss the Quinean indispensability argument, and the extended response to that argument due to Hartry Field. Finally we will discuss the philosophy of mathematics known as "if-then-ism".
+
+Requirements
+four "weeklies" -- focused, short papers (approximately 3-5 pages). Due dates: 9/19, 10/17, 11/14, 12/5
+term paper, due 12/19
+Abstract entities: Tentative Schedule
+"M&O" indicates the reading is in Mellor and Oliver, Properties (available at Folletts Orange Bookstore) otherwise the reading will be on reserve in the grad TA room.
+
+Introductory stuff
+The problem of ontology
+Quine, "On What there Is" (M&O)
+Quine, "Ontology and Ideology"
+The problem of universals (old stuff)
+Russell, "The World of Universals" (M&O)
+Price, "Universals and Resemblances"
+Armstrong against nominalism
+Armstrong, Universals and Scientific Realism, introduction, chapters 1-5
+Armstrong, Universals: An Opinionated Introduction, chapters 2-3
+Lewis, "Modal Realism at Work: Properties" (M&O)
+Lewis, "New Work for a Theory of Universals", pp. 173-201 (M&O)
+    OPTIONAL: Sider, "Naturalness and Arbitrariness"
+Ostrich Nominalism
+Devitt, "'Ostrich Nominalism' or 'Mirage Realism'?" (M&O)
+Armstrong, "Against 'Ostrich' Nominalism: A Reply to Michael Devitt" (M&O)
+van Cleve, "A Fling with Ostrich Nominalism"
+Nominalism and paraphrase
+Pap, "Nominalism, Empiricism and Universals I"
+Jackson, "Statements About Universals" (M&O)
+Armstrong, Universals and Scientific Realism, chapter 6
+Goodman & Quine, "Steps towards a Constructive Nominalism"
+Goodman, "The question of classes and nominalism"
+Lewis and Lewis, "Holes"
+Traditional problems with realism
+Armstrong, Universals and Scientific Realism, chapter 7
+Nominalism and intensional logic
+Bealer, "Universals"
+Quine on existence and ontological commitment
+Quine, "Designation and Existence"
+van Inwagen, "Metaontology"
+Alston, "Ontological Commitment"
+Non-Quinean views of existence and ontological commitment
+Carnap, "Empiricism, Semantics and Ontology"
+Sider, Introduction to Four-Dimensionalism
+    OPTIONAL: Hirsch, "Quantifier Variance and Realism"
+Yablo: "Does Ontology Rest on a Mistake?"
+    OPTIONAL: Hinkfuss, "Suppositions, Presuppositions and Ontology"
+    OPTIONAL: Stanley, "Hermeneutic Fictionalism"
+Melia, "On What There Isn't"
+The problem of abstracta in mathematics
+Benacceraf, "Mathematical Truth"
+Burgess and Rosen, A Subject with No Object, introduction
+Gendler Szabó, "Nominalism"
+The Fregean argument for abstracta
+Wright, Frege's Conception of Numbers as Objects, chapter 1.
+Rosen, "The Refutation of Nominalism (?)"
+Field, "Platonism for Cheap? Wright and Hale on Frege's Context Principle"
+Boolos, "Is Hume's Principle Analytic?"
+    OPTIONAL: Wright and Hale, "Nominalism and the Contingency of Abstract Objects"
+    OPTIONAL: Field, "The Conceptual Contingency of Mathematical Objects"
+The indispensability argument
+Putnam, Philosophy of Logic
+Field
+Field, Science without Numbers (skip chapter 8)
+Field, Realism, Mathematics and Modality, introduction
+Shapiro, "Conservatism and Incompleteness"
+Field, "On Conservativeness and Incompleteness"
+If-then-ism
+Putnam, "Mathematics without Foundations"

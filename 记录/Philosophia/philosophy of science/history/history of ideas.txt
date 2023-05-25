@@ -1,0 +1,24 @@
+
+水星轨道、哈雷彗星和恩克彗星反常的异动，还有月亮运动的反常，都表现出不符合牛顿理论的行为。然而彗星和月亮与引力理论的基础没有关系，因为彗星从太阳旁边经过而加热，气体从飞行的彗星逃逸出来，我们不知道怎么正确地把气体所产生的压力包括到计算中；月亮受各种潮汐力影响（温伯格76）
+
+伯克莱的历史学家Lawrence Badash收集了19世纪科学满足感的证据，"The Completeness of Nineteenth-Century Scien", Isis 63 (1972): 48-58.
+
+Carnot, Clausius19世纪建立热力学时，它还是一门”自洽“的学科，不是从粒子和力的力学中导出来的，而是建立在熵和温度的基础上的，只是根据热力学第一定律（能量守恒）在力学和热力学中搭起一座桥梁（温伯格33）
+19世纪八九十年代发生了新统计力学和热力学逻辑独立性（如普朗克、奥斯瓦尔德和策梅罗）的论战，见Stephen Brush, The Kind of Motion We Call Heat, 1976, 尤其是1.9节
+反原子论最后于1908 Outlines of General Chemistry投降（“我现在相信，我们最近已经掌握了物质离散或颗粒状本性的实验证据，那是原子假说徒劳地追寻了千百年的东西”，转引自温伯格143）
+
+海森堡曾回忆，爱因斯坦有句话令他难忘：正是理论决定实验看到了什么（温伯格102译者注释1）
+人们批评1919日食远征的天文学家说ta们可能带着偏见抛弃了矛盾的照片的数据，那结果是因为望远镜换了焦距D.C.Mayo, "Novel Evidence and Severe Tests", Philosophy of Science 58 (1991): 523
+1919, 1922澳大利亚, 1929苏门答腊, 1936苏联, 1947巴西日食观测与爱因斯坦理论一致，但其它一些结果严重偏离；although the 1919 expedition had reported a 10% experimental uncertainty in the deflection on the basis of observations of a dozen stars, and an agreement with Einstein’s theory to an accuracy also of about 10%, several of the later eclipse expeditions found that they could not achieve that accuracy, even though they had observed many more stars.（温伯格中文版76-7）
+1921，Svante Arrhenius给诺贝尔委员会的报告也曾提到许多对弯曲结果的批评，Subtle is the Lord: The Science and Life of Albert Einstein, eph. 30；测量光线被太阳偏转的不确定性：在天空找出被月亮遮住的太阳圆盘边缘的恒星，在照相图版上比较那颗星相隔6个月的位置，两次观测时望远镜的焦点可能不同，相片本身在半年里也可能扩张或收缩；等等。实验需要所有类型的校正（温伯格77）
+爱丁顿的一句半认真的格言：在理论没有证实之前，绝不要相信任何实验（温伯格102）
+爱因斯坦在著名演讲 “关于理论物理学的方法” (On the Method of Theoretical Physics) 中就主张像理论物理学这样的科学体系是 “发明”
+温伯格回忆说玻尔以说话含糊闻名
+互补性原理，有人问玻尔，与真理wahrheit互补的性质是什么，考虑一会儿后，他回答是清晰klarheit（温伯格230-1章四注释8）
+海森堡1925年关于量子力学地第一篇伟大论文开宗明义：“我们知道，[玻尔1913年量子理论]用来计算诸如氢原子能量等可观测量地形式法则可能会遭到严厉批评，因为在它的基本元素里包含着一些明显的在原则上不可观测的量之间的关系，如电子的位置和演化速度。”（Sources of Quantum Mechanics, ed, B.L. van der Warden，转引自温伯格140），海森堡只允许可观测量进入他的量子力学形式，例如原子通过发射量子辐射从一个状态自发转移到另一个状态的速率
+
+C.E.St.John在威尔逊山测量没有发现引力红移，部分成为诺贝尔委员会（报告）不给相对论颁奖（相对论的预言）的原因；温伯格指出，20年代技术不够，预言的百万分之二的引力红移可能会被太阳表面发光气体对流产生的移动（多普勒效应，与广义相对论无关）掩盖；1960 R.V.Pound, C.A.Rebka发现（温伯格233第五章注释2）
+
+惠勒的哲学观点，“不存在什么基本定律，我们今天研究的所有定律都是我们的观测强加给自然的”（温伯格186），例如，惠勒1983年1月25日在美国物理教师协会和美国物理学会正式联席会议上的"On recognizing 'law without law' '', Oersted Medal, "Beyond the Black Hole"；因而惠勒认为人类必然存在，并渗透每一个角落，为的是宇宙任何一个物理状态的每一信息最终都能被观测到（温伯格202）
+
+还原论和整体论的争论，如温伯格和Mayr 温伯格45

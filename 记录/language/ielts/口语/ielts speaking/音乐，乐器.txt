@@ -1,0 +1,20 @@
+types of music:
+
+instrument乐器
+Soprano/Baritone Saxophone
+Piccolo短笛
+Flute 长笛
+Recorder竖笛
+Oboe双簧管
+Bassoon大管
+Clarinet黑管/单簧管
+Drums：鼓；Drum Set 架子鼓
+Electric piano
+Guitar 吉他
+Chorus合唱 
+Bass低音
+Baritone 中
+tenor高
+Violin 小提琴
+Cello 大提琴
+orchestra

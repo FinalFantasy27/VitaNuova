@@ -9,9 +9,7 @@ that requires that it be free of substantial mathematical commitments. If logic
 were to be in some sense prior to mathematics, that would be necessary. But,
 for Shapiro, the logical foundations of mathematics are just more mathemat
 ics. (See [Sha91, p. 97].)
-
 Understanding the infinite, p. 225
 
 Georg Kreisel argued that the regress is not vicious [Kre71, p. 97]
-
 Understanding the infinite p.227 note.15

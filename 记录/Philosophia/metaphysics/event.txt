@@ -1,0 +1,13 @@
+material objects such as stones and chairs are said to exist; events are said to occur or happen or take place (Hacker 1982a; Cresswell 1986).
+objects are standardly construed as enduring continuants—they are in time and persist through time by being wholly present at every time at which they exist; events are perduring occurrents—they take up time and persist by having different parts or “stages” at different times (Johnson 1921; Mellor 1980; Simons 2000).
+The last distinction is especially controversial, as there are philosophers—from Whitehead (1919), Broad (1923), and Russell (1927) to Quine (1950), Lewis (1986c), Heller (1990), Sider (2001) and many others—who conceive of objects as four-dimensional entities that extend across time just as they extend across space.
+For instance, it has been claimed that events supervene on their participants (Lombard 1986; Bennett 1988)
+
+Some philosophers, however, conceive of the link between events and facts as being much closer than this—close enough to justify assimilating the two categories (Wilson 1974; Tegtmeier 2000) or at least treating both as species of the same “state of affairs” genus (Chisholm 1970). 
+
+We say that Brutus stabbed Caesar with a knife. If this statement is taken to assert that a certain three-place relation obtains among Brutus, Caesar, and a knife, then it is hard to explain why the statement entails that Brutus stabbed Caesar (a statement that involves a different, two-place relation) (Kenny 1963). By contrast, if we take our statement to assert that a certain event occurred (namely, a stabbing of Caesar by Brutus) and that it had a certain property (namely, of being done with a knife), then the entailment is straightforward (Davidson 1967a).
+
+singular causal statements (Horgan 1978, 1982; Wilson 1985, Needham 1988, 1994, Mellor 1991, 1995)
+
+Other philosophers, however, regard questions of identity to be first and foremost semantic questions—questions about the way we talk and about what we say. No metaphysical theory, it is said, can settle the semantics of ordinary event talk, hence there is no way of determining the truth or falsity of an event identity statement exclusively on the basis of one’s metaphysical views. Which events a statement speaks of depends heavily (more heavily than with ordinary material objects) on local context and unprincipled intuitions (Bennett 1988).
+SEP.events
