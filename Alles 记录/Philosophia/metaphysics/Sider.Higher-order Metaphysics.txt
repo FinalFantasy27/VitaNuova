@@ -1,0 +1,46 @@
+Sider, Ted 
+Higher-order Metaphysics 
+2022 
+
+The attempt to formulate a claim that a property instantiates itself then becomes ‘F (F )’, which is as ungrammatical in second-order logic as it is in first.
+
+the standard first-order quantiers can be treated as predicates of one-place first-order predicates, i.e. expressions of type ((e))
+instead of forallxFx, existsxFx&Gx, we could write forall(F), exists(λx.(F(x)&G(x)))
+
+take the higher-order languages as sui generis
+Thus understood, a sentence like ∃F F (x) can be true even if there are no such things (first-order quantier) as sets or properties; it does not mean that there exists some entity (first-order quantier) that x instantiates or is a member of.
+∃p p does not mean that there exists (first-order quantier) some proposition that is true; it can be true even if there are no such things as propositions. It means, well, that ∃p p
+Indeed, it’s debatable whether higher-order claims can be perspicuously stated in natural language at all
+
+ (It could be taken as primitive; or α =τ β could be defined as meaning that α and β have the same properties: ∀F F (α)↔ F (β), where F is a variable of type (τ)
+
+ the intuitive idea that “any collection of members of a given set forms a set
+∀F ∀z∃y∀x x ∈ y ↔x ∈ z & F (x) (Second-order Separation)
+
+An axiom schema of Comprehension is not needed in a language with λ abstraction, a rule of universal instantiation in which the universally quantied variable can be instantiated to λ abstracts, and the schema of “β conversion”: λv.(A)α ↔A_v(α), where A_v(α) is the result of changing vs to αs in A (in accordance with the usual restrictions). (To derive an arbitrary instance of Comprehension, begin with ∀G∃F ∀x(F x ↔ Gx); infer ∃F ∀x(F x ↔λx.(A)x) by universal instantiation; then use β conversion to derive the instance.) But this wouldn’t affect the argument, since the theory of properties would share the same expressive weakness as the theory based on Comprehension: it would only imply the existence of properties corresponding to formulas.
+
+Thus in the second argument we still needed a schema, namely the logical axiom schema of Comprehension, to reach the desired conclusion.
+Although second-order ZF (plus its logic) has simple and strong laws governing the existence of sets, it would seem to lack simple and strong laws governing the existence of properties.
+
+law: deationism of someone like Michael Esfeld (2020), who thinks that the posit of charge is superuous
+Dorr (2007, section 3; 2010, p. 160–3)
+
+Given the standard approach, then, no model captures the intended interpretation of the language of rst-order set theory. At best, models can provide a distorted representation of that intended interpretation, by treating the quantiers as being restricted to a mere part of the set-theoretic hierarchy.
+There are subtle arguments that this limitation does not affect which sentences the standard approach counts as valid or implying one another. But such arguments are less clearly correct when the languages move beyond the rst order, and break down if the language contains certain sorts of expressions. And even if it always gives the right answers, the standard approach would seem still to be mis-modeling the semantic facts. See Boolos (1985); McGee (1992); Rayo and Uzquiano (1999) for discussion.
+
+one can, in a second-order language, dene a sort of “model” in which the “domain” can contain all the sets, and in which the “extension” of ‘∈’ contains all and only the ordered pairs 〈x, y〉 where x is a member of y. The trick is to abandon rst-order quantication over models conceived as entities, and instead to treat quantication over models as being second-order.
+See Boolos (1985); Rayo and Uzquiano (1999); Williamson (2003)
+We dene ‘R is a model’, for R a second-order dyadic variable, in such a way that when R is a model, ‘R(x, y)’ can be thought of as meaning that y is a semantic value of the linguistic expression x. So if ‘S’ is a two-place predicate, then “R(‘S’,〈u, v〉)” can be thought of as meaning that 〈u, v〉 is “in the extension of ‘S’ in R”, although this is misleading since we are not accepting the existence of an entity, the extension of ‘S’ in R. In one of these second-order “models” the “extension” of the two-place predicate ‘∈’ will consist of all and only the ordered pairs whose first coordinate is a member of the second coordinate. That is: for some model R, R(‘\in’, z) if and only if z is an ordered pair 〈u, v〉 such that u is a member of v. No paradox results because we do not recognize an entity as the extension of ‘\in’. One can then dene the notion of an arbitrary sentence in the language of rst-order set theory being true in such a “model” R.
+
+By adopting a second-order language, we can thereby state more adequate semantic theories for rst-order languages. But we will then naturally aspire to state semantic theories for second-order languages, such as the metalanguage just used in the semantic theory for the rst-order language. And as Oystein Linnebo and Agustín Rayo (2012) argue, if we want to acknowledge the full range of “models” for second-order languages, a third-order metalanguage will be needed.
+The argument, notice, is that a higher-order metalanguage is needed to recognize all th possible interpretations for the original language. If we only wished to give the intended interpretation of the second-level language, a second-level metalanguage could be used (although given Tarski’s theorem it would require a new primitive semantic predicate.
+Linnebo and Rayo show how to generalize this argument into the transnite.
+
+quantifier variance and collapse argument: 
+The problem with this attempt to show that the expression ‘Q’ is not vague is that, as we will see, it uses terms that are, plausibly, “penumbrally connected” (Fine, 1975) to that very expression. The following obviously fallacious argument illustrates how arguments of this sort can go wrong: Any precisication of ‘bald’ must apply to all and only the things that instantiate the property of baldness. Thus any two precisications, b1 and b2, must be extensionally equivalent: b1(x) iff x instantiates baldness iff b2(x).
+
+‘x entails y’ as meaning that x is identical
+with the conjunction of x and y (compare Dorr (2014))
+Q obeys intro =df O = O & Q(O), i.e. forallO forallX (X(O)<->X(lambda q.(O(q)&Q(O)) ))
+
+what reason is there to assume that ‘\forall 1O’ and ‘\forall 1p’ obey universal instantiation with respect to O and Q2 (O), respectively?

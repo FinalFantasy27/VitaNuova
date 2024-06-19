@@ -1,0 +1,36 @@
+
+Hilbert-Ackermann Consistency Theorem: An open theory T is inconsistent iff there is a quasi-tautology [i.e. a tautological consequence of instances of identity axioms and equality axioms--this from the first sentence of the paragraph] which is a disjunction of negations of instances of nonlogical axioms of T.
+[Pg. 48] A theory is open if all of its nonlogical axioms are open.
+[Pg. 36] A formula is open if it contains no quantifiers
+
+Shoenfield himself, on p. 51, Mathematical Logic, uses it to sketch a consistency proof for a theory similar to Robinson arithmetic.
+
+
+Zach states that Hilbert gave a finitary proof of PRA in his lectures of 1921-22 and 1922-23.
+
+In Wilhelm Ackermann's 1925 Doctoral Thesis Begründung des "tertium non datur" mittels der Hilbertschen Theorie der Widerspruchsfreiheit (published in the same year in Mathematische Annalen), there is a finitary proof of second-order PRA
+(Richard Zach, for one, in his paper "The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert's Program".)
+
+Von Neumann in his 1927-paper developed further techniques that demonstrated the efficacy of ε-calculus. He also gave a detailed critique of Ackermann's earlier proof.
+Gentzen used another technique (cut-elimination) to give a consistency proof for first order arithmetic in 1936, which highlighted the role of the ordinal ε_0
+ in the consisteny proof of arithmetic. (Math. Annalen, 112 (1936), 493-565 and Forschungen xzlr Logik und etc., no.4, 1938, 19-44)
+Gentzen's breakthrough prompted Ackermann, in his 1940 paper in Mathematische Annalen, to forumlate a proof of the consistency of arithmetic with the machinery of ε-calculus.  (Math. Annnlen, 117 (1940), 162-194) 
+There are also alternative proofs by Schiitte (Math. Annnlen, 122
+(1951), 369--389). 
+
+. techniques developed by von Neumann in his 1927 paper have now been absorbed into the folklore of the subject. The following papers provide excellent expository accounts of ε-calculus. They also contain pointers to the rich literature of the subject.
+G. Mints, A method of epsilon substitution for the predicate logic with equality, Journal of Math. Sc.i 1997
+G. Moser and R. Zach, The epsilon calculus and herbrand complexity, Studia Logica 2006.
+See also Ed Dean's nice answer.
+https://mathoverflow.net/questions/187598/von-neumanns-consistency-proof
+
+. For Ackermann dissertation, see 1.6.3 Ackermann and von Neumann on Epsilon Substitution, in Paolo Mancosu, The adventure of Reason: Interplay Between Philosophy of Mathematics and Mathematical Logic, 1900-1940 (2010), page 75-on.
+See also Hao Wang. A Survey of Mathemtical Logic, page 362-on.
+
+. Kurt Gödel, Collected Works. Volume I (1986), page 196-on, where S.Feferman discuss the background of Gödel's review of an Hilbert's foundational paper Die Grundlegung der elementaren Zahlenlehre (1931).
+. David Hilbert & Paul Bernays, Grundlagen der Mathematik. Vol 1 (2nd ed.1968), page 376 : "folgt insbesondere die Widerspruchsfreiheit des Systems (D)." For System D, see page 366.
+Hilbert & Paul Bernays, Foundations of Mathematics I Part A.
+The editors used an essay by Wilfrid Seig titled "Hilbert's Proof Theory" as an introduction. In it, Seig quotes Hilbert and Bernays (from Vol. 1, I believe) as saying, regarding Primitive Recursive Arithmetic : "This recursive number theory is closely related to intuitive number theory, as we have considered it in [section] 2, befcause all of its formulas have a finitist contentual conent. This contentual interpretability follows from the verifiability of all derivable formulas of recursive number theory, as we have established it already. Indeed, in this area verifiability has the character of a direct contentual interpretation, and thus the proof of consistency could be obtained here so easily."
+David Hilbert's Lectures on the Foundations of Arithmetic and Logic 1917-1933 edited by William Ewald, Wilfried Sieg
+
+

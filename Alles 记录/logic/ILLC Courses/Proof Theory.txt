@@ -1,0 +1,36 @@
+
+Proof Theory
+	
+prof.dr. Y. Venema (co-ordinator)
+
+Objectives
+present formal derivations in different proof calculi (Hilbert-style proof calculi, natural deduction and sequent calculus)
+explain the main properties of these calculi (such as normalisation and cut elimination)
+understand the difference between constructive and non-constructive reasoning
+recreate key concepts and techniques in proof theory
+demonstrate an understanding of proof theoretic methodology
+carry out combinatorial analyses of the structure of formal proofs
+critically compare different logics and proof calculi
+explain the role of proof theory in relation to other logical disciplines
+Contents
+As objects that witness validity of arguments, proofs are a central concept in logic and, more broadly, mathematics. Formal proofs come in many styles each equipped with their own toolkit. In this course we will look at some of the standard proof systems of classical and intuitionistic logic and develop an appreciation for pros and cons surrounding the different formalisms.
+ 
+The main theorems covered in the course include the strong normalization of natural deduction proofs, Gentzen’s Hauptsatz (cut elimination) for various sequent systems, and some soundness and completeness results. We will discuss a number of consequences of the cut-elimination result (subformula property, interpolation). In the last part of the course we will cover a specific application or manifestation of proof theory in more detail, most probably the consistency of Peano arithmetic.
+
+In the second half of the course further advanced topics will be discussed including (but not limited to) omega logic, infinitary and cyclic proofs, predicative proof theory and unprovability results.
+
+Recommended prior knowledge
+We presuppose some background knowledge in logic; roughly, what is needed is familiarity with the syntax and semantics of first-order languages. More importantly, we assume that participants in the course possess some mathematical maturity, as can be expected from students in mathematics or logic at a MSc level.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Self-study
+Assessment
+Assignments and final examination.
+
+Remarks
+The course will be managed through Canvas.

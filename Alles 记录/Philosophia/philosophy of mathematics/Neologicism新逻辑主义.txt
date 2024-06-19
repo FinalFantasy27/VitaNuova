@@ -1,0 +1,55 @@
+
+IEP. Abstractionism in Mathematics. Roy T. Cook
+
+Table of Contents
+1. A Brief History of Abstractionism
+2. Defining Abstractionism
+3. Frege’s Logicism
+a. Hume’s Principle and Frege’s Theorem
+b. Hume’s Principle and the Caesar Problem
+c. Hume’s Principle and Basic Law V
+d. Basic Law V and Russell’s Paradox
+4. Neo-Logicism
+a. Neo-Logicism and Comprehension
+b. Neo-Logicism and the Bad Company Problem
+c. Extending Neo-Logicism Beyond Arithmetic
+d. Neo-Logicism and the Caesar Problem
+5. Dynamic Abstraction
+6. References and Further Reading
+
+SEP: Logicism and Neologicism (Winter 2023 Edition). Neil Tennant
+
+1. Historical background
+1.1 Dedekind
+1.2 Frege
+1.2.1 Numbers as higher-level concepts
+1.2.2 Hume’s Principle and the Caesar Problem
+1.2.3 The Grundgesetze
+1.2.4 Frege’s treatment of the natural numbers
+1.2.5 Russell’s Paradox
+1.3 Logicism after Frege and up to Zermelo
+1.3.1 Russell’s type theory
+1.3.2 Zermelo-Fraenkel set theory
+2. Neo-Fregeanism
+3. Second-order logic with Hume’s Principle
+4. Constructive Logicism
+4.1 Motivation for a different kind of neo-logicism
+4.2 Anti-realism and an inferentialist approach to logicism
+4.3 Execution
+5. Modal Neo-Logicism
+6. Recent Work Inspired by the Grundgesetze, or Departing From It
+7. Summary of Problems for Logicism
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+
+新逻辑主义在Comprehension上有一些工作，(Heck 1996)证明了如果二阶Comprehension限制为只能对直谓谓词（没有受囿变量），那么Basic Law V是一致的；
+(Wehmeier 1999) and (Ferreira & Wehmeier 2002)对限制到\Delta^1_1的Comprehension证明了同样的结果。（一个问题是这样即使证明了Induction公理，也只能保证对这些谓词有效）
+这背后的哲学想法是可能出问题的不是basic law V（隐式定义两个概念外延相同的同一性条件的抽象原则），而是二阶概括（因此要对之进行限制）。
+但是多数新逻辑主义者都不走这条路线，而是接受basic law 5是不一致的，转而去寻找更弱的抽象原则
+（抽象原则的基本格式是：forall X, Y (@(X)=@(Y)<-> P)，@是要被确立的抽象概念，如“…的数”）
+和这些抽象原则得以辩护的条件（即，为什么使用这一条抽象原则而不是与之不一致的另一条抽象原则），
+如一致性（最基本的）、保守性、单调性、丰富性（在什么大小的论域中产生尽可能多的抽象物）、在什么尺寸的论域可满足，等等
+
+https://iep.utm.edu/abstractionism/

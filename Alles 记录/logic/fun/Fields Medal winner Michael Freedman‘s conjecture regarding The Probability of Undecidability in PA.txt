@@ -1,0 +1,6 @@
+菲尔兹奖得主、拓扑学家Michael Freedman曾做过一个猜想：随着命题的长度越来越长，能够（在皮亚诺算术）证明的命题的比例也趋近于0
+https://eudml.org/doc/224467
+2005年一篇发表论文“证明”了这个结论https://doi.org/10.1016/j.aam.2004.10.003
+但后来发现这篇论文有错误；
+David Speyer在mathoverflow上提出了一个简单的想法，如果长度为n的命题（假设有Cn个）S可证，那么“S或1=1”也可证，所以长度为n的可证命题的下界是C_｛n-k｝（k是“或1=1”的长度），而似乎对于任何合理的语法，C_｛n-k｝/Cn都不趋于0。John Baez呼吁有人能这个想法（或它的反面，我想）严谨化、形式化
+https://johncarlosbaez.wordpress.com/2024/03/15/the-probability-of-undecidability/

@@ -1,0 +1,16 @@
+
+“绿蓝”：在时间T之前是绿色的，在时间T之后是蓝色的
+
+绿色和绿蓝的对称性：
+绿色可以被定义为：在时间T之前是绿蓝的，在时间T之后是蓝绿的
+
+古德曼：牢靠性：绿色一词的使用频率远高于绿蓝（Goodman, Fact, Fiction and Forecast）
+
+奎因：自然种类，只有自然种类的谓词是可投射的
+“为什么我们预期下一块翡翠是绿色的而不是绿蓝的？直觉的答案在于相似性，不管在大多程度上是主观的。” (Quine. Natural Kinds, in Grue! : the new riddle of induction. Open Court, 1994, p. 42)
+
+诺顿 John D. Norton 2003 (A Material Theory of Induction), 2005, 2010：“所有的归纳都是局部的” (Norton. A Little survey of Induction, in Scientific Evidence: Philosophical Theories and Applications. Edited by Peter Achinstein. John Hopkins Univeristy Press, pp. 25-6)
+实质 Material 公设：翡翠在颜色上具有比较稳定的属性。实质公设打破了对称性
+“当然，现在我们会问我们如何知道这个关于宝石的事实，这引发在几何和化学之内的进一步的归纳的分析。” (Norton. How the Formal Equivalence of Grue and Green Defeats What is New in the New Riddle of Induction. Synthese, Vol. 150, No.2 (May, 2006), pp. 185-207（提出了两个解决绿蓝悖论的方法）, p. 197)
+回应：阿钦斯坦 P. Achinstein, 2010、沃洛 J. Worrall, 2010 和凯利 T. Kelly, 2010
+回应上述挑战：Norton 2014

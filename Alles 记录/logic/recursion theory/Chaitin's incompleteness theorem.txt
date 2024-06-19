@@ -1,0 +1,61 @@
+
+有些人形容说这好像“你不能证明从一粒沙（长度为L的程序）里你不能衍生出整个宇宙”
+
+Chaitin's incompleteness theorem
+
+Contents
+The theorem and the 'proof'
+Estimate (upper bounds of) L
+The Kritchman–Raz proof of Gödel's second incompleteness theorem, based on surprise examination paradox
+History and Further reading on Algorithmic information theory (Kolmogorov complexity and related)
+
+
+Theorem. There exists a constant L such that no string of bits has Kolmogorov complexity that provably exceeds L.
+
+Proof (Sketchy). Any number L with U+log2(L)+K<L will do. 
+Here U is the length of a program where if you input a natural number i, it will search through all proofs in Peano arithmetic until it finds one that proves some bit string has Kolmogorov complexity >i. If it finds one, then it outputs this bit string. If it never finds one, it grinds on endlessly.
+K is a small overhead cost: the length of the extra 'glue' to create a bigger program that takes the number L, written out in binary, and feeds it into the program described above.
+The length of L written out in binary is about log2(L).
+We can accomplish this by making L big enough, since log2(L) grows slower than L.
+You run this bigger program I just described. If there were a bit string whose Kolmogorov complexity is provably greater than L, this program would print one out. But that's a contradiction, because this program has length less than L.
+
+
+Chaitin claims that for a certain version of the programming langauge LISP, and any system of math whose axioms can be encoded in a LISP program N bits long, the complexity barrier is L ≤ N+2359 bits.
+For details, see: Gregory Chaitin, The Limits of Mathematics, 1994.
+
+Bruce Smith, a skilled programmer, said:
+
+I don't think it can be done in C, since C semantics are not well-defined unless you specify a particular finite machine size. (Since C programs can do things like convert pointers to integers and back, tell you the size of any datatype (, e.g., the size of type int might be 2 bytes or 4 bytes), and convert data of any specified datatype to bytes and back.) On a finite machine of N bits, all programs either finish in time less than about 2^N or take forever.
+
+(chatGPT:  If a program runs for more than 2^N steps without halting, it must visit at least one state more than once. Once a state is revisited, the program is in a loop, since this is a deterministic machine, the program's behavior depends solely on its current state, returning to the same state means it will repeat the same sequence of states.
+
+But if you take "C without size-specific operations", or a higher level language like Python, or for that matter a different sort of low-level language like a Turing machine, then that's not an issue—you can define a precise semantics that allows it to run a program for an arbitrarily long time and allocate an arbitrary number of objects in memory which contain pointers to each other. (To stick with the spirit of the question, for whatever language you choose, you'd want to disallow use of any large external batch of information like a "standard library", except for whatever is so basic that you think of it as part of the native language. This is not a serious handicap for this problem.)
+The main things that the program 'U' (I'd rather call the program itself 'U' than call its length 'U') needs to do are: recognize a syntactically correct statement or proof; check the validity of a purported proof; recognize certain statements as saying or implying "The Kolmogorov complexity of n is more than i" for some n and i. (It's not necessary to recognize all such statements, just at least one for each n and i, so it can just recognize a statement that consists of some template with specific values of n and i inserted into it at certain places.)
+Assuming that U expresses the proofs it wants to check in a practical proof language (which will be more like what a practical theorem-prover like Coq uses than like what a traditional logician would recognize as "straight Peano arithmetic", but which will not be excessively powerful in the spirit of this question), I'd estimate that the most complex part is checking proof validity, but that that can still be expressed in at most a few dozen syntactic rules, each expressible in a few lines of code. (The authors of a system like Coq, which includes code to actually do that, would know better, as long as they remember that the vast majority of their system's actual code is not needed for this problem.)
+This makes me think that even without trying to compact it much, in a reasonable language we could write U in a few hundred lines of code, or (after a bit of simple compression) a few thousand bytes. (And perhaps much less if we tried hard to compact the whole program in clever ways.)
+So L will also be "a few thousand" (bytes or digits), or perhaps less, rather than some number you can never possibly count to.
+
+
+Shira Kritchman and Ran Raz, The surprise examination paradox and the second incompleteness theorem, AMS Notices 57 (December 2010), 1454–1458.
+Sketch. there's some finite number of programs of length ≤L. So if you take a list of more numbers than that, say 1,2,…,N, there's got to be at least one that needs a program longer than L to print it out.
+Suppose just one. Then we can go through all programs of length ≤L, find those that print all the other numbers on our list... and thus, by a process of elimination, find the culprit.
+But that means we've proved that this culprit is a number can only be computed by a program of length >L. But Chaitin's theorem says that's impossible! At least, not if math is consistent.
+So there can't be just one. At least, not if math is consistent.
+Suppose there are just two. We can pull the same trick and find out who they are. So there can't be just two, either. At least, not if math is consistent.
+We can keep playing this game until we rule out all the possibilities... and then we're really stuck. We get a contradiction. At least, if math is consistent.
+So if we could prove math is consistent, we'd know it's not.
+
+
+Chaitin proves a version of his incompleteness theorem in
+Gregory Chaitin, The Limits of Mathematics, 1994.
+
+However, this book is hard to read without going back to this earlier one:
+Gregory Chaitin, Algorithmic Information Theory. (First edition was 1987.)
+
+There's been a lot of discussion about the significance of Chaitin's incompleteness theorem. Here's an intelligent argument that some of the claims are overblown:
+Panu Raatikainen, On interpreting Chaitin's incompleteness theorem, Journal of Philosophical Logic 27 (1998), 569–586.
+
+For more on Kolmogorov complexity and related ideas, try:
+Peter D. Grunwald and Paul M. B. Vitányi, Algorithmic information theory, 2008.
+
+https://math.ucr.edu/home/baez/surprises.html

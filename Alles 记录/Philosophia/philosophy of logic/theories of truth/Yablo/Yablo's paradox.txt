@@ -1,0 +1,11 @@
+
+Hardy, James 
+Is Yablo's Paradox Liar-Like? 
+1995-07 
+Analysis , Vol. 55, No. 3 
+p. 197-198
+There is no first-order derivation of a contradiction from Yablo's premisses and the Tarski biconditionals.
+Yablo's paradox requires an infinite number of instances of the T-schema. Yablo's paradox will not go through if we limit ourselves to only a finite number of such instances.
+Even with all of the relevant T-biconditionals, the Yablo sentences are only omega inconsistent.
+However, an explicit contradiction could be deduced if we had, not the T-biconditionals,
+but the following generalization of them: forall n[Sn is true -> forall j>n(Sj is untrue)]. The point is that while the Liar paradox may be seen as stemming from an inconsistency in the T-biconditionals themselves, Yablo's paradox may not.

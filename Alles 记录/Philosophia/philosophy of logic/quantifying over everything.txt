@@ -1,0 +1,31 @@
+
+... there are three kinds of consideration that mitigate against the possibility of AUQ, the last itself breaking into two.
+
+1. In the context of some natural set theoretic and/or semantic principles such quantification leads to contradictions: variations of Russell's or Grelling's paradox.
+
+2. The indeterminacy of such quantification, due, essentially, to the Löwenheim Skolem Theorem.
+
+3. The notion of all objects is incoherent, because the notion of an object is relative to:
+
+(a) a conceptual scheme;
+
+(b) a sortal.
+Those on the other side are, of course, concerned to rebut them. Linnebo, Rayo, and Weir engage mainly with objection 1, suggesting different ways in which the semantics of a language may be developed consistently within the context of AUQ. Uzquiano is also engaged with a version of 1. McGee and Williamson are concerned with 2, both arguing that "open ended" quantifier rules demonstrate AUQ.
+The solutions proposed by Linnebo, Rayo, and Weir all have their problems. Linnebo and Rayo work within some version of classical logic, and end up advocating hierarchies of some kind (of properties, or higher order quantifiers). The semantics of one stage of the hierarchy is given at the next stage. But the semantics of the hierarchy as a whole still cannot be given. Weir endorses a non-classical logic, which allows him to endorse the naive comprehension schema of set theory. But his desire for consistency eventually forces him, too, to admit that a hierarchy of metalanguages is unavoidable.
+Priest, Graham 
+Review.Agustín Rayo and Gabriel Uzquiano (eds.), Absolute Generality, Oxford University Press, 2006, 396pp., $45.00 (pbk), ISBN 0199276439 
+2007 
+Notre Dame Philosophical Reviews 
+
+Williamson (2003) presses two challenges to philosophers doubted that genuinely unrestricted quantification is even coherent, much less attainable[Dummett 1991; Fine 2006; Glanzberg 2004; Hellman 2006; Lavine 2006; and Parsons 2006]. First they face the question of what to make of the prospects of ontological inquiry without unrestricted generality. How should we formulate substantive ontological positions such as nominalism, if we cannot hope to quantify over all objects at once? The second challenge for the skeptics is to state their own position. To the extent to which the thesis that we cannot quantify over everything appears to entail that there is something over which cannot quantify, skeptics seem to find themselves in a bind by inadvertently quantifying over what, by their own lights, lies beyond a legitimate domain of quantification.[Recall that the inference from ~Aa -> E~a is not intuitionistically valid. Indeed, some opponents of unrestricted generality like Michael Dummett have in fact advocated the use of intuitionistic logic for putatively unrestrictedly general statements. Santos, G., 2013, “Numbers and Everything”, Philosophia Mathematica, 21(3): 297–308. develops these issues further.]
+Typical responses to each problem involve a surrogate for unrestricted generality in the form of either schematic generality or the use of certain modal operators to simulate quantification over a series of ever more comprehensive domains of quantification.
+Uzquiano, Gabriel, "Quantifiers and Quantification", The Stanford Encyclopedia of Philosophy (Winter 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2022/entries/quantification/>.
+
+“Frank Drake's dissatisfaction with the impredicative extension of ZF proposed by A. P. Morse and expounded in a more familiar form by J. L. Kelley. Drake writes:
+This impredicative extension has an unsatisfactory nature from the point of view of the cumulative type structure. If we consider V to be the universe of all sets, then classes are subcollections of things from V; if we quantify over classes, this implies that we have the collection of all classes to talk about, and the collection of all classes would be exactly the thing we should take as the next level, following all the levels used to make up V. In other words, talking about all classes is tantamount to saying  that we have not taken all levels, with no end, but we have another one (the level of classes) which we have not used for making sets. From this point of view it is more natural to regard classes as not forming a completed collection, so that we should not quantify over classes.
+The pertinent remark is that "if we quantify over classes, this implies that we have the collection of all classes to talk about." The general principle appears to be that to quantify over certain objects is to presuppose that those objects constitute a "collection," or a "completed collection"-some one thing of which those objects are the members. I call this the All-in-One Principle.
+Cartwright, Richard L. 
+Speaking of Everything 
+1994-03 
+Noûs , Vol. 28, No. 1 
+p. 1-20 

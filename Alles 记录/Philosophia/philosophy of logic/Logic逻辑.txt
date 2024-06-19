@@ -1,0 +1,10 @@
+
+Logic
+
+Seth Yalcin’s example of an urn containing the following 100 marbles: 10 are big and blue, 30 are big and red, 50 are small and blue, and 10 are small and red. One marble is selected at random. We can say the following about this marble:
+		(1) If the marble is big, then it is likely red.	
+		(2) The marble is not likely red.
+However, contrary to modus tollens, we cannot draw the following conclusion:
+		(3) The marble is not big.
+Most philosophers, presented with examples like this one, have either denied that such cases are instances of modus tollens, or used them to motivate non-truth-conditional semantics for modal vocabulary, such as Yalcin’s expressivism
+（Philosopher's Annual's Introduction to “One’s Modus Ponens: Modality, Coherence, and Logic,” Una Stojni, 2016.)

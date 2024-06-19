@@ -1,0 +1,37 @@
+Genin, Konstantin / Huber, Franz 
+Formal Representations of Belief 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+
+1. Preliminaries
+1.1 Why Formalism?
+1.2 The Objects of Belief and their Structure
+2. Representations of Full Belief
+2.1 Non-monotonic Logic
+2.2 AGM Belief Revision
+2.3 Epistemic Logic
+3. Representations of Partial Belief
+3.1 Subjective Probability Theory
+Central to the literature on decision theory are a number of representation theorems showing that every agent with qualitative preferences satisfying a set of rationality postulates can be represented as an expected utility maximizer (von Neumann and Morgenstern, 1944 and Savage, 1972). These axioms are controversial
+3.2 Imprecise Probability Theory
+van Fraasen, 1990, Levi 1974 propose that a belief state is better represented by a set of probability functions
+3.2 Dempster-Shafer Theory
+subjective probability function Pr(A)+Pr(B)=Pr(A \Cup B)
+DS belief function B(A) + B(B) <= B(A \Cup B)
+3.3 Possibility and Plausibility Theory
+possibility measure \Pi(A) + \Pi(B) >= \Pi(A \Cup B)
+3.4 Ranking Theory
+pointwise ranking function κ: N \Cup {\infty}
+ranking function \rho: A -> N \Cup {\infty} on the field A by setting 
+\rho(A) = min {\kappa(w): w \in A}
+\rho(A \Cup B) = min{\rho(A), \rho(B)} 
+says that a disjunction A∪B should be disbelieved just in case both disjuncts are disbelieved
+4. Full and Partial Belief
+4.1 Eliminationism
+4.2 Bridge Theories
+4.2.1 Extremal Probability
+4.2.2 Lockean Threshold
+4.2.3 Stability Theory
+4.2.4 Tracking Theory
+4.2.5 Epistemic Decision Theory

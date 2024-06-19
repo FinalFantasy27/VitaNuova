@@ -1,0 +1,30 @@
+
+treatments of Cantor's Theorem.
+Meadows 2015.Naive Infinitism: The Case for an Inconsistency Approach to Infinite Collections.ND J. of Formal Logic. elements of contextualist theories of truth and multiverse accounts of set theory are brought together in an effort to make sense of Cantor’s troubling theorem, 
+Scambler 2021.Can All Things Be Counted?.J of Phi. Logic.modal set theory, and 
+Pruss 2020.Might All Infinities Be the Same Size?.Australasian J. of Phi. an epistemic possibility that all infinite sets have the same size as the set of natural numbers and an epistemic possibility that the collection of all sets has the same size as the set of natural numbers on the ground of the epistemic possibility of the contingency of some pure sets
+
+forcing potentialism (
+Levy Collapse, 1963. Any cardinal can be made countable by forcing. (and,
+Forcing can push the continuum arbitrarily high.)
+)
+the theory of the real numbers
+Chris Scambler.Two Paths to Countabilism (Talk).
+
+Jessica Wilson and David Builes 2022.In Defense of Countabilism.Philosophical Studies. argue not only that Countabilism is mathematically viable but also that it should be regarded as true.
+Countabilism: Necessarily, every infinite collection (set or plurality) is countable.
+模态可数性定理：必然地，任何无穷收集都可能存在到ℕ的双射
+模态大小定义：对任意两个收集，它们有相同的大小当且仅当它们之间存在双射是可能的
+公理：Vertical Extendability 和 Horizontal Extendability ，用模态表达了某种高度最大化和宽度最大化
+Countabilism Workshop.Nov. 10, 2021.U of Oslo
+
+Neil Barton.Countabilism and Maximality Principles (joint work with Sy Friedman).Talk at Speaking the Unspeakable: Paradoxes between Truth and Proof at the University of Campinas, Brazil.10 December 2019
+https://neilbartonphilosophy.files.wordpress.com/2019/12/barton_campinas_slides.pdf
+.Is (un)countabilism restrictive?.2022. argue based on a formal notion of restrictiveness coming from Maddy (1998), it is not restrictive to hold that there are no uncountable sets,  but hold that there are uncountable sets is restrictive.
+https://philpapers.org/archive/BARIUR.pdf
+Maddy, P. (1998). V = L and MAXIMIZE. In Makowskyf, J. A. and Ravve, E. V., editors, Proceedings of the Annual European Summer Meeting of the Association of Symbolic Logic, pages 134–152. Springer.
+
+History
+Poincaré
+Perhaps we would be pushed in the end to say that all sets are countable (and that the continuum is not even a set) when at last all cardinals are absolutely destroyed. But really pleasant axioms have not been produced by me or anyone else, and the suggestion remains speculation. A new idea (or point of view) is needed, and in the meantime all we can do is to study the great variety of models.
+Scott, D. (1977).Foreword to boolean-valued models and independence proofs. p. xv. In Bell, J. (2011). Set Theory: Boolean-Valued Models and Independence Proofs, pages xiii–xviii. Oxford University Press.

@@ -1,0 +1,17 @@
+·The paper discusses the limits of using plural quantification to paraphrase statements about composite objects into statements just about simples. This strategy is used by metaphysical views like nihilism that deny composite objects exist.
+·Plural quantification over simples can paraphrase singular quantification over composites. But it fails for plural quantification over composites and predicates collectively satisfied by composites.
+·Supplementing plurals with "plurally plural quantification" faces challenges in making this higher-order quantification intelligible.
+·Using quantification over plural properties of simples relies on problematic assumptions about an abundant ontology of properties.
+·Quantifying over sets of simples invites identifying composites with sets, conflicting with nihilism's denial of composites.
+·So plural quantification alone cannot provide the fully general paraphrase method nihilists would need to reconcile their view with common sense statements about composite objects.
+·The author concludes pursuing paraphrase has steep costs for nihilists, suggesting they should consider other strategies for reconciling their view with ordinary language.
+In summary, the paper argues plural quantification has limits in eliminating reference to composites, posing a challenge to metaphysical views like nihilism that deny composite objects exist.
+
+Here are some specific examples the paper gives of statements that are difficult to paraphrase using only plural quantification over simples:
+
+·Comparisons of cardinality, like "The chairs outnumber the tables." This can't be captured with first-order quantification.
+·Apparent plural quantification over composites, like "Some computers communicate only with one another." Plural variables over composites can't be reduced to plural variables over simples.
+·Predicates collectively satisfied by composites, like "Some bricks are touching each other." These plural predicates applied to composites can't be analyzed just using plural predicates for simples.
+·Statements with higher-order quantification, like "Some committees consult only one another." Higher-order quantification over composites requires more than plural resources.
+·Statements with plural predicates satisfied by multiple composite objects, like "Some brick houses are mixed together with some cobblestone houses."
+The author argues these statement types show the limitations of just using plural variables and predicates for simples to paraphrase statements that appear to refer to composite objects. Some further resources seem needed to provide a fully general paraphrase method.

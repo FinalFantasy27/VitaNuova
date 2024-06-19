@@ -1,0 +1,3 @@
+
+紧致性定理推T \models \phi \implies exists a finite subtheory of T, T' \models \phi
+If not, for any finite subtheory of T, T' \cup \{\phi\} has a model, then by Compactness theorem, T \models \phi has a  model.

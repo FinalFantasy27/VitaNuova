@@ -1,0 +1,25 @@
+Sider, Ted 
+Crash course on natural necessity 
+2018 
+
+1. Natural necessity
+2. Concepts of natural necessity
+3. Which concept of natural necessity is most fundamental?
+4.Quidditism vs nomic/causal/dispositional essentialism
+5. Laws
+5.1 Regularity theory
+5.2 Best-system theory
+5.3 The primitive operator theory
+5.4 The Armstrong/Dretske/Tooley theory: laws as relations between universals
+Whatever N may be, I cannot see how it could be absolutely impossible to have N(F,G) and F a without Ga. (Unless N just is constant conjunction, or constant conjunction plus something else, in which case Armstrong’s
+theory turns into a form of the regularity theory he rejects.) The mystery is somewhat hidden by Armstrong’s terminology. He uses ‘necessitates’
+as a name for the lawmaking universal N; and who would be surprised to hear that if F ‘necessitates’ G and a has F , then a must have G? But I say that N deserves the name of ‘necessitation’ only if, somehow, it really can
+enter into the requisite necessary connections. It can’t enter into them just by bearing a name, any more than one can have mighty biceps just by
+being called ‘Armstrong’ (Lewis (1983, p. 366)).
+— (1983). “New Work for a Theory of Universals.” Australasian Journal of Philosophy 61: 343–77. Reprinted in Lewis 1999: 8–55.
+6. Quidditism and laws
+the regularity theory, the best system theory, and the DTA theory—more or less presuppose quidditism.
+7. Objections to quidditism
+7.1 “Distinctions without differences”
+8. Categorical properties unknowable?
+9. Shoemaker’s epistemic argument

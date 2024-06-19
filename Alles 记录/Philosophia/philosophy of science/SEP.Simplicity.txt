@@ -1,0 +1,36 @@
+Baker, Alan 
+Simplicity 
+
+
+The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Introduction 
+2. Ontological Parsimony 
+3. A Priori Justifications of Simplicity 
+4. Naturalistic Justifications of Simplicity 
+5. Probabilistic/Statistical Justifications of Simplicity 
+the prior probability of a law is 2^−k, where k=order + degree + absolute values of the coefficients, when the law is expressed as a differential equation (Jeffreys 1961, p. 47). 
+Popper (1959) points out that Jeffreys’ proposal contradicts the axioms of probability. 
+Popper argues that LINear has lower prior probability than PARabolic. Hence LIN is more falsifiable, and hence should be preferred as the default hypothesis. 
+One response to Popper’s objection is to amend Jeffrey’s proposal and restrict members of PAR to equations where c≠0 
+
+The possibility of measurement error and ‘noise’ in the data means that the correct curve may not go through every data point. Indeed, if goodness of fit were the only criterion then there would be a danger of ‘overfitting’ the model to accidental discrepancies unrepresentative of the broader regularity. Parsimony acts as a counterbalance to such overfitting 
+
+proponents of the statistical approach number of parameters 
+
+Akaike Information Criterion [AIC] and the Bayesian Information Criterion [BIC] 
+
+hypotheses which are syntactically very complex in one language may be syntactically very simple in another. 
+Goodman’s ‘grue’ 
+information theory, it can be shown that certain syntactic measures of simplicity are asymptotically independent of choice of measurement language 
+See Vitányi & Li [2001] for more on information-theoretic approaches to defining simplicity and complexity. 
+
+Models involving circular orbits are more parsimonious—in the statisticians’ sense of ‘parsimonious’—than models involving elliptical orbits, but the latter models do not postulate the existence of any more things in the world. 
+6. Other Issues Concerning Simplicity 
+6.1 Quantitative Parsimony 
+6.2 Principles of Plenitude 
+6.3 Simplicity and Induction 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

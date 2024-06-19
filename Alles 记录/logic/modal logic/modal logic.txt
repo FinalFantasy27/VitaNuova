@@ -1,0 +1,6 @@
+
+For any modal logic with a recursive axiomatisation (such that it is recursively enumerable for validity) whose class of admissible finite frames is also recursively enumerable, the finite model property provides a standard method for proving decidability.
+However, not every modal logic with the finite model property is decidable; see for instance K×K×K in D. Gabbay, A. Kurucz, F. Wolter, and M. Zakharyaschev. Many-dimensional modal logics: theory
+and applications. Studies in Logic, 148. Elsevier Science, 2003.
+
+A formula that is true at a state of some structure is satisfiable.

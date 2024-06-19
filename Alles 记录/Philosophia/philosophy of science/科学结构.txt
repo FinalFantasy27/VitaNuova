@@ -1,0 +1,13 @@
+
+suppes式的模型-理论进路
+. 语言集合是通过模型与现实世界发生作用的 (Giere, 1988: p. 82; Van de Ven, 2007: p. 66)
+确定一个科学理论就是将它所对应的模型的类或者簇 (class of models)
+.. suppe和范·弗拉森的状态空间模型进路、suppes的集合论语义模型进路和sneeds的模型论进路
+Krause & Becker Arenhar t(2016: p.10): “depending on how ‘models’ are understood, the view takes on distinct versions, which vary also as to how models are related to reality and what role language plays in characterizing a scientiﬁc theory”
+
+卡尔纳普公理化句法进路
+. 理论的命题集合与现实世界有直接的对应关系(Correspondence) (Giere, 1988: p. 82; Lutz, 2012)
+科学理论是一组构成演绎关系的语句的集合，或者说是基于特殊形式语言的公理系统。它由两个核心要素构成：(1)一个抽象运算逻辑框架；(2)一套为抽象运算指明经验内容的对应规则
+
+法国传统科学哲学的模型观Model as Make-Belive & Sensemaking
+把理论视为一整套帮助我们以某种特定的方式产生体验和识别出特定经验形式的心智操作模式（也涉及了为此而必需的许多身体和物体上的筹措）

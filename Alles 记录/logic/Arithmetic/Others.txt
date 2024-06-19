@@ -1,0 +1,15 @@
+
+Peano-with-top, PT
+
+Patrick Cégielski, Kenneth McAloon, and George Wilmers. Modelès recursivement saturés de l'addition et de la multiplication des entier naturels. In Logic Colloquium '80, Studies in Logic and the Foundations of Mathematics, vol. 108, pp. 57–68. North-Holland, Amsterdam, 1982.
+
+Theorem. (Paris) Every model of PT is an initial segment of a model of I\Delta_0.
+
+https://math.stackexchange.com/questions/556547/initial-segments-of-modular-arithmetic
+
+https://mathoverflow.net/questions/119375/even-xor-odd-infinities
+
+
+Theorem. (Shepherdson) A model of M in the language of Peano arithmetic is the integer part of a real-closed field if and only if M satisfies the induction scheme for quantifier-free formulas (also called "open induction" or "IOpen").
+
+https://math.stackexchange.com/questions/500177/models-of-real-numbers-combined-with-peano-axioms

@@ -1,0 +1,32 @@
+
+Introduction to Python for Data Processing
+
+G.M. Fontaine PhD (co-ordinator)
+
+Objectives
+the student is able to use basic programming concepts, such as variables, conditions, loops, functions, lists, etc.
+given the mathematical description of a simple algorithm, the student is able to implement that algorithm in python
+the student is able to use some more advanced python specific concepts such as dictionaries, classes and inheritance
+the student is able to use a library and to find information by himself/herself about a new library using the documentation
+the student is able to find and fix basic programming errors in a program
+the student can independently study and search both offline and online resources
+the student is able to implement some very basic machine learning algorithms, using the concepts from the course ‘Basic probability: theory’
+Contents
+This course is designed to provide students with the background in programming that is necessary to follow other more advanced master-level courses in areas such as linguistics, natural language processing, machine learning, etc. The goal is to make students that have had no prior exposure to programming feel comfortable with the basic concepts.
+
+
+In this course, the students will be learning Python, a language that is now widely used in many fields. Combining their Python skills with the knowledge acquired during Basic Probability: Theory,  the students will also implement several basic machine learning algorithms during the second half of the course.
+
+Recommended prior knowledge
+No prior programming knowledge is required.
+
+In the second half of the course, the students will need some basic knowledge of probability and statistics. If you followed 'Basic Probability: Theory', this will be more enough. If you didn't follow this course or some other basic probability course, you can always email me. In that case, you can catch up on the material on your own, as we will only need a few concepts. 
+
+Teaching method and contact hours
+Seminar
+Self-study
+Study materials
+Literature:
+http://greenteapress.com/wp/think-python/
+Assessment
+There will be weekly individual programming homework constituting the major component of the final grade. In addition, there will also be a final digital programming exam.

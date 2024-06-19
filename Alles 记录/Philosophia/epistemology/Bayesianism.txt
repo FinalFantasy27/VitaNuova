@@ -1,0 +1,11 @@
+
+problem of old evidence (Glymour 1980)
+Howson (1984) selecting a probability function p∗ based on the assumption that e was not known. Thus followed an extensive literature (see, e.g., Christiansen 1999; Eells & Fitelson 2000; Barnes 1999, 2008: Ch. 7; and Hartmann & Fitelson 2015).
+
+Reference
+.problem of old evidence
+Christiansen, David, 1999, “Measuring Confirmation”, Journal of Philosophy, 96(9): 437–461. doi:10.2307/2564707
+Eells, Ellery and Branden Fitelson, 2000, “Measuring Confirmation and Evidence”, Journal of Philosophy, 97(12): 663–672. doi:10.2307/2678462
+Barnes, Eric Christian, 1999, “The Quantitative Problem of Old Evidence”, British Journal for the Philosophy of Science, 50(2): 249–264. doi:10.1093/bjps/50.2.249
+–––, 2008, The Paradox of Predictivism, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487330
+Hartmann, Stephan and Branden Fitelson, 2015, “A New Garber-Style Solution to the Problem of Old Evidence”, Philosophy of Science, 82(4): 712–717. doi:10.1086/682916

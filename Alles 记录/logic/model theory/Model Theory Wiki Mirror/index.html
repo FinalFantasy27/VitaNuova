@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-09-03 Sun 23:00 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Model Theory Wiki Mirror</title>
+<meta name="author" content="James Hanson" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Model Theory Wiki Mirror</h1>
+<p>
+This is a mirror of the former Model Theory wiki on Fandom.com, which was a small but decent reference for various model-theoretic facts. At some point between March 16 and September 2, 2023, the wiki was deleted, probably as a result of a number of spam pages that had been added to it. It was too late to recover the wiki by the time this was noticed, but thanks to the valiant efforts of the <a href="https://archive.org/donate">Internet Archive</a>, the vast majority of the wiki was saved. 
+</p>
+
+<p>
+As a (hopefully) temporary measure, I have processed these pages into a rough but readable form here. At some point I think we should make an effort to make a new, more fully fledged model theory wiki.
+</p>
+
+<p>
+Unfortunately almost all of the authorship information and edit history seems to have been lost. I believe that technically this material is still under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA license</a> of the original wiki.
+</p>
+
+
+<ul class="org-ul">
+<li><a href="/wiki/ACFA.html">ACFA</a></li>
+<li><a href="/wiki/ACF.html">ACF</a></li>
+<li><a href="/wiki/Ax-Grothendieck_Theorem.html">Ax-Grothendieck_Theorem</a></li>
+<li><a href="/wiki/Bad_group.html">Bad_group</a></li>
+<li><a href="/wiki/Buechler_dichotomy.html">Buechler_dichotomy</a></li>
+<li><a href="/wiki/Categoricity.html">Categoricity</a></li>
+<li>Cherlin-Zilber conjecture (missing)</li>
+<li><a href="/wiki/Compactness.html">Compactness</a></li>
+<li><a href="/wiki/Definable_and_algebraic_closure.html">Definable_and_algebraic_closure</a></li>
+<li><a href="/wiki/Definable_choice.html">Definable_choice</a></li>
+<li><a href="/wiki/Diagram.html">Diagram</a></li>
+<li><a href="/wiki/DLO.html">DLO</a></li>
+<li><a href="/wiki/Dp-minimality.html">Dp-minimality</a></li>
+<li><a href="/wiki/Ehrenfeucht-Mostowski_Model.html">Ehrenfeucht-Mostowski_Model</a></li>
+<li><a href="/wiki/Elementary_class.html">Elementary_class</a></li>
+<li><a href="/wiki/Elementary_equivalence.html">Elementary_equivalence</a></li>
+<li><a href="/wiki/Elementary_extension.html">Elementary_extension</a></li>
+<li><a href="/wiki/Existential_closedness.html">Existential_closedness</a></li>
+<li><a href="/wiki/Existentially_closed.html">Existentially_closed</a></li>
+<li>Finitary closure operators (missing)</li>
+<li><a href="/wiki/Forking.html">Forking</a></li>
+<li><a href="/wiki/Forking_in_stable_theories.html">Forking_in_stable_theories</a></li>
+<li><a href="/wiki/Generically_Stable_Type_in_an_NIP_Theory.html">Generically_Stable_Type_in_an_NIP_Theory</a></li>
+<li><a href="/wiki/Global_invariant_type.html">Global_invariant_type</a></li>
+<li><a href="/wiki/Groups_of_finite_Morley_rank.html">Groups_of_finite_Morley_rank</a></li>
+<li><a href="/wiki/Henselian_valued_field.html">Henselian_valued_field</a></li>
+<li><a href="/wiki/Hilbertian_field.html">Hilbertian_field</a></li>
+<li><a href="/wiki/ICT_pattern.html">ICT_pattern</a></li>
+<li>Independent sequence (missing)</li>
+<li><a href="/wiki/Independent_set.html">Independent_set</a></li>
+<li><a href="/wiki/Indiscernible_sequence.html">Indiscernible_sequence</a></li>
+<li><a href="/wiki/Inductive_theory.html">Inductive_theory</a></li>
+<li><a href="/wiki/INP_pattern.html">INP_pattern</a></li>
+<li><a href="/wiki/K-inconsistency.html">K-inconsistency</a></li>
+<li><a href="/wiki/Lascar_rank.html">Lascar_rank</a></li>
+<li><a href="/wiki/Lemma_on_constants.html">Lemma_on_constants</a></li>
+<li><a href="/wiki/List_of_properties_of_theories.html">List_of_properties_of_theories</a></li>
+<li><a href="/wiki/Local_Sitemap.html">Local_Sitemap</a></li>
+<li><a href="/wiki/L%C3%B6wenheim-Skolem_Theorem.html">Löwenheim-Skolem_Theorem</a></li>
+<li><a href="/wiki/Macintyre's_theorem_on_Totally_Transcendental_Fields.html">Macintyre's_theorem_on_Totally_Transcendental_Fields</a> (broken math rendering)</li>
+<li><a href="/wiki/Main_Page.html">Main_Page</a></li>
+<li><a href="/wiki/Model_companion.html">Model_companion</a></li>
+<li><a href="/wiki/Model_completeness.html">Model_completeness</a></li>
+<li><a href="/wiki/Modular_lattice.html">Modular_lattice</a></li>
+<li><a href="/wiki/Monster_model.html">Monster_model</a></li>
+<li><a href="/wiki/Mutually_Indiscernible_Sequences.html">Mutually_Indiscernible_Sequences</a></li>
+<li><a href="/wiki/NIP.html">NIP</a></li>
+<li><a href="/wiki/O-minimality.html">O-minimality</a></li>
+<li><a href="/wiki/Omitting_types.html">Omitting_types</a></li>
+<li><a href="/wiki/Orthogonal_types_(stability_theory).html">Orthogonal_types_(stability_theory)</a></li>
+<li><a href="/wiki/Pregeometry.html">Pregeometry</a></li>
+<li><a href="/wiki/Proofs:Equivalent_Definitions_of_Stability.html">Proofs:Equivalent_Definitions_of_Stability</a></li>
+<li><a href="/wiki/Proofs:Forking_calculus_in_stable_theories.html">Proofs:Forking_calculus_in_stable_theories</a></li>
+<li><a href="/wiki/Proofs:Irreducibility_is_Definable.html">Proofs:Irreducibility_is_Definable</a></li>
+<li><a href="/wiki/Proofs:Lascar_Inequalities.html">Proofs:Lascar_Inequalities</a></li>
+<li><a href="/wiki/Proofs:NOP_=_NIP_+_NsOP.html">Proofs:NOP_=_NIP_+_NsOP</a></li>
+<li><a href="/wiki/Pseudo-algebraically_closed_field.html">Pseudo-algebraically_closed_field</a></li>
+<li><a href="/wiki/Pseudo-finite_field.html">Pseudo-finite_field</a></li>
+<li><a href="/wiki/Quantifier_elimination.html">Quantifier_elimination</a></li>
+<li><a href="/wiki/Random_graph.html">Random_graph</a></li>
+<li><a href="/wiki/Real-closed_field.html">Real-closed_field</a></li>
+<li><a href="/wiki/Regular_type_(stability_theory).html">Regular_type_(stability_theory)</a></li>
+<li><a href="/wiki/Saturated_model.html">Saturated_model</a></li>
+<li><a href="/wiki/Separably_closed_fields.html">Separably_closed_fields</a></li>
+<li><a href="/wiki/Skolem_functions.html">Skolem_functions</a> (broken math rendering)</li>
+<li><a href="/wiki/Splitting.html">Splitting</a></li>
+<li><a href="/wiki/Stability.html">Stability</a></li>
+<li><a href="/wiki/Stable_type.html">Stable_type</a></li>
+<li><a href="/wiki/Stably_embedded_set.html">Stably_embedded_set</a> (raw format)</li>
+<li><a href="/wiki/Stationary_type_(stability_theory).html">Stationary_type_(stability_theory)</a></li>
+<li><a href="/wiki/Stone_duality.html">Stone_duality</a></li>
+<li><a href="/wiki/Strong_minimality.html">Strong_minimality</a></li>
+<li><a href="/wiki/Strong_type.html">Strong_type</a></li>
+<li><a href="/wiki/Talk:Existential_closedness.html">Talk:Existential_closedness</a></li>
+<li><a href="/wiki/Tarski-Vaught_Theorem.html">Tarski-Vaught_Theorem</a></li>
+<li><a href="/wiki/Totally_transcendental_theory.html">Totally_transcendental_theory</a></li>
+<li><a href="/wiki/Type.html">Type</a></li>
+<li><a href="/wiki/Unidimensional_theory.html">Unidimensional_theory</a> (raw format)</li>
+<li><a href="/wiki/Universal_theory.html">Universal_theory</a></li>
+<li><a href="/wiki/Weight_(stability_theory).html">Weight_(stability_theory)</a></li>
+</ul>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: James Hanson</p>
+<p class="date">Created: 2023-09-03 Sun 23:00</p>
+</div>
+</body>
+</html>

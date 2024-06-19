@@ -1,0 +1,14 @@
+
+lim_(x->n) fn/gn, 若下极限为0，上极限也要为0，才有极限
+
+隐函数导数两边对x求导, e.g. e^{2x^2+y}=x^2+y, e^{2x^2+y}(4x+dy/dx)=2x+2y dy/dx
+
+e.g. Sum e^xcos4x dx=e^x dsin4x, 因 dsin4x=cos4xdx
+
+令...=I, 最后得到I=...-KI, 即可得I
+
+Sum^x_0 x f(t) dt, x可看作常数提出
+
+t^2/(1+t)=t-1+1/(1+t)
+
+2Sum 1=2t

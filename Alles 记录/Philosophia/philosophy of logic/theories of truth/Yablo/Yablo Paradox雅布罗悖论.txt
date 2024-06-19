@@ -1,0 +1,38 @@
+
+The ω-inconsistency of φ implies that no expansion of the standard model N of arithmetic satisfies φ.
+
+
+Uniform Homogeneous Yablo Scheme
+∀x[ϕ(x) ↔ ∀y(ψ(y, x)→¬ϕ(y))]
+
+the set of numerical instances of the Uniform Homogeneous Yablo Principle is ω-inconsistent but consistent:
+
+Let M be a non-standard model of PA, and pick a non-standard element b. Let X={b} be the interpretation of the Predicate F.
+
+
+The Uniform Fixed-Point Yablo Principle
+∀x(Y (x) ↔ ∀y > x¬T ([Y ( ˙y)]) *
+
+The sub-formula T ([Y ( ˙y)]) means ‘the result of substituting the numeral
+of the number y for all free variables in the formula Y (x) is true’. And this means ‘y satisfies the formula Y (x)’. We can symbolize this as S([Y (x)], y).
+
+Ketland 2004反驳Bueno and Colyvan道：
+
+it is a theorem of mathematical logic that the Yablo list exists. This is a direct and well-understood construction. Priest does not 'presuppose the existence of the list, in order to establish that to derive a contradiction from the latter, a fixed-point construction is required'. If anything, the reverse.
+
+
+the Local Yablo Disquotation Principle 
+
+T ([Y_n]) ↔ Y_n, with n ∈ ω
+
+is ω-inconsistent but is, in fact, consistent. More exactly, PA + the Local Arithmetic Disquotation Scheme + the Local Yablo Disquotation Principle (hereafter PA_Y) is a conservative extension of PA. (Ketland 2004)
+
+
+
+For suppose that PA does not prove an arithmetic sentence ϕ. Then, there is a
+model of PA ∪ {¬ϕ}. Indeed, there is an non-standard such model M. Then, by the above proof, M may be expanded to a model (M, E) of PA_Y . Since ϕ lacks the T -symbol, ϕ is still false in (M, E), and so PA_Y does not prove ϕ. By contraposition, if PA_Y proves ϕ, then PA proves ϕ too. (Ketland 2005, fn. 8)
+
+
+Footnote
+
+* ( ˙x) is Feferman's 'dot notation'. More exactly, ( ˙x) can be defined as (sub(num(x), [φ(x)]).

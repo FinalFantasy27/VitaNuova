@@ -1,0 +1,137 @@
+https://philpapers.org/surveys/public_respondents.html 这里可以看到哲学家们再2009年对主要这些问题所持的观点，如Mark Jago、黑格尔专家Pippin、康德专家Béatrice Longuenesse、E.J.Lowe、徐向东等
+比较有意思的是许多做观念论的哲学史专家实际却都比较接受自然主义和物理主义
+— — —
+https://philpapers.org/surveys/
+David Bourget & David J. Chalmers (2014). "What do philosophers believe?" Philosophical Studies. 170(3): 465-500.
+
+A priori knowledge: yes or no?
+Accept or lean toward: yes	662 / 931 (71.1%)
+Accept or lean toward: no	171 / 931 (18.4%)
+Other	98 / 931 (10.5%)
+Abstract objects: Platonism or nominalism?
+Accept or lean toward: Platonism	366 / 931 (39.3%)
+Accept or lean toward: nominalism	351 / 931 (37.7%)
+Other	214 / 931 (23.0%)
+Aesthetic value: objective or subjective?
+Accept or lean toward: objective	382 / 931 (41.0%)
+Accept or lean toward: subjective	321 / 931 (34.5%)
+Other	228 / 931 (24.5%)
+Analytic-synthetic distinction: yes or no?
+Accept or lean toward: yes	604 / 931 (64.9%)
+Accept or lean toward: no	252 / 931 (27.1%)
+Other	75 / 931 (8.1%)
+Epistemic justification: internalism or externalism?
+Accept or lean toward: externalism	398 / 931 (42.7%)
+Other	287 / 931 (30.8%)
+Accept or lean toward: internalism	246 / 931 (26.4%)
+External world: idealism, skepticism, or non-skeptical realism?
+Accept or lean toward: non-skeptical realism	760 / 931 (81.6%)
+Other	86 / 931 (9.2%)
+Accept or lean toward: skepticism	45 / 931 (4.8%)
+Accept or lean toward: idealism	40 / 931 (4.3%)
+Free will: compatibilism, libertarianism, or no free will?
+Accept or lean toward: compatibilism	550 / 931 (59.1%)
+Other	139 / 931 (14.9%)
+Accept or lean toward: libertarianism	128 / 931 (13.7%)
+Accept or lean toward: no free will	114 / 931 (12.2%)
+God: theism or atheism?
+Accept or lean toward: atheism	678 / 931 (72.8%)
+Accept or lean toward: theism	136 / 931 (14.6%)
+Other	117 / 931 (12.6%)
+Knowledge claims: contextualism, relativism, or invariantism?
+Accept or lean toward: contextualism	373 / 931 (40.1%)
+Accept or lean toward: invariantism	290 / 931 (31.1%)
+Other	241 / 931 (25.9%)
+Accept or lean toward: relativism	27 / 931 (2.9%)
+Knowledge: empiricism or rationalism?
+Other	346 / 931 (37.2%)
+Accept or lean toward: empiricism	326 / 931 (35.0%)
+Accept or lean toward: rationalism	259 / 931 (27.8%)
+Laws of nature: Humean or non-Humean?
+Accept or lean toward: non-Humean	532 / 931 (57.1%)
+Accept or lean toward: Humean	230 / 931 (24.7%)
+Other	169 / 931 (18.2%)
+Logic: classical or non-classical?
+Accept or lean toward: classical	480 / 931 (51.6%)
+Other	308 / 931 (33.1%)
+Accept or lean toward: non-classical	143 / 931 (15.4%)
+Mental content: internalism or externalism?
+Accept or lean toward: externalism	476 / 931 (51.1%)
+Other	269 / 931 (28.9%)
+Accept or lean toward: internalism	186 / 931 (20.0%)
+Meta-ethics: moral realism or moral anti-realism?
+Accept or lean toward: moral realism	525 / 931 (56.4%)
+Accept or lean toward: moral anti-realism	258 / 931 (27.7%)
+Other	148 / 931 (15.9%)
+Metaphilosophy: naturalism or non-naturalism?
+Accept or lean toward: naturalism	464 / 931 (49.8%)
+Accept or lean toward: non-naturalism	241 / 931 (25.9%)
+Other	226 / 931 (24.3%)
+Mind: physicalism or non-physicalism?
+Accept or lean toward: physicalism	526 / 931 (56.5%)
+Accept or lean toward: non-physicalism	252 / 931 (27.1%)
+Other	153 / 931 (16.4%)
+Moral judgment: cognitivism or non-cognitivism?
+Accept or lean toward: cognitivism	612 / 931 (65.7%)
+Other	161 / 931 (17.3%)
+Accept or lean toward: non-cognitivism	158 / 931 (17.0%)
+Moral motivation: internalism or externalism?
+Other	329 / 931 (35.3%)
+Accept or lean toward: internalism	325 / 931 (34.9%)
+Accept or lean toward: externalism	277 / 931 (29.8%)
+Newcomb's problem: one box or two boxes?
+Other	441 / 931 (47.4%)
+Accept or lean toward: two boxes	292 / 931 (31.4%)
+Accept or lean toward: one box	198 / 931 (21.3%)
+Normative ethics: deontology, consequentialism, or virtue ethics?
+Other	301 / 931 (32.3%)
+Accept or lean toward: deontology	241 / 931 (25.9%)
+Accept or lean toward: consequentialism	220 / 931 (23.6%)
+Accept or lean toward: virtue ethics	169 / 931 (18.2%)
+Perceptual experience: disjunctivism, qualia theory, representationalism, or sense-datum theory?
+Other	393 / 931 (42.2%)
+Accept or lean toward: representationalism	293 / 931 (31.5%)
+Accept or lean toward: qualia theory	114 / 931 (12.2%)
+Accept or lean toward: disjunctivism	102 / 931 (11.0%)
+Accept or lean toward: sense-datum theory	29 / 931 (3.1%)
+Personal identity: biological view, psychological view, or further-fact view?
+Other	347 / 931 (37.3%)
+Accept or lean toward: psychological view	313 / 931 (33.6%)
+Accept or lean toward: biological view	157 / 931 (16.9%)
+Accept or lean toward: further-fact view	114 / 931 (12.2%)
+Politics: communitarianism, egalitarianism, or libertarianism?
+Other	382 / 931 (41.0%)
+Accept or lean toward: egalitarianism	324 / 931 (34.8%)
+Accept or lean toward: communitarianism	133 / 931 (14.3%)
+Accept or lean toward: libertarianism	92 / 931 (9.9%)
+Proper names: Fregean or Millian?
+Other	343 / 931 (36.8%)
+Accept or lean toward: Millian	321 / 931 (34.5%)
+Accept or lean toward: Fregean	267 / 931 (28.7%)
+Science: scientific realism or scientific anti-realism?
+Accept or lean toward: scientific realism	699 / 931 (75.1%)
+Other	124 / 931 (13.3%)
+Accept or lean toward: scientific anti-realism	108 / 931 (11.6%)
+Teletransporter (new matter): survival or death?
+Accept or lean toward: survival	337 / 931 (36.2%)
+Other	304 / 931 (32.7%)
+Accept or lean toward: death	290 / 931 (31.1%)
+Time: A-theory or B-theory?
+Other	542 / 931 (58.2%)
+Accept or lean toward: B-theory	245 / 931 (26.3%)
+Accept or lean toward: A-theory	144 / 931 (15.5%)
+Trolley problem (five straight ahead, one on side track, turn requires switching, what ought one do?): switch or don't switch?
+Accept or lean toward: switch	635 / 931 (68.2%)
+Other	225 / 931 (24.2%)
+Accept or lean toward: don't switch	71 / 931 (7.6%)
+Truth: correspondence, deflationary, or epistemic?
+Accept or lean toward: correspondence	473 / 931 (50.8%)
+Accept or lean toward: deflationary	231 / 931 (24.8%)
+Other	163 / 931 (17.5%)
+Accept or lean toward: epistemic	64 / 931 (6.9%)
+Zombies: inconceivable, conceivable but not metaphysically possible, or metaphysically possible?
+Accept or lean toward: conceivable but not metaphysically possible	331 / 931 (35.6%)
+Other	234 / 931 (25.1%)
+Accept or lean toward: metaphysically possible	217 / 931 (23.3%)
+Accept or lean toward: inconceivable	149 / 931 (16.0%)
+

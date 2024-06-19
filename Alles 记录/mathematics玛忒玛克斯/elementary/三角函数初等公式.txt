@@ -1,0 +1,37 @@
+sin(a+-b)=sinacosb+-cosasinb
+cos(a+-b)=cosacosb-+sinasinb
+tan(a+-b)=(tana+-tanb)/(1-+tanatanb)
+cot(a+-b)=(cotacotb-+1)/(cotb+-cota)
+
+和差化积
+sina+sinb=2sin((a+b)/2)cos((a-b)/2)
+sina-sinb=2cos((a+b)/2)sin((a-b)/2)
+cosa+cosb=2cos((a+b)/2)cos((a-b)/2)
+cosa-cosb=-2sin((a+b)/2)sin((a-b)/2)
+
+sinx+cosx=sqrt2 sin(x+pi/4)
+sin^2 2x换成(1-cos4x)/2
+
+sin2a=2sinacosa
+cos2a=2cos^2 a-1=1-2sin^2 a=cos^2 a-sin^2 a
+tan2a=2tana/(1-tan^2 a)
+cot2a=(cot^2 a-1)/2cota
+sin3a=3sina-4sin^3 a
+cos3a=4cos^3 a-3cosa
+tan3a=(3tana-tan^3 a)/(1-3tan^2 a)
+
+sin a/2=+-sqrt{(1-cosa)/2}
+cos a/2=+-sqrt{(1+cosa)/2}
+tan a/2=+-sqrt{(1-cosa)/(1+cosa)}=(1-cosa)/sina=sina/(1+cosa)
+cot a/2 =+-sqrt{(1+cosa)/(1-cosa)}=(1+cosa)/sina=sina/(1-cosa)
+
+正弦定理a/sinA=b/sinB=c/sinC=2R外接圆
+余弦定理c^2=a^2+b^2-2abcosC
+
+积化和差
+sinacosb=1/2[sin (a+b)+sin (a-b)]
+sinasinb=-1/2[cos (a+b)-cos (a-b)]
+cosacosb=1/2[cos (a+b)-cos (a-b)]
+
+
+

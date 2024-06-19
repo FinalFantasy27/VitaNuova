@@ -1,0 +1,28 @@
+Knowledge Representation and Reasoning
+
+Lecturer(s)
+
+dr. R. de de Haan (co-ordinator)
+
+Objectives
+answer set programming, description logics
+Apply the solving algorithms for logic reasoning that we study in the course (e.g., DPLL) to new problem inputs
+Apply fundamental theorems about various logics and their relation to a range of reasoning tasks in AI to draw conclusions about the (im)possibility and computational cost of reasoning
+Assess problem settings in AI and argue which type of logical representation is most suitable to store and reason with knowledge in this domain
+Categorize the different language constructs in the different logics that we study in the course, and differentiate between the logics based on their components
+Creating encodings of search and reasoning problems into propositional logic and answer set programming, and use this encoding to solve the problem
+
+Contents
+Symbolic systems are used in fields of AI that are concerned with problem solving and search, knowledge representation and reasoning, among many other fields. In this course we present a selection of such methods and show how they can be used to solve various tasks in AI. We will investigate the domain of problem solving and search, look at several illustrative examples of search problems in AI, and discuss and apply various approaches that are available for problem solving and search (including SAT solvers, and answer set programming).
+
+Recommended prior knowledge
+Basic math and computer science, and basic knowledge of the syntax and semantics of propositional logic.
+
+Study materials
+Literature:
+Russell, S., & Norvig, P. (2002). Artificial intelligence: a modern approach. [http://aima.cs.berkeley.edu/]
+Gebser, M., Kaminski, R., Kaufmann, B., & Schaub, T. (2012). Answer set solving in practice. Synthesis lectures on artificial intelligence and machine learning, 6(3), 1-238. [https://potassco.org/book/]
+Van Harmelen, F., Lifschitz, V., & Porter, B. (Eds.). (2008). Handbook of knowledge representation. Elsevier.
+
+Assessment
+The grade for this course will be based on homework assignments and a final exam.

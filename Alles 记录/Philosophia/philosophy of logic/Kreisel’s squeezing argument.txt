@@ -1,0 +1,3 @@
+Kreisel’s squeezing argument that being valid-in-virtue-of-form / intuitively valid (‘true in all structures’) = the property of having no countermodel in the natural
+numbers = the property of having a proof for your favourite natural-deduction
+proof system for classical first-order logic

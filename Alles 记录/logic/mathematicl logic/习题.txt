@@ -1,0 +1,8 @@
+
+直觉主义自然演绎Intuitionistic Natural Deduction中证明
+\vdash \lnot \lnot \forall x \phi \to \forall x \lnot \lnot \phi
+
+Proof. Assume \lnot \phi. \exists x \lnot \phi by Existential Introduction. \exists x \lnot \phi \to \lnot \forall x \phi holds in intuitionistic logic.  \lnot \forall x \phi. Contradiction.
+ \lnot \lnot \phi. \forall x \lnot \lnot \phi by Universal generalization.
+
+（易证）设相对于某语义学的重言式集合不是全体公式的集合，并设公理系统S的公理都是这种重言式且其推理规则保存重言性。那么，S没有语义完全性(即这种重言式不都是S的定理)一定蕴涵S没有Post完全性。

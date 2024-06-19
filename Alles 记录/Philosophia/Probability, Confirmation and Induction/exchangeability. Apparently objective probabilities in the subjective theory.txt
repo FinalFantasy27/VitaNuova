@@ -1,0 +1,32 @@
+
+Axiom: P(H_{n+1} | e) = (P(H_{n+1} & e)) / P(e)
+Two events E, F are defined to be independent, if P(E & F) = P(E) P(F).
+
+Apparently objective probabilities in the subjective theory: exchangeability
+
+De Finettie shows that assuming exchangeability, the posterior probability P(H _{n+1} | e) will tend to the observed frequency for large n. Thus, different individuals who may hold widely differing opinions initially will, if they change their probabilities by Bayesian conditionalisation, come to agree on their posterior probabilities.
+In a certain sense the concept of exchangeability is the equivalent within the subjective theory of the objectivist’s notion of independence. This does not mean that the concept of independence does not apply in the subjective theory. If we make the mathematical assumption of independence, giving the probabilities an epistemological meaning, this turns out to give a case in which no learning from experience can occur.
+
+Example. Write B's probability that there will be r heads in n toss as \omege^{(n)}_r. There are C^n_r = n!/(n-r)! r! different ways in whcih r heads can occur in n tosses. Each of the corresponding n-tuples of results E_{i1} E_{i2} \dots E_{in} be assigned the same probability, by exchangebility, which is \omege^{(n)}_r / C^n_r. e is a particular n-tuple of results in which heads occurs r times. The probability of the result in which heads occurs r+1 times $P(H_{n+1} & e) =  \omege^{(n+1)}_{r+1} / C^{n+1}_{r+1}$. Substituting in Axiom, $P(H_{n+1} | e) = ((r+1)/(n+1)) (\omege^{(n+1)} / \omege^{(n)}_r)$. Provided  $\omege^{(n+1)}_{r+1} / \omege^{(n)}_r \to 1$ as $n \to \infy$ (a very plausible requirement), prior probabilities may be chosen any way, as $n \to \infy, P(H_{n+1} | e) \to r/n$ (the observed frequency).
+In n tosses, we can have either $0, 1, \dots$ heads. By coherence,   $\omege^{(n)}_0 + \cdots + \omega^{(n)}_n =1$. In the subjective theory, we can choose $\omege^{(n)}_r$ (the prior probabilities) in any way we choose subject only to the above equation. However, we can also make the ‘Principle of Indifference’ choice of making them all equal. Substituting this in Axiom, we get $P(H_{n+1} | e) = (r+1)/(r+2)$, Laplace's Rule of Succession.
+The Rule of Succession has been used to try to solve Hume’s problem of induction.
+
+If the case is a standard one, like the biased coin, the result will come out moreover less like that obtained by just assuming exchangeability.
+
+
+Popper's criticism. Suppose the inhabitants of London wake up one summer morning to find that although according to their clocks it should be day, it is in fact still night outside. They switch on their radios and televisions and learn that something quite extraordinary has happened. The Earth appears to have stopped rotating. It is still night in London, while on the opposite side of the globe, the Sun is staying fixed at one position in the sky. Say we now have r = n - 1, and n = 1,826,251. So according to the Rule of Succession, the probability of the Sun’s rising the next day is 0.9999989. (Popper 1957 Dialectica)
+Our background knowledge tells us that successive risings of the Sun are not independent events, but are highly dependent.
+
+Gillies' argument against De Finettie. For an objectivist, any evaluation P of a probability function is just a conjecture as to the values of the real objective probabilities, and, like any conjecture it should be severely tested. If these tests show that it is inadequate in anyway, it should be replaced by a new conjecture P* which fits the facts better. In De Finetti's scheme, we do not try to test or refute our prior probabilities P(En + 1), we simply change them into posterior probabilities P(En + 1 | A) by Bayesian conditionalisation.
+
+Example. the game of red or blue as a Markov chain (Feller 1950:82–3, Cox and Miller 1965:78–9)
+
+De Finettie observes that one could introduce subjective equivalents of various forms of dependent events, and, in particular, of Markov chains of order $1, 2 \dots, m$. We could call such classes of events Markov exchangeable. (De Finettie 1937: 145-6)
+
+for partially exchangeable sequences and hypotheses on Markov processes (Diaconis and Freedman 1980, Skyrms 1991), for clustering predictions and partitioning processes (Kingman 1975 and 1978), and even for sequences of graphs and their generating process (Aldous 1981).
+
+Approach. consider all the possibilities which might arise at the very beginning of the investigation, that is, every possible kind of dependence which might arise in the sequence of events, and assign each a prior probability. wnworkably complicated.
+
+Albert 1999 caught Bayesians on the horns of a dilemma by what he calls a Chaotic Clock: a Beyasian may adopt a rather limited set of hypotheses to perform his Bayesian conditionalisation, but then, as the example of the game of red or blue shows, if her set excludes the true hypothesis her Bayesian learning strategy may never bring her close to grasping what the real situation is. This is the first horn of the dilemma. If the Beyasian responds by saying she is prepared to consider a wide and comprehensive set of hypotheses, these will surely include hypotheses from chaos theory and thus anything she does will become Bayesian, making the whole approach empty.
+
+Donald Gillies 2000 Philosophical Theories of Probability pp. 69-82

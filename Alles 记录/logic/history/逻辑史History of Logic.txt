@@ -1,0 +1,433 @@
+
+希腊人在几何学中应用推理去证明结论。巴门尼德和赫拉克利特就being和non-being进行推理，预兆了后来有关无矛盾律的争论。智术师们指导辩论和言语伎俩verbal trickery。
+
+ 
+
+ 
+
+亚里士多德创建了三段论（”所有“”没有“”有的“）。
+
+ 
+
+ 
+
+斯多葛派派发展了”如果-那么“”且“”或“的逻辑，并对分离规律（否定模式）进行了辩护：
+
+ 
+
+如果你的观点正确，那么某某为真。
+
+某某为假。 /
+
+你的观点不正确。（根斯勒346）
+
+ 
+
+ 
+
+亚里士多德和斯多葛派还研究了有关“必然”和“可能”的逻辑（模态逻辑）。
+
+ 
+
+亚里士多德和斯多葛派的S. Chrysippus讨论过如下类型的论证：
+
+ 
+
+必然的是，要么我会做一件事要么我不会做它。
+
+如果我会做它是必然的，那么我就不是自由的。
+
+如果我不会做它是必然地，那么我就不是自由的。 /
+
+我不是自由的。
+
+ 
+
+亚里士多德讨论了未来偶然命题的话题：
+
+  
+
+“明天将会发生一场海战”或者为真，或者为假。
+
+如果“明天将会发生一场海战”为真，那么“明天将会发生一场海战”是必然的。
+
+如果“明天将会发生一场海战”为假，那么“并非：明天将会发生一场海战”是必然的。 /
+
+或者“明天将会发生一场海战”是必然的，或者“并非：明天将会发生一场海战”是必然的。
+
+  
+
+亚里士多德认为两情况都不是必然的。他似乎否认了第一个前提，进而否认了排中律的普遍有效性（他在其它地方又为排中律进行辩护）。
+
+  
+
+斯多葛派对为宿命论提供好的模态论证而争论。
+
+S. Chrysippus克律西波斯（c. 279 - c. 206BC）指出，“□(D∨¬D) / □D∨□¬D”是无效的。（根斯勒244）
+
+  
+
+斯多葛派的先驱麦加拉学派在时态的意义上来看待”必然“和”可能“。
+
+Philo of Megara斐洛（fl. 300BC）认为”如果A那么B“为真，当且仅当现在不存在A为真B为假的情况。
+
+Diodorus Cronos卡里亚雅苏斯的狄奥多罗斯（died c. 284BC）认为”如果A那么B“为真，当且仅当B为假时，A在任何时候都不为真。（根斯勒346）
+
+   
+
+Diodorus Cronus提出了著名的“master argument”，论证 可能的possible 就是现在正在发生的，或会在将来某一时间发生的。这一论证被认为支持决定论，因为它说实际发生的就是那所有能发生的。what actually happens is all that can happen. (SEP: Arthur Prior (Winter 2022 Edition)) 。这一被爱比泰克特Epictetus（c.50-c.135）总结如下：
+
+ 
+
+以下三个命题：
+
+1. 过去的是必然的；
+
+2. 不可能不会由可能得出
+
+3. 有一件事是可能的，但不在现在为真，也不会在将来为真。
+
+是不一致的。
+
+Diodorus Cronus由前两个命题的真得出第三个命题为假。
+
+（Epictetus, Discourses, ii.19.1-4）
+
+ 
+
+西塞罗（Cicero）在《论命运》中说：过去的所有真（命题）都是必然的。因为它们是不可改变的，也就是说，过去的 <命题> 不能从真变为假。(Cicero, On Fate 14)
+
+ 
+
+一种由Arthur Prior（时态逻辑的创始人）给出的重构如下：
+
+ 
+
+用P代表“过去曾……”
+
+F代表“将来会……”
+
+H (= ¬P¬)代表“过去一直……”
+
+G (= ¬F¬)代表“将来总是……”
+
+ 
+
+命题1-3的形式化分别为：
+
+ 
+
+1' Pq → □ Pq
+
+2' (□(p → q)  ∧ ◇p) → ◇q
+
+3' ∃r (◇r ∧ ¬r ∧ ¬Fr)
+
+ 
+
+Prior对这个论证的重构还需要两条前提：
+
+ 
+
+4' (p ∧ Gp) → PGp 
+
+5' □(p → HFp)
+
+If something is the case now, then it has always been the case that it will be the case.
+
+例如，如果我现在在雅典，那么我（在某个时候）会在雅典的情况在过去就一直存在。
+
+这一原则在有historical plausibility。
+
+我们在亚里士多德的著作中发现了这一原则的一个版本，而斯多葛学派也接受了这一原则的另一个版本。 (On Interpretation 9, 18b9–11; Cicero, On Divination 1.125)
+
+SEP: Dialectical School (Summer 2023 Edition). https://plato.stanford.edu/Archives/sum2023/entries/dialectical-school/
+
+线性时间的逻辑 + 4' 使得时间是一个全序，是左离散（left-discrete）的，并且没有最小时间（the least moment）。
+
+（可参见 Jarmużek, T., Pietruszczak, A. The Tense Logic for Master Argument in Prior’s Reconstruction. Stud Logica 92, 85–108 (2009). https://doi.org/10.1007/s11225-009-9187-0）
+
+ 
+
+有了这些前提后，一个1', 2', 3'不一致的证明可以被归结如下：
+
+
+IEP. Arthur Prior: Logic. https://iep.utm.edu/prior-an/
+
+ 
+
+Panthoides, 斯多葛派的Cleanthes克里安西斯（季蒂昂的芝诺Zeno of Citium的弟子）和Antipater of Tarsus塔尔苏斯的安提帕特以后两个命题认为第一个命题（过去是必然的）是错的。
+
+Chrysippus反对第二个命题（不可能不可能由可能得出）。
+
+（ Cicero, de Fato, 6, 7, 9, ad Fam. ix. 4; Epictetus, Discourses, ii. 19.2-5）
+
+Wiki. Diodorus Cronus. 2023.12
+
+ 
+
+Chrysippus认为有从未被现实化的可能性。例如：
+
+ 
+
+一颗宝石可能永远不会被打碎，但我们还是能认为这颗宝石有可能被打碎（只要有人能因此获得荣誉的话）。
+
+The Hellenistic philosophers, Volume 1: Translations of the Principal Sources, with Philo-Sophical Commentary, by A.A. Long and D.N. Sedley, Cambridge: Cambridge University Press, 1987. (, hereafter LS) 235
+
+ 
+
+其它的例子，如：这件外套可能被撕碎，但它被烧毁了。
+
+This coat might have been shredded, but it was burned instead.
+
+ 
+
+IEP. Chrysippus (c. 280—207 B.C.E.). https://iep.utm.edu/chrysippus/
+
+ 
+
+逍遥学派Peripateic school 的Alexander of Aphrodisias阿佛洛狄西亚的亚历山大（2到3世纪早期）在On Fate 中反驳斯多葛派关于必然的学说，捍卫一种道德责任的自由主义（与道德责任相对于决定论的不相容论和相容论相对）
+
+ 
+
+中世纪的Boethius（480-524）用了一个类似以下的论证例子解释了从言和从物的区别：
+
+ 
+
+我是静止的。
+
+如果我是静止的，那么必然我是不动的。
+
+如果必然我是不动的，那么我是否移动就不是一件我可以自由选择的事。 /
+
+我是否移动不是一件我可以自由选择的事。（根斯勒243）
+
+ 
+
+Boethius为预言先知和人类自由的相容性进行辩护。他将亚里士多德逻辑翻译成了拉丁文。虽然他的许多译文已经遗失，但是他翻译的《范畴篇》和《解释篇》是旧逻辑logica vetus的主要来源。
+
+ 
+
+ 
+
+800-1200 阿拉伯世界 基督徒和穆斯林 认为逻辑对神学和医学是重要的 将亚里士多德著作翻译成阿拉伯文并撰写评论、教材和原创作品 三段论、模态逻辑、条件句、共相、谓述predication和存在 巴格达和摩尔人统治西班牙是逻辑研究的中心
+
+ 
+
+ 
+
+11-12世纪 
+
+安瑟伦、彼得·阿伯拉尔
+
+《前分析》《后分析》《论题篇》（Topics）《辩缪篇》（Sophistical Refutations）被翻译为拉丁文，成为新逻辑logica nova的基础
+
+西班牙的彼得和舍伍德的威廉William of Sherwood撰写了逻辑教材
+
+ 
+
+A（Aff-Irm 全称/特称） 所有-都是
+
+I 有的-是
+
+E（nE-gO 全称/特称） 没有-是
+
+O 有的-不是
+
+ 
+
+MP SM 第一格（prioris）
+
+PM SM 第二格（secundae）
+
+MP MS 第三格（tertia）
+
+PM MS 第四格（quarta）
+
+ 
+
+将第一格的四条有效式作为公理：
+
+ 
+
+Barbara
+
+所有M都是P
+
+所有S都是M /
+
+所有S都是P
+
+ 
+
+Celarent
+
+没有M是P
+
+所有S都是M /
+
+没有S是P
+
+ 
+
+Darii
+
+所有M是P
+
+有的S是M /
+
+有的S是P
+
+ 
+
+Ferio
+
+没有M是P
+
+有的S是M /
+
+有的S不是P
+
+ 
+
+其它15个有效式作为定理
+
+ 
+
+Barbara-Celarent歌决Barbara-Celarent verse
+
+元音代表句子形式，辅音给出如何推导的线索，如”m“表示转换前提的次序
+
+ 
+
+共相、语词的意谓how terms signify
+
+ 
+
+14世纪 奥卡姆的威廉发展了模态逻辑，并试图在分析语言时避免形而上学。
+
+ 
+
+让·布里丹Jean Buridan 
+
+布里丹之驴Buridan's Ass
+
+卡片悖论
+
+ 
+
+布里丹制订了有效三段论的标准规则，一个版本是
+
+ 
+
+一个三段论是有效的，只要它满足
+
+ 
+
+1. 每一个在结论中周延的词项在前提中都必须周延。
+
+（一个词项在命题中是周延的，当命题对词项所指的每一个实体都做出了断言）
+
+2. 中项必须至少在一个前提中周延。
+
+（一个谬误是中项不周延undistributed middle）
+
+3. 如果结论是否定的，那么其中一个前提必须是否定的，
+
+4. 如果结论是肯定的，那么两个前提一定都是肯定的。
+
+ 
+
+ 
+
+今天的逻辑学，和生物学一样，使用了很多拉丁文术语，如肯定前件modus ponens、先验/后验 a priori / a posteriori、从言/从物 de dicto / de re 
+
+ 
+
+ 
+
+欧拉图
+
+文恩图
+
+ 
+
+ 
+
+德摩根代数
+
+德摩根律
+
+ 
+
+德摩根批评传统逻辑不能处理关系论证，如
+
+ 
+
+所有狗都是动物。 /
+
+所有狗的头都是动物的头。
+
+ 
+
+德摩根给出了这个是有效论证，但是传统逻辑无法使之有效化的例子
+
+（根斯勒225）
+
+ 
+
+布尔代数
+
+如将两个字母放在一起表示集合的交，”所有人都是会死的“：H=HM
+
+ 
+
+ 
+
+皮尔士、弗雷格、罗素、《数学原理》
+
+波斯特Emil Post 真值表等
+
+ 
+
+塔斯基
+
+哥德尔
+
+丘奇
+
+ 
+
+香农、冯诺依曼
+
+ 
+
+认知科学、语言学
+
+ 
+
+非经典逻辑
+
+  
+
+  
+
+东方逻辑
+
+佛教逻辑
+
+”此处有火，以有烟故“
+
+  
+
+  
+
+Further reading
+
+P.H.Nidditch, The Development of Mathematical Logic
+
+Irving Copi and James Gould, Readings on Logic
+
+William Kneale and Martha Kneale, The Development of Logic
+
+Joseph Bochenski and Ivo Thomas, A History of Formal Logic

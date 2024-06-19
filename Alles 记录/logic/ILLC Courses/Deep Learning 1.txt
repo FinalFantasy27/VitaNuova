@@ -1,0 +1,74 @@
+
+Deep Learning 1
+	
+P.S.M. Mettes MSc (co-ordinator)
+
+Objectives
+The students can explain and motivate the fundamental principles and mechanisms behind Deep Learning’s past, present and future
+The students can explain the major challenges, directions and active domains of research in the field of deep learning along with their advantages and disadvantages
+The student can program, train and run deep learning models in a server environment.
+The student can express research ideas described in publications in clear terms for readers unfamiliar with the details and devise promising follow-up research directions
+The student is able to debug and critically assess deep learning methods from a practical-engineering, and mathematical-theoretic point of view.
+The student can independently tackle new deep learning problems with well-reasoned combinations of existing approaches.
+Contents
+Deep learning is primarily a study of multi-layered neural networks, spanning over a great range of model architectures. We cover the basic following content in theory and in practice. We adapt the content, especially in the last lectures, based on the latest advances:
+
+Introduction to deep learning. A brief introduction of deep learning. History, recent trends.
+Deep feedforward network. Neural networks are complex cascades of simple building blocks. We learn the basic idea that creates complexity out of simplicity.
+Backpropagation and optimisation. Since neural networks are notoriously difficult to train, we will deepen our understanding of how to optimise them both theoretically and practically.
+Deep Learning Regularisation. A central problem in machine learning is how to make an algorithm that will perform well not just on the training data, but also on new inputs. Many strategies used in machine learning are explicitly designed to reduce the test error, possibly at the expense of increased training error. These strategies are known collectively as regularisation.
+Convolutional neural networks (CNN). The driving force behind the popularity of deep learning. CNNs have their main application in image recognition, object detection, automatic text translation, and speech recognition. We learn the basics as well as the latest models that are used by all academia and the tech giants.
+Modern convolutional neural networks. These models include AlexNet, the first large-scale, modern convolutional network that wins the champion on a large-scale vision challenge; the VGG network (VGGnet), which is even deeper and makes use of a number of repeating blocks of elements; the GoogLeNet, which makes use of networks with parallel concatenations (GoogLeNet); residual networks (ResNet) which are currently the most popular go-to architecture today, and densely connected networks (DenseNet), which are expensive to compute but have set some recent benchmarks.
+Transformers. The transformer model is a seq2seq model which uses attention in the encoder as well as the decoder, thus eliminating the need for RNNs, as we explain below. Transformers have been used for many (conditional) sequence generation tasks, such as machine translation, constituency parsing, music generation, protein sequence generation, abstractive text summarisation, image generation (treating the image as a rasterized 1d sequence), etc.
+Graph neural networks. Traditionally, neural networks are applied to data with a well-specified and orderly structure, like images or text. With graph neural networks we learn how to harvest the power of deep learning on graph data, such as graphs extracted from social media, molecular graphs, and beyond.
+Generative learning. One of the most impressive outputs of Deep Learning is algorithms that paint very realistic but fake data, such images of faces that never existed.  Here, we will learn about different generations of generative learning algorithms, along with their connections and open problems.
+Self-supervised Learning. Learning from raw data without annotations provides benefits as these methods can be applies to extremely large-scale data and offer other benefits. Starting from NLP, the methods in computer vision have tremendously matured and are diffusing into multiple applications.
+Multi-modal Learning. Learning from multiple modalities has shown extremely promising results, especially for naturally paired data such as audio-video and human-constructed paired data such as images and their captions. We will learn about current approaches in this domain.
+Open questions in deep learning. Deep learning continues to advance, but many questions remain open. We will discuss open questions ranging from continual learning to adversarial attack, as well as the open research questions regarding the geometric foundations of deep networks.
+Recommended prior knowledge
+Linear Algebra
+Calculus
+Basic Probability Theory
+Basic Machine Learning
+Programming, especially Python
+Machine Learning 1
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Self-study
+Lectures. During the lectures students must bring their laptops, as the lectures could be interactive (to some extent).
+Practicals. During the practicals students will apply the theory to simple problems.
+Seminar
+Computer lab session/practical training
+Time
+The schedule for this course is published on DataNose.
+
+Study materials
+Literature:
+This will be announced per lecture.
+Other:
+See also the website: https://www.deeplearningbook.org/
+Min/max participants
+Limited capacity AI core courses
+
+This course is part of the core curriculum of the master programme AI. Due to limited capacity students of the MSc AI  have priority for this course.  Students of other Graduate School of Informatics (GSI) master programmes are allowed to register for this course, but please note that there is a limited number of places available. It will not be clear until the end of August whether spots are available.
+
+Students from the other programmes of GSI can request registration for this course by sending an e-mail to vakaanmelding-fnwi@uva.nl 
+
+They will first be placed on a waiting list.
+
+ 
+
+Assessment
+- Assessment
+
+The course is evaluated on the basis of practical assignments and a written exam.
+
+More details will be available in the course manual.
+
+- Plagiarism
+
+We run a strict anti-plagiarism policy.
+We use in-house and international online tools to cross-check the assignments, as well as to cross-check with assignments handed in by students in previous courses.

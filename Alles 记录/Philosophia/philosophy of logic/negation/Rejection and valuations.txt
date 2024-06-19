@@ -1,0 +1,7 @@
+Incurvati, Luca / Smith, Peter 
+Rejection and valuations 
+2009 
+
+Timothy Smiley's paper 'Rejection' (1996) introduces bilateralism, which achieves classical logic using entirely harmonious negation rules. Read (S.: 2000, 'Harmony and Autonomy in Classical Logic,' Journal of Philosophical Logic 29, 123-154) attempts to use only unilateral rules. Smiley argues that bilateralism avoids Carnap's problem, providing a 'categoricity' proof for this (Smiley, 1996: 8). 
+In contrast, classical validity and hyper-classically_b valid (meaning that any hyper-Boolean valuation of contents, which makes the premises true, also makes the conclusion true; a valuation is hyper-Boolean if it is either Boolean or it makes every content simultaneously true) are co-extensional in a unilateral framework, which means that the rule of standard classical logic does not fix the meaning of the logical operators.
+Furthermore, it is argued that simply switching to intuitionistic logic would not resolve this concern. Murzi and Hjortland (2009: 6) argue that the null rule of bottom-intro indicates there is no canonical way of introducing 'bottom.' Tennant (1999) points out that any formalization of the procedure demonstrating the rule of ex falso quodlibet (efq) is in harmony with the null rule of bottom intro makes use of the rule of bottom elimination itself in the metalanguage. Dummett provides a rule of bottom introduction: p1, p2, ... - bottom.

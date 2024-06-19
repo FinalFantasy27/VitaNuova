@@ -1,0 +1,10 @@
+Derivations in natural deduction normalize, i.e., there is always a sequence of
+reduction steps which transforms a derivation into a derivation in normal form. A
+derivation is in normal form if no introduction rule for a connective is immediately
+followed by an elimination rule for the same connective. This result plays a similar
+role for natural deduction as the cut-elimination theorem plays for the sequent
+calculus. In particular, it establishes the subformula property for natural deduction
+derivations. As noted above, the subformula property is essential for the practical
+implementation of proof search algorithms, since it limits the search space and
+so eliminates one source of infeasibility in actually carrying out the search for a
+derivation.

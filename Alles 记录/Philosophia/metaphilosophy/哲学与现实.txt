@@ -1,0 +1,17 @@
+（语言）哲学与现实：
+1993年最高法院史密斯诉美国案件 Smith v. United States (1993) 认为，根据联邦法规，以枪换取毒品构成“使用”枪支。 1
+ 
+1 《美国法典》第 18 卷第 924(c)(1)条（2006 年）： [任何人......[在实施暴力犯罪或贩毒过程中]使用或携带枪支 在实施暴力犯罪或贩毒过程中]使用或携带枪支者 除对该[项]罪行规定的处罚外，......还应 ......处以不少于五年的监禁。处以不少于五年的监禁。
+18 U.S. code section 924(c)(1) (2006).[A]ny person who . . . uses or carries a firearm [in the course of committing a crime of vio lence or drug trafficking] shall, in addition to the punishment provided for such [a] crime . . . be sentenced to a term of imprisonment of not less than five years.
+ 
+斯卡利亚大法官提出反对意见：
+在寻求法定含义时，我们赋予非技术性词汇和短语以普通含义。. . . 使用工具通常是指将其用于预期目的。当有人问“你用手杖吗？”时，他不是在询问你是否有你祖父的银柄手杖摆在大厅里；他想知道你是否用手杖走路。同样，说到“使用枪支”，就是说到枪支的特殊用途，即作为武器使用。当然，“一个人可以以多种方式使用枪支”，......包括作为交换物品......，但这不是“使用”枪支的普通含义。
+法院断言，这一论点的“重大缺陷”在于，“说‘使用枪支’的通常含义包括将枪支用作武器”与说通常含义“也排除任何其他用途”是完全不同的。这两者的确不同，但我所断言的正是后者。“使用枪支”的普通含义不包括将枪支用作商业物品。例如，如果证人在检察官询问他是否曾“使用过枪支”时回答 "没有"，即使他曾将其祖父的恩菲尔德步枪卖给一个收藏家，我认为这显然不符合作伪证定罪的客观虚假性要求。
+In the search for statutory meaning, we give nontechnical words and phrases their ordinary meaning. . . . To use an instrumentality ordinarily means to use it for its intended purpose. When someone asks, “Do you use a cane?,” he is not inquiring whether you have your grand father’s silver- handled walking stick on display in the hall; he wants to know whether you walk with a cane. Similarly, to speak of “using a firearm” is to speak of using it for its distinctive purpose, i.e., as a weapon. To be sure, “one can use a firearm in a number of ways,” . . . including as an article of exchange . . . but that is not the ordinary meaning of “using” the one or the other. 
+The Court asserts that the “significant flaw” in this argument is that “to say that the ordinary meaning of ‘uses a firearm’ includes using a firearm as a weapon” is quite diff er ent from saying that the ordinary meaning “also excludes any other use.” The two are indeed diff er ent— but it is precisely the latter that I assert to be true. The ordinary meaning of “uses a firearm” does not include using it as an article of commerce. I think it perfectly obvious, for example, that the objective falsity requirement for a perjury conviction would not be satisfied if a witness answered “no” to a prosecutor’s inquiry whether he had ever “used a firearm,” even though he had once sold his grand father’s Enfield rifle to a collector.
+Ibid., p. 242, n. 1.
+
+ 
+法院多数法官指出： 当一个词没有被法规定义时，我们通常按照其普通或自然含义来解释。. . . 当然，请愿人对其[枪支]的处理可以说是[枪支]日常含义中的“使用”。请愿人“使用”他的[枪支]，试图用它来换取可卡因，从而获得毒品。
+The Court majority pointed out that this was false: When a word is not defined by statute, we normally construe it in accord with its ordinary or natu ral meaning. . . . Surely petitioner’s treatment of his [gun] can be described as “use” [of the firearm] within the everyday meaning of that term. Petitioner “used” his [gun] in an attempt to obtain drugs by offering to trade it for cocaine.
+Ibid., p. 228.

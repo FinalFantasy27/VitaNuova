@@ -1,0 +1,339 @@
+
+Dennett, Daniel C. (1988) Quining Qualia. In: Marcel, A. & Bisiach, E. (eds.) Consciousness in Modern Science, Oxford University Press.
+
+
+“I see you tucking eagerly into a helping of steaming
+cauliflower, the merest whiff of which makes me faintly
+nauseated, and I find myself wondering how you could possibly
+relish that taste, and then it occurs to me that to you,
+cauliflower probably tastes (must taste?) different.”
+
+“my first sip of breakfast orange juice tastes much sweeter than
+my second sip if I interpose a bit of pancakes and maple syrup,
+but after a swallow or two of coffee, the orange juice goes back
+to tasting (roughly? exactly?) the way it did the first sip.
+Surely we want to say (or think about) such things, and surely
+we are not wildly wrong when we do, so . . . surely it is quite
+OK to talk of the way the juice tastes to Dennett at time t, and
+ask whether it is just the same as or different from the way the
+juice tastes to Dennett at time t’...”
+
+
+Imagine a wine-tasting machine. It has perfect functional
+duplicates of our taste buds and olfactory organs. These sensory
+devices collects information from a wine sample, transmit to a
+central processor, which compares the information with its
+database. Finally, the machine outputs a wine-tasting report.
+
+“Such a machine might well perform better than human wine
+tasters on all reasonable tests of accuracy and consistency the
+winemakers could devise, but surely no matter how ‘sensitive’
+and ‘discriminating’ such a system becomes, it will never have,
+and enjoy, what we do when we taste a wine: the qualia of
+conscious experience!”
+
+
+the traditional conception is committed to
+four properties of qualia.
+
+ineffable
+They can’t be verbally described
+
+intrinsic
+They are not relational, dispositional, or functional
+properties
+They are simple
+
+private
+Undetectable from a third-person perspective (i.e. not
+through physiological or behavior tests)
+
+directly accessible
+The experiencer has privileged first-person access to qualia
+
+
+Inverted Spectrum
+
+Imagine that your color experience is inverted from mine: when
+I see orange, you see blue; when I see blue, you see orange, etc..
+If we were born this way, there is no way we can know that our
+color experiences are different.
+
+“how do I know that you and I see the same subjective color
+when we look at something? Since we both learned color words
+by being shown public colored objects, our verbal behavior will
+match even if we experience entirely different subjective colors.”
+
+
+the Brainstorm machine
+
+“[T]here were some neuroscientific apparatus that fits on your
+head and feeds your visual experience into my brain... With
+eyes closed I accurately report everything you are looking at,
+except that I marvel at how the sky is yellow, the grass red, and
+so forth. Would this not confirm, empirically, that our qualia
+were different?”
+
+“But suppose the technician then pulls the plug on the
+connecting cable, inverts it 180 degrees and reinserts it in the
+socket. Now I report the sky is blue, the grass green, and so
+forth.”
+
+
+the neurosurgical prank
+
+When you were sleeping, a neurosurgeon made some changes to
+your brain. “You wake up one morning to find that the grass
+has turned red, the sky yellow, and so forth. No one else notices
+any color anomalies in the world, so the problem must be in
+you.”
+
+“There are (at least) two different ways the evil neurosurgeon
+might perform the surgery:
+
+(I) Invert one of the ‘early’ qualia-producing channels, e.g., in
+the optic nerve, so that all relevant neural events ‘downstream’
+are the ‘opposite’ of their original and normal values. Ex
+hypothesi this inverts your qualia.”
+
+“(II) Leave all those early pathways intact and simply invert
+certain memory-access links – whatever it is that accomplishes
+your tacit (and even unconscious!) comparison of today’s hues
+with those of yore. Ex hypothesi this does not invert your qualia
+at all, but just your memory-anchored dispositions to react to
+them.”
+
+
+The direct accessibility of qualia is questioned.
+
+“If there are qualia, they are even less accessible to our ken
+than we had thought. Not only are the classical intersubjective
+comparisons impossible (as the Brainstorm machine shows), but
+we cannot tell in our own cases whether our qualia have been
+inverted – at least not by introspection.”
+
+
+“It is surely tempting at this point – especially to
+non-philosophers – to decide that this paradoxical result must
+be an artifact of some philosophical misanalysis or other, the
+sort of thing that might well happen if you took a perfectly
+good pre-theoretical notion – our everyday notion of qualia –
+and illicitly stretched it beyond the breaking point.”
+
+“The philosophers have made a mess; let them clean it up;
+meanwhile we others can get back to work, relying as always on
+our sober and unmetaphysical acquaintance with qualia.”
+
+
+Chase and Sanborn
+
+Chase and Sanborn are coffee tasters working for Maxwell
+House.
+Chase: “I hate to admit it, but I’m not enjoying this work
+anymore. When I came to Maxwell House six years ago, I
+thought Maxwell House coffee was the best-tasting coffee in the
+world... And we’ve done our job well; the coffee tastes just
+the same today as it tasted when I arrived. But, you
+know, I no longer like it! My tastes have changed. I’ve
+become a more sophisticated coffee drinker. I no longer like
+that taste at all.”
+
+Sanborn: “When I arrived here, shortly before you did, I, like
+you, thought Maxwell House coffee was tops in flavor. And now
+I, like you, really don’t care for the coffee we’re making. But
+my tastes haven’t changed; my tasters have changed...
+Maxwell House coffee doesn’t taste to me the way it
+used to taste...”
+
+
+There seem to be three possibilities of what changes have
+happened to Chase and Sanborn.
+
+(i) The coffee-taste-qualia have stayed constant, but the
+attitudes have changed.
+
+(ii) The coffee-taste-qualia have changed (gradually and
+imperceptibly), while the attitudes have stayed constant.
+
+(iii) Somewhere between (i) and (ii): both qualia and attitudes
+have changed.
+
+
+Intra-personal comparisons of qualia are possible.
+
+Since we have direct access to qualia, we cannot
+make mistakes about our own qualia.
+
+
+Intuitions:
+
+1. Chase and Sanborn, by introspection, cannot tell their qualia
+apart from their attitudes towards their qualia.
+
+What Chase and Sanborn have access to seems to be the
+result of two different factors: their qualia, and their
+reactions (here, their attitudes) to the qualia.
+
+When the final product changes, they cannot tell which
+factor is responsible for the change.
+
+2. We don’t have privileged first-person access to qualia, as we
+can make mistakes about our own qualia.
+
+
+Can there be any empirical evidence?
+
+
+The gradual post-operative recovery
+
+Chase’s taste bud connections are surgically inverted: after the
+surgery, sugar tastes salty, salt taste sour, etc..
+But later on, Chase recovered and now on all behavioral and
+verbal tests, his performance is indistinguishable from his
+pre-surgical performance: now he says sugar is sweet, salt is
+salty, etc..
+
+
+Again, there are three possibilities:
+
+(i) During recovery, Chase’s qualia have changed, while his
+judgments about qualia have stayed constant.
+
+(ii) During recovery, Chase’s judgments about qualia have
+changed, while his qualia have stayed constant.
+
+(iii) Both have changed.
+
+
+Suppose recovery is achieved through an adjustment in the memory-accessing process. There are still different possibilities:
+
+(I) Chase’s current qualia remain abnormal, but his memories
+of how things used to taste have changed, leading him to no longer notice any anomaly.
+
+(II) Memory-accessing is part of what determines which qualia
+are produced. With the adjustment in memory, Chase's qualia are now normal.
+
+
+Neuroscientists may claim that they can empirically distinguish
+the two possibilities. A proposal can be along the following
+lines:
+
+We are only conscious of information in the global
+workspace. Let’s call properties of perceptual information
+in the global workspace “qualia”.
+
+If only the information in the global workspace can be
+compared to memory, then there is evidence that Chase's qualia have remained constant.
+
+
+“Chase or Sanborn might complain – in the company of more
+than a few philosophical spokesmen – that these properties the
+neurophysiologists choose to call ‘qualia’ are not the qualia they
+are speaking of.”
+
+
+Intuitions:
+
+1. Qualia are not directly accessible.
+
+2. Empirical evidence may be useful for qualia comparisons, if
+we adopt a third-person accessible, objective concept of qualia.
+
+
+In the above cases, we have assumed that qualia are distinct
+from reactions to qualia.
+Specifically, we have presumed that Chase's coffee-tasting qualia are separate from his reactions to them. Due to this distinction, his statement that he no longer enjoys the coffee does not necessarily imply a change in his coffee-tasting qualia.
+
+
+A proposal: One’s reactions to experiences are constitutive of
+her qualia.
+
+If qualia are understood in this way, both Chase and Sanborn have experienced changes in their qualia.
+
+
+The experienced beer drinker
+
+No one likes their first sip of beer.
+But when she gradually becomes an experienced beer drinker,
+she may enjoy drinking beer.
+
+
+If one’s reactions to experiences constitute her qualia, the quale of the first sip must differ from that of the experienced beer drinker.
+
+If one’s reactions to experiences constitute her qualia, the beer-drinking qualia are depend on one’s attitudes towards the experience.
+
+
+For a beer-drinking experience, if its quale is an intrinsic
+property, what the quale is must only depend on the
+experience and nothing else.
+
+If the quale of an experience depends on things other than
+the experience itself, it is extrinsic or relational.
+
+Now the beer-drinking qualia depend on one’s attitudes, they are extrinsic propoerties.
+
+
+A regimentation of the argument
+
+(P1) Either qualia are distinct from one’s reactions to them or
+not.
+
+(P2) If they are, qualia are not directly accessible.
+
+(P3) If they are not, qualia are not intrinsic.
+
+(C1) Therefore, qualia are either not directly accessible or not
+intrinsic.
+
+(C2) Therefore, the concept of qualia is incoherent.
+
+
+Dennett’s proposal: We should just give up the idea that
+experiences have intrinsic properties.
+
+Cauliflower cure
+
+“someone offers me a pill to cure my
+loathing for cauliflower. He promises that after I swallow this
+pill cauliflower will taste exactly the same to me as it always
+has, but I will like that taste!... I take the pill and it works.”
+
+“Of course I recognize that the taste is (sort of) the same–the
+pill hasn’t made cauliflower taste like chocolate cake, after all.”
+
+“But at the same time my experience is so different now that I
+resist saying that cauliflower tastes the way it used to taste.
+
+“There is in any event no reason to be cowed into supposing
+that my cauliflower experiences have some intrinsic properties
+behind, or in addition to, their various dispositional,
+reaction-provoking properties.”
+
+
+Some seemingly intrinsic properties of
+experiences had better be treated as extrinsic, and there is no
+reason to assume that some properties are special.
+
+Inverting Spectacles
+
+Wearing inverting spectacles makes
+one’s visual field upside-down. But after wearing them for
+several days, one can adapt to them. Is the adaptation
+involving inverting one’s visual field back, or does it happen
+elsewhere in the mind?
+All these changed and unchanged properties can be extrinsic.
+There is no reason to claim that there is some intrinsic property
+(changed or unchanged) of such experiences.
+
+
+Intuitions:
+
+1. At first glance, the direction of visual field sounds like a
+quale of our visual experiences.
+
+2. But does our visual field really have a property of
+“upside-downness” or “right-side-upness” indenpendent of our
+reactions?
+
+3. There is no reason to assume that a certain subclass of
+properties of experiences are intrinsic.

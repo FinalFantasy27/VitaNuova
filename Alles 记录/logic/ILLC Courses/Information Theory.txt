@@ -1,0 +1,64 @@
+
+Information Theory
+	
+N.A. Resch (co-ordinator)
+
+Objectives
+compute the probability of an event using the most common discrete probability distributions (Bernoulli, binomial, and geometric)
+compute inverse probabilities using Bayes' rule
+compute the means and variances of commonly used probability distributions
+compute the means and variances of sums or products of a random variables with known distributions
+bound the probability of an extreme event using inequalities such as the Markov bound, Chebyshev's inequality, or Hoeffding's inequality
+compute the entropy of a random variable
+compute the mutual information between two random variables
+use entropy diagrams to reason about the relative size of the entropies, conditional entropies, and mutual information of two or three random variables
+use Jensen's inequality to bound the mean of a random variable defined in terms of convex or concave function of another random variable
+construct a d-ary Huffman code for a random variable
+use Kraft's inequality to check whether a prefix-free code can be constructed to fit certain codeword lengths
+bound the possible rate of lossless compression of output from a given source using Shannon's source coding theorem
+define a typical set and reason about its size, probability, and elements
+compute the Shannon-Fano-Elias codeword for a sample from a stochastic process
+compute the entropy rate of a Markov process
+construct a probability model of a communication channel given a verbal description 
+compute the channel capacity of a channel 
+use Shannon's channel-coding theorem to bound the achievable rate of reliable communication over a channel
+use Bayes' rule to decode corrupted messages sent using an error-correcting code 
+evaluate the rate and reliability of such codes 
+define the jointly typical sets of a source and channel, and use such sets to decode outputs from the channel
+Contents
+Information theory was developed by Claude E. Shannon in the 1950s to investigate the fundamental limits on signal-processing operations such as compressing data and on reliably storing and communicating data. These tasks have turned out to be fundamental for all of computer science.
+
+In this course, we quickly review the basics of probability theory and introduce concepts such as (conditional) Shannon entropy, mutual information and entropy diagrams. Then, we prove Shannon's theorems about data compression and channel coding. An interesting connection with graph theory is made in the setting of zero-error information theory. We also cover some aspects of information-theoretic security such as perfectly secure encryption, and draw some connections to machine learning. 
+
+Recommended prior knowledge
+Required prior knowledge: familiarity with basic probability theory, such as from the course "Basic Probability: Theory" in the Master of Logic.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Exercise Session
+Study materials
+Literature:
+Good reference: [CT] Thomas M. Cover, Joy A. Thomas. Elements of information theory: http://onlinelibrary.wiley.com/book/10.1002/0471200611, 2nd Edition. New York: Wiley-Interscience, 2006. ISBN 0-471-24195-4.
+Good reference: [MacKay] David J. C. MacKay. Information Theory, Inference, and Learning Algorithms: http://www.inference.phy.cam.ac.uk/mackay/itila/book.html. Cambridge University Press, 2003. ISBN 0-521-64298-1
+Syllabus:
+Practical training material:
+will be provided on Canvas
+Min/max participants
+Master of Logic students have priority.
+
+Assessment
+The evaluation scheme for this course will be a combination of a final exam, homework assignments and quizzes.
+
+There will be 6 homeworks throughout the semester. The homeworks may be completed individually, or in groups of size 2. 
+
+The canvas course page contains a number of quizzes. Typically quizzes will be due one day after the corresponding material was presented in the lecture. The quizzes will not make or break your grade, but will give you a great opportunity to familiarize yourself with the concepts before attempting the homework problems. 
+
+Depending on the number of participants, resit exams might be held in a different form (e.g. as oral exams).
+
+Remarks
+Language of instruction: English
+
+Updated information about the course can be found on Canvas.

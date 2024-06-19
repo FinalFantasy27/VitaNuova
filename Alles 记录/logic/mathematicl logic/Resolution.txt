@@ -1,0 +1,11 @@
+
+Resolution (RES) in Propositional Logic
+
+A literal is a propositional variable or the negation of a propositional variable. We use a set of literals to represent their disjunction, and a set of sets represents a conjunction of disjunctions. (Any formula in propositional logic is equivalent to conjunctive normal form.)
+
+RES rule:
+
+{a1, a2 , ..., c}, {b1, b2, ..., ~c} \
+{a1, a2, ..., b1, b2, ...}
+
+Resolution is refutation-complete, meaning that if a conjunctive normal form can be transformed into an empty set (empty disjunction of literals) using the RES rule, then it is a contradiction.

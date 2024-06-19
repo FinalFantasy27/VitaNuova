@@ -1,0 +1,9 @@
+A. Bezboruah and J. C. Shepherdson, "Gödel's Second Incompleteness Theorem for Q", The Journal of Symbolic Logic Vol. 41, No. 2 (Jun., 1976), pp. 503-512, JStor.
+
+T_0 is a finite theory extending Robinson's Q.
+
+Theorem 1. Let L be any formal system with a recursive set of axioms, a finite number of finitary and recursive rules of inference including modus ponens and having A→A as a theorem for all sentences A. Let
+ConL=df¬(∃y,z)(ThL(y)∧ThL(z)∧neg(z,y))
+where ThL, neg are given in Definition 3 below. Then ConL is not provable in T_0. 
+
+"We must agree with Kreisel that this is devoid of any philosophical interest and that in such a weak system this formula cannot be said to express consistency but only an algebraic property which in a stronger system (e.g. Peano arithmetic P) could reasonably be said to express the consistency of Q."

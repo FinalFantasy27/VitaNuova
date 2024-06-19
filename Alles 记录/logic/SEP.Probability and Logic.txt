@@ -1,0 +1,45 @@
+
+Demey Lorenz, Barteld Kooi / Sack, Joshua 
+Logic and Probability 
+
+
+The Stanford Encyclopedia of Philosophy (Summer 2019 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Combining Logic and Probability Theory 
+2. Propositional Probability Logics 
+2.1 Probabilistic Semantics 
+2.2 Adams’ Probability Logic 
+limit 
+2.3 Further Generalizations 
+3. Basic Probability Operators 
+3.1 Qualitative Representations of Uncertainty 
+3.2 Sums and Products of Probability Terms 
+Expressive power with and without linear combinations, Probabilities belonging to a given subset, Polynomial weight formulas... 
+4. Modal Probability Logics 
+Modal probability logic makes use of many probability spaces, each associated with a possible world or state 
+4.1 Basic Finite Modal Probability Models 
+4.2 Indexing and Interpretations 
+Stochastic Interpretation 
+agents and actions 
+principles on higher-order probabilities, for instance in the Judy Benjamin Problem (van Fraassen 1981a) 
+Subjective Interpretation 
+strategies 
+4.3 Probability Spaces 
+4.4 Combining Quantitative and Qualitative Uncertainty 
+Box 
+4.5 Dynamics 
+probabilistic update, see dynamic epistemic logic 
+5. First-order Probability Logic 
+5.1 An Example of a First-order Probability Logic 
+5.1.1 Quantifying over More than One Variable 
+5.1.2 Conditional Probability 
+5.1.3 Probabilities as Terms 
+5.2 Possible World First-order Probability Logic 
+5.3 Metalogic 
+Generally it is hard to provide proof systems for first-order probability logics, because the validity problem for these logics is generally undecidable. It is even not the case, as it is the case in classical first-order logic, that if an inference is valid, then one can find out in finite time (see Abadi and Halpern (1994)). 
+
+Nonetheless there are many results for first-order probability logic. For instance, Hoover (1978) and Keisler (1985) study completeness results. Bacchus (1990) and Halpern (1990) also provide complete axiomatizations as well as combinations of first-order probability logics and possible-world first-order probability logics respectively. In Ognjanović and Rašković (2000), an infinitary complete axiomatization is given for a more general version of the possible-world first-order probability logic presented here. 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

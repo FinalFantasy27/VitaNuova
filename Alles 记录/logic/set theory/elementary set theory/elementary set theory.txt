@@ -1,0 +1,10 @@
+Order type
+Every well-ordered set is order-equivalent to exactly one ordinal number, by definition. The ordinal numbers are taken to be the canonical representatives of their classes, and so the order type of a well-ordered set is usually identified with the corresponding ordinal.
+
+Aleph number 
+The cardinality of any infinite ordinal number is an aleph number. Every aleph is the cardinality of some ordinal. The least of these is its initial ordinal. Any set whose cardinality is an aleph is equinumerous with an ordinal and is thus well-orderable.
+Each finite set is well-orderable, but does not have an aleph as its cardinality.
+The assumption that the cardinality of each infinite set is an aleph number is equivalent over ZF to the existence of a well-ordering of every set, which in turn is equivalent to the axiom of choice. ZFC set theory, which includes the axiom of choice, implies that every infinite set has an aleph number as its cardinality (i.e. is equinumerous with its initial ordinal), and thus the initial ordinals of the aleph numbers serve as a class of representatives for all possible infinite cardinal numbers.
+When cardinality is studied in ZF without the axiom of choice, it is no longer possible to prove that each infinite set has some aleph number as its cardinality; the sets whose cardinality is an aleph number are exactly the infinite sets that can be well-ordered.
+
+Assuming foundation, every \in-totally-ordered set is \in-well-ordered.

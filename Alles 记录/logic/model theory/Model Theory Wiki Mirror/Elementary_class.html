@@ -1,0 +1,11 @@
+<p>A class of structures is an <strong>elementary class</strong> if it is exactly the class of models of some theory <em>T</em>.</p>
+<p>There is some semantic characterization of elementary classes, due to Shelah. Maybe it says: a class <em>C</em> of structures is an elementary class if and only if it is closed in the following ways:</p>
+<ul>
+<li>Any structure isomorphic to an element of <em>C</em> is in <em>C</em></li>
+<li>Any <span class="new" title="Ultraproduct (page does not exist)" data-uncrawlable-url="L3dpa2kvVWx0cmFwcm9kdWN0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">ultraproduct</span> of elements of <em>C</em> is in <em>C</em></li>
+<li>If some <span class="new" title="Ultraproduct (page does not exist)" data-uncrawlable-url="L3dpa2kvVWx0cmFwcm9kdWN0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">ultrapower</span> of <em>M</em> is in <em>C</em>, then <em>M</em> is in <em>C</em>.</li>
+</ul>
+<p>(Somebody who knows the correct statement should check this, and write up the proof.)</p>
+<p>For the proof, it's straightforward to check that if "C" is an elementary class then it has the correct closure properties. Going the other direction, assume "C" has the closure properties described above. Define the theory "T" to be the set of all sentences that are satisfied by every element of "C". Any element of "C" is certainly a model of "T", so it's enough to show that any model of "T" is already in "C".</p>
+<p>First, observe the following CLAIM holds: if we have a theory "S" and every finite subset is satisfiable by an element in "C", then there's an element of "C" that models "S". The proof of CLAIM is done by rewriting the proof of compactness using ultraproducts and observing the model we get is in "C" by the closure properties.</p>
+<p>Now, if we take some model "N" of "T", one argues that "Th(N)" meets the hypothesis of CLAIM. In particular, some element of "C" is elementarily equivalent to "N". Then using the Keisler Shelah Isomorphism Theorem and the closure properties of "C" we get that "N" is in "C". (Edited by Carl Dean) ::: ::: :::</p>

@@ -1,0 +1,60 @@
+
+如何理性地回应日常生活中的分歧？ 
+
+Synalysis（微信公众号） 
+
+Abstract: 核心的认识论问题：若主体发现其处于同行分歧当中，她在认知上有义务做什么[1] (Christensen 2007; Feldman 2009; Kelly 2010; Lackey 2010)？ 传统观点主要包括妥协论（conciliationism，如果主体意识到同行分歧，她就应当将其信念程度调整为更接近对方的初始信念程度的某个值 (Christensen, 2007; Feldman, 2005, 2009, 2014)，作为妥协论的一个版本，同等权重观（the equal weight View）进一步认为，主体应当将信念程度调整为她和对方初始信念程度的平均值 (Christensen, 2007)）、总体证据论（the total evidence view， (Kelly, 2010) ，主体应当如何调整信念态度取决于其所拥有的证据总体，包括一阶证据（即直接与目标命题的真假相关的证据）以及高阶证据（即关于一阶证据本身的特征或主体对一阶证据的回应的证据）），以及辩护论（the justificationist view，强调发现分歧前主体信念态度的认知地位。根据辩护论，如果主体在发现分歧前的信念程度得到较高程度的辩护，那么她发现分歧后也应当坚持原先的信念程度；反之则应当对对方做出妥协 (Lackey, 2008)）等等 
+日常生活中几乎不存在同行分歧，因为真实的主体几乎没有充足的理由认为她的反对者满足（i）和（ii）(King 2012) 
+Matheson (2014)非理想化的日常分歧（non-idealized everyday disagreement）的认知意义 
+Matheson关于日常分歧观点是共时性的，它不足以解释日常分歧中常见的一种高阶证据（higher-order evidence）所具有的认知意义 
+共时性（主体发现分歧时下一刻应该干什么）可以回应Anaya (2021)论证说，面对分歧，主体应当对自己的推理进行复查（double-check）。他接着论证，在一些情形中，妥协论与复查的认知义务不能相容。这是因为，主体似乎被允许接受复查的结论。这意味着，如果复查表明自己的推理是完全错误的，那么她就被允许将信念程度降为0。但是，妥协论则要求主体在任何时候都将信念程度调整为自己和对方的初始信念程度之间的某个值，而这个值是大于0的。因此，妥协论是假的，因为它不允许主体按照复查的结果去调整信念程度。 
+如果我们有证据（E0）认为某人拥有一条支持p的证据（E），那么我们也有支持p的证据（E1）(Feldman, 2014, p. 292) 。EEE原则的后件中支持p的证据E1不等同于E。如果我有理由认为你有关于“我头痛”的经验证据，我就有证据认为你头痛。但是我并不因此拥有你头痛的经验本身。 
+
+Comment:
+Anaya, A. (forthcoming). Let Me Double - Check That: A Challenge for Conciliationism. Wiley: Theoria
+
+Comesaña, J., &amp; Tal, E. (2015). Evidence of Evidence Is Evidence. Analysis, 75(4), 557-559.
+
+Christensen, D. (2007). Epistemology of Disagreement: The Good News. Philosophical Review, 116(2), 187-217.
+
+Christensen, D. (2010). Higher-Order Evidence. Philosophy and Phenomenological Research, 81(1), 185-215.
+
+David, M. (2014). Truth as the Primary Epistemic Goal. In M. Steup, J. Turri &amp; E. Sosa (Eds.), Contemporary Debates in Epistemology (363-377). Wiley Blackwell.
+
+Feldman, R. (2000). The Ethics of belief. Philosophy and Phenomenological Research, 60(3), 667-695.
+
+Feldman, R. (2001). Voluntary Belief and Epistemic Evaluation. In M. Steup (Ed.), Knowledge, Truth, and Duty: Essays on Epistemic Justification, Responsibility, and Virtue (77-92). Oxford University Press.
+
+Feldman, R. (2005). Respecting the Evidence. Philosophical Perspectives, 19(1), 95-119.
+
+Feldman, R. (2009). Evidentialism, Higher-Order Evidence, and Disagreement. Episteme, 6(3), 294-312.
+
+Feldman, R. (2014). Evidence of Evidence is Evidence. In J. Matheson &amp; R. Vitz (Eds.), The Ethics of Belief: Individual and Social (284-300). Oxford University Press.
+
+Fitelson, B. (2012). Evidence of Evidence Is not (necessarily) Evidence. Analysis, 72(1), 85-88.
+
+Frances, B. (2018). Disagreement. https://plato.stanford.edu/entries/disagreement/
+
+Hall, R. J., &amp; Johnson, C. R. (1998). The Epistemic Duty to Seek More Evidence. American Philosophical Quarterly, 35(2), 129-139.
+
+Kelly, T. (2005). The Epistemic Significance of Disagreement. In J. Hawthorne &amp; T. Gendler (Eds.), Oxford Studies in Epistemology, Volume 1 (167-196). Oxford University Press.
+
+Kelly, T. (2010). Peer Disagreement and Higher-Order Evidence. In A. I. Goldman &amp; D. Whitcomb (Eds.), Social Epistemology: Essential Readings (183-217). Oxford University Press.
+
+Kelly, T. (2014). Evidence. https://plato.stanford.edu/entries/evidence/
+
+King, N. L. (2012). Disagreement: What's the Problem? or A Good Peer is Hard to Find. Philosophy and Phenomenological Research, 85(2), 249-272.
+
+Lackey, J. (2008). A Justificationist View of Disagreement’s Epistemic Significance. In A. M. Adrian Haddock &amp; D. Pritchard (Eds.), Social Epistemology (53, pp. 145-154). Oxford University Press.
+
+Matheson, J. (2014). Disagreement: Idealized and Everyday. In J. Matheson &amp; R. Vitz (Eds.), The Ethics of Belief: Individual and Social (315-330). Oxford University Press.
+
+Matheson, J. (2021). Robust Justification. In S. Stapleford &amp; K. McCain (Eds.), Epistemic Duties: New Arguments, New Angles. Routledge.
+
+Pollock, J. L. (1986). Contemporary Theories of Knowledge (Vol. 22). Hutchinson.
+
+Ross, W. D. (1930). The Right and the Good: Some Problems in Ethics (Vol. 41). Clarendon Press.
+
+Smithies, D. (2021). The Epistemic Function of Higher-Order Evidence. In P. Silva &amp; L. Oliveira (Eds.), Propositional and Doxastic Justification: New Perspectives in Epistemology.
+
+Tal, E., &amp; Comesaña, J. (2017). Is Evidence of Evidence Evidence? Noûs, 51(1), 95-112.

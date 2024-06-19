@@ -1,0 +1,71 @@
+
+Lin, Hanti 
+Bayesian Epistemology 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+Abstract: 1. A Tutorial on Bayesian Epistemology 
+1.1 A Case Study 
+1.2 Two Core Norms 
+1.3 Applications 
+1.4 Bayesians Divided: What Does Coherence Require? 
+1.5 Bayesians Divided: The Problem of the Priors 
+1.6 An Attempted Foundation: Dutch Book Arguments 
+1.7 Alternative Foundations 
+1.8 Objections to Conditionalization 
+1.9 Objections about Idealization 
+1.10 Concerns, or Encouragements, from Non-Bayesians 
+2. A Bit of Mathematical Formalism 
+3. Synchronic Norms (I): Requirements of Coherence 
+3.1 Versions of Probabilism 
+3.2 Countable Additivity 
+3.3 Regularity 
+3.4 Norms of Conditional Credences 
+3.5 Chance-Credence Principles 
+3.6 Reflection and Other Deference Principles 
+4. Synchronic Norms (II): The Problem of the Priors 
+4.1 Subjective Bayesianism 
+4.2 Objective Bayesianism 
+4.3 Forward-Looking Bayesianism 
+4.4 Connection to the Uniqueness Debate 
+5. Issues about Diachronic Norms 
+5.1 Old Evidence 
+5.2 New Theory 
+5.3 Uncertain Learning 
+5.4 Memory Loss 
+5.5 Self-Locating Credences 
+5.6 Bayesianism without Kinematics 
+6. The Problem of Idealization 
+6.1 De-idealization and Understanding 
+6.2 Striving for Ideals 
+6.3 Applications Empowered by Idealization 
+7. Closing: The Expanding Territory of Bayesianism
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries
+
+
+Talbott, William 
+Bayesian Epistemology 
+
+
+The Stanford Encyclopedia of Philosophy (Spring 2022 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Deductive and Probabilistic Coherence and Deductive and Probabilistic Rules of Inference 
+2. A Simple Principle of Conditionalization 
+3. Dutch Book Arguments 
+4. Bayes' Theorem and Bayesian Confirmation Theory 
+Bayes' Theorem and a Corollary 
+Bayesian Confirmation Theory 
+5. Bayesian Social Epistemology 
+6. Potential Problems 
+6.1 Objections to the Probability Laws as Standards of Synchronic Coherence 
+6.2 Objections to The Simple Principle of Conditionalization as a Rule of Inference and Other Objections to Bayesian Confirmation Theory 
+Some Bayesians who have tried to solve this problem (e.g., Garber) have typically tried to weaken the logical omniscience assumption to allow for the possibility of discovering logical relations (e.g., that H and suitable auxiliary assumptions imply E). As mentioned above, relaxing the logical omniscience assumption threatens to block the derivation of almost all of the important results in Bayesian epistemology. Other Bayesians (e.g., Lange) employ the Bayesian formalism as a tool in the rational reconstruction of the evidentiary support for a scientific hypothesis, where it is irrelevant to the rational reconstruction whether the evidence was discovered before or after the theory was initially formulated. Joyce and Christensen agree that discovering new logical relations between previously accepted evidence and a theory cannot raise the probability of the theory. However, they suggest that using Pi(H/E) − Pi(H/-E) as a measure of support can at least explain how evidence that has probability one could still support a theory. Eells and Fitelson have criticized this proposal and argued that the problem is better addressed by distinguishing two measures, the historical measure of the degree to which a piece of evidence E actually confirmed an hypothesis H and the ahistorical measure of how much a piece of evidence E would support an hypothesis H, on given background information B. The second measure enables us to ask the ahistorical question of how much E would support H if we had no other evidence supporting H. 
+7. Other Principles of Bayesian Epistemology 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

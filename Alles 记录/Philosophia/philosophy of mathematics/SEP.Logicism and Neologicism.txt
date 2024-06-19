@@ -1,0 +1,59 @@
+Hume's principle does not tell us what a number is, therefore the basic law V. However, ...
+
+For a proof of relative consistency of hume's principle to second order logic, see the second Appendix to George Boolos and Richard G. Heck, Jr., "Die Gvundfajen der Arithmetik §§82-3," in M. Schirn, ed., Philosophy of Mathematics Today
+(Oxford: Oxford Universiy Press, 1997).
+
+‘Bad Company’, or ‘Embarrassment of Riches’
+Some abstraction principles are inconsistent. Yet others, though individually consistent, are mutually inconsistent. How then can we know, of any proposed abstraction principle, whether we should accept it? (SEP)
+
+Tennant, Neil 
+Logicism and Neologicism 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2017 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Historical background 
+1.1 Dedekind 
+1.2 Frege 
+1.2.1 Numbers as higher-level concepts 
+1.2.2 Hume’s Principle and the Caesar Problem 
+1.2.3 The Grundgesetze 
+1.2.4 Frege’s treatment of the natural numbers 
+1.2.5 Russell’s Paradox 
+1.3 Logicism after Frege and up to Zermelo 
+1.3.1 Russell’s type theory 
+1.3.2 Zermelo-Fraenkel set theory 
+2. Neo-Fregeanism 
+3. Second-order logic with Hume’s Principle 
+4. Constructive Logicism 
+4.1 Motivation for a different kind of neo-logicism 
+4.2 Anti-realism and an inferentialist approach to logicism 
+4.3 Execution 
+5. Modal Neo-Logicism 
+6. Summary of Problems for Logicism 
+Frege’s ‘conceptualization problem’ 
+How do we apprehend numbers, if we are persuaded that arithmetic is not grounded in Kant’s “pure form of intuition of time”? As Frege put it in Grundlagen §62: “How … are numbers to be given to us, if we cannot have any ideas or intuitions of them?” 
+Frege’s ‘Julius Caesar problem’ 
+How can one show that, given a would-be logicist account of the nature of numbers, Julius Caesar is not a number? More generally: how can one show, on such an account, that no number is a concrete individual? 
+The ‘applicability problem’ 
+Can the logicist account for (i) how natural numbers may be applied in counting finite collections, and (ii) how real numbers may be applied in measuring continuously varying magnitudes such as lengths, periods of time, etc.? 
+The ‘inclusion problem’ 
+How does one show that the natural number n is the very same abstract object as the integer n, the rational number n, and the real number n? (See footnote 40.) 
+The ‘abstraction problem’ 
+What is the correct form for number-abstraction principles (to be espoused by those who hold that numbers are logical abstracta)? 
+The ‘analyticity problem’ 
+Can one demonstrate that one’s chosen number-abstraction principles are analytic? 
+The ‘existence problem’ 
+Can Logic commit one to the existence of any thing, or kind of thing?[48] 
+The ‘infinity problem’ 
+Is the logicist permitted to simply postulate an Axiom of Infinity, to the effect that there are infinitely many things (perhaps of a certain kind)? 
+The ‘demarcation problem’ 
+What makes something a logical constant? Which notions commonly held to be mathematical can actually be defined, implicitly or otherwise, in a properly formulated Logic for logicism?[49] 
+‘Bad Company’,[50] or ‘Embarrassment of Riches’ 
+Some abstraction principles are inconsistent. Yet others, though individually consistent, are mutually inconsistent. How then can we know, of any proposed abstraction principle, whether we should accept it? 
+‘Theoretical Invariance’ 
+Natural numbers are universally applicable; they enjoy their arithmetical properties and enter into their arithmetical relations necessarily, independently of what other kinds of things there might be, and of how these things might be. So abstraction principles for natural numbers should be consistent with any consistent theory about any domain of discourse. Are they? 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

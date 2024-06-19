@@ -1,0 +1,165 @@
+American mathematical society条03-XX Mathematical logic and foundations下的分类标准：
+
+03-00 General reference works (handbooks, dictionaries, bibliographies, etc.) pertaining to mathematical logic and foundations
+03-01 Introductory exposition (textbooks, tutorial papers, etc.) pertaining to mathematical logic and foundations
+03-02 Research exposition (monographs, survey articles) pertaining to mathematical logic and foundations
+03-03 History of mathematical logic and foundations [Consider also classification numbers pertaining to Section 01-XX]
+03-04 Software, source code, etc. for problems pertaining to mathematical logic and foundations
+03-06 Proceedings, conferences, collections, etc. pertaining to mathematical logic and foundations
+03-08 Computational methods for problems pertaining to mathematical logic and foundations
+03-11 Research data for problems pertaining to mathematical logic and foundations
+03Axx Philosophical aspects of logic and foundations
+03Bxx 03Cxx
+03Dxx 03Exx
+03FxxaProof theory and constructive mathematics
+03Gxx Algebraic logic
+03Hxx Nonstandard models [See also 03C62
+
+
+其中03Axx Philosophical aspects of logic and foundations条：
+
+03A05 Philosophical and critical aspects of logic and foundations {For philosophy of mathematics, see also 00A30}
+03A10 Logic in the philosophy of science
+03A99 None of the above, but in this section
+03Bxx General logic条：
+
+03B05 Classical propositional logic
+03B10 Classical first-order logic
+03B16 Higher-order logic
+03B20 Subsystems of classical logic (including intuitionistic logic)
+03B22 Abstract deductive systems
+03B25 Decidability of theories and sets of sentences [See also 11U05, 12L05, 20F10]
+03B30 Foundations of classical theories (including reverse mathematics) [See also 03F35]
+03B35 Mechanization of proofs and logical operations [See also 68V15]
+03B38 Type theory
+03B40 Combinatory logic and lambda calculus [See also 68N18]
+03B42 Logics of knowledge and belief (including belief change)
+03B44 Temporal logic
+03B45 Modal logic (including the logic of norms) {For knowledge and belief, see 03B42; for temporal logic, see 03B44; for provability logic, see also 03F45}
+03B47 Substructural logics (including relevance, entailment, linear logic, Lambek calculus, BCK and BCI logics) {For proof-theoretic aspects, see 03F52}
+03B48 Probability and inductive logic [See also 60A05]
+03B50 Many-valued logic
+03B52 Fuzzy logic; logic of vagueness [See also 68T27, 68T37, 94D05]
+03B53 Paraconsistent logics
+03B55 Intermediate logics
+03B60 Other nonclassical logic
+03B62 Combined logics
+03B65 Logic of natural languages [See also 68T50, 91F20]
+03B70 Logic in computer science [See also 68-XX]
+03B80 Other applications of logic
+03B99 None of the above, but in this section
+03Cxx Model theory条：
+
+03C05 Equational classes, universal algebra in model theory [See also 08Axx, 08Bxx, 18C05]
+03C07 Basic properties of first-order languages and structures
+03C10 Quantifier elimination, model completeness and related topics
+03C13 Model theory of finite structures [See also 68Q15, 68Q19]
+03C15 Model theory of denumerable and separable structures
+03C20 Ultraproducts and related constructions
+03C25 Model-theoretic forcing
+03C30 Other model constructions
+03C35 Categoricity and completeness of theories
+03C40 Interpolation, preservation, definability
+03C45 Classification theory, stability and related concepts in model theory [See also 03C48]
+03C48 Abstract elementary classes and related topics [See also 03C45]
+03C50 Models with special properties (saturated, rigid, etc.)
+03C52 Properties of classes of models
+03C55 Set-theoretic model theory
+03C57 Computable structure theory, computable model theory [See also 03D45]
+03C60 Model-theoretic algebra [See also 08C10, 12Lxx, 13L05]
+03C62 Models of arithmetic and set theory [See also 03Hxx]
+03C64 Model theory of ordered structures; o-minimality
+03C65 Models of other mathematical theories
+03C66 Continuous model theory, model theory of metric structures
+03C68 Other classical first-order model theory
+03C70 Logic on admissible sets
+03C75 Other infinitary logic
+03C80 Logic with extra quantifiers and operators [See also 03B42, 03B44, 03B45, 03B48]
+03C85 Second- and higher-order model theory
+03C90 Nonclassical models (Boolean-valued, sheaf, etc.)
+03C95 Abstract model theory
+03C98 Applications of model theory [See also 03C60]
+03C99 None of the above, but in this section
+03Dxx Computability and recursion theory条：
+
+03D03 Thue and Post systems, etc.
+03D05 Automata and formal grammars in connection with logical questions [See also 68Q45, 68Q70, 68R15]
+03D10 Turing machines and related notions [See also 68Q04]
+03D15 Complexity of computation (including implicit computational complexity) [See also 68Q15, 68Q17]
+03D20 Recursive functions and relations, subrecursive hierarchies
+03D25 Recursively (computably) enumerable sets and degrees
+03D28 Other Turing degree structures
+03D30 Other degrees and reducibilities in computability and recursion theory
+03D32 Algorithmic randomness and dimension [See also 68Q30]
+03D35 Undecidability and degrees of sets of sentences
+03D40 Word problems, etc. in computability and recursion theory [See also 06B25, 08A50, 20F10, 68R15]
+03D45 Theory of numerations, effectively presented structures [See also 03C57] {For intuitionistic and similar approaches, see 03F55}
+03D50 Recursive equivalence types of sets and structures, isols
+03D55 Hierarchies of computability and definability
+03D60 Computability and recursion theory on ordinals, admissible sets, etc.
+03D65 Higher-type and set recursion theory
+03D70 Inductive definability
+03D75 Abstract and axiomatic computability and recursion theory
+03D78 Computation over the reals, computable analysis {For constructive aspects, see 03F60}
+03D80 Applications of computability and recursion theory
+03D99 None of the above, but in this section
+03Exx Set theory条：
+
+03E02 Partition relations
+03E04 Ordered sets and their cofinalities; pcf theory
+03E05 Other combinatorial set theory
+03E10 Ordinal and cardinal numbers
+03E15 Descriptive set theory [See also 28A05, 54H05]
+03E17 Cardinal characteristics of the continuum
+03E20 Other classical set theory (including functions, relations, and set algebra)
+03E25 Axiom of choice and related propositions
+03E30 Axiomatics of classical set theory and its fragments
+03E35 Consistency and independence results
+03E40 Other aspects of forcing and Boolean-valued models
+03E45 Inner models, including constructibility, ordinal definability, and core models
+03E47 Other notions of set-theoretic definability
+03E50 Continuum hypothesis and Martin's axiom [See also 03E57]
+03E55 Large cardinals
+03E57 Generic absoluteness and forcing axioms [See also 03E50]
+03E60 Determinacy principles
+03E65 Other set-theoretic hypotheses and axioms
+03E70 Nonclassical and second-order set theories
+03E72 Theory of fuzzy sets, etc.
+03E75 Applications of set theory
+03E99 None of the above, but in this section
+03Fxx Proof theory and constructive mathematics条：
+
+03F03 Proof theory, general (including proof-theoretic semantics)
+03F05 Cut-elimination and normal-form theorems
+03F07 Structure of proofs
+03F10 Functionals in proof theory
+03F15 Recursive ordinals and ordinal notations
+03F20 Complexity of proofs
+03F25 Relative consistency and interpretations
+03F30 First-order arithmetic and fragments
+03F35 Second- and higher-order arithmetic and fragments [See also 03B30]
+03F40 G枚del numberings and issues of incompleteness
+03F45 Provability logics and related algebras (e.g., diagonalizable algebras) [See also 03B45, 03G25, 06E25]
+03F50 Metamathematics of constructive systems
+03F52 Proof-theoretic aspects of linear logic and other substructural logics [See also 03B47]
+03F55 Intuitionistic mathematics
+03F60 Constructive and recursive analysis [See also 03B30, 03D45, 03D78, 26E40, 46S30, 47S30]
+03F65 Other constructive mathematics [See also 03D45]
+03F99 None of the above, but in this section
+03Gxx Algebraic logic：
+
+03G05 Logical aspects of Boolean algebras [See also 06Exx]
+03G10 Logical aspects of lattices and related structures [See also 06Bxx]
+03G12 Quantum logic [See also 06C15, 81P10]
+03G15 Cylindric and polyadic algebras; relation algebras
+03G20 Logical aspects of Lukasiewicz and Post algebras [See also 06D25, 06D30]
+03G25 Other algebras related to logic [See also 03F45, 06D20, 06E25, 06F35]
+03G27 Abstract algebraic logic
+03G30 Categorical logic, topoi [See also 18B25, 18C05, 18C10]
+03G99 None of the above, but in this section
+03Hxx Nonstandard models [See also 03C62]：
+
+03H05 Nonstandard models in mathematics [See also 26E35, 28E05, 30G06, 46S20, 47S20, 54J05]
+03H10 Other applications of nonstandard models (economics, physics, etc.)
+03H15 Nonstandard models of arithmetic [See also 11U10, 12L15, 13L05]
+03H99 None of the above, but in this section

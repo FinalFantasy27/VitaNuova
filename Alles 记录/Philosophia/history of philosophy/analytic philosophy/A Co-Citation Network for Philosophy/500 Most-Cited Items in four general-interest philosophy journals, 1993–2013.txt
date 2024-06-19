@@ -1,0 +1,525 @@
+Rank	Cites	Item	Typically Cited In
+1	180	Kripke S 1980 Naming Necessity	Nous, Philosophical Review
+2	131	Lewis D 1986 Plurality Worlds	Nous, Philosophical Review
+3	97	Quine W 1960 Word Object	Philosophical Review, Nous
+4	83	Williamson T 2000 Knowledge Limits	Nous, Philosophical Review
+5	82	Lewis D 1973 Counterfactuals	Mind, Nous
+6	78	Evans G 1982 Varieties Reference	Philosophical Review, Nous
+7	77	Chalmers D 1996 Conscious Mind	Philosophical Review, Nous
+7	77	Davidson D 1980 Essays Actions Event	Philosophical Review, Mind
+9	73	Lewis D 1986 Philos Papers	Mind, Nous
+10	64	Parfit D 1984 Reasons Persons	Philosophical Review, Nous
+10	64	Davidson D 1984 Inquiries Truth Inte	Philosophical Review, Mind
+12	60	Nozick R 1981 Philos Explanations	Nous, Philosophical Review
+13	58	Scanlon T 1998 What We Owe Each Oth	Mind, Journal of Philosophy
+14	57	Kaplan D 1989 Themes Kaplan	Philosophical Review, Nous
+15	53	Rawls J 1971 Theory Justice	Philosophical Review, Journal of Philosophy
+16	50	Lewis D 1983 Philos Papers	Nous, Mind
+17	49	Williamson T 1994 Vagueness	Mind, Nous
+18	48	Lewis D 1983 Australas J Philos	Nous, Mind
+19	45	Jackson F 1998 Metaphysics Ethics	Philosophical Review, Nous
+20	44	Lewis D 1996 Australas J Philos	Nous, Philosophical Review
+20	44	Fodor J 1987 Psychosemantics Prob	Nous, Philosophical Review
+20	44	Harman G 1986 Change View	Philosophical Review, Nous
+20	44	Searle J 1983 Intentionality Essay	Nous, Philosophical Review
+20	44	Vaninwagen P 1990 Material Beings	Nous, Philosophical Review
+25	43	Putnam H 1981 Reason Truth Hist	Philosophical Review, Nous
+25	43	Stalnaker R 1984 Inquiry	Philosophical Review, Nous
+25	43	Gibbard A 1990 Wise Choices Apt Fee	Philosophical Review, Nous
+25	43	Smith M 1994 Moral Problem	Philosophical Review, Nous
+25	43	Salmon N 1986 Freges Puzzle	Philosophical Review, Nous
+30	42	Sider T 2001 4 Dimensionalism Ont	Nous, Journal of Philosophy
+31	41	Derose K 1995 Philos Rev	Nous, Philosophical Review
+32	40	Burge T 1979 Midwest Stud Philos	Philosophical Review, Nous
+33	39	Horwich P 1990 Truth	Mind, Nous
+33	39	Bonjour L 1985 Structure of Empiric	Nous, Philosophical Review
+35	38	Hume D No Year No Source	Nous, Philosophical Review
+35	38	Putnam H 1975 Mind Language Realit	Journal of Philosophy, Mind
+35	38	Dretske F 1981 Knowledge Flow Info	Philosophical Review, Mind
+35	38	Peacocke C 1992 Study Concept	Philosophical Review, Nous
+39	37	Fodor J 1990 Theory Content	Nous, Journal of Philosophy
+39	37	Kim J 1993 Supervenience Mind S	Nous, Mind
+41	36	Frankfurt H 1969 J Philos	Philosophical Review, Nous
+41	36	Lewis D 1979 J Philos Logic	Nous, Mind
+41	36	Hawthorne J 2004 Knowledge I Ottenes	Nous, Philosophical Review
+41	36	Neale S 1990 Descriptions	Mind, Nous
+45	35	Wright C 1992 Truth Objectivity	Mind, Nous
+45	35	Locke J No Year No Source	Philosophical Review, Journal of Philosophy
+47	34	Nagel T 1986 View Nowhere	Nous, Philosophical Review
+47	34	Brandom R 1994 Making IT Explicit R	Philosophical Review, Mind
+47	34	Vaninwagen P 1983 Essay Free Will	Philosophical Review, Nous
+47	34	Fine K 1975 Synthese	Mind, Philosophical Review
+47	34	Lewis D 1991 Parts Classes	Nous, Mind
+47	34	Millikan R 1984 Language Thought Oth	Nous, Journal of Philosophy
+53	33	Goldman A 1986 Epistemology Cogniti	Nous, Philosophical Review
+53	33	Kripke S 1982 Wittgenstein Rules P	Mind, Philosophical Review
+53	33	Richard M 1990 Propositional Attitu	Nous, Philosophical Review
+53	33	Quine W 1969 Ontological Realitiv	Nous, Journal of Philosophy
+57	32	Jackson F 1982 Philos Quart	Philosophical Review, Nous
+57	32	Blackburn S 1984 Spreading Word Groun	Mind, Philosophical Review
+57	32	Wittgenstein L 1953 Philos Investigation	Mind, Philosophical Review
+57	32	Dretske F 1995 Naturalizing Mind	Nous, Philosophical Review
+61	31	Dummett M 1978 Truth Other Enigmas	Mind, Journal of Philosophy
+61	31	Dummett M 1991 Logical Basis Metpah	Mind, Journal of Philosophy
+61	31	Wittgenstein L No Year No Source	Journal of Philosophy, Philosophical Review
+64	30	Dretske F 1970 J Philos	Nous, Philosophical Review
+64	30	Russell B 1905 Mind	Mind, Philosophical Review
+64	30	Grice H 1989 Studies Way Words	Nous, Mind
+67	29	Nagel T 1974 Philos Rev	Philosophical Review, Nous
+67	29	Cohen S 1988 Philos Perspectives	Nous, Philosophical Review
+67	29	Ryle G 1949 Concept Mind	Philosophical Review, Nous
+67	29	Lewis D 1969 Convention Philos St	Mind, Journal of Philosophy
+67	29	Mcdowell J 1994 Mind World	Philosophical Review, Nous
+67	29	Dummett M 1973 Frege Philos Languag	Mind, Philosophical Review
+67	29	Lewis D 1986 Philos Papers	Philosophical Review, Nous
+67	29	Margalit A 1979 Meaning Use	Mind, Journal of Philosophy
+75	28	Burge T 1993 Philos Rev	Philosophical Review, Nous
+75	28	Armstrong D 1997 World Status Affairs	Mind, Nous
+75	28	Korsgaard C 1996 Sources Normativity	Philosophical Review, Journal of Philosophy
+75	28	Goldman A 1976 J Philos	Philosophical Review, Nous
+75	28	Mackie J 1977 Ethics Inventing Rig	Nous, Philosophical Review
+75	28	Almog J 1989 Themes Kaplan	Mind, Nous
+75	28	Tye M 1995 10 Problems Consciou	Nous, Philosophical Review
+82	27	Tye M 2000 Consciousness Colro	Nous, Philosophical Review
+82	27	Edgington D 1995 Mind	Mind, Philosophical Review
+82	27	Schiffer S 1987 Remnants Meaning	Mind, Nous
+82	27	Lewis D 1979 Philos Rev	Philosophical Review, Nous
+86	26	Plantinga A 1993 Warrant Proper Funct	Nous, Journal of Philosophy
+86	26	Unger P 1975 Ignorance Case Skept	Philosophical Review, Nous
+86	26	Williams B 1985 Ethics Limits Philos	Nous, Mind
+86	26	Stanley J 2005 Knowledge Practical	Nous, Philosophical Review
+86	26	Nagel T 1979 Mortal Questions	Philosophical Review, Nous
+86	26	Donnellan K 1966 Philos Rev	Mind, Philosophical Review
+86	26	Recanati F 1993 Direct Reference Mea	Nous, Philosophical Review
+86	26	Pryor J 2000 Nous	Nous, Philosophical Review
+86	26	Fischer J 1994 Metaphysics Free Wil	Nous, Philosophical Review
+86	26	Adams E 1975 Logic Conditionals	Philosophical Review, Mind
+96	25	Quine W 1953 Logical Point View	Mind, Nous
+96	25	Gettier E 1963 Analysis	Philosophical Review, Mind
+96	25	Lewis D 1984 Australas J Philos	Nous, Philosophical Review
+99	24	Jeffrey R 1983 Logic Decision	Philosophical Review, Journal of Philosophy
+99	24	Walton K 1990 Mimesis Make-believe	Philosophical Review, Nous
+99	24	Lewis D 1979 Nous	Philosophical Review, Mind
+99	24	Dennett D 1991 Consciousness Explai	Philosophical Review, Mind
+99	24	Williams B 1981 Moral Luck	Nous, Mind
+99	24	Fine K 1994 Philos Perspectives	Nous, Philosophical Review
+99	24	Davidson D 1986 Truth Interpretation	Philosophical Review, Nous
+99	24	Armstrong D 1978 Universals Sci Reali	Philosophical Review, Journal of Philosophy
+99	24	Simons P 1987 Parts Study Ontology	Philosophical Review, Nous
+99	24	Bratman M 1987 Intention Plans Prac	Philosophical Review, Nous
+109	23	Peacocke C 1983 Sense Content Experi	Philosophical Review, Nous
+109	23	Derose K 1992 Philos Phenomen Res	Nous, Philosophical Review
+109	23	Yablo S 1992 Philos Rev	Journal of Philosophy, Nous
+109	23	Benacerraf P 1965 Philos Rev	Journal of Philosophy, Mind
+109	23	Fumerton R 1995 Metaepistemology Sce	Nous, Philosophical Review
+109	23	Wiggins D 1980 Sameness Substance	Journal of Philosophy, Mind
+109	23	Bach K 1994 Mind Lang	Nous, Mind
+109	23	Armstrong D 1989 Universals Opinionat	Mind, Philosophical Review
+109	23	Ginet C 1990 Action	Philosophical Review, Nous
+109	23	Boolos G 1984 J Philos	Mind, Nous
+109	23	Strawson P 1959 Individualy	Nous, Philosophical Review
+120	22	Williams B 1973 Problems Self	Mind, Journal of Philosophy
+120	22	Vanfraassen B 1980 Sci Image	Philosophical Review, Journal of Philosophy
+120	22	Jackson F 1977 Perception Represent	Nous, Philosophical Review
+120	22	Gibbard A 1975 J Philos Logic	Philosophical Review, Journal of Philosophy
+120	22	Quine W 1981 Theories Things	Mind, Philosophical Review
+120	22	Lycan W 1996 Consciousness Experi	Nous, Philosophical Review
+120	22	Quine W 1970 Philos Logic	Mind, Journal of Philosophy
+120	22	Kant I No Year No Source	Philosophical Review, Journal of Philosophy
+120	22	Salmon W 1984 Sci Explanation Caus	Journal of Philosophy, Philosophical Review
+120	22	Brink D 1989 Moral Realism Fdn Et	Philosophical Review, Nous
+130	21	Mcdermott M 1995 Brit J Philos Sci	Journal of Philosophy, Philosophical Review
+130	21	Forbes G 1985 Metaphysics Modality	Mind, Philosophical Review
+130	21	Heller M 1990 Ontology Phys Object	Philosophical Review, Journal of Philosophy
+130	21	Field H 1989 Realism Math Modalit	Philosophical Review, Nous
+130	21	Blackburn S 1993 Essays Quasirealism	Philosophical Review, Mind
+130	21	Field H 1994 Mind	Mind, Nous
+130	21	Lewis D 1970 J Philos	Philosophical Review, Nous
+130	21	Moore G 1903 Principia Ehtica	Nous, Mind
+130	21	Plantinga A 1993 Warrant Current Deba	Nous, Mind
+130	21	Williams D 1953 Rev Metaphys	Mind, Nous
+130	21	Boghossian P 1989 Mind	Mind, Journal of Philosophy
+141	20	Plantinga A 1974 Nature Neccessity	Mind, Nous
+141	20	Lewis D 1999 Papers Metpahysics E	Nous, Philosophical Review
+141	20	Lewis D 1994 Mind	Philosophical Review, Mind
+141	20	Lewis D 1973 J Philos	Journal of Philosophy, Mind
+141	20	Sosa E 1991 Knowledge Perspectiv	Nous, Philosophical Review
+141	20	Priest G 1987 Contradiction	Mind, Journal of Philosophy
+141	20	Fischer J 1998 Responsibility Contr	Nous, Mind
+141	20	Searle J 1992 Rediscovery Mind	Mind, Nous
+141	20	Chisholm R 1976 Person Object Metaph	Philosophical Review, Nous
+141	20	Lewis D 1968 J Philos	Philosophical Review, Mind
+141	20	Perry J 1979 Nous	Philosophical Review, Nous
+141	20	Fodor J 1992 Holism Shoppers Guid	Journal of Philosophy, Nous
+141	20	Schiffer S 1992 J Philos	Philosophical Review, Nous
+141	20	Harman G 1990 Philos Perspectives	Nous, Mind
+141	20	Carnap R 1956 Meaning Necessity	Philosophical Review, Journal of Philosophy
+141	20	Chisholm R 1957 Perceiving Philos St	Nous, Philosophical Review
+141	20	Grice P 1989 Studies Ways Words	Philosophical Review, Nous
+141	20	Vanfraassen B 1989 Laws Symmetruy	Philosophical Review, Journal of Philosophy
+141	20	Hume D 1978 Treatise Human Natur	Philosophical Review, Nous
+141	20	Crimmins M 1989 J Philos	Philosophical Review, Nous
+141	20	Armstrong D 1983 What IS Law Nature	Nous, Journal of Philosophy
+141	20	Burge T 1986 Philos Rev	Mind, Philosophical Review
+141	20	Frege G 1892 Z Philos Philos Krit	Mind, Journal of Philosophy
+141	20	Frege G 1979 Posthumous Writings	Mind, Philosophical Review
+165	19	Fodor J 1974 Synthese	Journal of Philosophy, Nous
+165	19	Dummett M 1981 Interpretation Frege	Mind, Philosophical Review
+165	19	Dummett M 1981 Frege Philos Languag	Philosophical Review, Mind
+165	19	Johnston M 1992 Philos Stud	Philosophical Review, Mind
+165	19	Barwise J 1981 Linguist Philos	Nous, Mind
+165	19	Lewis D 2000 J Philos	Journal of Philosophy, Philosophical Review
+165	19	Ross W 1930 Right Good	Mind, Nous
+165	19	Hardin C 1988 Color Philosophers U	Philosophical Review, Nous
+165	19	Stalnaker R 1968 Studies Logical Theo	Philosophical Review, Nous
+165	19	Frankfurt H 1988 Importance What Care	Philosophical Review, Nous
+165	19	Rosen G 1990 Mind	Nous, Mind
+165	19	Dretske F 1988 Explaining Behav Rea	Nous, Mind
+165	19	Harman G 1973 Thought	Nous, Philosophical Review
+165	19	Dennett D 1987 Intentional Stance	Journal of Philosophy, Philosophical Review
+179	18	Parsons T 1990 Events Sematics Engl	Nous, Philosophical Review
+179	18	Kaplan D 1989 Themes Kaplan	Nous, Philosophical Review
+179	18	Nagel T 1970 Possibility Altruism	Philosophical Review, Nous
+179	18	Campbell J 2002 Reference Consciousn	Nous, Mind
+179	18	Larson R 1995 Knowledge Meaning In	Nous, Mind
+179	18	Martin C 1994 Philos Quart	Mind, Nous
+179	18	Goldman A 1979 Justification Knowle	Nous, Philosophical Review
+179	18	Kane R 1996 Significance Free Wi	Nous, Journal of Philosophy
+179	18	Lewis D 1983 Philos Papers	Philosophical Review, Mind
+179	18	Stanley J 2000 Mind Lang	Nous, Mind
+179	18	Russell B 1912 Problems Philos	Nous, Mind
+179	18	Sellars W 1963 Sci Perception Relai	Philosophical Review, Nous
+179	18	Wiggins D 1968 Philos Rev	Philosophical Review, Nous
+179	18	Evans G 1985 Collected Papers	Philosophical Review, Nous
+179	18	Nozick R 1974 Anarchy State Tuopia	Nous, Journal of Philosophy
+179	18	Hare R 1952 Language Morals	Nous, Philosophical Review
+195	17	Russell B 1903 Principles Mathemati	Mind, Nous
+195	17	Fodor J 1983 Modularity Mind	Journal of Philosophy, Nous
+195	17	Armstrong D 1989 Combinatorial Theory	Nous, Philosophical Review
+195	17	Field H 1980 Sci Without Numbers	Philosophical Review, Journal of Philosophy
+195	17	Benacerraf P 1973 J Philos	Philosophical Review, Mind
+195	17	Kripke S 1975 J Philos	Mind, Philosophical Review
+195	17	Schiffer S 2003 Things We Mean	Nous, Mind
+195	17	Vanfraassen B 1984 J Philos	Philosophical Review, Journal of Philosophy
+195	17	Austin J 1962 Sense Sensabilia	Mind, Nous
+195	17	Lewis D 1997 Philos Quart	Mind, Nous
+195	17	Alston W 1989 Epistemic Justificat	Nous, Mind
+195	17	Wright C 1983 Freges Conception Nu	Philosophical Review, Nous
+195	17	Quine W 1986 Philos Logic	Mind, Nous
+195	17	Davies M 1980 Philos Stud	Philosophical Review, Mind
+195	17	Bratman M 1999 Faces Intentions	Philosophical Review, Nous
+195	17	Widerker D 1995 Philos Rev	Philosophical Review, Journal of Philosophy
+211	16	Pollock J 1986 Cont Theories Knowle	Nous, Philosophical Review
+211	16	Shoemaker S 1994 Nous	Philosophical Review, Nous
+211	16	Lewis D 1976 Philos Rev	Philosophical Review, Mind
+211	16	Dummett M 1991 Frege Philos Math	Mind, Philosophical Review
+211	16	Soames S 1988 Philos Topics	Mind, Nous
+211	16	Aristotle No Year No Source	Nous, Philosophical Review
+211	16	Mellor D 1995 Facts Causation	Mind, Philosophical Review
+211	16	Davidson D 1972 Semantics Natural La	Mind, Philosophical Review
+211	16	Hempel C 1965 Aspects Sci Explanat	Philosophical Review, Nous
+211	16	Lewis D 1972 Australas J Philos	Philosophical Review, Nous
+211	16	Chisholm R 1989 Theory Knowledge	Nous, Journal of Philosophy
+211	16	Strawson G 1994 Mental Reality	Nous, Philosophical Review
+211	16	Levine J 1983 Pac Philos Quart	Philosophical Review, Nous
+211	16	Lycan W 1987 Consciousness	Nous, Philosophical Review
+211	16	Woodward J 2003 Making Things Happen	Philosophical Review, Journal of Philosophy
+211	16	Mcdowell J 1982 P Brit Acad	Nous, Philosophical Review
+211	16	Stalnaker R 1999 Context Content	Philosophical Review, Nous
+211	16	Zimmerman D 1995 Philos Rev	Nous, Philosophical Review
+211	16	Field H 1973 J Philos	Philosophical Review, Nous
+211	16	Armstrong D 1973 Belief Truth Knowled	Philosophical Review, Mind
+211	16	Searle J 1969 Speech Acts Essay Ph	Mind, Nous
+211	16	Bennett J 1988 Events Their Names	Mind, Philosophical Review
+233	15	Mele A 1992 Springs Action Under	Philosophical Review, Nous
+233	15	Brewer B 1999 Perception Reason	Nous, Philosophical Review
+233	15	Peacocke C 1999 Being Known	Nous, Philosophical Review
+233	15	Kaplan M 1996 Decision Theory Phil	Philosophical Review, Nous
+233	15	Blackburn S 1998 Ruling Passions Theo	Mind, Nous
+233	15	Dennett D 1978 Brainstorms	Journal of Philosophy, Philosophical Review
+233	15	Gauthier D 1986 Morals Agreement	Journal of Philosophy, Mind
+233	15	Bennett J 2003 Philos Guide Conditi	Philosophical Review, Nous
+233	15	Joyce J 1999 Fdn Causal Decision	Philosophical Review, Mind
+233	15	Skyrms B 1980 Causal Necessity	Philosophical Review, Mind
+233	15	Jackson F 1987 Conditionals	Mind, Philosophical Review
+233	15	Sorensen R 1988 Blindspots	Philosophical Review, Mind
+233	15	Margalit A 1979 Meaning Use	Nous, Mind
+233	15	Vaninwagen P 1990 Nous	Nous, Philosophical Review
+233	15	Russell B 1919 Intro Math Philos	Mind, Nous
+233	15	Fodor J 1975 Language Thought	Journal of Philosophy, Philosophical Review
+233	15	Derose K 2002 Philos Rev	Philosophical Review, Nous
+233	15	Bennett J 1984 Philos Rev	Mind, Nous
+233	15	Pollock J 1999 Cont Theories Knowel	Nous, Mind
+233	15	Burge T 1988 J Philos	Philosophical Review, Nous
+233	15	Salmon N 1981 Reference Essence	Mind, Philosophical Review
+233	15	Fantl J 2002 Philos Rev	Nous, Philosophical Review
+233	15	Strawson P 1950 Mind	Mind, Nous
+233	15	Frege G 1879 Begriffsschrift	Mind, Philosophical Review
+233	15	Derose K 1991 Philos Rev	Philosophical Review, Nous
+233	15	Williams B 1978 Descartes Project Pu	Mind, Philosophical Review
+233	15	Perry J 1977 Philos Rev	Philosophical Review, Nous
+233	15	Davidson D 1990 J Philos	Journal of Philosophy, Mind
+233	15	Noe A 2004 Action Perception	Philosophical Review, Nous
+262	14	Dancy J 1993 Moral Reasons	Nous, Mind
+262	14	Dancy J 2000 Practical Reality	Nous, Mind
+262	14	Gibbard A 2003 Thinking Live	Nous, Philosophical Review
+262	14	Dennett D 1984 Elbow Room	Philosophical Review, Nous
+262	14	Stanley J 2001 J Philos	Journal of Philosophy, Mind
+262	14	Papineau D 1993 Philos Naturalism	Philosophical Review, Nous
+262	14	Devitt M 1996 Coming Our Senses Na	Nous, Journal of Philosophy
+262	14	Campbell K 1990 Abstract Particulars	Mind, Journal of Philosophy
+262	14	Lewis D 1981 Theoria	Philosophical Review, Journal of Philosophy
+262	14	Frankfurt H 1971 J Philos	Mind, Philosophical Review
+262	14	Kim J 1998 Mind Phys World Essa	Nous, Philosophical Review
+262	14	Salmon N 1998 Nous	Philosophical Review, Journal of Philosophy
+262	14	Martin M 2002 Mind Lang	Nous, Mind
+262	14	Block N 1995 Behav Brain Sci	Nous, Philosophical Review
+262	14	Davidson D 1963 J Philos	Philosophical Review, Mind
+262	14	Quine W No Year No Source	Journal of Philosophy, Nous
+262	14	Foot P 1978 Virtues Vices Other	Philosophical Review, Mind
+262	14	Rawls J 1993 Political Liberalism	Journal of Philosophy, Philosophical Review
+262	14	Martin M 2004 Philos Stud	Nous, Mind
+262	14	Larson R 1993 Synthese	Nous, Philosophical Review
+262	14	Merricks T 1994 J Philos	Philosophical Review, Mind
+262	14	Lewis D 1989 P Aristotelian Soc S	Philosophical Review, Nous
+262	14	Soames S 1999 Understanding Truth	Mind, Nous
+262	14	Hintikka J 1962 Knowledge Belief Int	Philosophical Review, Mind
+262	14	Hitchcock C 2001 J Philos	Philosophical Review, Journal of Philosophy
+262	14	Armstrong D 1978 Theory Universals Un	Nous, Mind
+288	13	Mele A 1995 Autonomous Agents Se	Philosophical Review, Nous
+288	13	Unger P 1980 Midwest Stud Philos	Journal of Philosophy, Nous
+288	13	Peacocke C 2004 Realm Reason	Nous, Mind
+288	13	Davies M 1981 Meaning Quantificati	Mind, Nous
+288	13	Leonard H 1940 J Symbolic Logic	Journal of Philosophy, Mind
+288	13	Scheffler S 1982 Rejection Consequent	Journal of Philosophy, Mind
+288	13	Stalnaker R 1978 Syntax Semantics	Philosophical Review, Mind
+288	13	Kant I No Year No Source	Journal of Philosophy, Philosophical Review
+288	13	Mcginn C 1991 Problem Consciousnes	Mind, Nous
+288	13	Quine W No Year No Source	Mind, Nous
+288	13	Boolos G 1985 Philos Rev	Mind, Nous
+288	13	Evans G 1977 Can J Philos	Mind, Philosophical Review
+288	13	Carroll L 1895 Mind	Mind, Journal of Philosophy
+288	13	Goldman A 1970 Theory Human Action	Philosophical Review, Nous
+288	13	Herman B 1993 Practice Moral Judgm	Philosophical Review, Journal of Philosophy
+288	13	Dummett M 1975 Synthese	Mind, Philosophical Review
+288	13	Maddy P 1990 Realism Math	Philosophical Review, Mind
+288	13	Block N 1986 Midwest Stud Philos	Journal of Philosophy, Nous
+288	13	Burge T 1986 J Philos	Nous, Mind
+288	13	Darwall S 1983 Impartial Reason	Philosophical Review, Nous
+288	13	Mcginn C 1989 Mental Content	Philosophical Review, Mind
+288	13	Lewis D 1999 Papers Metaphysics E	Philosophical Review, Nous
+288	13	Quine W 1951 Philos Rev	Journal of Philosophy, Mind
+288	13	Craig E 1990 Knowledge State Nati	Philosophical Review, Mind
+288	13	Chisholm R 1977 Theory Knowledge	Nous, Philosophical Review
+288	13	Frege G 1884 Grundlagen Arithmeti	Mind, Philosophical Review
+288	13	Frege G No Year No Source	Journal of Philosophy, Philosophical Review
+288	13	Unger P 1984 Philos Relativity	Nous, Philosophical Review
+288	13	Railton P 1986 Philos Rev	Nous, Philosophical Review
+288	13	Ginet C 1975 Knowledge Perception	Philosophical Review, Mind
+288	13	Marr D 1982 Vision	Nous, Journal of Philosophy
+288	13	Byrne A 2003 Behav Brain Sci	Philosophical Review, Nous
+288	13	Stroud B 1984 Significance Philos	Nous, Philosophical Review
+288	13	Hilbert D 1987 Color Color Percepti	Philosophical Review, Mind
+288	13	Byrne A 2001 Philos Rev	Nous, Mind
+288	13	Armstrong D 1968 Materialist Theory M	Mind, Nous
+324	12	Stanley J 2000 Linguist Philos	Nous, Philosophical Review
+324	12	Crimmins M 1992 Talk Beliefs	Nous, Philosophical Review
+324	12	Sosa E 2007 Virtue Epistemology	Nous, Mind
+324	12	Baker L 2000 Persons Bodies Const	Philosophical Review, Mind
+324	12	Hajek A 2003 Synthese	Philosophical Review, Mind
+324	12	Frege G 1893 Grundgesetze Arithme	Mind, Philosophical Review
+324	12	Brandt R 1979 Theory Good Right	Nous, Mind
+324	12	Parsons T 1980 Nonexistent Objects	Philosophical Review, Journal of Philosophy
+324	12	Bach K 1997 Pac Philos Quart	Nous, Mind
+324	12	Block N 1999 Philos Rev	Nous, Journal of Philosophy
+324	12	Bird A 1998 Philos Quart	Mind, Nous
+324	12	Unger P 1979 Synthese	Nous, Mind
+324	12	Mcginn C 1983 Subjective View Seco	Philosophical Review, Nous
+324	12	Harman G 1977 Nature Morality	Nous, Journal of Philosophy
+324	12	Travis C 2004 Mind	Nous, Philosophical Review
+324	12	Dummett M 1977 Elements Intuitionis	Mind, Journal of Philosophy
+324	12	Earman J 1992 Bayes Bust Critical	Mind, Philosophical Review
+324	12	Burke M 1992 Analysis	Philosophical Review, Nous
+324	12	Field H 1986 Fact Sci Morality	Mind, Nous
+324	12	Salmon N 1988 Propositions Attitud	Mind, Philosophical Review
+324	12	Broome J 1999 Ratio	Nous, Philosophical Review
+324	12	Hart H 1961 Concept Law	Journal of Philosophy, Nous
+324	12	Searle J 1995 Construction Social	Mind, Nous
+324	12	Kripke S 1963 Acta Philos Fenn	Philosophical Review, Journal of Philosophy
+324	12	Lewis D 1980 Studies Interactive	Mind, Philosophical Review
+324	12	Merricks T 2001 Objects Persons	Philosophical Review, Nous
+324	12	Watson G 1975 J Philos	Philosophical Review, Nous
+324	12	Pereboom D 2001 Living Free Will	Philosophical Review, Journal of Philosophy
+324	12	Johnston M 1992 Mind	Journal of Philosophy, Philosophical Review
+324	12	Barwise J 1983 Situations Attitudes	Philosophical Review, Nous
+324	12	Salmon N 1989 Philos Rev	Mind, Philosophical Review
+324	12	Frege G 1918 Beitrage Philos Dtsc	Mind, Philosophical Review
+324	12	Horwich P 1998 Meaning	Mind, Nous
+324	12	Maher P 1993 Betting Theories	Philosophical Review, Mind
+324	12	Evans G 1978 Analysis	Journal of Philosophy, Nous
+324	12	Unger P 1975 Ignorance	Nous, Philosophical Review
+324	12	Boolos G 1998 Logic Logic Logic	Nous, Philosophical Review
+324	12	Tarski A 1956 Logic Semantics Meta	Journal of Philosophy, Mind
+324	12	Clark A 1998 Analysis	Journal of Philosophy, Mind
+363	11	Geach P 1965 Philos Rev	Nous, Mind
+363	11	French P 1979 Cont Perspectives Ph	Mind, Nous
+363	11	Churchland P 1989 Neurocomputational P	Journal of Philosophy, Nous
+363	11	Vaninwagen P 1981 Pac Philos Quart	Philosophical Review, Mind
+363	11	May R 1985 Logical Form Its Str	Nous, Mind
+363	11	Bonjour L 1998 Defense Pure Reason	Nous, Philosophical Review
+363	11	Vanfraassen B 1995 Philos Stud	Philosophical Review, Mind
+363	11	Moore G 1912 Ethics	Philosophical Review, Mind
+363	11	Wright C 1991 Mind	Nous, Philosophical Review
+363	11	Mumford S 1998 Dispositions	Mind, Philosophical Review
+363	11	Crimmins M 1998 Philos Rev	Nous, Philosophical Review
+363	11	Lewis D 1986 Australas J Philos	Mind, Nous
+363	11	Williams B 1981 Moral Luck	Philosophical Review, Nous
+363	11	Wallace R 1994 Responsibility Moral	Philosophical Review, Nous
+363	11	Frege G 1984 Collected Papers Mat	Mind, Philosophical Review
+363	11	Davidson D 1967 Synthese	Mind, Nous
+363	11	Tarski A 1983 Logic Semantic	Mind, Philosophical Review
+363	11	Ginet C 1996 Philos Perspectives	Philosophical Review, Journal of Philosophy
+363	11	Mcdowell J 1979 Monist	Philosophical Review, Journal of Philosophy
+363	11	Field H 1994 Philos Rev	Nous, Mind
+363	11	Cartwright N 1983 How Laws Physics Lie	Nous, Mind
+363	11	Sidgwick H 1907 Methods Ethics	Philosophical Review, Mind
+363	11	Munitz M 1971 Identity Individuati	Journal of Philosophy, Nous
+363	11	Vaninwagen P 1980 Time Cause	Philosophical Review, Mind
+363	11	Braun D 1998 Philos Rev	Nous, Philosophical Review
+363	11	Salmon N 1989 Philos Perspectives	Nous, Philosophical Review
+363	11	Jackson F 1979 Philos Rev	Philosophical Review, Mind
+363	11	Mcgee V 1991 Truth Vagueness Para	Mind, Philosophical Review
+363	11	Cappelen H 2005 Insensitive Semantic	Nous, Philosophical Review
+363	11	Katz J 1994 Philos Rev	Philosophical Review, Journal of Philosophy
+363	11	Sher G 1991 Bounds Logic	Philosophical Review, Mind
+363	11	Dowe P 2000 Phys Causation	Philosophical Review, Journal of Philosophy
+363	11	Soames S 1989 Philos Perspectives	Nous, Mind
+363	11	Bach K 1979 Linguistic Communica	Nous, Mind
+363	11	Byrne A 1997 Readings Color Philo	Mind, Philosophical Review
+363	11	Lepore E 1986 Truth Interpretation	Philosophical Review, Mind
+363	11	Anscombe G 1957 Intention	Nous, Mind
+363	11	Benacerraf P 1983 Philos Math	Philosophical Review, Mind
+363	11	Goodman N 1951 Structure Apeparance	Mind, Nous
+363	11	Foley R 1987 Theory Epistemic Rat	Nous, Philosophical Review
+363	11	Shoemaker S 1984 Identity Cause Mind	Nous, Philosophical Review
+363	11	Putnam H 1975 Philos Papers Math M	Journal of Philosophy, Nous
+363	11	Montague R 1974 Formal Philosophy Se	Philosophical Review, Mind
+363	11	Bealer G 1982 Quality Concept	Mind, Nous
+363	11	Kyburg H 1961 Probability Logic Ra	Philosophical Review, Journal of Philosophy
+363	11	Chomsky N 2000 New Horizons Study L	Nous, Mind
+363	11	Geach P 1980 Reference Gen	Philosophical Review, Journal of Philosophy
+363	11	Williamson T 2007 Philos Philos	Mind, Philosophical Review
+363	11	Hurley S 1998 Consciousness Action	Philosophical Review, Mind
+363	11	Evans G 1976 Truth Meaning Essays	Mind, Nous
+363	11	Mackie J 1974 Cement Universe Stud	Nous, Philosophical Review
+363	11	Burke M 1994 Philos Phenomen Res	Philosophical Review, Mind
+363	11	Kagan S 1989 Limits Morality	Nous, Philosophical Review
+363	11	Korsgaard C 1986 J Philos	Mind, Nous
+363	11	Kim J 1973 J Philos	Nous, Mind
+363	11	Adams R 1979 J Philos	Journal of Philosophy, Mind
+363	11	Davidson D 1969 Words Objections Ess	Philosophical Review, Mind
+363	11	Markosian N 1998 Philos Stud	Nous, Philosophical Review
+363	11	Lewis D 1992 Australas J Philos	Philosophical Review, Nous
+363	11	Richard M 1983 J Philos Logic	Nous, Philosophical Review
+363	11	Mcginn C 1982 Character Mind	Mind, Nous
+363	11	Forbes G 1989 Languages Possibilit	Mind, Philosophical Review
+363	11	Hall N 1994 Mind	Philosophical Review, Mind
+363	11	Harman G 1999 Reasoning Meaning Mi	Nous, Philosophical Review
+363	11	Stalnaker R 1975 Philosophia	Philosophical Review, Mind
+363	11	Korsgaard C 1997 Ethics Practical Rea	Philosophical Review, Nous
+363	11	Haslanger S 1989 Analysis	Philosophical Review, Mind
+363	11	Burge T 1977 J Philos	Philosophical Review, Nous
+363	11	Dretske F 1977 Philos Sci	Nous, Journal of Philosophy
+363	11	Kavka G 1983 Analysis	Philosophical Review, Mind
+363	11	Rysiew P 2001 Nous	Philosophical Review, Nous
+363	11	Boghossian P 1990 Philos Rev	Philosophical Review, Mind
+435	10	Aristotle No Year P981a24	Philosophical Review, Journal of Philosophy
+435	10	Wittgenstein L No Year No Source	Journal of Philosophy, Mind
+435	10	Evans G No Year No Source	Philosophical Review, Mind
+435	10	Moore G 1903 Mind	Nous, Mind
+435	10	Olson E 1997 Human Animal Persoan	Philosophical Review, Nous
+435	10	Hazen A 1979 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Soames S 2002 Rigidity Unfinished	Philosophical Review, Nous
+435	10	Quine W 1966 Ways Paradox	Mind, Philosophical Review
+435	10	Hill C 1997 Philos Stud	Philosophical Review, Nous
+435	10	Lewis D 1981 Australas J Philos	Philosophical Review, Mind
+435	10	Kuhn T 1970 Structure Sci Revolu	Philosophical Review, Nous
+435	10	Fodor J 1981 Representations	Journal of Philosophy, Nous
+435	10	Pettit P 1990 Philos Rev	Philosophical Review, Mind
+435	10	Arntzenius F 2003 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Field H 1972 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Dretske F 1971 Australas J Philos	Philosophical Review, Nous
+435	10	Putnam H 1994 J Philos	Journal of Philosophy, Nous
+435	10	Velleman J 2000 Possibility Practica	Philosophical Review, Nous
+435	10	Rawls J 1980 J Philos	Journal of Philosophy, Nous
+435	10	Horwich P 1998 Truth	Philosophical Review, Journal of Philosophy
+435	10	Wright C 1985 P Brit Acad	Nous, Philosophical Review
+435	10	Audi R 1993 Structure Justificat	Nous, Journal of Philosophy
+435	10	Wiggins D 1987 Needs Values Truth	Philosophical Review, Mind
+435	10	Tooley M 1977 Can J Philos	Nous, Mind
+435	10	Schiffer S 1996 P Aristotelian Soc	Nous, Mind
+435	10	Goldman A 1967 J Philos	Philosophical Review, Nous
+435	10	Fine K 1985 A Plantinga	Philosophical Review, Nous
+435	10	Paul L 2000 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Putnam H 1978 Meaning Moral Sci	Journal of Philosophy, Nous
+435	10	Gibson J 1979 Ecological Approach	Mind, Philosophical Review
+435	10	Haji I 1998 Moral Appraisability	Philosophical Review, Nous
+435	10	Gardenfors P 1988 Knowledge Flux Cambr	Mind, Journal of Philosophy
+435	10	Menzies P 1989 Philos Sci	Mind, Journal of Philosophy
+435	10	Rorty R 1979 Philos Mirror Nature	Nous, Philosophical Review
+435	10	Plantinga A 1983 Philos Stud	Philosophical Review, Nous
+435	10	Wright C 1975 Synthese	Mind, Philosophical Review
+435	10	Cohen S 2002 Philos Phenomen Res	Philosophical Review, Nous
+435	10	Hume D No Year No Source	Nous, Journal of Philosophy
+435	10	Ramachandran M 1997 Mind	Mind, Philosophical Review
+435	10	Sider T 1997 Philos Rev	Nous, Philosophical Review
+435	10	Gupta A 1993 Philos Topics	Philosophical Review, Journal of Philosophy
+435	10	Keynes J 1921 Treatise Probability	Nous, Mind
+435	10	Lange M 2000 Natural Laws Sci Pra	Mind, Nous
+435	10	O'connor T 2000 Persons Causes Metap	Philosophical Review, Nous
+435	10	Millikan R 1989 J Philos	Philosophical Review, Mind
+435	10	Putnam H 1971 Philos Logic	Mind, Philosophical Review
+435	10	Schiffer S 1972 Meaning	Philosophical Review, Nous
+435	10	Linsky B 1994 Philos Perspectives	Mind, Nous
+435	10	Vendler Z 1967 Linguistics Philos	Mind, Nous
+435	10	Lewis D No Year No Source	Mind, Nous
+435	10	Black M 1952 Mind	Journal of Philosophy, Philosophical Review
+435	10	Huemer M 2001 Skepticism Veil Perc	Nous, Mind
+435	10	Jackson F 1986 J Philos	Nous, Philosophical Review
+435	10	Boyd R 1988 Essays Moral Realism	Philosophical Review, Nous
+435	10	Fodor J 1980 Behav Brain Sci	Philosophical Review, Mind
+435	10	Feldman R 1985 Philos Stud	Nous, Philosophical Review
+435	10	Foot P 2001 Natural Goodness	Mind, Nous
+435	10	Zagzebski L 1991 Dilemma Freedom Resp	Nous, Philosophical Review
+435	10	Searle J 1980 Behav Brain Sci	Journal of Philosophy, Philosophical Review
+435	10	Adams R 1974 Nous	Mind, Journal of Philosophy
+435	10	Lewis D 1970 Synthese	Philosophical Review, Mind
+435	10	Shapiro S 1998 J Philos	Mind, Journal of Philosophy
+435	10	Schiffer S 1998 Monist	Nous
+435	10	Braun D 1993 Nous	Philosophical Review, Journal of Philosophy
+435	10	Chalmers D 2001 Philos Rev	Nous, Philosophical Review
+435	10	Thomson J 1983 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Conee E 2004 Evidentialism	Nous, Journal of Philosophy
+435	10	Jackson F 1977 Australas J Philos	Mind, Philosophical Review
+435	10	Hurvich L 1981 Color Vision Intro	Nous, Philosophical Review
+435	10	Siewert C 1998 Significance Conscio	Nous, Philosophical Review
+435	10	Loux M 1979 Possible Actual	Philosophical Review, Mind
+435	10	Horn L 1989 Natural Hist Negatio	Nous, Mind
+435	10	Dretske F 1969 Seeing Knowing	Nous, Philosophical Review
+435	10	Lewis D 1966 J Philos	Nous, Journal of Philosophy
+435	10	Wright C 2002 Philos Phenomen Res	Philosophical Review, Nous
+435	10	Merricks T 1995 Mind	Philosophical Review, Nous
+435	10	Derose K 1996 Australas J Philos	Philosophical Review, Nous
+435	10	Hyde D 1997 Mind	Mind, Nous
+435	10	James W 1890 Principles Psychol	Nous, Mind
+435	10	Braddon-mitchell D 1996 Philos Mind Cognitio	Nous, Philosophical Review
+435	10	Quine W 1953 From Logical Point O	Journal of Philosophy, Philosophical Review
+435	10	Tye M 1990 Mind	Mind, Nous
+435	10	Grice H 1961 P Aristotelian Soc S	Journal of Philosophy, Nous
+435	10	Yablo S 1987 J Philos	Nous, Journal of Philosophy
+435	10	Heck R 2000 Philos Rev	Philosophical Review, Nous
+435	10	Putnam H 1975 Minnesota Studies Ph	Nous, Philosophical Review
+
+来源
+June 19, 2013 Lewis and the Women
+https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/

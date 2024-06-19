@@ -1,0 +1,30 @@
+
+·Prove that tautologies containing biconditional as a sole connective must have an even number of propositions
+ps. ⊤, ⊥ also count as "connectives". Otherwise (pp)⊥is not a tautology.
+
+1. Show by induction that: ⟺ is associative and commutative. 
+Once you have these two facts, then you can show: Any ⟺-formula in which every variable appears an even number of times is equivalent to one of the form (x0⟺x0)⟺...⟺(xn⟺xn), which is a tautology.
+This completes one half of the problem.
+
+Or,
+
+2. First use induction to prove that a statement built up using  as its only connective is true iff there are an even number of false terms (by terms, I mean instances, i.e. the statement A has 2 terms, even though it has just 1 variable).
+=>: Once you have that result, then if any such statement has an odd number of occurrences of a variable is not a tautology, since if you can set that variable to False, and all others to true, you have an odd number of false terms, and hence the statement as a whole is false, and hence is not a tautology.
+<=: But if all variables occur an even number of times, then no matter whether you set the variables to true or false, there will be an even number of false terms, and hence the statement will always be true, and hence be a tautology.
+remark. Any ⟺-formula φ has the form A⟺B for A,B ⟺-formulas of lower complexity. The key observation is: if x occurs an odd number of times in φ, then x occurs an odd number of times in exactly one of A, B; if y occurs an even number of times in φ, then either y occurs an even number of times in each of A and B or an odd number of times in each of A and B.
+
+. Let \phi be a propositional formula using no truth function symbols except \leftrightarrow and \lnot. Show that \phi is a tautology if and only if \phi satisfies the following two conditions:
+(a) Every propositional symbol occurs an even number of times in \phi.
+(b) The negation sign \lnot occurs an even number of times in \phi.
+(Chiswell)
+hint: (a) (p1 \leftrightarrow p2) eq (p2 \leftrightarrow p1).
+(b) (p1 \leftrightarrow (p2 \leftrightarrow p3) eq ((p1 \leftrightarrow p2) \leftrightarrow p3).
+(c) (\lnot (p1 \leftrightarrow p2)) eq ((\lnot p1) \leftrightarrow p2).
+(d) (p1 \leftrightarrow (p2 \leftrightarrow p2)) eq p1.
+
+我的思路是这样的：先归纳证明：一个公式是为真，当且仅当，（如果其中否定符出现偶数次，那么其中被赋值为假的命题变元是偶数个；如果其中其中否定符出现奇数次，那么其中被赋值为假的命题变元是奇数个）
+
+· (Semantic rule EI) Assume that the constant symbol c does not occur in \phi, \psi, or \Gamma, and that \Gamma; \phi^x_c \models \psi. Show (without using the soundness and completeness theorems) that \Gamma; \exists x \phi \models \psi.
+
+Remark. a counterexample when c occurs in \Gamma: Let \Gamma be c=a. From \Gamma and x=b[x | c], we deduce a=b. However, with \Gamma and \exists x x = b, we cannot deduce a=b.
+The requirement that c does not occur in Γ is essential. If c appears in Γ, the statement 'for all models A, ...' may not allow us to deduce 'for any (d \in |A|, ...'."

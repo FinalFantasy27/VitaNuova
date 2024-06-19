@@ -1,0 +1,23 @@
+Book I of Aristotle’s Metaphysics, “All men by nature desire to know.”
+
+philosophically self conscious way of doing xxx (, e.g., physics,) (itself)
+
+It is fair to say that XXX have yet to reach anything like consensus on how best to do XXX. Nevertheless, the debate so far has given rise to a much more fine-grained understanding of what the options are and what consequences they have. What is more, some quite surprising conclusions can be drawn even with this issue largely unresolved.
+(SEP.Coherentist theories of Justification)
+
+最近发生了一起杀人案，死者在死前留下了凶手的讯息，他偷偷在手机上打出了“小张”的名字。丹尼特警官和哈里斯警官接手案件后发现在他手机里一共有4个小张。现场3位目击者告诉两位警官凶手应该是1.75左右的女性。但是丹尼特和哈里斯发现死者手机里的四个小张都是男的而且身高要么在1.6以下要么在1.9以上。这时哈里斯坚信凶手是1.75的名叫小张的女性，但他认为既然我们找不到这样的人，他的结论是凶手根本不存在，我们没必要继续找下去，甚至死者应该是自杀！但丹尼特看法则不同，既然我们的目的是找到凶手，那么我们就应该重新构建凶手应该是什么样的。我们应该重新考虑目击者的证据，构建出一个可以被找出来的小张。
+
+分析哲学产生进步的方式可能有两种：1.通过论证的形式，精细化立场来排除反例，或者至少能找出我们互相不认同的地方在哪里（是哪一个前提）。
+2.使用经验、科学和逻辑、数学方法进行理论构建，产生出数学或科学上有意义的结果或定理（如物理学哲学、决策论、因果理论、认知科学），或至少能够回应科学，对科学的基础或预设、发展提出问题、解释（作为陪伴）、提出新的、不同的路径（作为异端）
+
+我的建议是你可以把你的观点放到GPT里，然后问：·可以给我提供一些相关的观点和评论吗？
+·可以为我介绍一些相关的（持类似立场或反对立场的）哲学家或学者吗？
+·对这个观点[xxx]，可以给我提供一些反驳和回应吗？
+
+任何话题，都可以尝试看看斯坦福哲学百科（ https://plato.stanford.edu/）上的相关条目，比如输入“ethics”“logic”“neuroscience””realism”"politics""rights"等看有没有感兴趣的题目
+
+逻辑研究争论前提的部分是较少的，大多都是看在设定了的条件下能推出和得到什么结果，能构建、发展出什么
+
+争论是一方面，构建和发展也是一方面
+
+即使在对前提有争议的情况下，也可以看作不同方向发展构建所能得到的东西

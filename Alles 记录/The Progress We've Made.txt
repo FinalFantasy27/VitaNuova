@@ -1,0 +1,72 @@
+
+民主Democracy：
+
+发达国家民主的历史经验Historical experiences with developed democracies
+
+发展中国家民主运动的经验证据Empirical evidence regarding democratic movements in developingcountries
+
+各种集体决策制定和偏好聚合的形式定理，诸如孔多塞陪审团定理、阿罗不可能性结论、洪—佩奇定理、中位数选民定理、聚合奇迹等Various formal theorems regarding collective decision making and preference aggregation, such as the Condorcet Jury-Theorem, Arrow’s Impossibility-Results, the Hong-Page-Theorem, the median votertheorem, the miracle of aggregation, etc.
+
+对投票行为、极化、审思和信息的现存研究Existing studies on voter behavior, polarization, deliberation, information
+
+公共选择经济学，包括理性的不理性，民主现实主义Public choice economics, incl. rational irrationality, democratic realism
+
+……
+
+
+道德心理学的先天/后天争论nature/nurture debate in moral psychology：
+
+语言语料库数据Linguistic corpus data
+
+进化心理学Evolutionary psychology
+
+普遍的道德语法理论Universal moral grammar theory
+
+复杂的统计方法Sophisticated statistical methods
+
+贝叶斯形式化建模Bayesian formal modeling
+
+……
+
+
+政治权威与“自然状态的不便”'political authority to avoid the unpleasantness of the state of nature'：
+
+效用函数Utility functions
+
+纳什均衡Nash equilibria
+
+占优策略Dominant strategy
+
+逆向归纳Backward induction
+
+行为经济学Behavioral economics
+
+实验博弈论Experimental game theory
+
+合作适应性的生物学证据Biological evidence on the adaptivity of cooperation
+
+狩猎/采集社会生活的经验证据Empirical evidence regarding life in hunter/gatherer societies
+
+当代部落生活的跨文化数据Cross-cultural data regarding life in contemporary tribal societies
+
+……
+
+
+Hanno Sauer (2022) The end of history, Inquiry, DOI: 10.1080/0020174X.2022.2124542
+
+Condorcet's jury theorem
+
+The assumptions of the theorem are that a group wishes to reach a decision by majority vote. One of the two outcomes of the vote is correct, and each voter has an independent probability p of voting for the correct decision. The theorem asks how many voters we should include in the group. The result depends on whether p is greater than or less than 1/2:
+
+If p is greater than 1/2 (each voter is more likely to vote correctly), then adding more voters increases the probability that the majority decision is correct. In the limit, the probability that the majority votes correctly approaches 1 as the number of voters increases.
+On the other hand, if p is less than 1/2 (each voter is more likely to vote incorrectly), then adding more voters makes things worse: the optimal jury consists of a single voter.
+
+Since Condorcet, many other researchers have proved various other jury theorems, relaxing some or all of Condorcet's assumptions.
+
+
+The Hong-Page Theorem
+
+The theorem states that, under certain conditions, a group of diverse individuals will make better decisions than a group of equally intelligent individuals who are all alike. 
+
+
+The miracle of aggregation, also known as the wisdom of crowds, is a concept in political science and economics that suggests that even when individuals are uninformed or irrational, the aggregation of their decisions can lead to outcomes that are collectively rational.

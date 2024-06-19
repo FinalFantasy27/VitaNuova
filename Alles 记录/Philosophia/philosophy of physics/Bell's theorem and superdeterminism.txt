@@ -1,0 +1,29 @@
+
+assumptions:
+(A) The rules of inferences obey classical logic.
+(B) The laws of arithmetic are true.
+(C) Frequencies and proportions obey the laws of arithmetic.
+(D) There are no conspiracies in nature.
+
+instead of rejecting Locality, modifying (or generalize) the classical axioms and algebraic structure of Kolmogorov probability theory to avoid the contradiction. (For example, see Fine (1982a), Fine (1982b) and Pitowsky (1989).)
+Fine (1982a,b) and Pitowsky (1989) seem to suggest it remains possible to save locality by revising classical probability theory. (SeeMalament (2006) for a clear introduction to this project. Feintzeig (2015) demonstrates further mathematical constraints.)
+Fine, A. (1982a). Hidden variables, joint probability, and the Bell inequalities. Physical Review Letters, 48(5):291.
+Fine, A. (1982b). Joint distributions, quantum correlations, and commuting observables. Journal of Mathematical Physics, 23(7):1306–1310.
+
+Superdeterminism facesmany objections. An important criticism focuses on the fact that endorsing violations of statistical independence would be bad for science in one way or another. After all, the assumption of statistical independence is integral to ordinary statistical inferences. Shimony et al. (1976) and Maudlin (2019) argue that rejecting statistical independence would undermine the scientific enterprise of discovery by experimentation
+Shimony, A., Horne, M. A., and Clauser, J. F. (1976). Comment on ‘The theory of local beables’. Epistemological Letters, 13(1).
+Maudlin, T. (2019). Bell’s other assumption(s) (accessed on youtube).
+
+Bell (1977) and be open-minded in a qualified way: 
+Of course it might be that these reasonable ideas about physical randomizers are just wrong – for the purpose at hand. A theorymay appear in which such conspiracies inevitably occur, and these conspiracies may then seem more digestible than the non-localities of other theories. When that theory is announced I will not refuse to listen, either on methodological or other grounds.
+Bell, J. S. (1977). Free variables and local causality. Epistemological Lett., 15(CERNTH-2252):xx.
+
+some initial steps have been taken to investigate possible dynamics and toy models of superdeterminism. ’T Hooft (2014) provides an illustration. Hossenfelder and Palmer (2020) provide an up-to-date overview and some philosophical discussions. Friederich and Evans (2019) review some “retrocausal” models that use backward-in-time causal influences. (SEP entry)
+’T Hooft (2014)’s Cellular Automaton Interpretation
+’T Hooft, G. (2014). The cellular automaton interpretation of quantum mechanics.
+arXiv preprint arXiv:1405.1548.
+Hossenfelder, S. and Palmer, T. (2020). Rethinking superdeterminism. Frontiers in Physics, 8:139.
+
+Einstein, A., Podolsky, B., and Rosen, N. (1935). Can quantum-mechanical description
+of physical reality be considered complete? Physical Review, 47(10):777.
+Bell, J. S. (1964). On the Einstein-Rosen-Podolsky paradox. Physics, 1(3):195–200.

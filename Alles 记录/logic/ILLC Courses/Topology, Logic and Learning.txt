@@ -1,0 +1,43 @@
+
+Topology, Logic and Learning
+
+	
+dr. A. Baltag (co-ordinator)
+
+Objectives
+Explain the uses of topology (in particular various topological frameworks, concepts and methods) in modal/ epistemic logic, formal epistemology, and formal learning theory
+Be able to compare, contrast, and combine these topological frameworks with the more traditional semantical frameworks in epistemic logic and belief revision theory (based on Kripke models, sphere models or plausibility models)
+Present, explain, and critically analyze research papers on topological frameworks for logic and epistemology
+Demonstrate understanding of the material by proving various mathematical-logical properties of the main concepts introduced in the course, exploring their inter-relationships and applying them to new problems or new examples
+Contents
+This course is about  the uses and applications of topological frameworks, notions, and methods to the semantics of knowledge and belief in modal/epistemic logic, to the analysis of concepts and problems in formal epistemology, and to issues such as various forms of learning, learnability, and problem-solvability in formal learning theory. 
+
+The course is divided into four main parts:
+
+Weeks 1-2.  Introduction to Topology and Philosophical Motivation.
+
+Weeks 2-3. The Interior Semantics: the traditional semantics for topological modal logic.
+
+Weeks 4-5. The Topology of Actual Evidence ("evidence at hand"): evidence models and the dense interior semantics.
+
+Weeks 6-7: The Topology of Potential Evidence ("evidence out there"): forms of knowability, learning, solvability.
+
+Recommended prior knowledge
+Familiarity with modal logic (syntax, Kripke semantics, some basic results on completeness and correspondence, the notion of bisimulation etc.) and its epistemic/doxastic interpretation.
+Familiarity with very basic notions of topology (that can be found in any basic introduction to general topology) would be useful, though it is not required. All the needed topological notions will be introduced in the course, but students are expected to be able to quickly learn them and use them in both formal-technical proofs and in following philosophical applications: this is a technical course, but with a motivation and applications coming from epistemology and learning theory. 
+Some degree of mathematical-technical maturity (as can be expected from students in logic at a MSc level) and an interest in the above-mentioned applications.
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Working independently on e.g. a project or thesis
+Study materials
+Literature:
+Aiello, M., Pratt-Hartmann, I. & van Benthem, J. (2007) Handbook of Spatial Logics,  Chapters 5 and 6;   Kelly, K. T. (1996) The Logic of Reliable Inquiry (1996), Chapters 1-4;   A number of theses and research papers, for which links will be posted on Canvas.    
+Assessment
+Individual assignments 
+Group presentation
+Remarks
+The course will make use of a Canvas site.

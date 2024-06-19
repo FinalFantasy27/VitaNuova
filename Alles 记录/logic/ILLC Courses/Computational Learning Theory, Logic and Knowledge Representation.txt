@@ -1,0 +1,34 @@
+
+Computational Learning Theory, Logic and Knowledge Representation
+
+dr. B.D. ten ten Cate (co-ordinator)
+
+Objectives
+explain core concepts from computational learning theory (PAC learning algorithm, exact learning, membership queries, equivalence queries, VC dimension, Ockham algorithm)
+describe efficient learning algorithms for various concept classes, including classes of Boolean formulas and of first-order formulas.
+disprove efficient learnability for various concept classes
+compute bounds on the sample complexity of a learning algorithm
+Contents
+Computational learning theory (CLT) studies the theory foundations (algorithms and complexity) of learning from examples. It offers a framework for studying the learnability and complexity of different learning problems. This course provides a basic introduction to CLT (including the PAC model, as well as interactive exact learning models), and covers applications in logic and KR, including learning classes of Boolean formulas and classes of first-order formulas (such as database queries and description logic concepts). This topic dates back to the 1980s, but there has been continuous progress over the years, and this course, while introductory in nature, also aims to give an up to date overview. Concretely, in this course, you will become familiar with formal models of algorithmic learning; basic learning techniques; tools for proving non-efficient learnability; and how these apply to the various aforementioned logical languages.
+
+Recommended prior knowledge
+- Basic complexity theory (complexity classes P, NP).
+
+- Basic probability theory (discrete probability distributions).
+
+- Familiarity with propositional logic and first-order logic.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Study materials
+Literature:
+Lecture notes and reading materials will be made available through the course canvas page.
+Assessment
+homework assignments and final exam
+
+Remarks
+The course will make use of a canvas page

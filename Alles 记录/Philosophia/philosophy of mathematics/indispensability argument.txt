@@ -1,0 +1,21 @@
+
+Colyvan (2004) and Azzouni provide a concise summary of the premises underlying the indispensability argument:
+
+The indispensability of abstract mathematical objects.
+Holistic confirmation theory: Scientific theory confirmation is a holistic process. The validity of a theory not only affirms the accuracy of assumptions about physical objects but also extends to assumptions about abstract objects.
+Ontological commitment principle.
+Naturalism principle: Rejects the need for a "first philosophy".
+Arguments against these premises include:
+
+Against (1): Field (1980), Hellman (1989), Chihara (1990), Yablo (2002).
+Against (2): Constructive empiricism (Hoffman, 2004), Mathematical naturalism (Maddy, 1992): Historically, although atomism was eventually accepted as the best explanation for chemical phenomena by the late 19th century, doubts persisted until the early 20th century when experiments confirmed Einstein's calculations of Brownian motion. Additionally, Leng (2002) points out that the use of mathematics involves constructing models.
+Against (3): Azzouni proposes two types of existential quantification.
+Against nominalism.
+Against Figurative Mathematical Fictionalism, as viewed from the perspective of mathematicians' understanding of mathematics (Burgess & Rosen).
+Defenders of holism include Baker (2001, 2005) and Colyvan (1999, 2002, 2006)
+against the objection to ontological commitment for the reason that doing so is pursing a metaphysics above science: Burgess
+
+叶峰 
+“不可或缺性论证” 与反实在论数学哲学 
+2006 
+哲学研究 , No. 8 

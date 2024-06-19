@@ -1,0 +1,4 @@
+
+there is a notion of an 𝜔-model of set theory, namely one where the natural numbers are the ‘standard’ natural numbers, or rather, that there are no non-standard natural numbers. This is relative to some agreed-upon meta theory.
+
+David Roberts, https://golem.ph.utexas.edu/category/2014/08/logically_perfect_theories.html

@@ -1,0 +1,57 @@
+
+休谟David Hume 1711-1776
+
+1739-40 《人性论：在精神科学中采用实验推理方法的一个尝试》 A Treatise of Human Nature: Being an Attempt to Introduce the Experimental Method of Reasoning into Moral Subjects
+上卷：
+知觉分为印象和观念，观念源自印象，是印象的复本，而印象也就是存在或对象；
+无限可分性的主张是错的，广袤是知觉对象的方式，没有真空；
+除了观念的直觉比较外，只有因果关系才产生推理，因果推理有三个要素：时空接近、因先果后的次序temporal priority and contiguity (spatially adjacent)、必然联系。
+这一必然联系只是重复导致的习惯刺激下的心灵的思想倾向determination of the thoughts。
+没有实体、没有心灵、没有自我同一性，这一切都是想像促成的。
+自然才能医治这种哲学病。
+“一般说来，宗教中的错误是危险的，哲学中的错误则仅仅是可笑而已Generally speaking, the errors in religion are dangerous; those in philosophy only ridiculous。”（关文运译, 商务印书馆, 1980, p. 303）
+
+1748 《人类理解/知性研究》 An Enquiry Concerning Human Understanding
+1779 《自然宗教对话录》Dialogues concerning Natural Religion
+
+
+Casuation因果
+
+casuation is 'the cement of the universe' (1740 'Abstract of the Treatise')
+
+'All events seem entirely loose and separate. One event follows another; but we never can observe any tie between them. They seem conjoined, but never connected.' (An Enquiry Concerning Human Understanding, section VII, part 2)
+
+billiard table台球桌的例子
+
+In discussing whether God could have caused the existence of the universe, he argues that this could never count as causation, for the reason that this (the act of creation) is an entirely unique event.
+
+
+all we can observe in nature is a series of events. (Book I Part III Section VI)
+
+“当我最亲密地进入被我称为我自己的东西时，我总是会偶然发现一些特定的知觉，比如热或冷、光或影、爱或恨、痛苦或快乐。我永远无法在没有知觉的情况下随时抓住我自己，也永远无法观察到除了知觉之外的任何东西”（Hume, 2000: 第1册: Of the Understanding，第4部分，第6节，第165页）
+
+
+和其ta人一样，休谟也保留着对物理物体和有意识的生命的信念，他认为这些信念是真实的，在经验信念可以被辩护的任何合理意义上都是正当的。但这些信念的辩护并非来自他所认为的理性，而是来自习惯和人类的本性，而习惯和人类的本性正是他的自然哲学的中心。
+Like every one else, (Hume) retained beliefs (in physical objects and conscious beings), which he took to be true and justified in any reasonable sense in which empirical beliefs can be justified. But their justification didn’t come from reason, as he conceived it; it came from habit and human nature, which were the centers of his natural philosophy. (Soames, p. 67)
+
+
+到的动机的休谟主义Humeanism in Moral Motivation
+理性是并只应当是情感的奴隶，除了侍奉或遵从情感之外，绝不能扮演任何其它的角色（Treatise of Human Nature, Selby-Bigge, ed., bk. 2: Of the Passions, sec. 3, p.415）
+
+
+Hume's law休谟律
+In every system of morality, which I have hitherto met with, I have always
+remark’d, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surpriz’d to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, ’tis necessary that it shou’d be observ’d and explain’d; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it [Treatise, Book 3: Of morals, 14, 3.1.1]
+
+
+宗教Religion
+神学的“最好的最牢固的基础乃是信仰和神圣的启示。”（人类理解研究, 章12 怀疑哲学 of the academic or skeptical philosophy, 关文运 译, 商务, 142）
+
+Philo赞同Seneca的讲法，“理解上帝也就等于是礼拜上帝To know God, says Seneca, is to worship him。所有其他的礼拜实在都是荒谬的、迷信的、甚至是不敬虔的。”（自然宗教对话录 ，陈修斋 / 曹棉之译，商务，2002, 108）
+
+自然神学的全部只包含一个边界含混的命题：“宇宙中秩序的因或诸因与人类理智可能有些微的相似that the cause or causes of order in the universe probably bear some remote analogy to human intelligence“（109）
+
+“真正体会到自然理性的缺陷的人，会以极大的热心趋向天启的真理。…在学术人士中，做一个哲学上的怀疑主义者是做一个健全的、虔信的基督教徒的第一步和最重要的一步。”（109-110）
+
+
+“我们在巡行各个图书馆时，将有如何大的破坏呢？我们如果在手里拿起一本书来，例如神学书或经院哲学书，那我们就可以问，其中包含着数和量方面的任何抽象推论么？没有。其中包含着关于实在事实和存在的任何经验的推论么？没有。那么我们就可以把它投在烈火里，因为它所包含的没有别的，只有诡辩和幻想。”（阿穆尔Amy ibn-al-As 焚烧亚历山大图书馆时的情况）（人类理解研究, 145）

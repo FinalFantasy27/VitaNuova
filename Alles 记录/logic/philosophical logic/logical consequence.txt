@@ -1,0 +1,10 @@
+the following four ways of varying the conditions for a multiple conclusion inference to be satisfied in a model:
+(i) If every premise is assigned 1 then some conclusion is assigned 1
+(ii) If every premise is not assigned 0 then some conclusion is not assigned 0
+(iii) If every premise is assigned 1 then some conclusion is not assigned 0
+(iv) If every premise is not assigned 0 then some conclusion is assigned 1
+
+Theories based on these proposals have been presented and explored in more historical, recent and contemporary literature on formal theories of truth such as Priest (1979), Field (2008), Ripley (2012) and Cobreros et al. (2013). In addition, there is also the variant according to which an inference is sound in a model if and only if both (i) and (ii) holds. This can be found for example in the work of Halbach and Horsten (2006).
+
+four theories definable on strong Kleene models/four theories obtained with the conditions (i)-(iv) respectively,
+the paracomplete theory K3, the paraconsistent theory LP, the nonreflexive theory TS and the nontransitive theory ST. (the fifth option sometimes referred to as PKF.the relevant sequent calculus rules wouldn’t be as elegant as for the other options in the current setting)

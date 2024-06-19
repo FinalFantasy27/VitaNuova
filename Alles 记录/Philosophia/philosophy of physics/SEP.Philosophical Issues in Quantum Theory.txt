@@ -1,0 +1,33 @@
+Myrvold, Wayne 
+Philosophical Issues in Quantum Theory 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+Abstract: 1. Introduction
+2. Quantum theory
+2.1 Quantum states and classical states
+2.2 Quantum mechanics and quantum field theory
+2.3 Quantum state evolution
+3. Entanglement, nonlocality, and nonseparability
+4. The measurement problem
+4.1 The measurement problem formulated
+4.2 Approaches to the measurement problem
+4.3 Extended Wigner’s friend scenarios as a source of no-go theorems
+4.4 The role of decoherence
+4.5 Comparison of approaches to the measurement problem
+“A criticism that has been raised against Everettian theories is that it is not clear whether they can even make sense of statistical testing of this kind, as it does not, in any straightforward way, make sense to talk of the probability of obtaining, say, a ‘+” outcome of a given experiment when it is certain that all possible outcomes will occur on some branch of the wavefunction. This has been called the “Everettian evidential problem”. It has been the subject of much recent work on Everettian theories; see Saunders (2007) for an introduction and overview.”
+”All of the above-mentioned approaches are consistent with observation. Mere consistency, however, is not enough; the rules for connecting quantum theory with experimental results typically involve nontrivial (that is, not equal to zero or one) probabilities assigned to experimental outcomes. These calculated probabilities are confronted with empirical evidence in the form of statistical data from repeated experiments. “
+”The de Broglie-Bohm theory requires a distinguished relation of distant simultaneity for its formulation, and, it can be argued, this is an ineliminable feature of any hidden-variables theory of this sort, that selects some observable to always have definite values (see Berndl et al. 1996; Myrvold 2002, 2021). On the other hand, there are collapse models that are fully relativistic. On such models, collapses are localized events. Though probabilities of collapses at spacelike separation from each other are not independent, this probabilistic dependence does not require us to single one out as earlier and the other later. Thus, such theories do not require a distinguished relation of distant simultaneity. There remains, however, some discussion of how to equip such theories with beables (or “elements of reality”). See the entry on collapse theories and references therein; see also, for some recent contributions to the discussion, Fleming (2016), Maudlin (2016), and Myrvold (2016). In the case of Everettian theories, one must first think about how to formulate the question of relativistic locality. Several authors have approached this issue in somewhat different ways, with a common conclusion that Everettian quantum mechanics is, indeed, local. (See Vaidman 1994; Bacciagaluppi 2002; Chapter 8 of Wallace 2012; Tipler 2014; Vaidman 2016; and Brown and Timpson 2016.)“
+5. Ontological Issues
+5.1 The question of quantum state realism.
+Harrigan and Spekkens (2010): ψ-ontic:the ontic state uniquely determines the quantum state; that is, if there is a function from ontic states to quantum states (this includes both cases in which the quantum state also completely determines the physical state, and cases, such as hidden-variables theories, in which the quantum state does not completely determine the physical state) and ψ-epistemic 
+usey, Barrett, and Rudolph (2012) showed that, if one adopts, namely, the assumption that it is possible to prepare a pair of systems in such a way that the probabilities for ontic states of the two systems are effectively independent—then any ontological model that reproduces quantum predictions and satisfies this Preparation Independence assumption must be a ψ-ontic model
+discussion in Spekkens (2015): 92–93. See Leifer (2014) for a careful and thorough overview of theorems relevant to quantum state realism, and Myrvold (2020) for a presentation of a case for quantum state realism based on theorems of this sort
+5.2 Ontological category of quantum states
+6. Quantum computing and quantum information theory
+7. Reconstructions of quantum mechanics and beyond
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

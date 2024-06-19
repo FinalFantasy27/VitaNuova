@@ -1,0 +1,27 @@
+
+Gallois, Andre 
+Identity Over Time 
+2016 
+
+The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.) 
+
+Abstract: ... a has the property of being necessarily identical with a. We might deny that there are any such modal properties. Doing so blocks the argument if the application of LL is restricted to properties 
+Alternatively, view that all that a has is the property of being necessarily identical with itself expressed by the predicate ‘[λx x=x]’. We need to distinguish the property of being necessarily identical with itself, which every existent has, from the property of being necessarily identical with a—which only a has (Lowe 1982) 
+
+
+According to the first solution to temporary intrinsic (Lewis 1986), for some object O to be F at t is for the relation of being F to tenselessly, or timelessly, hold between O and time t. For example, for Plate to be round at t1 is for the two-place relation of being round at to hold between Plate and t1. Something can stand in the relation of being round at to the earlier time t1 without standing in that relation to the later time t2. So there is no reason to think that standing in the relation of being round at to t1 is incompatible with standing in the relation of being square at to t2. By transmuting the ostensibly one place relational properties of being round and being square into the two place relational properties of being round at and being square at we can show how something can be round at one time and square at another. 
+
+Lewis' principle objection to this first solution is that it transforms intrinsic into extrinsic properties. He takes it as evident that properties such as being round and being red are intrinsic. 
+
+temporal operator view 
+
+How many places are there in what we may call the truth relation? It is often though to be a two place relation. Suppose that is wrong, and truth is a three place relation holding between a proposition, fact and time. In that case, the three place relation of truth can hold between (i), the fact that Plate is round, and t1, without holding between (i), the same fact and t2. 
+
+Of course whether this is a solution to the problem of temporary intrinsics depends on what that problem is. It is a solution if the problem is to explain time indexing without turning intrinsic into extrinsic properties. After all, no correspondance theorist would allow truth is an intrinsic property. It is not a solution if the problem is to explain time indexing without adding extra places to, it may be, relational properties. 
+
+Alternatively, we can follow Haslanger in Haslanger 1989 and Lowe in Lowe 1987 and treat the relevant propositions as tensed. A change in an intrinsic property corresponds, on this view, to a change in the tense of a proposition atrributing that property. 
+
+Comment: 
+λx Red(x, t1) is a monadic property, but Red-at-t1 and Red-at-t2 are not the same property. We often think that if a rose is red at t1 and red at t2, it has the same property at both t1 and t2. However, there is no problem in saying 'rose-at-t1 is red', and the red here is a monadic property. 
+
+Lewis’s own solution: four-dimensionalism, where the same object has both a round part and a square part.

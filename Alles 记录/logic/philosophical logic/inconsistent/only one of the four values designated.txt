@@ -1,0 +1,35 @@
+Pietz, Andreas / Rivieccio, Umberto 
+Nothing but the Truth 
+2013 
+Journal of Philosophical Logic , Vol. 42, No. 1 
+p. 125-135 
+
+only one of the four values designated
+
+motivation (FDE). you hope to feed [Computers ...] true information and to get back true information. As in the set formulation there are two sets that contain t, namely {t} and {t,f}, it seems natural to take these as designated
+values.
+vs.
+preserve non-falsity ({t} and {})
+
+motivation.contradictory information should be handled with suspicion.
+Example.Jury
+
+the new logic validates ex contradictione quodlibet.
+as strong Kleene does, (A∧¬A) ∨ (B∧¬B)  \models C fails
+
+A Hilbert System
+no tautologices, no axioms
+
+rules like p \lor r \vdash \lnot\lnot p \lor r are strictly stronger than the ones which may look more natural.
+
+The new logic is precisely the logic of First-Degree-Entailment adding the Disjunctive Syllogism
+
+The lattice will give out the value T for a disjunction of two statements with the values B and N (and, dually, the value F for a conjunction of those statements).
+Belnap's remark. 
+1.this peculiarity is pretty much inevitable if one wants to interpret conjunctions as meet and disjunctions as join operations on the lattice (see also [4, p. 927])
+2. If we are wondering about the value that a disjunction of an over- and an underdetermined statement should receive, we should first note that it is at least “told true”, because one of the
+disjunctions is “told true”. On the other hand, it is not “told false”, because for that outcome we should require that both statements were “told false”, and the underdetermined statement was not so told. Therefore, we end up with “exactly true” as the only suitable value.  (1., p. 516)
+
+1. Anderson, A. R., Belnap, Jr, N.D., Dunn, J. M., et al. (1992). Entailment: The logic of relevance
+and necessity (Vol. 2). Princeton: Princeton University Press.
+4. Belnap, N. D., & Wansing, H. (2009). Generalized truth values. Logic Journal of the Interest Group in Pure and Applied Logics, 18(6), 921–935.

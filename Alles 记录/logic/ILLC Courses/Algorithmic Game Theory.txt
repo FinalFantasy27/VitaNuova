@@ -1,0 +1,36 @@
+
+Algorithmic Game Theory
+
+Lecturer(s)
+
+G. Schaefer (co-ordinator)
+
+Contents
+the existence, computation and inefficiency of equilibria (ranging from pure Nash equilibria to learning outcomes) for various classes of games
+the problem of designing coordination mechanisms to reduce the inefficiency
+touch upon the computational limitations that arise in classic auction theory, and learn about techniques to develop simple and efficient algorithms for fundamental mechanism design problems
+
+topics (tentative list):
+
+selfish routing games and the price of anarchy
+Braess paradox, Stackelberg routing, network tolls
+best-response dynamics and potential games
+existence, computation and inefficiency of equilibria
+equilibrium hierarchy, smoothness and extension theorems
+sponsored search and combinatorial auctions
+simple vs. optimal mechanism design
+matching markets and envy-freeness
+cost sharing mechanisms
+
+Recommended prior knowledge
+Solid knowledge of complexity theory, algorithms and optimization
+
+Study materials
+Literature:
+T. Roughgarden, Twenty Lectures on Algorithmic Game Theory, Cambridge University Press, 2016. (primary source)
+N. Nisan, T. Roughgarden, E. Tardos, and V. V. Vazirani (Editors), Algorithmic Game Theory, Cambridge University Press, 2007. (secondary source)
+Other:
+Lecture Notes will be provided.
+
+Assessment
+Homework assignments

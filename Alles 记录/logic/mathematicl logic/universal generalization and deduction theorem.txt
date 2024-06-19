@@ -1,0 +1,9 @@
+只有mp一条规则：（Hunter、Adamowicz & Zbierski、）叶峰（\forall x_1, \cdots, x_n \phi 是公理，其中$\phi$是其它公理之一）
+强全称概括：Mendelson、Shoenfield加弱化/受限制的演绎定理，使得F(x)|-\forall x F(x)成立，但|-Fx->xFx不成立
+只能对可证公式使用全称概括
+弱概括（\Gamma|-\phi then \Gamma|-\forall x \phi, provided x
+doesn't occur free in \Gamma, + thining rule: 如果\Delat \subseteq \Gamma使得\Delta |- \phi, 那么\Gamma|-\phi，这是为了传递性: if \Delta \subseteq \Gamma and \Delta|-\phi, then \Gamma |- \phi (否则假设x不在\Gamma中自由出现，但在phi中自由出现，能运用弱概括，但是\Gamma ∪ {\phi(x)}却不能用了)），但是这不是能行的
+弱概括加自然推演或矢列演算，以自然推演为例：1，我们有初始证明树的集合（单点证明集），InitialTrees；2，我们有针对证明树的能行推演规则，从一些证明树推得另一个证明树，这些规则集是TreeRules；3，定义合法推演集为归纳集：Cl(InitialTrees, TreeRules)；4，我们说\Gamma|-\phi，意为存在一个合法推演（作为证明树），使得它未被取消的“叶节点”的集合\Delta\sebseteq\Gamma，且其“根节点”是\phi
+反面例子：王宪钧、张尚水等
+
+·强概括的语义定义是相对于模型来说的，而弱概括对于赋值来说

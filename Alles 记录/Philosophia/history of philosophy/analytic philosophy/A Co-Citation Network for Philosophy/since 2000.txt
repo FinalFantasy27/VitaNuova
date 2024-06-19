@@ -1,0 +1,62 @@
+“Young” (got their Ph.Ds in the 1990s or later).John Hawthorne (Ph.D ‘91), Ted Sider (Ph.D ‘93), Jason Stanley (Ph.D ‘95), Keith DeRose (Ph.D ‘90) and Jim Pryor (Ph.D ‘97), Fantl, Noe, Hitchcock, Hajek, Cappelen, Merricks, Dowe, Rysiew, O’Connor, Paul, and Heck.Lynne Rudder Baker (woman).Paul (Ph.D ‘99)s' articles/papers (435th)
+The Conscious Mind 1996 by David Chalmers (Ph.D ‘93) is the most-cited work by 90s-cohort Ph.D
+Delia Graff Fara (Ph.D ‘97) in the next 500, has one paper in the dataset with eight citations, and another with seven
+Nomy Arpaly (Ph.D ‘98), Tamar Gendler (Ph.D ‘96), Miranda Fricker (D.Phil ‘96), Rosanna Keefe (Ph.D ‘97), Helen Beebee (Ph.D ‘96), and Karen Bennett (Ph.D ‘00)
+
+senior women philosophers such as Jennifer Hornsby, Margaret Gilbert, Rae Langton, Karen Neander, Elizabeth Fricker, and Robyn Carston, together with more work by Ruth Millikan, Christine Korsgaard, Linda Zagzebski, Judith Jarvis Thomson, Nancy Cartwright, Susan Haack, and the linguist Angelika Kratzer
+
+Rank   	Cites   	Item   	Typically Cited In
+4	83	Williamson T 2000 Knowledge Limits	Nous, Philosophical Review
+30	42	Sider T 2001 4 Dimensionalism Ont	Nous, Journal of Philosophy
+41	36	Hawthorne J 2004 Knowledge I Ottenes	Nous, Philosophical Review
+82	27	Tye M 2000 Consciousness Colro	Nous, Philosophical Review
+86	26	Stanley J 2005 Knowledge Practical	Nous, Philosophical Review
+86	26	Pryor J 2000 Nous	Nous, Philosophical Review
+165	19	Lewis D 2000 J Philos	Journal of Philosophy, Philosophical Review
+179	18	Campbell J 2002 Reference Consciousn	Nous, Mind
+179	18	Stanley J 2000 Mind Lang	Nous, Mind
+195	17	Schiffer S 2003 Things We Mean	Nous, Mind
+211	16	Woodward J 2003 Making Things Happen	Philosophical Review, Journal of Philosophy
+233	15	Bennett J 2003 Philos Guide Conditi	Philosophical Review, Nous
+233	15	Derose K 2002 Philos Rev	Philosophical Review, Nous
+233	15	Fantl J 2002 Philos Rev	Nous, Philosophical Review
+233	15	Noe A 2004 Action Perception	Philosophical Review, Nous
+262	14	Dancy J 2000 Practical Reality	Nous, Mind
+262	14	Gibbard A 2003 Thinking Live	Nous, Philosophical Review
+262	14	Stanley J 2001 J Philos	Journal of Philosophy, Mind
+262	14	Martin M 2002 Mind Lang	Nous, Mind
+262	14	Martin M 2004 Philos Stud	Nous, Mind
+262	14	Hitchcock C 2001 J Philos	Philosophical Review, Journal of Philosophy
+288	13	Peacocke C 2004 Realm Reason	Nous, Mind
+288	13	Byrne A 2003 Behav Brain Sci	Philosophical Review, Nous
+288	13	Byrne A 2001 Philos Rev	Nous, Mind
+324	12	Stanley J 2000 Linguist Philos	Nous, Philosophical Review
+324	12	Sosa E 2007 Virtue Epistemology	Nous, Mind
+324	12	Baker L 2000 Persons Bodies Const	Philosophical Review, Mind
+324	12	Hajek A 2003 Synthese	Philosophical Review, Mind
+324	12	Travis C 2004 Mind	Nous, Philosophical Review
+324	12	Merricks T 2001 Objects Persons	Philosophical Review, Nous
+324	12	Pereboom D 2001 Living Free Will	Philosophical Review, Journal of Philosophy
+363	11	Cappelen H 2005 Insensitive Semantic	Nous, Philosophical Review
+363	11	Dowe P 2000 Phys Causation	Philosophical Review, Journal of Philosophy
+363	11	Chomsky N 2000 New Horizons Study L	Nous, Mind
+363	11	Williamson T 2007 Philos Philos	Mind, Philosophical Review
+363	11	Rysiew P 2001 Nous	Philosophical Review, Nous
+435	10	Soames S 2002 Rigidity Unfinished	Philosophical Review, Nous
+435	10	Arntzenius F 2003 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Velleman J 2000 Possibility Practica	Philosophical Review, Nous
+435	10	Paul L 2000 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Cohen S 2002 Philos Phenomen Res	Philosophical Review, Nous
+435	10	Lange M 2000 Natural Laws Sci Pra	Mind, Nous
+435	10	O'connor T 2000 Persons Causes Metap	Philosophical Review, Nous
+435	10	Huemer M 2001 Skepticism Veil Perc	Nous, Mind
+435	10	Foot P 2001 Natural Goodness	Mind, Nous
+435	10	Chalmers D 2001 Philos Rev	Nous, Philosophical Review
+435	10	Conee E 2004 Evidentialism	Nous, Journal of Philosophy
+435	10	Wright C 2002 Philos Phenomen Res	Philosophical Review, Nous
+435	10	Heck R 2000 Philos Rev	Philosophical Review, Nous
+
+来源
+Citation Networks in Philosophy: Some Followup
+June 24, 2013  Philosophy  Sociology  Gender
+https://kieranhealy.org/blog/archives/2013/06/24/citation-networks-in-philosophy-some-followup/

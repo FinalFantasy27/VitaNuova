@@ -1,0 +1,43 @@
+
+Quantum Cryptography
+
+	
+dr. F. Speelman (co-ordinator)
+
+Objectives
+Can reproduce the steps in security proofs of quantum key distribution protocols
+Can formalize security notions in quantum cryptography using quantum information theory
+Can apply techniques to keep quantum protocols secure on untrusted devices
+Is able to analyze quantum cryptographic protocols for tasks beyond key distribution
+Can independently study scientific literature in the field of quantum cryptography
+Can present results from the scientific literature in the field of quantum cryptography
+Contents
+Quantum computing has important implications for the field of cryptography. On the one hand, techniques in quantum information open up new possibilities for secure communication (e.g. quantum key distribution), while on the other hand, achieving security might be harder in a world where attackers potentially possess quantum computers.
+
+The aim of this course is to familiarize students with a variety of topics within quantum cryptography, so that they are able to read and understand research papers in the field. We will study quantum key distribution in more detail, consider hardware limitations, as well as cryptographic primitives such as oblivious transfer, bit commitment and secret sharing in a quantum setting. In particular, we will highlight the differences with the classical setting for these tasks. There will also be time to study recent developments based on the interest of the students.
+
+Recommended prior knowledge
+Basic knowledge of quantum information, as covered in the courses Quantum Computing by Ronald de Wolf or Quantum Information by Maris Ozols. In particular, the required background material corresponds to Chapters 1,2 of Ronald de Wolf’s lecture notes, or Chapter 0 of the linked lecture notes in the listed literature.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Presentation/symposium
+Working independently on e.g. a project or thesis
+Seminar
+Lecture
+Study materials
+Literature:
+Introduction to Quantum Cryptography - Vidick & Wehner https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B#contents
+Optional extra: Lecture notes https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/pdfbook/0/
+Assessment
+There will be three home-work series exercises that will be handed in and graded. Additionally, students will perform an independent paper study, and present the results to the class.
+
+Remarks
+Activity	Hours
+Presentation	8
+Lecture	14
+Collaborative exercise sessions	26
+Self-study	120
+Total	168	(6 EC x 28 hours)

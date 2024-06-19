@@ -1,0 +1,2 @@
+in Second-order RM, Functions on R, metric spaces, etc have to be coded/represented
+K uses the language of all finite types. E.g. discontinuos functions on R can be directly talked about.

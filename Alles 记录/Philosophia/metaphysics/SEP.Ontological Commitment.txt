@@ -1,0 +1,56 @@
+Bricker, Phillip 
+Ontological Commitment 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Quantifier Accounts of Ontological Commitment 
+1.1 Quine's Criterion, Preliminaries 
+1.2 Relata of Ontological Commitment 
+1.3 Quine's Criterion: Extensional Versions 
+Quine's Criterion, Extensional Version. A theory T is ontologically committed to Ks iff every domain of quantification that makes the theory true contains at least one K. 
+... 
+1.4 Quine's Criterion: Metalinguistic Versions 
+the world being lost 
+1.5 Modal Quantifier Criteria 
+1) Modal Entailment Criterion. A theory T is ontologically committed to Ks iff, for every world w, T is true at w only if the domain of w contains at least one K. 
+2) Modal Quantifier Criterion. A theory T is ontologically committed to Ks iff, for every world w and every sub-domain of the domain at w, T is true at w with its variables ranging over that sub-domain only if that sub-domain contains at least one K. 
+1.6 Evaluating Quantifier Accounts: Sufficiency 
+1.6.1 Inclusive Logic/Free Logic 
+1.6.2 Substitutional vs. Objectual Quantifiers 
+1.6.3 Meinongian Quantifiers 
+1.6.4 Realism and Reduction 
+1.7 Evaluating Quantifier Accounts: Necessity 
+1.7.1 Commitment to Properties or Universals 
+1.7.2 Second-Order Languages 
+1.7.3 Intensional Languages 
+1.7.4 Implicit Commitment: Extrinsic Properties 
+1.7.5 Implicit Commitment: Sets and Wholes 
+2. Entailment Accounts of Ontological Commitment 
+2.1 Overview 
+2.2 Modal Entailment Criteria 
+2.3 A Priori Entailment Criteria 
+3. Truthmaker Accounts of Ontological Commitment
+3.1 Overview 
+3.2 Deep vs. Shallow Ontological Commitment 
+3.3 The Problem of Inessential Predication 
+3.4 The Problem of Sufficiency: Implicit Commitment Revisited 
+4. Ontological Commitment in Ordinary Language 
+4.1 Overview 
+4.2 The Method of Paraphrase, and its Problems 
+5. Frege and Neo-Fregeanism 
+5.1 Frege 
+5.2 Neo-Fregeanism 
+Hume's Principle. ...? ontological reduction? ...? 
+Neo-Fregean Account. Suppose that t is a singular term purporting to refer to objects of kind K. Then any theory truth-conditionally equivalent to a theory containing the term t is ontologically committed to Ks. 
+To illustrate: “there are exactly as many forks as knives” is ontologically committed to numbers because it is truth-conditionally equivalent to “the number of forks is identical with the number of knives”, which contains a singular term ‘the number of forks’ which purports to refer to numbers. 
+6. Carnap and Neo-Carnapianism 
+6.1 Carnap 
+6.2 Neo-Carnapianism: Quantifier Variance 
+Eli Hirsch‘s realism.compatible.This reality cannot, in and of itself, be ontologically structured; it cannot have a metaphysically privileged division into objects, lest one quantifier be privileged over the others 
+vs. 
+Carnap's anti-realism 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

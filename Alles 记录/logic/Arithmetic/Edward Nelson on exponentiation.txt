@@ -1,0 +1,27 @@
+Edward Nelson，一位在随机量子力学和非标准分析及其上的概率论上做出了贡献的普林斯顿的数学家，直到他去世前一直在致力于证明我们当前的数学可能崩溃——特别地，皮亚诺算术公理系统是不一致的。
+这部分来源于他“超有穷主义”（ultrafinitist，认为超过某些值的大数就是不存在的了）的信念。
+Edward Nelson在这上面有尽管已撤回的规模宏大的工作。下面只是启发式的观察。
+一个象征性的结果是指数运算可能“并不是封闭的”：在皮亚诺算术的语言中添加一个新的一元谓词符号C（代表数（counting number）），并且加上“C是向下封闭的，包含0，并且对于所有x，如果Cx，则有C(x+1)”。
+尽管我们对每一个具体的自然数n，我们都有Cn，但在这个新理论下，我们并不能证明forall x Cx，甚至也不能证明C对加法封闭。
+但是我们仍能证明：
+1. 存在一个C的可定义的initial segment，使得新理论能证明这个initial segment对加法和后继封闭：
+考虑 A={x∈C:∀y∈C(y+x∈C)}。向下封闭性和对后继封闭易见。如果x1和x2属于A，y属于C，有 y + (x1 + x2) = (y + x1) + x2，而 y + x1 属于C（因为x1属于A），所以 (y + x1) + x2 属于C（因为x2属于A），所以x1和x2属于A => x1+x2属于A，A对加法封闭。
+
+2. 存在一个C的可定义的initial segment，使得新理论能证明这个initial segment对乘法封闭：考虑 M={x∈A:∀y∈A(y⋅x∈A)}
+
+这两种情况仲都用到了交换律（在皮亚诺算术中可以证明forall x y z (x + y)+z=x+(y+z)）。
+
+但是Nelson观察到，上面的现象对指数运算不成立了：
+新理论无法证明 E={x∈M:∀y∈M(y^x∈M)}对指数运算封闭：
+令X为任意皮亚诺算术的非标准模型，并且有一个至少包含了所有标准自然数，且对加法和乘法，但不对指数运算封闭的initial segment I。令CC为所有使得“对于某些标准自然数n和某些i∈I，x≤n^i“的 x 的集合。 (X, CC) 是新理论的一个模型，其中谓词符号C解释为集合CC。
+注意到CC对加法和乘法封闭：如果x≤n^i并且y≤m^j，那么xy和x+y都最多只有(m+n)^(i+j)。所以CC=A=M。
+注意到CC对 I 中的元素的指数运算封闭：如果x≤n^i，则x^j≤(n^i)^j=n^(ij)。所以E包含CC。
+另一方面，如果 e∈E，那么特别地，2^e∈C，因此2^e≤n^i，n是某标准自然数，i∈I。但是我们有2^m>=n，对于某标准自然数m，因此n^i≤2^(mi)，因此e≤m^i。所以e∈I。
+所以在这个模型中E只是I，但是I已经被指定为不对指数封闭。
+
+（上面的证明出自Eric Wofsey：https://math.stackexchange.com/questions/2885141/a-model-theoretic-question-re-nelson-and-exponentiation）
+
+而Nelson似乎认为E是唯一合理的候选项，因而Nelson似乎暗中作了一个猜想：
+不存在一个公式，使得新理论能证明这个公式定义了一个C的对指数运算封闭的initial segement。
+这个（具体的模型论）问题现在挂在Mathoverflow上：
+https://math.stackexchange.com/questions/2885141/a-model-theoretic-question-re-nelson-and-exponentiation

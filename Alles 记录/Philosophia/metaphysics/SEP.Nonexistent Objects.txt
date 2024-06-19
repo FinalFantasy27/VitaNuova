@@ -1,0 +1,33 @@
+Reicher, Maria 
+Nonexistent Objects 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+1. The Concept of a Nonexistent Object
+1.1 The Logics of Nonexistent Objects
+2. Historical Roots: Alexius Meinong and the Problem of Intentionality
+3. Further Motivations for Belief in Nonexistent Objects
+3.1 The Problem of Negative Singular Existence Statements
+3.2 The Problem of Fictional Discourse
+3.3 The Problem of Discourse about the Past and the Future
+3.4 The Problem of Alleged Analytic Truths Like “The round square is square”
+3.5 Nonexistent Objects in Practical Philosophy
+4. Problems with Belief in Nonexistent Objects
+5. Contemporary Theories of Nonexistent Objects: From Nonexistence to Abstractness
+5.1 The De-ontologization Strategy
+5.2 Fictionalism and Indifferentism
+5.3 The Other Worlds Strategy
+Graham Priest (2005) and Francesco Berto (2008). Priest calls his theory noneism; Berto names it modal Meinongianism
+All worlds (possible as well as impossible ones) share the same domain of discourse. But not all objects of the domain exist in all worlds. Thus, Pegasus does not exist in the actual world, but it exists in a variety of merely possible worlds (namely in those which are such as represented by the Greek mythology).
+The round square exists only in impossible worlds. In impossible worlds, however, the principle of contradiction does not hold. Therefore, the round square’s being both round and not round does not infringe the laws of logic which hold in those worlds in which the round square exists. In the actual world, however, the round square is neither round nor square, since roundness and squareness are “existence-entailing properties”, i.e., “b is round/square” entails “b exists”.
+5.4 Nuclear and Extranuclear Properties
+5.5 The Dual Copula Strategy
+as abstract object
+First, consider the problem of intentionality: if somebody fears the devil, does he fear an abstract object? — This seems to be psychologically impossible, for an abstract object cannot do any harm to anybody. It is not that they mistakenly attribute certain properties to an abstract devil. Rather, they do not have an abstract devil as their intentional object of fear in the first place. Second, recall the problem of negative singular existence sentences: Astronomers claim that Vulcan does not exist. Do they thereby intend to deny the existence of an abstract object that only encodes being such-and-such a planet? — Probably not. They rather deny the existence of something that is a planet, i.e., a concrete material thing. Finally, consider the problem of discourse about the past and the future: when a teacher in a history of philosophy class talks about Socrates, does she then intend to talk about an abstract object that only encodes all of the properties that Socrates (the “real” one) once exemplified? — Presumably not. If there is an object which she is intentionally directed at, then it is probably the “real” Socrates, not its abstract counterpart.
+5.6 Nonexistence Does Not Hold the Key
+6. Themes for Further Investigation
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

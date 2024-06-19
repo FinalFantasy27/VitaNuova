@@ -1,0 +1,10 @@
+
+Formulae of Propositional Logic
+Definition 1.  ... Only these are formulae.
+2. the intersection of ...
+3. h_0 = {p_k | k \in N}, h_{n+1} = ..., \underline{i \in \omega}\Cup h_i
+4. A formula has a formation sequence. A formation sequence for a formula Y is a finite sequence Y_1, \dots, Y_m such that Y_m is Y and for each 1 \le i \le m, one of the following conditions holds:
+(a) Y_i is a propositional variabel;
+(b) there is j < i such that Y_i is ~Y_j;
+(c) there are indices j<i and k<i such that Y_i is [Y_j∨Y_k].
+Exercise: Prove the equivalence

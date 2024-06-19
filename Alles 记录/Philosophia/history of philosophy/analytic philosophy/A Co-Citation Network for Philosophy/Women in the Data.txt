@@ -1,0 +1,33 @@
+“P. Churchland (1989)” on the graph is Paul Churchland’s A Neurocomputational Perspective, not Patricia Churchland.
+
+a complete list of items in the data that were written by women.
+
+Rank	Cites	Item	Typically Cited In
+47	34	Millikan R 1984 Language Thought Oth	Nous, Journal of Philosophy
+75	28	Korsgaard C 1996 Sources Normativity	Philosophical Review, Journal of Philosophy
+82	27	Edgington D 1995 Mind	Mind, Philosophical Review
+262	14	Foot P 1978 Virtues Vices Other	Philosophical Review, Mind
+288	13	Herman B 1993 Practice Moral Judgm	Philosophical Review, Journal of Philosophy
+288	13	Maddy P 1990 Realism Math	Philosophical Review, Mind
+324	12	Baker L 2000 Persons Bodies Const	Philosophical Review, Mind
+363	11	Cartwright N 1983 How Laws Physics Lie	Nous, Mind
+363	11	Sher G 1991 Bounds Logic	Philosophical Review, Mind
+363	11	Anscombe G 1957 Intention	Nous, Mind
+363	11	Hurley S 1998 Consciousness Action	Philosophical Review, Mind
+363	11	Korsgaard C 1986 J Philos	Mind, Nous
+363	11	Korsgaard C 1997 Ethics Practical Rea	Philosophical Review, Nous
+363	11	Haslanger S 1989 Analysis	Philosophical Review, Mind
+435	10	Paul L 2000 J Philos	Philosophical Review, Journal of Philosophy
+435	10	Millikan R 1989 J Philos	Philosophical Review, Mind
+435	10	Foot P 2001 Natural Goodness	Mind, Nous
+435	10	Zagzebski L 1991 Dilemma Freedom Resp	Nous, Philosophical Review
+435	10	Thomson J 1983 J Philos	Philosophical Review, Journal of Philosophy
+
+Millikan’s Language, Thought, and Other Biological Categories (1984) ranked highest at 47th, followed by Christine Korsgaard’s The Sources of Normativity (1996, ranked 75th) and Dorothy Edgington’s “On Conditionals” (1995, ranked 82nd)
+Christine Korsgaard has three items in the most-cited list. Millikan and Foot have two each. a paper by Judith Jarvis Thomson is added.not her work on abortion or trolley problems, however, but rather “Parthood and Identity Across Time”
+
+The fifteen women are Ruth Millikan, Christine Korsgaard, Dorothy Edgington, Philippa Foot, Barbara Herman, Penelope Maddy, Lynne Rudder Baker, Nancy Cartwright, Gila Sher, G.E.M. Anscombe, Susan Hurley, Sally Haslanger, L.A. Paul, Linda Zagzebski, and Judith Jarvis Thomson.
+
+来源
+June 19, 2013 Lewis and the Women
+https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/

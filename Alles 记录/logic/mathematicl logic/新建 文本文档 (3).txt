@@ -1,0 +1,2 @@
+
+positive formulae are satisfiable，用一个更强的假设，即存在一个赋值使得所有positive formulae 被满足

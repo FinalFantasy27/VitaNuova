@@ -1,0 +1,5 @@
+Frechet filter := all sufficiently large n
+the defect of the cheap version of nonstandard analysis, e.g. the nonstandard real x=x_n:= (-1)^n is neither positive, negative, nor zero, because none of the statements (-1)^n>0, ..., or... are true for all sufficiently large n. However, if one restricts the asymptotic parameter to the even integers, then this real number {x} becomes positive.
+Because of the lack of the law of excluded middle, though, sometimes one has to take some care in phrasing statements properly before they will transfer. For instance, the statement “If {xy=0}, then either {x=0} or {y=0}” is of course true for standard reals, but not for nonstandard reals; a counterexample can be given for instance by {x_{n} := 1 + (-1)^{n}} and {y_{n} := 1 - (-1)^{n}}. However, the rephrasing “If {x \neq 0} and {y \neq 0}, then {xy \neq 0}” is true for nonstandard reals. As a rough rule of thumb, as long as the logical connectives “or” and “not” are avoided, one can transfer standard statements to cheap nonstandard ones.
+
+https://terrytao.wordpress.com/2012/04/02/a-cheap-version-of-nonstandard-analysis/

@@ -1,0 +1,10 @@
+
+a “surgical” change in A
+ which is of such a character that if any change occurs in B
+, it occurs only as a result of its causal connection, if any, to A
+ and not in any other way. In other words, the change in B
+, if any, that is produced by the manipulation of A
+ should be produced only via a causal route that goes through A
+. Manipulations or changes in the value of a variable that have the right sort of surgical features have come to be called interventions in the recent literature (e.g., Spirtes, Glymour, and Scheines 2000; Meek and Glymour 1994; Hausman 1998; Pearl 2009; Woodward 1997, 2000, 2003; Woodward and Hitchcock 2003; Cartwright 2003)
+
+Woodward, James, "Causation and Manipulability", The Stanford Encyclopedia of Philosophy (Summer 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/sum2023/entries/causation-mani/>.

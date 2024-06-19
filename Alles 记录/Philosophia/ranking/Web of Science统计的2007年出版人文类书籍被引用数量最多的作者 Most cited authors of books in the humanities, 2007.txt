@@ -1,0 +1,80 @@
+Field	 | Citations to books in 2007
+Michel Foucault (1926-1984) Philosophy, sociology, criticism	2,521
+Pierre Bourdieu (1930-2002) Sociology	2,465
+Jacques Derrida (1930-2004) Philosophy	1,874
+Albert Bandura (1925- ) Psychology	1,536
+Anthony Giddens (1938- ) Sociology	1,303
+Erving Goffman (1922-1982) Sociology	1,066
+Jurgen Habermas (1929- ) Philosophy, sociology	1,049
+Max Weber (1864-1920) Sociology	971
+Judith Butler (1956- ) Philosophy	960
+Bruno Latour (1947- ) Sociology, anthropology	944
+Sigmund Freud (1856-1939) Psychoanalysis	903
+Gilles Deleuze (1925-1995) Philosophy	897
+Immanuel Kant (1724-1804) Philosophy	882
+Martin Heidegger (1889-1976) Philosophy	874
+Noam Chomsky (1928- ) Linguistics, philosophy	812
+Ulrich Beck (1944- ) Sociology	733
+Jean Piaget (1896-1980) Philosophy	725
+David Harvey (1935- ) Geography	723
+John Rawls (1921-2002) Philosophy	708
+Geert Hofstede (1928- ) Cultural studies	700
+Edward W. Said (1935-2003) Criticism	694
+Emile Durkheim (1858-1917) Sociology	662
+Roland Barthes (1915-1980) Criticism, philosophy	631
+Clifford Geertz (1926-2006) Anthropology	596
+Hannah Arendt (1906-1975) Political theory	593
+Walter Benjamin (1892-1940) Criticism, philosophy	583
+Henri Tajfel (1919-1982) Social psychology	583
+Ludwig Wittgenstein (1889-1951) Philosophy	583
+Barney G. Glaser (1930- ) Sociology	577
+George Lakoff (1941- ) Linguistics	577
+John Dewey (1859-1952) Philosophy, psychology, education	575
+Benedict Anderson (1936- ) International studies	573
+Emmanuel Levinas (1906-1995) Philosophy	566
+Jacques Lacan (1901-1981) Psychoanalysis, philosophy, criticism	526
+Thomas S. Kuhn (1922-1996) History and philosophy of science	519
+Karl Marx (1818-1883) Political theory, economics, sociology	501
+Friedrich Nietzsche (1844-1900) Philosophy	501
+
+来源：https://www.timeshighereducation.com/news/most-cited-authors-of-books-in-the-humanities-2007/405956.article
+Web of Science统计
+
+作者、领域 | 2007 年人文类书籍引用数量 | 代表作
+福柯（1926-1984） 哲学、社会学、评论 2,521
+布尔迪厄（1930-2002） 社会学 2,465
+德里达（1930-2004） 哲学 1,874
+阿尔伯特·班杜拉（1925-） 心理学 1,536
+安东尼·吉登斯（1938-），社会学 1,303
+欧文·戈夫曼（1922-1982） 社会学 1,066 《日常生活的自我呈现》
+哈贝马斯 (1929- ) 哲学、社会学 1,049
+马克斯·韦伯（1864-1920 年） 社会学 971
+朱迪斯·巴特勒（Judith Butler） (1956- ) 哲学 960
+布鲁诺·拉图尔（Bruno Latour）（1947- ）社会学、人类学 944 “科学社会学” SSK 《实验室生活》
+弗洛伊德（1856-1939 年） 精神分析 903
+德勒兹（1925-1995 年） 哲学 897
+康德（1724-1804） 哲学 882
+海德格尔（1889-1976 年） 哲学 874
+乔姆斯基（1928-） 语言学、哲学 812
+乌尔里希·贝克 (1944- ) 社会学 733
+皮亚杰（1896-1980 年） 哲学（、心理学） 725
+大卫·哈维（1935- ）马克思主义地理学 723
+罗尔斯（1921-2002） 哲学 708 《正义论》
+吉尔特·霍夫斯泰德 Geert Hofstede (1928- ) 文化研究 700
+赛义德（1935-2003） 批评 694
+涂尔干（1858-1917 年） 社会学 662
+罗兰·巴特（1915-1980 年） 批评、哲学 631
+克利福德·格尔茨（1926-2006 年） 人类学 596
+汉娜·阿伦特（1906-1975 年） 政治理论（、哲学） 593 《艾希曼在耶路撒冷》
+瓦尔特·本雅明（1892-1940 年） 批评、哲学 583
+亨利·塔杰菲尔（1919-1982 年） 社会心理学 583
+维特根斯坦（1889-1951 年） 哲学 583
+格拉塞 Barney G. Glaser 社会学 577
+乔治·拉科夫 (1941- ) 认知语言学 577 
+约翰·杜威 (1859-1952) 哲学、心理学、教育学 575
+本尼迪克特·安德森（1936- ）国际研究 573 《想象的共同体》
+列维纳斯（1906-1995 年） 哲学 566
+拉康（1901-1981 年） 精神分析、哲学、评论 526
+托马斯·库恩（1922-1996） 科学史与科学哲学 519 《科学革命的结构》
+马克思（1818-1883 年） 政治理论、经济学、社会学 501
+尼采（1844-1900 年） 哲学 501

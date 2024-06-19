@@ -1,0 +1,71 @@
+
+a in A这样的junk theorem type theory里一样会有，这来源于所有形式（）都需要的编码细节
+
+
+依赖配对类型可以不是基本的，因为它可以归纳定义
+有序对是它的特殊情况，
+Coq的写法（归纳类型）：Inductive prod (A B: Type): Type :=
+pair : A -> B -> prod A B. 
+pair就是它唯一的一种情况
+Agda的写法（同时定义笛卡尔积/有序对，及它们的记法）：给一个 a : A 一个 b : B我们有 ⟨ a , b ⟩ : A × B，有序对的类型就是笛卡尔积（oCaU）
+
+pattern matching应该可以写成某种语法规则，因为精确写出来太复杂了，这里直接假设有了
+pattern matching指的就是对constructor分情况讨论并进行递归定义，就是定义f(cons ...)值的时候可以使用f(cons' ...),这里的 cons’ ... 比cons ... “小”即可，比如定义自然数上的函数，定义f(succ n)的时候可以使用f(n)，一般来说pattern matching的语法和某个rec函数的存在性是等价的（kang）
+pattern matching是归纳类型提供的构造；按结构分类然后对数据做操作，在程序设计语言中比较常见，直觉上也是可计算的
+所有pattern matching能定义出来的函数都能用induction principle构造（recursion/induction principle）出来
+
+Tagged union ≈ disjoint union 
+
+
+类型论里在重构经典逻辑时是用Pi（对应全称量词）, A x B（对应合取）、A -> 0加上（对于subsingleton（最多只有一个term的type）的）双重否定消去来构造出存在量词和析取；而不能用Signa、A+B（类似不交并，可能会有两个元素，因此不是一个sub-singleton；而 Pi 还有 x 作用到subsingleton后还是subsingleton
+）加双重否定消去来构造出全称和合取。
+（~~(a and b) 在直觉主义里也等价于 ~~a and ~~b，但是~~(a or b) 不等价于 ~~a or ~~b）
+在HoTT中A是命题且B是命题，那么AxB是命题，但A+B不一定是命题，除非A与B互斥
+再加入proposition truncation（命题截断）这个构造就行了，|| Sigma_(x : X) P(x) ||（如双重否定 (Sigma_(x : X) P(x) -> 0) -> 0，with DNE_{-1}, double negation is a propositional truncation），这样全称和合取也是一样
+在一般的类型上其实可以用双重否定模态
+通常的～～只在subsingleton能体现出价值
+
+
+hott book Theorem 3.2.2. h-level > 1的类型上的LEM与UA矛盾
+DNE/LEM和univalence是矛盾的，只能对h-proposition陈述LEM，不过其实这也才是经典意义上的LEM
+
+
+类型不能非常贴切的解释为(经典意义上)的命题，就算在传统的语义里，类型也是被理解为集合，而命题视为subsingleton set更贴切
+当然可以直接把类型看作命题，所谓propositions as types
+只不过这样理解的“命题”表现的很特别
+比如有个问题是，怎么表达选择公理
+
+谓词P看成到2（之有两个元素0，1的类型的type）的函数，如果有排中律的话，这样当然可以，有排中律的话，hProp和Bool等价，没有的话你需要定义一个命题宇宙Prop，然后把谓词看成到Prop的函数
+
+类型论的语言其实是“判断”，就是judgement的演绎系统
+这个演绎系统能表达的东西特别弱，基本就只有“X type”（X是一个类型），"x:X", "X==Y", "x==y"这四种
+而且"x:X"这种判断由于你实际上给出x的构造，它其实更接近于"x是X的证明"，这里的x看成是进行演绎的表达式的序列
+类型论之所以可判定也是因为这个原因
+"x是X的证明"这样的句子就算在经典逻辑里也一样可判定
+当然前提是这个演绎系统不是什么特别巨大的无穷系统
+"P为真"对应过来应该更接近于“存在x，使得x:X”，类型论禁止这种句子被写出来，当然看成一个元语言的命题是没问题的
+（kang）
+
+
+类型论方法：HoTT 、内语言方法、synthetic mathematics
+类型论证明的比较重要的数学定理/结果：
+Infi 2024/6/8 2:23:13
+Blakers-Massey定理
+Infi 2024/6/8 2:23:47
+原本的证明比较繁琐，用hott找到了一个比较简单的内语言证明
+数学迷 2024/6/8 2:24:39
+原本不单繁琐而且不是纯同伦论的
+kang 2024/6/8 2:46:14
+这还是算重新证明吧
+kang 2024/6/8 2:46:16
+其实真有一个
+kang 2024/6/8 2:46:32
+higher Seifert-van Kampen
+kang 2024/6/8 2:47:08
+一个表示pushout的pullback的定理
+kang 2024/6/8 2:48:10
+大概就是把这个写成了跟James reduced product差不多的形式
+kang 2024/6/8 2:49:20
+不过也可能就是把pushout of fundamental groups改成了pushout of loop spaces as A_infity group
+
+

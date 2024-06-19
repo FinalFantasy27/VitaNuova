@@ -1,0 +1,98 @@
+Psillos, Stathis 
+Realism and Theory Change in Science 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+1. The History of the Historical Challenge
+1.1 The Bankruptcy-of-science Debate
+1.2 Duhem on Continuity
+1.3 Poincaré’s Relationism
+1.4 Boltzmann Against Historical Pessimism
+2. Scientific Realism and the Pessimistic Induction
+2.1 The ‘Disastrous Meta-Induction’
+普特南以如下形式表述了“悲观的元归纳”（Pessimistic Induction/Meta-Induction）：
+
+正如没有任何五十年之前的科学所使用的术语还有所指称一样，所以现在使用的任何科学术语（也许除了观察术语，如果有的话）也会变成同样情况（Putnam, Hillary, 1978, Meaning and the Moral Sciences, London; Boston: Routledge and Kegan Paul.: 25)
+
+Putnam took scientific realism to involve three theses:
+
+Theoretical terms refer to unobservable entities;
+Theories are (approximately) true; and
+There is referential continuity in theory change.
+(1978: 25)
+普特南将科学实在论归结为如下三个信念：
+1.	理论术语所指称的不可观察的实体是存在的；
+2.	科学理论是（接近）真实的；
+3.	科学术语的指称在理论变化中存在着连续性
+
+referentialist and descriptive-referentialism
+2.2 The Principle of No Privilege
+2.3 Getting Nearer to the Truth
+因果指称理论（causal theory of reference）
+2.4 The Plethora of False Theories
+Laudan’s list of successful-yet-false theories
+
+古代和中世纪天文学的结晶球体（the crystalline spheres of ancient and medieval astronomy）
+医学的体液理论（the humoral theory of medicine）
+静电的流变理论（the effluvial theory of static electricity）
+灾变地质学，及其对全球大灾难的预言（catastrophist geology, with its commitment to a universal (Noachian) deluge）
+化学的燃素理论（the phlogiston theory of chemistry）
+热的热质理论（the caloric theory of heat）
+热的振动理论（the vibratory theory of heat）
+生理学的活力论（the vital force theory of physiology）
+旋转惯性理论（the theory of circular inertia）
+自发生成理论（theories of spontaneous generation）
+接触作用引力以太（the contact-action gravitational ether of Fatio and LeSage）
+光学以太（the optical ether）
+电磁以太（the electromagnetic ether）
+
+Timothy Lyons (2002: 70–72) and Peter Vickers (2013: 191–194) suggest the following (partly overlapping) lists:
+
+Lyons’s list
+
+Caloric Theory
+Phlogiston Theory
+Rankine’s 19th Century Vortex Theory
+Newtonian Mechanics
+Fermat’s Principle of Least Time
+Fresnel’s Wave Theory of Light and of the Optical Ether
+Maxwell’s Ether Theory
+Dalton’s Atomic Theory
+Kekulé’s Theory of Benzene Molecule
+Mendeleev’s Periodic Law
+Bohr’s Theory of the Atom
+Dirac’s Relativistic Wave Equation
+The Original (pre-inflationary) Big Bang Theory
+
+Vickers’s list
+
+Caloric Theory
+Phlogiston Theory
+Fresnel’s theory of light and the luminiferous ether
+Rankine’s vortex theory of thermodynamics
+Kekulé’s Theory of Benzene Molecule
+Dirac and the positron
+Teleomechanism and gill slits
+Reduction division in the formation of sex cells
+The Titius-Bode law
+Kepler’s predictions concerning the rotation of the sun
+Kirchhoff’s theory of diffraction
+Bohr’s prediction of the spectral lines of ionized helium
+Sommerfeld’s prediction of the hydrogen fine structure
+Velikovsky and Venus
+Steady state cosmology
+The achromatic telescope
+The momentum of light
+S-matrix theory
+Variation of electron mass with velocity
+Taking the thermodynamic limit
+2.5 The Divide et Impera Strategy
+2.6 Criticisms of Divide et Impera
+2.7 Structural Realism
+2.8 Induction or Deduction?
+2.9 A New Induction
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

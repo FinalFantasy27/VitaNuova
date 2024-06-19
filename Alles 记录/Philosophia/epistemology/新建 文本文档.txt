@@ -1,0 +1,384 @@
+很多大学（例如剑桥、牛津）都会有reading list，例如这份科学哲学（philosophy of science）的reading list https://link.zhihu.com/?target=https%3A//www.uwo.ca/philosophy/pdf/graddocs/Sci%2520Reading%2520List%2520-%252020111.pdf
+
+
+
+philosophy of language: Gottlob Frege: “On Sinn and Bedeutung” (“Sense and Reference”)
+
+Bertrand Russell: “On Denoting,” “Descriptions”
+
+John R. Searle: “Proper Names”
+
+P. F. Strawson: “On Referring”
+
+Keith S. Donnellan: “Reference and Definite Descriptions”
+
+Saul A. Kripke: “Lecture II: January 22, 1970”
+
+Paul Grice: “Logic and Conversation”
+
+Saul A. Kripke: “Speaker’s Reference and Semantic Reference”
+
+David Kaplan: “Demonstratives” （特别是，1-3, 5, 6, 14, 15小节的正文部分）
+
+Emma Borg: “Complex Demonstratives”
+
+Gareth Evans: “The Causal Theory of Name”
+
+Hilary Putnam: “The Meaning of ‘Meaning’”
+
+John Searle: “What is a Speech Act?”
+
+Kent Bach & Anne Bezuidenhout: “Distinguishing Semantics and Pragmatics”
+
+李麒麟“语言哲学”2020-2021第一学期本科生课程除教材
+
+epistemology: Descartes’ First Meditation, Gettier
+
+
+
+philosophy of mind:
+
+Gilbert Ryle, The Concept of Mind
+
+J.J. Smart, “Sensations and Brain Processes”
+
+D. Lewis, “An Argument for Identity Theory”
+
+Thomas Nagel, “What is it like to be a bat”
+
+Donald Davidson, “Mental Events”
+
+Frank Jackson, “Epiphenomenal Qualia”
+
+Jaegwon Kim, “Multiple Realization and the Metaphysics of Reduction”
+
+Ned Block, “What is Functionalism”
+
+Jaegwon Kim, Mind in a Physical World
+
+David Chalmers, “Consciousness and Its Place in Nature”
+
+
+
+Part I :Philosophy of Language.
+
+1 “On Sense and Reference”(Gottlob Frege).
+
+2 “Thought”(Gottlob Frege).
+
+3 “On Denoting”(Bertrand Russell).
+
+4 “On Referring”(P. F. Strawson).
+
+5 “Meaning”(H. P. Grice).
+
+6 “Truth and Meaning”(Donald Davidson).
+
+7 “Identity and Necessity”(Saul Kripke).
+
+8 “Meaning and Reference”(Hilary Putnam).
+
+Further Reading in Philosophy of Language.
+
+Part II: Metaphysics.
+
+9 “On the Relations of Universals and Particulars”(Bertrand Russell).
+
+10 From the Tractatus Logico-Philosophicus(Ludwig Wittgenstein).
+
+11 “Particular and General”(P. F. Strawson).
+
+12 “On What There Is”(W. V. Quine).
+
+13 “The Identity of Indiscernibles”(Max Black).
+
+Further Reading in Metaphysics.
+
+Part III: Epistemology.
+
+14 “Proof of an External World”(E. Moore).
+
+15 From On Certainty:( Ludwig Wittgenstein).
+
+16 “Knowledge by Acquaintance and Knowledge by Description”(Bertrand Russell).
+
+17 “The Problem of the Criterion”(Roderick Chisholm).
+
+18 “Is Justified True Belief Knowledge?”(Edmund Gettier).
+
+19 “Studies in the Logic of Explanation”(Carl Hempel and Paul Oppenheim).
+
+20 “The New Riddle of Induction”(Nelson Goodman).
+
+21 “Epistemology Naturalized”(W. V. Quine).
+
+22 “Criteria, Defeasibility, and Knowledge”(John McDowell).
+
+Further Reading in Epistemology.
+
+Part IV: Philosophy of Mind.
+
+23 “Sensations and Brain Processes”(J. J. C. Smart).
+
+24 “The Nature of Mental States”(Hilary Putnam).
+
+25 Sense and Sensibilia(J. L. Austin).
+
+26 “Mental Events”(Donald Davidson).
+
+27 “What is it Like to Be a Bat?”(Thomas Nagel).
+
+28 “Mad Pain and Martian Pain”(David Lewis).
+
+29 “Can Computers Think?”(John Searle).
+
+30 “Other Bodies”(Tyler Burge).
+
+31 “Individualism and Supervenience”(Jerry Fodor).
+
+Further Reading in Philosophy of Mind.
+
+Part V: Freedom and Personal Identity.
+
+32 “The Conceivability of Mechanism”(Normal Malcolm).
+
+33 “Freedom and Resentment”(P. F. Strawson).
+
+34 “Human Freedom and Self”(Roderick Chisholm).
+
+35 “Alternative Possibilities and Moral Responsibility”(Harry Frankfurt).
+
+36 “The Self and the Future”(Bernard Williams).
+
+37 “Personal Identity”(Derek Parfit).
+
+38 “Action, Reasons, and Causes”(Donald Davidson).
+
+Further Reading in Freedom and Personal Identity.
+
+Part VI :Ethics.
+
+39 “The Subject Matter of Ethics”(G. E. Moore).
+
+40 “The Emotive Meaning of Ethical Terms”(Charles Stevenson).
+
+41 “Justice as Fairness”(John Rawls).
+
+42 “Modern Moral Philosophy”(G. E. M. Anscombe).
+
+43 “Morality as a System of Hypothetical Imperatives”(Philippa Foot).
+
+Further Reading in Ethics.
+
+Part VII: Methodology.
+
+44 “The Elimination of Metaphysics”(A. J. Ayer).
+
+45 “Empiricism, Semantics, and Ontology”(Rudolf Carnap).
+
+46 “Two Dogmas of Empiricism”(W. V. Quine).
+
+47 “In Defense of a Dogma”(H. P. Grice and P. F. Strawson).
+
+48 “Philosophy and the Scientific Image of Man”(Wilfrid Sellars).
+
+49 The Blue and the Brown Books(Ludwig Wittgenstein).
+
+Analytic Philosophy: An Anthology, 2nd Edition, A. P. Martinich (Editor), David Sosa (Editor), Wiley-Blackwell, 2011
+
+
+
+Part I: Skepticism:.
+
+1. The Problem of the External World: Barry Stroud.
+
+2. Proof of an External World: G. E. Moore.
+
+3. Four Forms of Scepticism: G. E. Moore.
+
+4. Certainty: G. E. Moore.
+
+5. How a Pyrrhonian Skeptic Might Respond to Academic Skepticism: Peter Klein.
+
+6. Epistemological Realism: Michael Williams.
+
+Part II: The Structure of Knowledge and Justification:.
+
+7. The Myth of the Given: Roderick M. Chisholm.
+
+8. Does Empirical Knowledge Have a Foundation?: Wilfrid Sellars.
+
+9. Epistemic Principles: Wilfrid Sellars.
+
+10. Can Empirical Knowledge Have a Foundation?: Laurence BonJour.
+
+11. A Coherence Theory of Truth and Knowledge: Donald Davidson.
+
+12. A Foundherentist Theory of Empirical Justification: Susan Haack.
+
+13. The Raft and the Pyramid: Ernest Sosa.
+
+14. Human Knowledge and the Infinite Regress of Reasons: Peter Klein.
+
+Part III: Defining Knowledge:.
+
+15. Is Justified True Belief Knowledge?: Edmund Gettier.
+
+16. Thought, Selections: Gilbert Harman.
+
+17. The Inescapability of Gettier Problems: Linda Zagzebski.
+
+18. A State of Mind: Timothy Williamson.
+
+Part IV: Epistemic Closure:.
+
+19. Epistemic Operators: Fred Dretske.
+
+20. Relevant Alternatives and Deductive Closure: Gail Stine.
+
+21. Knowledge and Skepticism: Robert Nozick.
+
+22. How to Defeat Opposition to Moore: Ernest Sosa.
+
+23. Are There Counterexamples to the Closure Principle?: Jonathan Vogel.
+
+Part V: Theories of Epistemic Justification:.
+
+24. Evidentialism: Richard Feldman and Earl Conee.
+
+25. Skepticism and Rationality: Richard Foley.
+
+26. What is Justified Belief?: Alvin I. Goldman.
+
+27. Reliabilism Leveled: Jonathan Vogel.
+
+28. Externalist Theories of Justification: Laurence BonJour.
+
+29. Internalism Exposed: Alvin Goldman.
+
+30. Externalism and Skepticism: Richard Fumerton.
+
+31. Internalism Defended: Richard Feldman and Earl Conee.
+
+Part VI: Virtue Epistemology and the Value of Knowledge:.
+
+32. Warrant: A First Approximation: Alvin Plantinga.
+
+33. Virtues of the Mind, Selections: Linda Zagzebski.
+
+34. Virtues and Vices of Virtue Epistemology: John Greco.
+
+35. Cognitive Responsibility and the Epistemic Virtues: Duncan Pritchard.
+
+36. The Place of Truth in Epistemology: Ernest Sosa.
+
+37. Why Should Enquiring Minds Want to Know? Meno Problems and Epistemological Axiology: Jonathan L. Kvanvig.
+
+38. True Enough: Catherine Z. Elgin.
+
+Part VII: Naturalized Epistemology and the A Priori:.
+
+39. Epistemology Naturalized: W. V. Quine.
+
+40. What is “Naturalized Epistemology”?: Jaegwon Kim.
+
+41. Quine as Feminist: the Radical Import of Naturalized Epistemology: Louise M. Antony.
+
+42. There is at Least One A Priori Truth: Hilary Putnam.
+
+43. Revisability, Reliabilism, and A Priori Knowledge: Albert Casullo.
+
+44. A Priori Knowledge and the Scope of Philosophy: George Bealer.
+
+45. Normativity and Epistemic Intuitions: Jonathan M. Weinberg, Shaun Nichols, and Stephen Stich.
+
+46. Normativity and Natural Knowledge: Hilary Kornblith.
+
+Part VIII: Knowledge and the Pragmatic:.
+
+47. Solving the Skeptical Problem: Keith DeRose.
+
+48. Elusive Knowledge: David Lewis.
+
+49. Contextualist Solutions to Epistemological Problems: Scepticism, Gettier, and the Lottery: Stewart Cohen.
+
+50. Knowledge and Practical Interest, Selections: Jason Stanley.
+
+51. Evidence, Pragmatics, and Justification: Jeremy Fantl and Matthew McGrath.
+
+52. Sensitive Moderate Invariantism: John Hawthorne.
+
+53. The Assessment-Sensitivity of Knowledge Attributions: John MacFarlane.
+
+Part IX: Testimony, Memory, and Perception:.
+
+54. Trust and Rationality: Judith Baker.
+
+55. Against Gullibility: Elizabeth Fricker.
+
+56. Content Preservation: Tyler Burge.
+
+57. Testimonial Knowledge and Transmission: Jennifer Lackey.
+
+58. The Problem of Memory Knowledge: Michael Huemer.
+
+59. Criteria, Defeasibility, and Knowledge: John McDowell.
+
+60. Knowing How to Believe With Justification” Steven L. Reynolds.
+
+Epistemology: An Anthology, 2nd Edition, Ernest Sosa (Editor), Jaekwon Kim (Editor), Jeremy Fantl (Editor), Matthew McGrath (Editor), 2008, Wiley-Blackwell
+
+
+
+Personal Identity.
+
+Derek Parfit, ‘Personal Identity’.
+
+Marya Schechtman, ‘Personhood and Personal Identity’.
+
+Free Will.
+
+Peter van Inwagen, ‘The Incompatibility of Free Will and Determinism’.
+
+Daniel Dennett, ‘Could Have Done Otherwise’ (extract from Elbow Room).
+
+Realism and Anti-realism.
+
+Donald Davidson, ‘On the Very Idea of a Conceptual Scheme’.
+
+Thomas Nagel, ‘Thought and Reality’ (extract from The View from Nowhere).
+
+Realism and Nominalism.
+
+Michael Devitt, ‘“Ostrich Nominalism” or “Mirage Realism”?’.
+
+D. M. Armstrong, ‘Against “Ostrich” Nominalism: A Reply to Michael Devitt’.
+
+Possible Worlds.
+
+David Lewis, extract from Counterfactuals.
+
+Saul Kripke, extract from Naming and Necessity.
+
+Persistence over Time.
+
+David Lewis, extract from On the Plurality of Worlds.
+
+Sally Haslanger, ‘Endurance and Temporary Intrinsics’.
+
+David Lewis, ‘Tensing the Copula’.
+
+Reading Metaphysics: Selected Texts with Interactive Commentary,Helen Beebee (Editor), Julian Dodd (Editor), Wiley-Blackwell, 2007
+
+
+
+逻辑哲学（Philosophy of logic）：
+
+A.N.Prior“The Runabout Inference”
+等
+
+
+
+数学哲学（Philosophy of Mathematics）：
+
+Paul Benacerraf“数不能是什么”（ (1965) "What Numbers Could Not Be", The Philosophical Review, 74:47–73.）

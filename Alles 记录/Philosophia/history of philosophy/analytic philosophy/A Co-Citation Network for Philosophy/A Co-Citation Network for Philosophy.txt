@@ -1,0 +1,26 @@
+
+Metaphysics
+Saul Kripke’s Naming and Necessity 1980 and David Lewis’s On the Plurality of Worlds 1986. The two communities centered on these works are bridged by Lewis Counterpart Theory and Quantified Modal Logic (1968), Lewis Philosophical Papers (1983), Forbes The metaphysics of modality (1985), and Fine (1994).
+The two big clusters are also connected to two other groups: one centered on Quine’s Word and Object, and the other on David Chalmers’ The Conscious Mind, about which more in a moment.
+
+Epistemology
+Tim Williamson (2000), Keith DeRose Solving the skeptical problem (1995), and John Hawthorne’s Knowledge and Lotteries (2004): Subject-Sensitive Invariantism
+Lewis‘paper Elusive Knowledge 1996: contextualism
+older conversation around: Larry Bonjour The structure of empirical knowledge (1985): coherentism, anti-foundationalist, Alvin Plantiga Warrant and proper function (1993), and Alvin Goldman Epistemology and Cognition (1986), all of three are cited by 2~3,000 times 
+
+Mind
+Chalmers (1986) about consciousness, Jerry Fodor about intentionality
+
+Ehics
+John Rawls’s (1971) A Theory of Justice
+Michael Smith’s The Moral Problem, Tim Scanlon’s What We Owe to Each Other, and Derek Parfit’s Reasons and Persons. Christine Korsgaard’s The Sources of Normativity
+
+Harry Frankfurt, Peter van Inwagen, and others.
+Kendall Walton (1990) and Mark Crimmins Hesperus and Phosphorus (1998)
+
+Davidson Essays on Actions and Events (1980), van Inwagen Material Beings (1990), Putnam The Meaning of "Meaning" (1975), Wittgenstein (1953)
+
+来源
+A Co-Citation Network for Philosophy
+June 18, 2013  Philosophy  Sociology  Data  Visualization
+https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/

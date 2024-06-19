@@ -1,0 +1,10 @@
+
+Universal Algebra + Logic => Algebraic Geometry - Fields => Tame Mathematics
+
+牛津，如Hrushovski
+
+
+o-minimal structure
+o-minimality在数论里具有重要性
+
+组合会使用模型论的工具

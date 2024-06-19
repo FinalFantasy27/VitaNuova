@@ -1,0 +1,13 @@
+
+the paper of Heck describes a theory of truth that is consistent given ‘typical’ Gödel numberings but inconsistent if you use a Gödel numbering that permits the sort of ‘direct’ self-reference at issue in Kripke’s discussion
+Halbach and Visser’s two papers on “Self-Reference in Arithmetic”: http://www.phil.uu.nl/preprints/lgps/number/316
+Grabmayr and Visser’s “Self-Reference Upfront”
+Grabmayr’s “On the Invariance of Gödel’s Second Theorem With Regard to Numberings”
+Grabmayr, Halbach, and Ye’s “Varieties of Self-Reference in Metamathematics”. 
+
+Halbach and Visser."The Henkin sentence", in The Life and Work of Leon Henkin (Essays on His Contributions), Maria MAnzano, Ildiko Sain and Enrique Alonso (eds.), Studies in Universal Logic, Birkhäuser, Basel, 2014, 249-264
+Halbach and Graham Leigh, The Road to Paradox: A Guide to Syntax, Truth, and Modality, Cambridge Univeristy Press
+Halbach, Balthasar Grabmayr and Lingyuan Ye. Contingency, uniformity and well-founded naming
+Halbach, Balthasar Grabmayr, Beau Mount, and Albert Visser. On the Transubtantiation of Words Into Numbers
+
+See (Picollo 2018) for more on self-reference via quantification

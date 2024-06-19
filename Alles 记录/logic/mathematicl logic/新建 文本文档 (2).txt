@@ -1,0 +1,1 @@
+Fragments of first-order logic restricted to a constant number of variables are important in various areas (e.g., finite model theory, and modal logic; the key point for the latter being that the 2-variable fragment of FO is decidable). They of course rely very essentially on the ability to reuse quantified variables

@@ -1,0 +1,41 @@
+
+功能主义
+
+多重实现multiple realization论证 
+普特南 1967 Psychological predicates
+
+中的物理主义者：D. M. Armstrong, David Lewis, J. J. C. Smart
+中的反物理主义者：Fodor, Putnam, Ned Block
+Block, N., "Introduction: What is Functionalism?", N.Block ed., Readings in Philosophy of Psychology, Cambridge: Harvard University Press, 1980, p. 177.
+
+
+还原的物理主义 类型物理主义
+非还原的物理主义non-reductive 个体物理主义 token physicalism
+Fodor, J. A., "Speical Sciences, or The Disunity of Science as a Working Hypothesis", Synthese 28 (1974), p. 100.
+
+
+心理因果性
+副现象论epiphenomenalism
+随附因果性supervenient causation
+Nagelian reductionist model
+functional reductive
+
+因果排斥论证：在物理因果闭合causal closure原则下，物理原因对于一个事件的起因及其解释已经是充分的，心理原因在因果过度决定（overdetermination）
+
+Responses:
+Tyler Burge: explanatory practice
+Re-response:
+Kim: explanatory exclusion / explanatory overdeterminaton
+
+Ned Block: causal drainage argument. 按照金在权的心理因果性模型，所有的宏观层次上的因果性（也即基础的物理学层次之上的因果性）都是幻象；如果物理世界是无穷连续的层级实在，因果效力将会流失到无底洞，最终就不存在任何因果关系了
+Kim: intralevel causal exclusion rather than interlevel “如果我们接受宏观-微观随附性的学说，那么我们就不会再把因果关系隔离在（某一）层次里；任何在层次L（比最底层要高）上发生的因果关系都包含着跨层次cross-level的因果关系，即L层到L－1层间的因果关系。简言之，层次限定level-bound的因果的自律性和层次间的随附性或者决定性不一致。”
+
+层级世界观构想 普特南和Paul Oppenheim 1958 Unity of Science as a Working Hypothesis
+
+
+90s 突现论emergentism
+自上而下的top-down因果关系 the principle of downward causation
+Replies: Paul Humphreys, O’Connor
+
+
+心脑同一论 Herbert Feigle 1958 The "mental" and the "physical"

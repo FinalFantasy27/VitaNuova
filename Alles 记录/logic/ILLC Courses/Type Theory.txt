@@ -1,0 +1,29 @@
+
+Type Theory
+
+	
+dr. B. van den Berg (co-ordinator)
+
+Objectives
+Encode mathematical proofs in type theory
+Prove properties about type theories
+Contents
+Type theory is a subject which lies at the intersection of mathematics, logic and computer science. In this course the emphasis will be on how type theory can be used as a framework for developing mathematics and verifying mathematical proofs. We will discuss various version of the lambda calculus (untyped, simply typed, second order typed and dependently typed). The course will culminate in the Calculus of Constructions (CoC) and investigate how that provides a setting for formalising mathematics.
+
+Recommended prior knowledge
+None. We will only assume some basic familiarity with logical systems and mathematical proofs.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Computer lab session/practical training
+Study materials
+Literature:
+M.H. Sorensen and P. Urzuczyn. Lectures on the Curry-Howard Isomorphism. Elsevier, 2006.
+Assessment
+The grade will be determined by a final exam and homework exercises.
+
+Remarks
+There will be a Canvas page for the course.

@@ -1,0 +1,8 @@
+这是元-对象（meta-object）的区别。当我们在研究数理逻辑及其相关元性质时候，我们是在一个元理论里来研究的，这个时候我们用的自然数就是标准自然数，我们可以叫meta-number，这个元理论可能是（朴素的或非朴素的）集合论，可能是PA，也可能是数学本身，或是加了许多符号和希腊字符的改造版的英语等自然语言。比如PA可以编码公式、语句、证明，所以你可以用PA来谈论比如说集合论；或是用一个如ZFC+ConZFC的理论谈论ZFC的模型。
+
+we often treat the meta-theory of ZFC as ZFC itself again. But therein lies the rub: first-order is nice and recursive and we can replace the meta-theory from ZFC to something stupendously weak like PRA, and all the proofs remain more or less the same (except schemata of proofs done in the meta-theory which are now slightly more complicated) (Asaf Karagila♦, https://math.stackexchange.com/questions/2356379/second-order-logic-as-the-basis-for-set-theory)
+如果你认为这有循环的问题的话，这最终取决于你的数学哲学立场，如果你是一个柏拉图主义者，数学对象都是客观存在的不依托于人的实体，自然不存在什么“建立不建立”的问题；如果你是一个形式主义者的话，数学或逻辑对你来说无非是写在纸上的那些白纸黑字或是它们的type；如果你是一个直觉主义者的话，……；如果你是一个有穷主义者的话，……；如果你的元理论是PA，……；如果你的元理论是PRA，……
+
+你可以有元语言；你还可以有元元语言；你还可以有元-元-……-元语言……
+
+不过这样太麻烦了，所以我们一般假设，对象中成立的元也成立（当我们把一个对象当作研究对象在对象理论里来研究时成立的性质在它作为元理论时也成立）。我们叫它magical-meta link。

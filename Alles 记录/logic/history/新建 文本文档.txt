@@ -1,0 +1,12 @@
+
+Gabriel Sudan (April 14, 1899 – June 22, 1977) was a Romanian mathematician, known for the Sudan function[1927], the earliest computable non-primitive-recursive funciton published, similar to the Ackermann function[1928]. Born in Bucharest, Sudan received his Ph.D. from the University of Göttingen in 1925 for his thesis Über die geordneten Mengen ("On the theory of ordered sets"), supervised by David Hilbert. He taught at the Polytechnic University of Bucharest from 1941 until his retirement, in 1966.
+
+Rózsa Péter, born Rózsa Politzer, (17 February 1905 – 16 February 1977) was a Hungarian mathematician and logician. She is best known as the "founding mother of recursion theory".
+Morris, Edie; Harkleroad, Leon (1990). "Rózsa Péter: recursive function theory's founding mother". The Mathematical Intelligencer. 12 (1): 59–64. doi:10.1007/BF03023988. S2CID 120595680
+
+Marian Pour-El
+
+Ernst Specker (11 February 1920, Zürich – 10 December 2011, Zürich) was a Swiss mathematician. Much of his most influential work was on Quine's New Foundations, a set theory with a universal set, but he is most famous for the Kochen–Specker theorem in quantum mechanics, showing that certain types of hidden variable theories are impossible. He also proved the ordinal partition relation ω2 → (ω2,3)2, thereby solving a problem of Erdős.
+Specker received his Ph.D. in 1949 from ETH Zurich, where he remained throughout his professional career.
+Specker sequence is a computable, monotonically increasing, bounded sequence of rational numbers whose supremum is not a computable real number. The first example of such a sequence was constructed by Ernst Specker (1949).
+https://en.m.wikipedia.org/wiki/Specker_sequence

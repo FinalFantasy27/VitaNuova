@@ -1,0 +1,3 @@
+Biconditional is not definable by conditional
+.symmetry.
+Suppose A defines unconditional. Consider the valuation {<p, 0>, <q, 1>}. The value for the biconditional is 0. For the value of A to be 0, values of all the consequents of A must be 0. Thus A must be of the form ()->(…(q->p)…). Now consider the valuation {<p, 1>, <q, 0>}. The value of the consequent of A is 1. Therefore, the value of A must be 1. Contradiction.

@@ -1,0 +1,30 @@
+
+
+c斜边, a对边,  b邻边
+secx=1/cosx=c/b
+cscx=1/sinx=c/a
+cotx=1/tanx=b/a
+
+sinx '= cosx
+cosx '= -sinx
+tanx '=1/cos^2 x=sec^2 x
+cotx '=-1/sin^2 x=-csc^2 x
+secx '=secxtanx 
+cscx '=-cscxcotx
+arcsinx '=1/sqrt{1-x^2}
+arccosx '=-1/sqrt{1-x^2}
+arctanx '=1/(1+x)^2
+arccotx '=-1/(1+x)^2
+积分
+
+Sum 1/(a^2+x^2) dx=1/a arctan x/a +C
+Sum 1/(a^2-x^2) dx=1/a arcsin x/a +C
+Sum dx/(a^2-x^2) = (1/2a) ln|(a+x)/(a-x)|+C
+Sum 1/(sqrt{x^2+- a^2}) dx=ln|x+\sqrt{x^2+-a^2}|+C
+Sum sqrt{a^2-x^2} dx=(a^2/2) arcsin x/a + (x/2) sqrt{a^2-x^2}+C (a>0)
+
+第二类换元法：表达式a^2-x^2，令x=arcsin t (|t|<pi/2), a^2-x^2=a^2cos^2 t
+表达式a^2+x^2，令x=arctan t (|t|<pi/2), a^2+x^2=a^2sec^2 t
+表达式x^2-a^2，令x=+-sect (<=0<t<pi/2), x^2- a^2=a^2tan^2 t
+若x=sint, t=arcsinx, cot t=cost/sint=sqrt{1-x^2}/x 
+

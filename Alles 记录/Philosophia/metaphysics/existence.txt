@@ -1,0 +1,4 @@
+An important view is that there are no genuinely true singular negative existentials. All meaningful singular existentials are true and their negations false.
+Saul Kripke [Kripke 1973], Peter Inwagen [van Inwagen 1977, 1983, 2003], Nathan Salmon [Salmon 1998], David Braun [Braun 1993, 2005], and Amie Thomasson [Thomasson 1999, 2003, 2009], among others
+empty names like ‘Ronald McDonald’ refer to existent, albeit abstract, fictional characters. What a speaker means when she utters the sentence ‘xx does not exist’ is not the false proposition that that sentence expresses but instead the true proposition that (the fictional character) Ronald McDonald is not a real person or is not concrete. 
+SEP.Existence

@@ -1,0 +1,40 @@
+
+Kremer, Philip 
+The Revision Theory of Truth 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Semiformal introduction 
+2. Framing the problem 
+2.1 Truth languages 
+2.2 Ground models 
+2.3 Three ground models 
+3. Basic notions of the RTT 
+3.1 Revision rules 
+3.2 Revision sequences 
+4. Interpreting the formalism 
+4.1 The signification of T 
+4.2 The ‘iff’ in the T-biconditionals 
+4.3 The paradoxical reasoning 
+4.4 The signification thesis 
+4.5 The supervenience of semantics 
+M. Kremer's 1988 
+4.6 A nonsupervenient interpretation of the formalism 
+Yaqūb 1993 
+5. Further issues 
+5.1 Three-valued semantics 
+5.2 Two values? 
+5.3 Amendments to the RTT 
+5.4 Revision theory for circularly defined concepts 
+5.5 Axiomatic Theories of Truth and the Revision Theory 
+Both Chapter 14 of Halbach 2011 and Chapter 8 of Horsten 2011 study the relationship between the Friedman-Sheard theory FS and the revision semantics 
+Horsten et al 2012 
+Field 2008 
+5.6 Applications 
+5.7 An open question 
+What is the complexity of the set of sentences valid by T* [T#]? 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

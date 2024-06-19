@@ -1,0 +1,9 @@
+Gödel's Incompleteness Theorems
+Raymond M Smullyan
+
+Mostowski sentence
+
+Shepherdson’s Representation Theorem
+
+in 1960, A. Ehrenfeucht and S. Feferman showed that all Σ1-sets can be represented in all simply consistent axiomatizable extensions of the system (R). Hence, all Σ1-sets can be shown to be representable in P.A. under the weaker assumption that P.A. is simply consistent. Their proof combined a Rosser-type argument with a celebrated result in recursive function theory due to John Myhill.
+John Shepherdson [1961] found an extremely ingenious alternative proof that is more direct 

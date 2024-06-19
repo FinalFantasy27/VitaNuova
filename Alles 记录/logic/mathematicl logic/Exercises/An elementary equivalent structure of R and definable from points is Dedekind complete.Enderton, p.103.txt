@@ -1,0 +1,5 @@
+
+Assume that A is equivalent to R=(R, <, +, ·). Show that any subset of |A| that is nonempty, bounded (in the ordering <^A), and definable from points in A has a least upper bound in |A|.
+A relation R on |A| is said to be definable from points in A iff R is definable in A^+, the structure for the language expanded by adding a new constant symbol c_a for each a in |A| that agrees with A on the original parameters and that assigns to c_a the point a.
+
+Hint: Let B subset |A|. Write down the expression of "x is a least upper bound for P(x, a1, ..., an)", where P(x, a1, ..., an) is the formula that defines B and a1, ..., an in A. 

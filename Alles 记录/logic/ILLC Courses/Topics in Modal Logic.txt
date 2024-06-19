@@ -1,0 +1,91 @@
+
+Topics in Modal Logic	
+
+prof.dr. Y. Venema (co-ordinator)
+
+Objectives
+Understanding some key tools, techniques and results in a specific area of modal logic
+Contents
+Modal languages are simple yet expressive and flexible tools for describing all kinds of relational structures. Thus modal logic finds applications in many disciplines such as computer science, mathematics, linguistics or economics. Notwithstanding this enormous diversity in appearance and application area, modal logics have a great number of properties in common. This common mathematical backbone form the content of this course, the exact topic changes from year to year.
+
+For the academic year 2024/2025, the topic of the course has not been determined yet. It will be announced as  soon as possible on the course web page at https://staff.fnwi.uva.nl/y.venema/teaching/ml/. 
+
+Recommended prior knowledge
+We presuppose some (but very little) basic background knowledge on modal logic; roughly, what is needed is familiarity with the syntax and semantics of modal languages, and the notion of bisimulation. More precisely, we build on the basic material covered in the course Introduction to Modal Logic, that is: the sections 1.1-1.3, 2.1-2.3 of the Modal Logic book. In principle, the course should be accessible to students following the Introduction to Modal Logic course in parallel.
+
+Next to this, we assume that students possess some mathematical maturity.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Self-study
+tutorial
+Study materials
+Syllabus:
+Lecture notes and/or other course material will be made available on the course website.
+Assessment
+Homework and written exam; in the second half of the course students may be asked to give presentations.
+
+Remarks
+Remark 1: There is a course website available at https://staff.fnwi.uva.nl/y.venema/teaching/ml/
+
+Remark 2: Please contact the coordinator if you want to follow a second version of this course as an elective.
+
+
+Topics in Modal Logic (Fall 2023)
+This page concerns the course `Topics in Modal Logic', taught at the University of Amsterdam in November and December 2023.
+Contents of these pages
+Course Description and Prerequisites
+Practicalities
+Grading and homework assignments
+Contents of classes
+News
+The classes of this course have finished.
+There is a new version of the notes available.
+Here is the exam sheet of last year.
+Course material
+Here is the final versions of the notes (version of 15 December).
+Practicalities
+Staff
+Lecturer: Yde Venema (y dot venema at uva dot nl)
+Teaching assistant, grading: Lide Grotenhuis (l dot m dot grotenhuis at uva dot nl)
+Dates & location:
+Classes run from 1 November until 14 December; there will be 14 classes in total.
+There are two classes weekly, on Wednesdays from 13.00 - 14.45, and on Thursdays from 15.00 - 16.45. Both classes will be on site in Science Park.
+In addition, Lide offers a weekly office hour on Thursday mornings from noon - 1pm in room F2.02 (ILLC building).
+There is a written on site exam on Tuesday 19 December, from 16.00 - 19.00, in Science Park C1.110.
+Grading
+Grading is primarily through homework assignments, and a written exam at the end of the course.
+Collection and submission proceeds via the Canvas pages of the course.
+For the later part of the course additional/alternative requirements may apply (such as working out lecture notes).
+See the separate page on grading for more details.
+Course Description
+Modal languages are simple yet expressive and flexible tools for describing all kinds of relational structures. Thus modal logic finds applications in many disciplines such as computer science, mathematics, linguistics or economics. Notwithstanding this enormous diversity in appearance and application area, modal logics have a great number of properties in common. This common mathematical backbone form the content of this course, the exact topics change from year to year.
+This year, the course will be devoted entirely to connections between modal fixpoint logic and automata theory. This is a classic field in theoretical computer science, which has led to both seminal theoretical results such as Rabin's decidability theorem, and practical applications in the field of specification and verification of software.
+More specifically, a large part of the course will focus on the modal mu-calculus, an extension of modal logic with explicit fixpoint operators, which was introduced in the early 1980s. The modal mu-calculus shares many attractive properties with ordinary modal logic, but has a much bigger expressive power. A main theme of the course will be the use of automata-theoretic tools to understand and prove results about the modal mu-calculus.
+
+Indicatively, we will discuss the following topics:
+
+modal mu-calculus: syntax and semantics
+equivalence of game-theoretical and algebraic semantics
+algebraic theory of fixpoint operators
+bisimulation invariance and bounded tree model property
+complexity measures in the modal mu-calculus
+automata for infinite words: basic definitions, acceptance conditions, determinization
+theory of infinite games
+parity games: positional determinacy, complexity issues
+parity formulas
+modal automata
+simulation theorem
+finite model property
+uniform interpolation
+model theory
+expressive completeness
+tableaux, complexity of the satisfiability problem
+derivation systems
+Prerequisites
+We presuppose some (but very little) basic background knowledge on modal logic; roughly, what is needed is familiarity with the syntax and semantics of modal languages, and the notion of bisimulation. More precisely, we build on the basic material covered in the course Introduction to Modal Logic, that is: the sections 1.1-1.3, 2.1-2.3 of the Modal Logic book.
+Next to this, we assume that students possess some mathematical maturity.
+Comments, complaints, questions: mail Yde Venema

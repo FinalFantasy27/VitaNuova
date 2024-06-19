@@ -1,0 +1,40 @@
+
+Priest, Graham 
+Plurivalent Logics 
+2014 
+Australian Journal of Logic , Vol. 11, No. 1 
+p. 2-13 
+
+Priest的Plurivalent logic讨论了这样一种真值的推广（generalized truth value），其中真值赋值不再是一个函数，而是一个关系，因此真值变成了如{t}, {t, f}这样的集合。他证明，对于含有t和f，再加上b (both), n (neither), e (empty) 这三个值的其中某些的这一族逻辑，在特指值为{t, b}的情况下，它们对应不取空集为值的Plurivalent logic对于它们是保守的（逻辑后承关系一样）当且仅当原先的逻辑包含e这个值；
+而在可以取空集为值的情况下的Plurivalent logic对于不可以的Plurivalent logic是保守的，当且仅当原先的逻辑包含n这个值。
+经典逻辑加入b这个值后爆炸律会失效，加入e和n后排中律会失效，加入e（任何包含e）后析取引入会失效。n可以，而e不可以，使排中律的一个版本 p v q |- p v ~ p 失效
+Priest最早提出他的5值逻辑和证明相应的结果，是为了处理佛教和龙树的四句
+
+An evaluation relation satisfies A iff for some v such that A \rhd v, v \in D.
+
+For evaluation relation satisfies the Positivity Condition
+
+Given a homomorphism form language N to N':
+\Sigma \models^{N'}_u(nivalent) A \Rightarrow \Sigma \models^{N}_u A 
+If the h isonto, then the converse also holds.
+
+Given any univalent semantics M, its corressponding plurivalent semantics can itself be seen as a univalent semantics \overdot{M}
+\Sigma \models^{M}_p A \iff \Sigma \models^{M'}_u A 
+A corollary of these reults is 
+if there is a homomorphism from \overdot M to M then 
+\Sigma \models^{M}_u A \Rightarrow \Sigma \models^{M'}_u A  \Rightarrow \Sigma^M_p A
+
+the FDE family is a family of semantic structures that contain the values t and f, plus some number of the values {b, n, e}.
+The additions of b, n, and e, to ; have distinct eects. The addition of b (but not e or n) invalidates Explosion, p \land \neg p \vdash q. The addition of e (but not b or n) invalidates \lor-introduction, p \vdash p \lor q. The introduction of n invalidates Excluded Middle p \vdash q \lor q, but so does the addition of e. The addition of n (but not b or e) invalidates a disjoined form of Excluded Middle, p \lor q \vdash q \lor \neg q. (One cannot make the premise designated by assigning p or q the value e.
+But assigning p the value t, and q the value n gives a countermodel.)
+
+Any plurivalent semantics which contains the values t and f (not just one in the FDE family) and on which negation works in the usual way, determines a paraconsistent consequence relation.
+
+The plurivalent consequence relation for M is just the consequence relation for the univalent semantics obtained by adding the value b. As a corollary, if the semantics contains b already, plurivalence is conservative. And if it does not, plurivalence is not conservative, since it turns an explosive consequence relation into a paraconsistent one.
+
+to obtain the general plurivalient consequence relation for a univalent semantics one just adds e to its values, and then takes the positive plurivalent consquence relation. In particular, if the semantics already contains the value e, positive and general plurivalentization produce
+the same consequence relation.
+In plurivalent logics of this kind, a relation may relate a propositional parameter (and hence an arbitrary formula) to any number of truth values, including zero.
+
+Appendix.replace the denition of designation of Section 2 by: \rhd designates A' as: for all v such that A \rhd v, v \in D.
+Then result holds provided we replace M^b with M^n (obtained from M by adding the value n).

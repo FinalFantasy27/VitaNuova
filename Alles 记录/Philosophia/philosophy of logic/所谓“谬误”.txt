@@ -1,0 +1,7 @@
+“猎人谬误”里猎人为了享乐捕杀动物，他说你也吃啊，然后你说就算我吃动物也不改变你乱杀动物的事实。但实际上我觉得猎人在这里与其是说质疑某个事实，不如说是在质疑判定的标准。
+关于“诉诸权威”，我觉得可以做一个粗糙的区分：外在辩护和（理论）内在辩护，但人们希望外在辩护来自内在辩护，例如一个权威之所是权威是因为ta确实在某一方面做了了不起的工作。而在没有直接看到外在辩护的来源时就会发出“诉诸权威”的质疑。
+我因为是一个完全的经验论者，所以我认为一切辩护最后的来源都是外在辩护，但这是一个很基底的层面，而我们在日常生活和学术中所用到的辩护是“抽象”的，因此使用内在辩护占重要的地位
+
+Charles Leonard Hamblin 的 falliaces 里首先挑战了“logical fallacy”这一说法；在Douglas Walton（Walton, Reed & Macagno 2008）那里，“逻辑谬误”也可以作为正确的论证方式，只要它们是被正当地利用的，如对于“诉诸权威”，你需要如下的 critical questions: How credible is E as an expert source? Is E an expert in the field that A is in? What did E assert that implies A? Is A consistent with what other experts assert? Is E's assertion based on evidence? 等等
+
+关于所谓的“谬误”及其看法，SEP上一篇文章讨论是不是和在什么时候它们是合法的论证方式；SEP上另一篇关于 argumentation 的文章也提到一些用贝叶斯框架研究谬误的学者认为有时候“谬误”提高了获得真知的几率，那么它就是“好”的方法

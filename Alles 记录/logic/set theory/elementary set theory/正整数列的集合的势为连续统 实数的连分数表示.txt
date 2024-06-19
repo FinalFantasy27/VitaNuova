@@ -1,0 +1,12 @@
+
+lemma. a = 1/(1/a)
+
+Rationals:
+e.g., 3.245 = 3 + 0.245 = 3 + 1/(1/0.245) = 3 + (1/(1000/245)) = 3 + (1/(200/49)) = 3 + (1/(4 + (4/49))) = 3 + (1/(4+((1/49)/4)) = 3 + (1/(4 + 1/(12+1/4)))
+
+Irrationals:
+e.g.,
+Suppose \sqrt 2 = 1 + 1/x
+1/x = \sqrt 2 - 1 = ((sqrt 2 - 1) \times (sqrt 2 + 1))/(sqrt 2 + 1) = 1/(sqrt 2 + 1)
+The square root of 2 in the denominator on the right can also be expressed using the above method.
+\sqrt 2 = 1 + 1/(2 + 1/(2 + 1/ ...))

@@ -1,0 +1,136 @@
+
+a very brief summary:
+
+various results about modal logics with propositional quantifiers (1970 which presents results from Fine’s Ph.D. dissertation 1969);
+a completeness proof for a predicate logic without identity but with primitive numerical quantifiers (1972a);
+early developments of graded modal logic (1972b);
+various results about S4 logics (those with reflexive and transitive Kripke frames) and certain extensions of them (1971; 1972c; 1974a; 1974b);
+the application of normal forms to a general completeness proof for “uniform” modal logics (1975b);
+a seminal “canonicity theorem” for modal logics (1975c);
+completeness results for logics containing K4 (those with transitive Kripke frames) (1974c; 1985a);
+failure of Craig’s interpolation lemma for various quantified modal logics (1979);
+the underivability of a quantifier permutation principle in certain modal systems without identity (1983b);
+an exploration into whether truth can be defined without the notion of satisfaction (joint work with McCarthy 1984b);
+incompleteness results for standard semantics for quantified relevance logic and an alternative semantics for it that is complete (1988; 1989a);
+the development of stability (or “felicitous”) semantics for the conception of “negation as failure” in logic programming and computer science (1989b); and
+general results about how properties of “monomodal” logics containing a single modal operator may transfer to a “multimodal” logic joining them (joint work with Schurz 1996).
+
+References and Further Reading
+Berkeley, George. 1710. A Treatise Concerning the Principles of Human Knowledge.
+Fine, Kit. 1969. For Some Proposition and So Many Possible Worlds. University of Warwick.
+Fine, Kit. 1970. “Propositional Quantifiers in Modal Logic.” Theoria 36 (3): 336-46.
+Fine, Kit. 1971. “The Logics Containing S4.3.” Zeitschrift für Mathematische Logik und Grundlagen der Mathematik 17 (1): 371-76.
+Fine, Kit. 1972a. “For So Many Individuals.” Notre Dame Journal of Formal Logic 13 (4): 569-72.
+Fine, Kit. 1972b. “In So Many Possible Worlds.” Notre Dame Journal of Formal Logic 13 (4): 516-20.
+Fine, Kit. 1972c “Logics Containing S4 without the Finite Model Property.” In Conference in Mathematical Logic–London ’70, edited by W. Hodges. New York: Springer-Verlag.
+Fine, Kit. 1972d. “Some Necessary and Sufficient Conditions for Representative Decision on Two Alternatives.” Econometrica 40 (6): 1083-90.
+Fine, Kit. 1973a. “Conditions for the Existence of Cycles under Majority and Non-minority Rules.” Econometrica 41 (5): 889-99.
+Fine, Kit. 1974a. “An Ascending Chain of S4 Logics.” Theoria 40 (2): 110-16.
+Fine, Kit. 1974b. “An Incomplete Logic Containing S4.” Theoria 40 (1): 23-29.
+Fine, Kit. 1974c. “Logics Containing K4 – Part I.” The Journal of Symbolic Logic 39 (1): 31-42.
+Fine, Kit. 1975a. “Critical Notice: Counterfactuals, by David Lewis.” Mind 84 (335): 451-58. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 1975b. “Normal Forms in Modal Logic.” Notre Dame Journal of Formal Logic 16 (2): 229-34.
+Fine, Kit. 1975c. “Some Connections Between Elementary and Modal Logic.” In Proceedings of the Third Scandinavian Logic Symposium, edited by S. Kanger. Amsterdam: North-Holland.
+Fine, Kit. 1975d. “Vagueness, Truth and Logic.” Synthese 30: 265-300.
+Fine, Kit. 1977a “Prior on the Construction of Possible Worlds and Instants.” In Worlds, Times and Selves, edited by A. N. Prior and K. Fine. London: Duckworth. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 1977b. “Properties, Propositions and Sets.” Journal of Philosophical Logic 6: 135-91.
+Fine, Kit. 1978a. “Model Theory for Modal Logic – Part I: The De Re/De Dicto Distinction.” Journal of Philosophical Logic 7 (1): 125-56.
+Fine, Kit. 1978b. “Model Theory for Modal Logic – Part II: The Elimination of De Re Modality.” Journal of Philosophical Logic 7 (1): 277-306.
+Fine, Kit. 1979. “Failures of the Interpolation Lemma in Quantified Modal Logic.” The Journal of Symbolic Logic 44 (2): 201-06.
+Fine, Kit. 1980. “First-order Modal Theories II – Propositions.” Studia Logica 39 (2/3): 159-202.
+Fine, Kit. 1981a. “First-order Modal Theories I – Sets.” Noûs 15 (2): 177-205.
+Fine, Kit. 1981b. “Model Theory for Modal Logic – Part III: Existence and Predication.” Journal of Philosophical Logic 10 (3): 293-307.
+Fine, Kit. 1982a. “Acts, Events and Things.” In Language and Ontology, edited by W. Leinfellner, E. Kraemer and J. Schank. Wien: Hölder-Pichler-Tempsky, as part of the proceedings of the Sixth International Wittgenstein Symposium 23rd to 30th August 1981, Kirchberg/Wechsel (Austria).
+Fine, Kit. 1982b. “First-order Modal Theories III – Facts.” Synthese 53: 43-122.
+Fine, Kit. 1982c. “The Problem of Non-existents.” Topoi 1: 97-140.
+Fine, Kit. 1983a. “A Defence of Arbitrary Objects.” Proceedings of the Aristotelian Society, Supplementary Volume 57: 55-77.
+Fine, Kit. 1983b. “The Permutation Principle in Quantificational Logic.” Journal of Philosophical Logic 12 (1): 33-37.
+Fine, Kit. 1984a. “Critical Review of Parsons’ Non-Existent Objects.” Philosophical Studies 45 (1): 95-142.
+Fine, Kit. 1985a. “Logics Containing K4 – Part II.” The Journal of Symbolic Logic 50 (3): 619-51.
+Fine, Kit. 1985b. “Natural Deduction and Arbitrary Objects.” Journal of Philosophical Logic 14: 57-107.
+Fine, Kit. 1985c “Plantinga on the Reduction of Possibilist Discourse.” In Alvin Plantinga, edited by J. E. Tomberlin and P. van Inwagen. Dordrecht: Reidel. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 1985d. Reasoning with Arbitrary Objects. Oxford: Blackwell.
+Fine, Kit. 1988. “Semantics for Quantified Relevance Logic.” Journal of Philosophical Logic 17 (1): 27-59.
+Fine, Kit. 1989a “Incompleteness for Quantified Relevance Logics.” In Directions in Relevant Logics, edited by R. Sylvan and J. Norman. Dordrecht: Kluwer.
+Fine, Kit. 1989b “The Justification of Negation as Failure.” In Proceedings of the Congress on Logic, Methodology and the Philosophy of Science VIII, edited by J. Fenstad, T. Frolov and R. Hilpinen. Amsterdam: Elsner Science Publishers B. V.
+Fine, Kit. 1989c. “The Problem of De Re Modality.” In Themes from Kaplan, edited by J. Almog, J. Perry and H. Wettstein. Oxford: Oxford University Press. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 1990. “Quine on Quantifying In.” In Proceedings of the Conference on Propositional Attitudes, edited by C. A. Anderson and J. Owens. Stanford: CSLI. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 1992. “Aristotle on Matter.” Mind 101 (401): 35-57.
+Fine, Kit. 1994a. “Compounds and Aggregates.” Noûs 28 (2): 137-58.
+Fine, Kit. 1994b. “Essence and Modality.” Philosophical Perspectives 8: 1-16.
+Fine, Kit. 1994c “A Puzzle Concerning Matter and Form.” In Unity, Identity, and Explanation in Aristotle’s Metaphysics, edited by T. Scaltsas, D. Charles and M. L. Gill. Oxford: Oxford University Press.
+Fine, Kit. 1994d “Senses of Essence.” In Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus, edited by W. Sinnott-Armstrong. Cambridge: Cambridge University Press.
+Fine, Kit. 1994e. “The Study of Ontology.” Noûs 25 (3): 263-94.
+Fine, Kit. 1995a. “The Logic of Essence.” Journal of Philosophical Logic 24: 241-73.
+Fine, Kit. 1995b. “Ontological Dependence.” Proceedings of the Aristotelian Society 95: 269-90.
+Fine, Kit. 1995c. “Part-Whole.” In The Cambridge Companion to Husserl, edited by B. Smith and D. Woodruff. Cambridge: Cambridge University Press.
+Fine, Kit. 1995d. “The Problem of Mixture.” Pacific Philosophical Quarterly 76 (3-4): 266-369.
+Fine, Kit. 1998. “Cantorian Abstraction: A Reconstruction and Defense.” The Journal of Philosophy 95 (12): 599-634.
+Fine, Kit. 1999. “Things and Their Parts.” Midwest Studies in Philosophy 23: 61-74.
+Fine, Kit. 2000a. “A Counter-example to Locke’s Thesis.” The Monist 83 (3): 357-61.
+Fine, Kit. 2000b. “Neutral Relations.” The Philosophical Review 109 (1): 1-33.
+Fine, Kit. 2000c. “Semantics for the Logic of Essence.” Journal of Philosophical Logic 29 (6): 543-84.
+Fine, Kit. 2001. “The Question of Realism.” Philosophers’ Imprint 1 (2): 1-30.
+Fine, Kit. 2002a. The Limits of Abstraction. Oxford: Clarendon Press.
+Fine, Kit. 2002b. “The Problem of Possibilia.” In Handbook of Metaphysics, edited by D. Zimmerman. Oxford: Oxford University Press. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 2002c. “The Varieties of Necessity.” In Conceivability and Possibility, edited by T. S. Gendler and J. Hawthorne. Oxford: Oxford University Press. Reprinted in Modality and Tense: Philosophical Papers.
+Fine, Kit. 2003a. “The Non-Identity of a Material Thing and Its Matter.” Mind 112 (446): 195-234.
+Fine, Kit. 2003b. “The Role of Variables.” The Journal of Philosophy 50 (12): 605-31.
+Fine, Kit. 2005a. “Class and Membership.” The Journal of Philosophy 102 (11): 547-72.
+Fine, Kit. 2005b. Modality and Tense: Philosophical Papers. Oxford: Clarendon Press.
+Fine, Kit. 2005c. “Necessity and Non-existence.” In Modality and Tense: Philosophical Papers.
+Fine, Kit. 2005d. “Our Knowledge of Mathematical Objects.” In Oxford Studies in Epistemology, edited by T. S. Gendler and J. Hawthorne. Oxford: Clarendon Press.
+Fine, Kit. 2005e. “Reference, Essence, and Identity.” In Modality and Tense: Philosophical Papers. Oxford: Clarendon Press.
+Fine, Kit. 2005f. “Tense and Reality.” In Modality and Tense: Philosophical Papers. Oxford: Clarendon Press.
+Fine, Kit. 2006a. “In Defense of Three-Dimensionalism.” The Journal of Philosophy 103 (12): 699-714.
+Fine, Kit. 2006b. “The Reality of Tense.” Synthese 150 (3): 399-414.
+Fine, Kit. 2006c “Relatively Unrestricted Quantification.” In Absolute Generality, edited by A. Rayo and G. Uzquiano. Oxford: Clarendon Press.
+Fine, Kit. 2007a. “Response to Kathrin Koslicki.” dialectica 61 (1): 161-66.
+Fine, Kit. 2007b. Semantic Relationism. Oxford: Blackwell Publishing.
+Fine, Kit. 2008a. “Coincidence and Form.” Proceedings of the Aristotelian Society, Supplementary Volume 82 (1): 101-18.
+Fine, Kit. 2008b. “The Impossibility of Vagueness.” Philosophical Perspectives 22 (Philosophy of Language): 111-36.
+Fine, Kit. 2009. “The Question of Ontology.” In Metametaphysics: New Essays on the Foundations of Ontology, edited by D. Chalmers, D. Manley and R. and Wasserman. Oxford: Oxford University Press.
+Fine, Kit. 2010a. “Semantic Necessity.” In Modality: Metaphysics, Logic, and Epistemology, edited by B. Hale and A. Hoffmann. Oxford: Oxford University Press.
+Fine, Kit. 2010b. “Some Puzzles of Ground.” Notre Dame Journal of Formal Logic 51 (1): 97-118.
+Fine, Kit. 2010c. “Towards a Theory of Part.” The Journal of Philosophy 107.
+Fine, Kit. 2011a. “Aristotle’s Megarian Manoeuvres.” Mind 120 (480): 993-1034.
+Fine, Kit. 2011b. “What is Metaphysics?” In Contemporary Aristotelian Metaphysics, edited by T. E. Tahko. Cambridge: Cambridge University Press.
+Fine, Kit. 2012a. “Counterfactuals without Possible Worlds.” The Journal of Philosophy 59 (3): 221-46.
+Fine, Kit. 2012b. “A Difficulty for the Possible Worlds Analysis of Counterfactuals.” Synthese 189 (1): 29-57.
+Fine, Kit. 2012c “Guide to Ground.” In Metaphysical Grounding: Understanding the Structure of Reality, edited by F. Correia and B. Schnieder. Cambridge: Cambridge University Press.
+Fine, Kit. 2012d. “The Pure Logic of Ground.” The Review of Symbolic Logic 25 (1): 1-25.
+Fine, Kit. 2013a. “Fundamental Truths and Fundamental Terms.” Philosophy and Phenomenological Research 87 (3): 725-32.
+Fine, Kit. 2014a. “Permission and Possible Worlds.” dialectica 68 (3): 317-36.
+Fine, Kit. 2014b. “Truth-Maker Semantics for Intuitionistic Logic.” Journal of Philosophical Logic 43: 549-77.
+Fine, Kit. 2015a. “The Possibility of Vagueness.” Synthese 194 (10): 3699-725.
+Fine, Kit. 2015b. “Unified Foundations for Essence and Ground.” Journal of the American Philosophical Association 1 (2): 296-311.
+Fine, Kit. 2016a. “Angellic Content.” Journal of Philosophical Logic 45 (2): 199-226.
+Fine, Kit. 2016b. “Identity Criteria and Ground.” Philosophical Studies 173 (1): 1-19.
+Fine, Kit. 2016c. “Williamson on Fine on Prior on the Reduction of Possibilist Discourse.” Canadian Journal of Philosophy 46 (4-5): 548-70.
+Fine, Kit. 2017a. “Form.” The Journal of Philosophy CXIV (10): 509-35.
+Fine, Kit. 2017b. “Naive Metaphysics.” Philosophical Issues 27: 98-113.
+Fine, Kit. 2017c. “Truthmaker Semantics.” In A Companion to the Philosophy of Language, edited by B. Hale, C. Wright and A. Miller. West Sussex: Wiley-Blackwell.
+Fine, Kit. 2018a. “Ignorance of Ignorance.” Synthese 195 (9): 4031-45.
+Fine, Kit. 2019c. “Constructing the Impossible.” In to appear in a collection of papers for Dorothy Edgington.
+Fine, Kit. 2020a. “Semantics.” In The Routledge Handbook of Metaphysical Grounding, edited by M. J. Raven. New York: Routledge.
+Fine, Kit, and Ben Fine. 1974d. “Social Choice and Individual Rankings I.” Review of Economic Studies 41: 303-22.
+Fine, Kit, and Ben Fine. 1974e. “Social Choice and Individual Rankings II.” Review of Economic Studies 41: 459-75.
+Fine, Kit, and Timothy McCarthy. 1984b. “Truth without Satisfaction.” Journal of Philosophical Logic 13 (4): 397-421.
+Fine, Kit, and Gerhard Schurz. 1996. “Transfer Theorems for Multimodal Logics.” In Logic and Reality: Essays on the Legacy of Arthur Prior, edited by J. Copeland. Oxford: Clarendon.
+Frege, Gottlob. 1892. “On Sense and Reference.” In Translations from the Philosophical Writings of Gottlob Frege, edited by P. T. Geach and M. Black. Oxford: Blackweel.
+Hume, David. 1739. “A Treatise of Human Nature”, edited by L. A. Selby-Bigge and P. H. Nidditch. Oxford: Clarendon Press.
+Kripke, Saul. 1972. Naming and Necessity. Cambridge, MA: Harvard University Press.
+Kripke, Saul. 2011. “A Puzzle about Belief.” In Philosophical Troubles: Collected Papers, Volume I. Oxford: Oxford University Press.
+Leibniz, Gottried Wilhelm. 1714. Monadology.
+Lewis, David. 1973. Counterfactuals. Oxford: Blackwell Publishers.
+Lewis, David. 1986. On the Plurality of Worlds. Oxford: Blackwell Publishers.
+Lewis, David. 1991. Parts of Classes. Oxford: Blackwell.
+Locke, John. 1689. An Essay Concerning Human Understanding.
+McTaggart, J. M. E. 1908. “The Unreality of Time.” Mind 17: 457-74.
+Prior, A. N. 1960. “The Autonomy of Ethics.” Australasian Journal of Philosophy 38 (3): 199-206.
+Quine, Willard Van Orman. 1948. “On What There is.” Review of Metaphysics 2: 21-38. Reprinted in From a Logical Point of View, 2nd ed., Harvard: Harvard University Press, 1980, 1-19.
+Raven, Michael J. 2019. “(Re)discovering Ground.” In Cambridge History of Philosophy, 1945 to 2015, edited by K. M. Becker and I. Thomson. Cambridge: Cambridge University Press.
+Raven, Michael J., ed. 2020. The Routledge Handbook of Metaphysical Grounding. New York: Routledge.
+Spinoza, Baruch. 1677. Ethics, Demonstrated in Geometrical Order.
+Stalnaker, Robert. 1968. “A Theory of Conditionals.” In Studies in Logical Theory, edited by N. Rescher. Oxford: Blackwell.
+Williamson, Timothy. 2013b. Modal Logic as Metaphysics. Oxford: Oxford University Press.

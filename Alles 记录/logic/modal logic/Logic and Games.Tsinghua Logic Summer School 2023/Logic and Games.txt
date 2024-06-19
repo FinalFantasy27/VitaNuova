@@ -1,0 +1,26 @@
+References:
+
+A list of relevant books, research papers, tutorial articles is given below (to be updated as the course progresses).
+
+Some text books on first-order and modal logics
+A mathematical introduction to logic: H.B. Enderton, Academic Press, 2nd edition, 2001. 
+Modal logic: P. Blackburn, M. de Rijke and Y. Venema, Cambridge University Press, 2001.
+Some text books on logic and games
+Logic in games: J. van Benthem, The MIT Press, 2014.
+Models and games: J. Väänänen, Cambridge University Press, 2011. (proof details and more)
+Some text books on game theory
+A course in game theory: M.J. Osborne and A. Rubinstein, The MIT Press, 1994.
+Game theory: A playful introduction: M. DeVos and D.A. Kent, AMS, 2016.
+A tutorial article on logics, games and strategies
+Strategies in games: A logic-automata study: S. Ghosh and R. Ramanujam, LNCS 7388, Springer, pp. 110-159, 2012.
+Articles on game logics
+The logic of games and its applications: R. Parikh, Annals of Discrete Mathematics, 24:111-140, 1985.
+Logic games are complete for game logics: J. van Benthem, Studia Logica 75:183-203, 2003.
+A recent article on logic and graph games
+Graph games and logic design: J. van Benthem and F. Liu, Knowledge, Proof and Dynamics, Logic in Asia: Studia Logica Library, Springer, pp. 125-146, 2020.
+On Cops and Robber games
+The game of cops and robbers on graphs, A. Bonato and R.J. Nowakowski, AMS, 2011
+A simple logic of the hide and seek game: D. Li, S. Ghosh, F. Liu and Y. Tu, Studia Logica, 2023.
+On Sabotage games
+An essay on sabotage and obstruction: J. van Benthem, LNCS 2605, pp. 268 – 276, 2005.
+Modal logics of sabotage revisited: G. Aucher, J. van Benthem and D. Grossi, Journal of Logic and Computation 28(2):269-303, 2018.

@@ -1,0 +1,37 @@
+
+Full-Stack Quantum Computing
+	
+dr. J.M.M. van de van de Wetering (co-ordinator)
+
+Objectives
+Understand at a high-level all the different layers needed to translate a quantum algorithm into a computation that can be executed on a physical device.
+Reason about various quantum gate sets - Cliffords, Clifford+T, Toffoli-like gates - and understand their uses and drawbacks.
+Apply various intermediate representations for quantum processes – path-sums, Pauli exponentials, ZX-diagrams – to analyze properties of quantum computations.
+Apply the stabiliser formalism: stabiliser states, Clifford unitaries, the Gottesman-Knill theorem for efficient stabiliser simulation.
+Comprehend how quantum error correction is implemented using the stabiliser formalism.
+Contents
+We have known that quantum computing can speed up the solving of several important problems for some decades now. Actually constructing quantum computers has proven difficult however. In the last few years we have seen the development of the first quantum computers that can probe the limits of existing classical computers. These developments have shown that there is a large gap between the ideal world of theoretical algorithms and the reality of physical devices. 
+The goal of this course is to develop an awareness of all the different layers of theory and software needed to make quantum computing a reality.  We will go beyond the ‘abstract’ notion of a quantum algorithm that runs on a theoretical ideal machine, and understand what needs to be done to get the desired computation to run on a physical device.
+Since this covers many areas, from compilation, scheduling, error correction,  and hardware-level pulse control, we will not be able to go into detail on all these topics. After giving a run-down of all these aspects, the rest of the course will focus on quantum compilation and error correction.
+The guiding tool for this course will be the ZX-calculus, a graphical language for reasoning about quantum processes, which will allow us to make calculations on big circuits, without having to deal with the underlying matrices.
+
+Recommended prior knowledge
+* Basic understanding of quantum computing (students should know what qubits, quantum circuits, unitaries and measurements are) that can be gleamed from any course on quantum computing, or from self-study.
+* Basic linear algebra and probability theory.
+* Students should be able to write down basic mathematical proofs.
+* Some of the exercise sheets might be Jupyter Notebooks so some familiarity with Python will be helpful
+
+Note that this is not an introductory course on quantum computing. We will not cover in detail ‘why’ quantum computing is relevant, and assume the student is already motivated to learn more about the details of quantum computing.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Self-study
+Computer lab session/practical training
+Study materials
+Literature:
+Lecture Notes
+Assessment
+There will be weekly graded exercises and a final written exam

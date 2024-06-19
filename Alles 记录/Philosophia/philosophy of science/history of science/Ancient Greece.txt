@@ -1,0 +1,66 @@
+古希腊哲学家的科学成就：
+
+泰勒斯的观察（可能不是证明 ）
+
+a) 一个圆被它的直径一分为二
+
+b) 两边相等的三角形的底角相等，以及
+
+c) 两边相等、两角相等的三角形本身相等
+
+毕达哥拉斯的门徒的证明
+
+a) 三角形的角之和等于两个直角（公元前 450 年以前）
+
+b) 直角三角形斜边的平方等于其他边的平方和（公元前 450 年以前）
+
+c) 2 的平方根是无理数，即不能用分数表示的数（公元前 450 年）
+
+以及
+
+d) 3、5、7、11、13 和 17 的平方根（与 2 的平方根一样）也是无理数（狄奥多罗斯，普罗泰戈拉的学生和柏拉图的老师，约 400 年）
+
+德谟克利特的发现
+
+a) 圆锥体的体积与同底同高的圆柱体的体积相同，并且
+
+同底同高的圆柱体的体积，以及
+
+b) 金字塔的体积是同底同高棱柱的体积的 ⅓
+
+希波克拉底（约 440 年）证明了
+
+两个圆的面积之比等于直径米的平方之比
+
+天文学观察和假设
+
+a) 阿那克萨哥拉和毕达哥拉斯都推测地球是一个球体，以及
+
+b) 晨星就是晚星
+
+The observations (prob ably not proofs) of Thales 
+a) that a circle is bisected by its diameter,
+b) that the angles at the base of a triangle with two equal sides are equal, and
+c) that triangles with an equal side and two equal angles are themselves equal.
+The proofs by followers of Pythagoras
+a) that the sum of the angles of a triangle are equal to two right angles (prior to 450 BCE),
+b) that the square of the hypotenuse of a right triangle is equal to the sum of the squares of the other sides (prior to 450),
+c) that the square root of 2 is irrational, i.e., a number that can’t be expressed as a fraction (prior to 450),
+and
+d) that the square roots of 3, 5, 7, 11, 13, and 17 are (like that of 2) also irrational (Theodorus, pupil of Protagoras and teacher of Plato, circa 400).
+The discoveries by Democritus
+a) that the volume of a cone is that of a cylinder
+with the same base and height, and
+b) that the volume of a pyramid is ⅓ that of a prism with the same base and height.
+The proof by Hippocrates (circa 440) that the ratio of
+the areas of two circles equals the ratios of the squares of their dia meters.
+The astronomical observations and hypotheses
+a) that the earth is a sphere, conjectured by both Anaxagoras and Pythagoras, and
+b) that the Morning Star is the Evening Star.
+
+8. See pp. 130–33 of Heath (1981) for details.
+9. Ibid., pp. 139–62.
+10. Ibid., pp. 176–80.
+11. Ibid., p. 202.
+12. Ibid., pp. 162–65.
+(pp. 23-24)

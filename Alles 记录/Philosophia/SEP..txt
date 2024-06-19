@@ -1,0 +1,31 @@
+Henderson, Leah 
+The Problem of Induction 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+Abstract: 1. Hume’s Problem 
+2. Reconstruction 
+3. Tackling the First Horn of Hume’s Dilemma 
+3.1 Synthetic a priori 
+3.2 The Nomological-Explanatory solution 
+3.3 Bayesian solution 
+3.4 Partial solutions 
+No-Free-Lunch theorems’ (Wolpert 1992, 1996, 1997). These can be interpreted as versions of the argument in Hume’s first fork since they establish that there can be no contradiction in the algorithm not performing well, since there are a priori possible situations in which it does not (Sterkenburg and Grünwald 2021:9992) 
+The No-Free-Lunch theorems make difficulties for this approach since they show that if we put a uniform distribution over all logically possible sequences of future events, any learning algorithm is expected to have a generalisation error of 1/2, and hence to do no better than guessing at random (Schurz 2021b). 
+The No-Free-Lunch theorems may be seen as fundamental limitations on justifying learning algorithms when these algorithms are seen as ‘purely data-driven’ — that is as mappings from possible data to conclusions. However, learning algorithms may also be conceived as functions not only of input data, but also of a particular model (Sterkenburg and Grünwald 2021). For example, the Bayesian ‘algorithm’ gives a universal recipe for taking a particular model and prior and updating on the data. A number of theorems in learning theory provide general guarantees for the performance of such recipes. For instance, there are theorems which guarantee convergence of the Bayesian algorithm (Ghosal, Ghosh and van der Vaart 2000, Ghosal, Lember and van der Vaart 2008).In each instantiation, this convergence is relative to a particular specific prior. Thus, although the considerations first raised by Hume, and later instantiated in the No-Free-Lunch theorems, preclude any universal model-independent justification for learning algorithms, it does not rule out partial justifications in the form of such general a priori ‘model-relative’ learning guarantees (Sterkenburg and Grünwald 2021). 
+3.5 The combinatorial approach 
+4. Tackling the Second Horn of Hume’s Dilemma 
+4.1 Inductive Justifications of Induction 
+4.2 No Rules 
+5. Alternative Conceptions of Justification 
+5.1 Postulates and Hinges 
+5.2 Ordinary Language Dissolution 
+5.3 Pragmatic vindication of induction 
+5.4 Formal Learning Theory 
+5.5 Meta-induction 
+6. Living with Inductive Skepticism 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

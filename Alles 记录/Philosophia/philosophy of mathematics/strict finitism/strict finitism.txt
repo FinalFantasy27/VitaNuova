@@ -1,0 +1,15 @@
+
+Vinckier, Nigel / Bendegem, Jean Paul Van 
+Feng Ye. Strict Finitism and the Logic of Mathematical Applications.Synthese Library; 355. Springer, 2011. ISBN: 978-94-007-1346-8 (hbk); 978-94-007-1347-5 (e-book). Pp. xii + 272. 
+2016 
+Philosophia Mathematica , Vol. 24, No. 2 
+p. nkw005 
+The authors wonder why Ye does not reducing meaning to use, i.e. the use of marks and signs, which offers more freedom as there is no necessity to equate one mark with a unique referent in the world.
+It is pointed out that in page 16 and 14, the problem of the applicability of mathematics is reduced to a logical problem that 
+In a scientifically valid application, assuming that A_r|=\Gamma_r, why does \Gamma_r∪\Gamma_m∪\Gamma_b|=\phi imply that A_r |= \phi, for \phi that is in the language L_r and is scientifically meaningful? (p. 16)
+where A_r is a model of (a part of) reality, \Gamma_r a set of sentences is true in the model, Γm a set of mathematical sentences and Γb a set of bridging principles.
+That is, why the back-and-forth, through mathematics to realistic is possible.
+Ye's mathematically strict finitism is a fragment of quantifier-free primitive recursive arithmetic (PRA) with the accepted functions limited to elementary recursive functions. (p. vi)
+Ye also considers an alternative which rewrites the formula \forall x \exists y \phi as \forall x \exists y x<N & y<N & \phi, and concludes that makes no essential difference.
+The resulting logic is stronger than intuitionistic logic, e.g. ~x<=y<->x>y holds, but weaker than classical logic, as double negation elimination is not generally provable.
+The authors suggest to see formulas in Ye's system as claims and the evidence for them is the concerte terms that are witnesses to that claim.

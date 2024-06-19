@@ -1,0 +1,9 @@
+
+Gentzen-style sequent calculi fail to meet basic requirements in the case of modal logic: for instance, no cut-free sequent calculus is known for the modal logic S5.(Proof theory of modal logic
+Area: Logic and Computation (LoCo)
+
+Level: Advanced
+
+Lecturer(s): Tiziano Dalmonte and Marianna Girlando. ESSLLI 2024)
+
+labelled calculi, which extend the language of the calculus with explicit semantic information, and structured calculi, such as nested or hypersequent calculi, which instead include additional structural connectives into the structure of the sequents.

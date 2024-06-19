@@ -1,0 +1,5 @@
+
+Kripke’s first paper, ‘A Completeness Theorem in Modal Logic’ (Kripke 1959a), in his capacity as referee for the Journal of Symbolic Logic. In this paper Kripke stated and proved a completeness theorem for an extension of S5 with quantifiers and identity; the binary relation made no appearance. His first publication to mention the binary relation—which he interpreted as a relation of relative possibility between worlds—was written in 1962 and appeared in 1963 (Kripke 1963); the paper contained completeness proofs for propositional M, S4, B, and S5. 
+
+
+

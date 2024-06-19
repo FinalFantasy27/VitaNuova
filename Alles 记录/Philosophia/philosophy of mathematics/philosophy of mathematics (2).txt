@@ -1,0 +1,2 @@
+
+形式主义formalism：柯里Curry、鲁宾逊Robinson（认为无穷总体不存在）和柯恩Cohen等

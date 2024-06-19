@@ -1,0 +1,33 @@
+
+Philosophical Logic
+
+prof. dr. ing. R.A.M. van Rooij (co-ordinator)
+
+Objectives
+In this course students learn how to build and evaluate logical theories
+Contents
+Often, what is understood by ‘logic’ is classical logic (either classical propositional logic or classical first-order logic). Its typical features are, for example, that a sentence p is either true or false and that ‘not not p’ is the same as ‘p’. In many situations, though, simply assuming classical logic is not appropriate. Such situations arise, as we’ll see, in philosophy and neighboring disciplines (like mathematics, computer science, or linguistics): For example, when reasoning with incomplete or inconsistent data, with what it means to be true, with vague concepts, or with conditionals (i.e., various ‘if, then’ sentences). The course will be about exploring different logics to model these (and other) phenomena. This also explains the name ‘philosophical logic’: logics to analyze philosophical concepts.
+
+In terms of content, the course aims to convey: (1) many of the main formal logics found in the field of philosophical logic (many-valued logics, intuitionistic logic, relevance logic, counterfactuals, etc.); and (2) an understanding of the philosophical concepts that these logics are built to analyze (truth, vagueness, paradoxes, etc.).
+
+In terms of skills, the course aims to teach: (1) the ability to build formal logics and mathematical models of (philosophical) phenomena. The tools that we learn to use are, e.g., algebraic semantics, state-based semantics, fix point operations; and (2) the ability to philosophically assess a proposed formalization.
+
+Recommended prior knowledge
+A good logical introductory course in logic, and an interest in philosophy.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Supervision/feedback meeting
+Self-study
+Seminar
+Study materials
+Other:
+Lecture notes
+Assessment
+The final grade is determined by homework assignments and a final exam.
+
+Remarks
+There will be a Canvas site with more information.

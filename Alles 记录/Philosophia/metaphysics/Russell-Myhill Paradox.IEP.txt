@@ -1,0 +1,156 @@
+Russell-Myhill Paradox
+The Russell-Myhill Antinomy, also known as the Principles of Mathematics Appendix B Paradox, is a contradiction that arises in the logical treatment of classes and “propositions”, where “propositions” are understood as mind-independent and language-independent logical objects. If propositions are treated as objectively existing objects, then they can be members of classes. But propositions can also be about classes, including classes of propositions. Indeed, for each class of propositions, there is a proposition stating that all propositions in that class are true. Propositions of this form are said to “assert the logical product” of their associated classes. Some such propositions are themselves in the class whose logical product they assert. For example, the proposition asserting that all-propositions-in-the-class-of-all-propositions-are-true is itself a proposition, and therefore it itself is in the class whose logical product it asserts. However, the proposition stating that all-propositions-in-the-null-class-are-true is not itself in the null class. Now consider the class w, consisting of all propositions that state the logical product of some class m in which they are not included. This w is itself a class of propositions, and so there is a proposition r, stating its logical product. The contradiction arises from asking the question of whether r is in the class w. It seems that r is in w just in case it is not.
+
+This antinomy was discovered by Bertrand Russell in 1902, a year after discovering a simpler paradox usually called “Russell’s paradox.” It was discussed informally in Appendix B of his 1903 Principles of Mathematics. In 1958, the antinomy was independently rediscovered by John Myhill, who found it to plague the “Logic of Sense and Denotation” developed by Alonzo Church.
+
+Table of Contents
+History and Historical Importance
+Formulation and Derivation
+Frege’s Response
+Possible Solutions
+References and Further Reading
+1. History and Historical Importance
+In his early work (prior to 1907) Russell held an ontology of propositions understood as being mind independent entities corresponding to possible states of affairs. The proposition corresponding to the English sentence “Socrates is wise” would be thought to contain both Socrates the person and wisdom (understood as a Platonic universal) as constituent entities. These entities are the meanings of declarative sentences.
+
+After discovering “Russell’s paradox” in 1901 while working on his Principles of Mathematics, Russell began searching for a solution. He soon came upon the Theory of Types, which he describes in Appendix B of the Principles. This early form of the theory of types was a version of what has later come to be known as the “simple theory of types” (as opposed to ramified type theory). The simple theory of types was successful in solving the simpler paradox. However, Russell soon asked himself whether there were other contradictions similar to Russell’s paradox that the simple theory of types could not solve. In 1902, he discovered such a contradiction. Like the simpler paradox, Russell discovered this paradox by considering Cantor’s power class theorem: the mathematical result that the number of classes of entities in a certain domain is always greater than the number in the domain itself. However, there seems to be a 1-1 correspondence between the number of classes of propositions and the number of propositions themselves. A different proposition can seemingly be generated for each class of propositions, for instance, the proposition stating that all propositions in the class are true. This would mean that the number of propositions is as great as the number of classes of propositions, in violation of Cantor’s theorem.
+
+Unlike Russell’s paradox, this paradox cannot be blocked by the simple theory of types. The simple theory of types divides entities into individuals, properties of individuals, properties of properties of individuals, and so forth. The question of whether a certain property applies to itself does not arise, because properties never apply to entities of their own type. Thus there is no question as to whether the property that a property has just in case it does not apply to itself applies to itself. Classes can only have entities of a certain type: the type to which the property defining the class applies. There can be classes of individuals, classes of classes of individuals, and classes of classes of classes of individuals, etc., but never classes that contain members of different types. Thus, there is no such thing as the class of all classes that are not in themselves. However, on the simple theory of types, propositions are not properties of anything, and thus, they are all in the type of individuals. However, they can include classes or properties as constituents. But consider the property a proposition has just in case it states the logical product of a class it is not in. This property defines a class. This class will be a class of individuals; for any individual, the question arises whether that individual is in the class. However, the proposition stating the logical product of this class is also an individual. Thus, the problematic question is not avoided by the simple theory of types.
+
+Some authors have speculated that this antinomy was the first hint Russell found that what was needed to solve the paradoxes was something more than the simple theory of types. If so, then this antinomy is of considerable importance, as it might represent the first motivation for the ramified theory of types adopted by Russell and Whitehead in Principia Mathematica.
+
+2. Formulation and Derivation
+In 1902, when he discovered this paradox, Russell’s logical notation was borrowed mostly from Peano. However, translating into more contemporary notation, the class w of all propositions stating the logical product of a class they are not in, and r, the proposition stating its logical product, are written as follows:
+
+w = {p: (∃m)[(p = (∀q)(q ∈m →q)) & ~(p ∈m)]}
+r = (∀q)(q ∈w →q)
+
+Because propositions are entities, variables for them in Russell’s logic can be bound by quantifiers and can flank the identity sign. Indeed, Russell also allows complete sentences or formulae to flank the identity sign. If α is some complex formula, then “p = α” is to be understood as asserting that p is the proposition that “α”. Thus, w is defined as the class of propositions p such that there is a class of m for which p is the proposition that all propositions q in m are true, and such that p is not in m. The proposition r is then defined as the proposition stating that all propositions in w are true.
+
+The derivation of the contradiction requires certain principles involving the identity conditions of propositions understood as entities. These principles were never explicitly formulated by Russell, but are informally stated in his discussion of the antinomy in the Principles. However, other writers have sought to make these principles explicit, and even to develop a fully formulated intensional logic of propositions based on Russell’s views. The principles relevant for the derivation of the contradiction are the following:
+
+Principle 1: (∀p)(∀q)(∀r)(∀s)[((p → q) = (r → s)) →((p = r) & (q = s))]
+Principle 2: [(∀x)A(x) = (∀x)B(x)] →(∀y)[A(y) = B(y)]
+
+The first principle states that identical conditional propositions have identical antecedent and consequent component propositions. The second states that if the universal proposition that everything satisfies open formula A(x) is the same as the universal proposition that everything satisfies open formula B(x), then for any particular entity y, the proposition that A(y) is identical to the proposition that B(y).
+
+Then, from either the assumption that r ∈w or the assumption ~(r ∈w), the opposite follows.
+
+Assume:
+
+1. r ∈w
+
+From (1), by class abstraction and the definition of w:
+
+2. (∃m)[(r = (∀q)(q ∈m →q)) & ~(r ∈m)]
+
+(2) allows us to consider some m such that:
+
+3. (r = (∀q)(q ∈m →q)) & ~(r ∈m)
+
+From the first conjunct of (3) definition of r we arrive at:
+
+4. (∀q)(q ∈w →q) = (∀q)(q ∈m →q)
+
+By (4) and principle 2, then:
+
+5. (∀q)[(q ∈w →q) = (q ∈m →q)]
+
+Instantiating (5) to r, we conclude:
+
+6. (r ∈w →r) = (r ∈m →r)
+
+By (6), and principle 1, then:
+
+7. (r ∈w) = (r ∈m)
+
+This, with the second disjunct of (3), yields:
+
+8. ~(r ∈m)
+
+By (7) and (8) and substitution of identicals, we get:
+
+9. ~(r ∈w)
+
+This contradicts our assumption. However, assume instead:
+
+10. ~(r ∈w)
+
+By (10) and class abstraction:
+
+11. ~(∃m)[(r = (∀q)(q ∈m →q)) & ~(r ∈m)]
+
+By the rules of the quantifiers and propositional logic, (11) becomes:
+
+12. (∀m)[(r = (∀q)(q ∈m →q)) → (r ∈m)]
+
+Instantiating (12) to w:
+
+13. (r = (∀q)(q ∈w →q)) → (r ∈w)
+
+By (13), the definition of r, and modus ponens:
+
+14. r ∈w
+
+Thus, from either assumption the opposite follows.
+
+3. Frege’s Response
+Soon after discovering this antinomy, in September of 1902, Russell related his discovery to Gottlob Frege. Although Frege was clearly devastated by the simpler “Russell’s paradox”, which Russell had related to Frege three months prior, Frege was not similarly impressed by the Russell-Myhill antinomy. Russell had formulated the antinomy in Peano’s logical notation, and Frege charged that the apparent paradox derived from defects of Peano’s symbolism.
+
+In Frege’s own way of speaking, a “proposition” is understood simply as a declarative sentence, a bit of language. Frege certainly did not ascribe to propositions the sort of ontology Russell did. However, he thought propositions had both senses and references. He called the senses of propositions “thoughts” and believed that their references were truth-values, either the True or the False. An expression written in his logical language was thought to stand for its reference (though express a thought). When propositions flank the identity sign, e.g. “p = q” this is taken as expressing that the two propositions have the same truth-value, not that they express the same thought.
+
+Thus, Frege was unsatisfied with Russell’s formulation of the antinomy. In Russell’s definition “w = {p: (∃m)[(p = (∀q)(q ∈m →q)) & ~(p ∈m)]}”, the part “p = (∀q)(q ∈m →q)” seems to mean not an identity of truth-values, but thoughts. However, if this is the case, then “(∀q)(q ∈m →q)” must be understood as referring to, rather than simply expressing, a thought. However, on Frege’s view, this would mean that the expressions that occur in it have indirect reference, i.e. they refer to the thoughts they customarily express. However, in indirect reference, the variable “m” in that context must be understood not as standing for a class, but as standing for a sense picking out a class. However, the second occurrence of “m” later on in the definition of w must be understood as referring to a class, not a sense picking out a class. However, if the two occurrences of “m” do not refer to the same thing, it is extremely problematic that they be bound by the same quantifier. Moreover, Russell’s derivation of the contradiction requires treating the two occurrences of “m” as referring to the same thing. Thus, Frege himself concluded that the antinomy was due to unclarities in the symbolism Russell used to formulate the paradox. He suggests that the antinomy can only be derived in a system that conflates or assimilates sense and reference.
+
+However, it is not clear that Frege’s response is adequate. Frege criticizes only the syntactic formulation of the antinomy in a logical language, not the violation of Cantor’s theorem lying behind the paradox. Frege does not have an ontology of propositions, but he does have an ontology of thoughts. Thoughts, as objectively existing entities, can be members of classes. Moreover, it seems that there will be as many thoughts as there are classes of thoughts. One can generate a different thought for every class, i.e. the thought that everything is in the class or that all thoughts in the class are true. We now consider the class of all thoughts that state the logical product of a class they are not in, and a thought stating the logical product of this class, and arrive at the same contradiction. Frege’s metaphysics seems to have similar difficulties.
+
+It is true that the antinomy cannot be formulated in Frege’s own logical systems. However, this is only because those systems are entirely extensional. In them, it is impossible to refer to thoughts (as opposed to simply express them) and assert their identity–one can only refer to truth-values and assert their identity. However, it appears that if Frege’s logical systems were expanded to include commitment to the realm of sense, to make it possible to refer not only to truth-values and classes, but thoughts and other senses, a version of the antinomy would be provable. In 1951, Alonzo Church developed an expanded logical system based loosely on Frege’s views, which he called “the Logic of Sense and Denotation”. In 1958, John Myhill discovered that the antinomy considered here was formulable in Church’s system. Myhill seems to have rediscovered the paradox independently of Russell. Hence the term, “Russell-Myhill Antinomy.”
+
+4. Possible Solutions
+The antinomy results from the following commitments
+
+(A) The commitment to classes, defined for every property,
+
+(B) The commitment to propositions as intensional entities (or to similar entities, such as Frege’s thoughts),
+
+(C) An understanding of propositions such that there must exist as many propositions as there are classes of propositions; i.e. a different proposition can be generated for every class,
+
+(D) An understanding of propositions and classes such that for every proposition and every class of propositions, the question arises as to whether the proposition falls in the class.
+
+One might hope to solve the antinomy by abandoning any one of these commitments. Let us examine them in turn.
+
+Abandoning (A), the commitment to classes, is very tempting, especially given the other paradoxes of class theory. However, in this context, this option may be not be as fruitful as it might appear. Russell himself worked on a “no classes” theory from 1905 though 1907. However, he soon discovered a classless version of the same paradox. Here, rather than considering a class w consisting of propositions, we consider a property W that a proposition p has just in case there is some property F for which p states that all propositions with F are true but which p does not itself have. Thus:
+
+(∀p)[Wp ↔ (∃F)[(p = (∀q)(Fq →q)) & ~Fp]]
+
+We then define proposition r as the proposition that all propositions with property W are true:
+
+r = (∀q)(Wq →q)
+
+Then, via a similar deduction to that given above, from the assumption of Wr one can prove ~Wr and vice versa. Thus it does not do to simply abandon classes. One would also have to abandon a robust ontology of properties; perhaps eschewing all of higher-order logic.
+
+One might simply want to abandon (B), the commitment to propositions or Fregean thoughts understood as logical entities. The commitment to logical entities in a Platonic realm has grown less and less popular, especially given the widespread view that logic ought to be without ontological commitment. The challenge would be to abandon such intensional entities while maintaining a plausible account of meaning and intentionality.
+
+However, one might hope to maintain commitment to propositions or thoughts, but attempt to reduce the number posited. This would likely involve denying (C). The Cantorian construction lying at the heart of the antinomy involves the claim that one can generate a different proposition for every class. In the construction given above, this claim is justified by showing that for each class, one can generate a proposition stating its logical product, and showing that, for each class, the class so generated is different. To deny this, one could either deny that one can generate such a proposition for each class, or instead, deny that the proposition so generated is different for every class. The first strategy is difficult to justify if one understands propositions and classes as objectively existing entities, independent of mind and language. If a proposition exists for every possible state of affairs, then one such proposition will exist for every class.
+
+However, if one adopts looser identity conditions for propositions or thoughts, one might attempt to take the second approach to denying (C). That is, one would allow that the proposition stating the logical product of one class might be the same proposition as the proposition stating the logical product of a different class. This is perhaps not an easy approach to justify. In the Russellian deduction given above, principles 1 and 2 guarantee that the proposition stating the logical product of one class is always different from the proposition stating the logical product of another class. These principles seem justified by the understanding of propositions as composite entities with a certain fixed structure. Consider principle 1. It states that identical conditional propositions have identical propositions in their antecedent and consequent positions. However, this might be denied if one were adopt looser identity conditions for propositions. One might, for example, adopt logical equivalence as being a sufficient condition for propositions to be identical. If so, then principle 1 would be unjustified. For example p →q and ~q → ~p are logically equivalent, however, they obviously need not have the same antecedent propositions. However, this approach may lead to other difficulties. Often, part of the motivation for intensional entities such as propositions or Fregean thoughts is in order to view them as relata in belief and other intentional states. If one adopts logical equivalence as sufficient for propositions to be identical, this is extremely problematic. The simple proposition p is logically equivalent to the proposition ~(p & ~q) → ~(q → ~p). If we take these two be the same proposition, then if propositions are relata in belief states, we seemingly must conclude that anyone who believes p also believes ~(p & ~q) → ~(q → ~p). This does not seem to be true.
+
+W. V. Quine is famous for suggesting that intensional entities are “creatures of darkness”, having obscure identity conditions. Here it appears that if the identity conditions of intensions are taken to be too loose, then intensions cannot do many of the things we want of them. If the identity conditions of intensions are too stringent, however, it is difficult to avoid positing so many of them that inconsistency with Cantor’s theorem is a genuine threat.
+
+Lastly, one could maintain commitment to a great number of propositions or thoughts as entities, but block the paradox by suggesting that these entities fall into different logical types. That is, one could deny (D), and suggest instead that the question does not always arise for every proposition and class of propositions whether that proposition is in that class. This is in effect the approach taken with ramified type-theory. In ramified type theory, the type of a formula α depends not only on whether α stands for an individual, a property of an individual, or a property of a property of an individual, etc., but also on what sort of quantification α involves. The core notion is that α cannot involve quantification over, or classes including, entities within a domain that includes the thing that α itself stands for. Consider the proposition r from the antinomy. Recall that r was defined as (∀q)(q ∈m →q). Thus, r involves quantification over propositions. In ramified type theory, we would disallow r to fall within the range of the quantifier involved in the definition of r. If a certain proposition involves quantification over a range of propositions, it cannot be included in that range. Thus, we divide the type of propositions into orders. Propositions of the lowest order include mundane propositions such as the proposition that Socrates is bald or the proposition that Hypatia is wise. Propositions of the next highest order involve quantification over, or classes of, propositions of this order, such as the proposition that all such propositions are true, or the proposition that if such a proposition is true, then God believes it, etc. Here, the challenge is to justify the ramified hierarchy as something more than a simple ad hoc dodge of the antinomies, to provide it with solid philosophical foundations. Poincaré’s Vicious Circle Principle is perhaps one way of providing such justification.
+
+Antinomies such as the Russell-Myhill antinomy must be a concern for anyone with a robust ontology of intensional entities. Nevertheless, there may be solutions to the antinomy short of eschewing intensions altogether.
+
+5. References and Further Reading
+Anderson, C. A. “Semantic Antinomies in the Logic of Sense and Denotation.” Notre Dame Journal of Formal Logic 28 (1987): 99-114.
+Anderson, C. A.. “Some New Axioms for the Logic of Sense and Denotation: Alternative (0).” Noûs 14 (1980): 217-34.
+Church, Alonzo. “A Formulation of the Logic of Sense and Denotation.” In Structure, Method and Meaning: Essays in Honor of Henry M. Sheffer, edited by P. Henle, H. Kallen and S. Langer. New York: Liberal Arts Press, 1951.
+Church, Alonzo. “Russell’s Theory of Identity of Propositions.” Philosophia Naturalis 21 (1984): 513-22.
+Frege, Gottlob. Correspondence with Russell. In Philosophical and Mathematical Correspondence. Translated by Hans Kaal. Chicago: University of Chicago Press, 1980.
+Klement, Kevin C. Frege and the Logic of Sense and Reference, New York: Routledge, 2002.
+Myhill, John. “Problems Arising in the Formalization of Intensional Logic.” Logique et Analyse 1 (1958): 78-83.
+Russell, Bertrand. Correspondence with Frege. In Philosophical and Mathematical Correspondence, by Gottlob Frege. Translated by Hans Kaal. Chicago: University of Chicago Press, 1980.
+Russell, Bertrand. The Principles of Mathematics. 1902. 2d. ed. Reprint, New York: W. W. Norton & Company, 1996, especially §500.
+Author Information
+Kevin C. Klement
+Email: klement@philos.umass.edu
+University of Massachusetts, Amherst
+U. S. A.

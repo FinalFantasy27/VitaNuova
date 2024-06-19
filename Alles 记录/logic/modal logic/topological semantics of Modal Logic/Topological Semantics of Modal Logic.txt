@@ -1,0 +1,38 @@
+Topological Semantics of Modal Logic
+Time
+Beijing Time: 15:50 ~ 18:15
+
+Venue
+on Tsinghua campus: 新水327
+
+Zoom: 926 0051 8807
+
+Course Description:
+The course will discuss topological semantics of modal logic. In particular, we will study the basic completeness results for the interior semantics including the celebrated McKinsey and Tarski theorem. This theorem states that the modal logic S4 is sound and complete with respect to any metrizable dense-in-itself space. Topological completeness for other standard modal systems such as S4.2, S4.3 and S4.Grz, will also be covered in detail. We will also study topological semantics via the derived set operator and discuss the corresponding completeness results, notably of the provability logic GL with respect to scattered spaces.    
+
+Topics to be covered (in temporal order)
+– Overview of the relational semantics of modal logic,
+– Topological semantics of modal logic,
+– Topo-bisimulations,
+– Topo-canonical models,
+– Basic completeness results for topological semantics,
+– McKinsey-Tarski theorem,
+– Derived set operator semantics,
+– Topological semantics of modal fixed-point logics (time permitting).
+
+Preliminary Reading Material
+Modal logic: Blackburn, de Rijke Venema, Modal Logic, Cambridge University Press, 2001.
+
+We will need material from the first four chapters (until Section 4.4.). The concepts that we will need are: Kripke semantics, normal modal logics, soundness and completeness, finite modal prpoerty.
+
+Topology：Engelking’s General topology. But any other topology book is equally good.
+
+The concepts that we will need are: topological spaces, open and closed sets, interior and closure operators, derived set operator, continuous and open maps, separation axioms, compactness, metric spaces.
+
+Main Reference
+van Benthem J., Bezhanishvili G. (2007) Modal Logics of Space. In: Aiello M., Pratt-Hartmann I., Van Benthem J. (eds) Handbook of Spatial Logics. Springer, Dordrecht. https://doi.org/10.1007/978-1-4020-5587-4_5
+Bezhanishvili G., Gehrke M. Completeness of S4 with respect to the real line: revisited. Annals of Pure and Applied Logic. Volume 131, Issues 1–3, January 2005, Pages 287-301. https://doi.org/10.1016/j.apal.2004.06.003
+Bezhanishvili, G., Bezhanishvili, N., Lucero-Bryan, J. et al. A New Proof of the McKinsey–Tarski Theorem. Stud Logica 106, 1291–1311 (2018). https://doi.org/10.1007/s11225-018-9789-5
+
+Lecturer:  
+Nick Bezhanishvili is an Assistant Professor at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam. He obtained his PhD from the ILLC in 2006. He has been a postdoctoral researcher at the University of Leicester, Imperial College London and Utrecht University. His area of expertise is the application of algebraic and topological methods in logic. In particular, his work is centered around algebraic logic, duality theory, non-classical logics and topological semantics of modal logic. Bezhanishvili co-authored more than 70 research papers in international journals, books and refereed conference proceedings. 

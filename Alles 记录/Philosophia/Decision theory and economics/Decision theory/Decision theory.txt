@@ -1,0 +1,194 @@
+
+Definition. Preference > := Asymmetric > + Negative Transitive > (, i.e., for all x, y, z, if x /not> y and y /not> z then x /not> z)  
+x >= y := ~ (y > x), x ~ y := ~ (x > y) & (~ y > x)
+or
+Definition. Weak Preference >= := Complete >= + Transitive >=
+x > y := ~ (y >= x), x ~ y :=  (x >= y) & (y >= x)
+Remark. x ~ y 表示对x的偏好无殊于y，或x和y之间的偏好无差别（或不可区分）
+
+Proposition. > is asymmetric iff >=  is complete.
+> is s negatively transitive iff >= is transitive.
+
+Theorem. Ordinal Utility Representation. When X is finite, transitivity and completeness of  > guarantee the existence of a representing function.
+
+理性选择刻画定理 Kreps 1988.
+用逻辑刻画偏好 Hansson 2001; Liu F R 2011; Van Benthem and Liu 2007; von Wright 1972.
+
+
+期望效用理论
+
+风险情形下 冯诺依曼-摩根斯坦期望效用理论.
+结果（奖金）集{r_1, ..., r_n}均为有限的
+一个乐透是一个结果集上的概率分布；乐透集是一个凸集：任何两个 两个乐透L_i 和 L_j，经由 xL_i+\left(1-x\right)L_j 的线性组合得到的混合乐透也属于乐透集
+
+Theorem. 冯诺依曼-摩根斯坦表征定理.  > 是一个定义在乐透集上的偏好且满足独立性公理：L_1 > L_2 => xL_1 + (1 - x)L_3 > xL_2 + (1 - x)L_3
+or
+L_1 ~ L_2 => xL_1 + (1 - x)L_3 ~ xL_2 + (1 - x)L_3 和
+阿基米德公理/连续性公理：任意 L_1, L_2, L_3, L_1 > L_2 > L_3，存在 x, y \in (0, 1) 使得 xL_1 + (1-x)L_3 > L_2 > yL_1 + (1 - y)L_3 
+iff
+存在一个函数 u: 结果集 -> R，使得对于任意L, L'，
+L > L' <=> \Sum_{r \in R} L(r)u(r) > \Sum_{r \in R} L'(r)u(r).
+并且对于任意u' /not= u，有u'(x)=au(x)+b, a > 0, b \in R
+熊卫 和 David Kreps. 1988. Notes on the Theory of Choice.
+
+or
+L_1 >= L_2 => xL_1 + (1 - x)L_3 >= xL_2 + (1 - x)L_3 和
+任意 L_1, L_2, L_3, L_1 >= L_2 >= L_3，存在（唯一的） z \in (0, 1) 使得 L_2 ~ zL_1 + (1 - z)L_3  
+Katie Steele, H. Orri Stefánsson. SEP: Decision Theory
+
+or
+x_1 L_{o_{best}} + (1 - x_1)L_{o_{worst}} >= x_2 L_{o_{best}} + (1 - x_2)L_{o_{worst}} iff x_1 >= x_2. and
+For every basic outcome o_i there is a p_i \in [0, 1] such that L_{o_i} ~ p_i L_{o_{best}} + (1 - p_i)L_{o_{worst}}. and 
+Independence or substitutability. Consider an arbitrary basic outcome o_i and an arbitrary simple lottery L = p_1 L_{o_1} + ... + p_i L_{o_i} + ... + p_m L_{o_m}. If L' is a simple lottery such that o_i ~ L', then L ~ M where M is the simple lottery corresponding to the compound lottery C obtained by replacing o_i with L' in L.
+Giacomo Bonanno. 2019. The Economics of Uncertainty and Insurance. 
+
+
+Remark. 期望效用函数 U 是affine的，即满足 U(αf + (1-α)g) = αU(f) + (1-α)U(g). 
+
+测度效用的方法.对任意结果r的效用，个体要给出一个z，使得L_r ~ zL_{r^*} + (1 - z)L_{r_*} (对于任意L，L_{r^*} >= L >= L_{r_*})
+
+
+不确定情形下 
+
+拉姆齐主观概率理论
+世界状态、可选行为、可能结果集O
+
+Definition. 设o, o' \in O，o \not~ o'，对于命题p，如果 opo' ~ o'po，称p为伦理中立命题，它的信念度为1/2.
+
+p的信念度为d(p)，假设U表征行为的期望效用，
+opo ~ o'po'' <=> U(opo) = U(o'po'')
+<=> d(p)u(o) + (1 - d(p))u(o) = d(p)u(o') + (1 - d(p))u(o'')
+<=> d(p) = (u(o) - u(o'')) / (u(o') - u(o''))
+（p为矛盾式当且仅当 u(o) - u(o'')，重言式当且仅当 u(o) - u(o')）
+测度主观信念度的方法. 设置一个行为o'po''，找到个体认为与其效用相同的某个点o，诱导出关于p的信念度
+
+条件信念度 aqb ~ (p & q : y, ~ p & q : x, ~q : b), y \not= x, 在给定q的条件下p的信念度 d(p | q) := (a - x) / (y - x) （a, b, x, y 代表行为的效用）
+（即 (p & q : a, ~ p & q : a, ~q : b) ~ (p & q : y, ~ p & q : x, ~q : b)）
+定义满足信念度的基本性质
+
+Definition 命题p的赌比 r(p) = 押p为真的赌注 / 押p真假的赌注之和
+Definition 公平赌比. 若 (yp(-x)) ~ (-ypx)，则 rr(p) = x / (x + y) 为 p 的公平赌比
+若 (z(p & q)(-y)) ~ (-z(p & q)y), 则 rr(p | q) = z / (y + z) 为给定q条件下p的公平条件赌比
+Remark. 若某人把赌注押在p为真假的哪一方都无所谓，即ta对“押p真”和“押p假”的偏好是无殊的，假设其偏好被期望值表征，则 (yp(-x)) ~ (-ypx) <=> U(yp(-x)) = U((-y)px) <=> yd(p) - x(1 - d(p)) = -yd(p) + x(1-d(p)) <=> d(p) = x / (x+y)
+(z(p & q)(-y)) ~ (-z(p & q)y) <=> U(z(p & q)(-y)) = U(-z(p & q)y) <=> zd(p|q) - y(1 - d(p|q)) = -zd(p|q) + y(1 - d(p|q)) <=> d(p|q) = y / (y + z)
+Remark. 公平赌比和公平条件赌比是拉姆齐信念度定义的特例：设置行为：
+押p为真，即 (yp(-x)); 或押p为假，即 (-ypx)  
+使得个体认为它的效用 α=0，根据拉姆齐信念度定义，p的信念度为公平赌比；公平条件赌比可类似地论证
+
+Definition. 荷兰赌 B = (B_1, ..., B_n)（任意 B_i 的期望效用大于等于0）. 对于任意世界状态s, \Sum^n_{i=1} B_i (s) < 0.
+荷兰赌定理. 一组信念度是融贯，即无法构建荷兰赌 B = (B_1, ..., B_n)，其中任意的，的当且仅当它满足概率公理：非负性、规范性：处于01及之间、可加性.
+
+荷兰赌定理必要性的证明：熊卫, Hacking I. An Introduction to Probability and Inductive Logic. Cambridge, 2001.; Parmigiani G, Inoue L Y T, Lopes H F. Decision Theory: Principles and Approaches. Chichester: Wiley, 2009.
+德菲尼蒂提出了预知概念，基于此给出了融贯性充要条件（De Finetti 1972）；Walley P. Statistical Reasoning with Imprecise Probabilities. London: Chapman & Hall, 1991., Walley P. Measures of uncertainty in expert systems. Artificial Intelligence, 1996. 推广了德菲尼蒂主观概率理论，探讨了非精确主观概率的融贯性条件
+动态荷兰赌：Anand
+ P, Pattanaik P, Puppe C. The Handbook of Rational and Social Chice. Oxford, 2009.; Rescorla M. An improved dutch book theorem for conditionalization. Erkenntnis, 2020: 1-29.; Shyrms B. Dynamic coherence and probability kinematics. Philosophy of science, 1987, 54 (1): 1-20.
+
+
+德菲尼蒂主观概率理论
+有穷的世界状态集、结果（金钱的数量）、打赌（世界状态到结果的映射，可以看作n维欧氏空间里的点）
+
+Theorem. 德菲尼蒂表征定理. >= 是一个定义在打赌集上的弱偏好且满足 
+连续性：对于任意打赌B, {B' : B > B'}, {B' : B' > B} 是欧氏空间R^n上的开集、
+可加性：对于任意 B_1, B_2, B_3, B_1 >= B_2 iff B_1 + B_3 >= B_2 + B_3、
+单调性：对于任意 B, B'，如果对于任意世界状态s, B(s) >= B'(s), 那么 B >= B'、
+非平凡性：存在 B, B' 使得 B > B'.
+iff
+世界状态集上存在唯一的概率函数 p，使得对于任意 B, B'，任意世界状态s, 
+B >= B' <=> \Sum_s p(s)B(s) >= \Sum_s p(s)B'(s)
+Remark. 由泛函分析中的超平面分离定理推出 
+超平面分离定理的证明：Aliprantis C D, Border K C. Infinite Dimensional Analysis: A Hitchiker's Guide. 3rd ed. Berlin: Springer, 2006. Chapter 5, Section 9.
+德菲尼蒂表征定理的证明：熊卫; 
+Gilboa I. Theory of Decision Under Uncertainty. Cambridge, 2008. （思路，简短的证明）
+
+
+安斯康姆-奥曼主观期望效用理论
+有穷世界状态集和 作为 从世界状态集到冯诺依曼-摩根斯坦乐透集的映射 的跑马乐透
+
+Theorem. 依态效用表征定理.  > 是一个定义在跑马乐透集上的偏好且满足独立性公理和阿基米德公理
+iff
+对于任意世界状态s，存在函数 u_s : 结果集 -> R，使得对于任意跑马乐透H, H'，
+H > H' <=> \Sum_s \Sum_r H(s, r)u_s(r) > \Sum_s \Sum_r H'(s, r)u_s(r).
+并且对于任意状态s，若u' /not= u，有u'(x)=au(x)+b, a > 0, b \in R
+（H(s, r) 为乐透 H(s) 指派给结果 r 的概率）
+证明类似冯诺依曼-摩根斯坦表征定理的证明
+
+Definition. 零状态Null state. 世界状态 s 称为一个零状态，当且仅当，对于任意跑马乐透 H, H', H \not= H', 如果对于任意世界状态 s' \not= s 都有 H(s') = H'(s)，则 H ~ H'.
+Corollary. s是零状态当且仅当 u_s 是常数函数
+Theorem. 独立于状态的效用表征定理.  > 是一个定义在跑马乐透集上的偏好且满足独立性公理、阿基米德公理、非平凡性公理Non-degeneracy Axiom
+Corollary.  非平凡性公理保证了存在非零状态.
+和 非依态性公理：
+任意跑马乐透 H, 乐透 L, L'，任意非零状态 s_i, s_j，
+(H(s_1), ..., H(s_{i-1}, L, H(s_{i+1}, ..., H(s_n))) > (H(s_1), ..., H(s_{i-1}, L', H(s_{i+1}, ..., H(s_n)))
+iff
+(H(s_1), ..., H(s_{j-1}, L, H(s_{j+1}, ..., H(s_n))) > (H(s_1), ..., H(s_{j-1}, L', H(s_{j+1}, ..., H(s_n)))
+
+iff
+
+对于任意世界状态s，存在函数 u_s: 结果集 -> R （即是实际上是映射 u: 世界状态集 × 结果集 -> R），使得对于任意跑马乐透H, H'，
+H > H' <=> \Sum_s \Sum_r H(s, r)u_s(r) > \Sum_s \Sum_r H'(s, r)u_s(r).
+并且对于任意状态s，若u' /not= u，有u'(x)=au(x)+b, a > 0, b \in R
+
+In Anscombe-Aumman's model, actions are functions from states to probability distributions on consequences
+In Savage's theory, actions are functions from states to consequences
+Gilboa and Schmeidler (1989) and Schmeidler (1989) used the Anscombe and Aumann approach as a basis for their seminal contributions to ambiguity theory. Eichberger and Kelsey (1996) show that, for standard ambiguity models like Choquet expected utility (CEU) and Maxmin Expected Utility, ambiguity aversion implies a strict preference for randomization when looked at in the Anscombe-Aumann framework. They also show that the same need not hold in the Savage framework. Eichberger and Kelsey (1996) argue against the plausibility of a general preference for randomization but also admit the need for further experiments on this question.
+
+Anscombe F J, Aumann R J 1963; Kreps D M 1988; Parmigiani G, Inoue L Y T, Lopes H F. Decision Theory: Principles and Approaches. Chichester: Wiley, 2009.
+
+
+非期望效用理论
+
+Allais Paradox, Ellsberg Paradox (Ellsberg 2015)
+
+依秩效用理论
+弱化或放弃独立性公理：前景理论Prospect Theory. Kahneman D., Tversky A., 1979, 
+累积前景理论；权重函数的概率敏感性和效用函数的边际性：Kahneman & Tversky 1992, 2000; Wakker P. Prospect Theory: For Risk and Ambiguity. Cambridge, 2010.
+前景理论的公理化基础，阐述和经典理性选择理论的主要区别：Wakker 2010.
+
+非确定的效用（放弃弱序公理，用概率函数集合表征信念度推广期望效用理论，建立非精确概率理论）
+T. Seidenfeld; Levi I. Decisions and Revisions: Philosophical Essays on Knowledge and Value. Cambridge, 2006.
+Augustin T, PA Coolen F P A, De Cooman G, et al. Introduction to Imprecise Probabilities. Chichester:John Wiley & Sons, 2014. 
+Kadane J B, Schervish M J, Seidenfeld T. Rethinking the Foundations of Statistics. Cambridge, 1999.
+Seidenfeld T, Schervish M J, Kadane J B. Decisions without ordering//Sieg W. Acting and Reecting. Dordrecht: Springer, 1990: 143-170.
+Levi I. Why indeterminate probability is rational. Journal of Applied Logic, 2009, 7(4): 364-376.
+Levi I. On Indeterminate probabilities. Journal of Philosophy, 1974, 71: 391-418.
+Walley P 1991.
+Walley P 1996.
+对Ellsberg Paradox采用安全水平规则或最大化最小规则 Gilboa I, Schmeidler D. Maxmin expected utility with non-unique prior. Journal of Mathematical Economics, 1989, 18(2): 141-153.
+
+
+萨维奇主观期望效用理论 Savage 1972
+
+
+卡尔纳普概率逻辑理论 
+更多有关正则测度和确证度的定理：熊立文. 现代归纳逻辑的发展. 人民出版社, 2004.; Carnap 1962.
+Kyburg H E, Smokler H E 1964.
+语言中个体是无穷时，其状态描述的个数也是无穷的，这将导致基于形式语言中个体有穷的情形的卡尔纳普理论 全程语句的确证度为零，这个困难的解决方案：Carnap 1952, 1962.
+
+
+社会选择理论
+阿罗不可能性定理的多种证明方法：Gaertner 2009[M]; Geanakoplos 2005[J]; Grandi & Endriss 2013.
+避免不可能性消极结论的各种途径：Luce & Raiffa 1957; Gaertner 2009; List 2012.
+将偏好聚合理论进行推广，在阿罗理论基础上得到主观判断聚合理论：List 2004.
+
+博弈论
+Osborne 2004.
+Fudenberg & Tirole 1991; 混合策略mixed-strategy解释为局中人选择行动的随机性；多种解释：Osborne & Rubinstein 1994.
+博弈的逻辑刻画、纳什均衡的预设和公共知识概念，应用模态、认知逻辑等工具研究：Aumann 1999 i, ii; Lorini 2016; Pauly & Parikh 2003.
+ 
+
+——
+拉姆齐：
+
+逻辑必须明确地分为两个部分：较小的逻辑，即一致性逻辑或形式逻辑；较大的逻辑，即发现的逻辑或归纳逻辑……我们已经看到如同存在一个关于确定信念的一致性理论，这里也存在一个关于非饱和信念的一致性理论……概率论实际上是对形式理论的扩展. （《真理和概率》）
+
+
+——
+概率论
+多维随机变量
+极限定理
+数理统计
+茆诗松，程依明，濮晓龙. 概率论与数理统计教程. 2版. 高等教育出版社，2008.; DeGroot and Schervish (4 th Edition) 2012. 
+测度：夏道行，吴卓人，严绍宗，等，实变函数与泛函分析. 高等教育出版社，1985.; 陶哲轩实分析
+
+高等代数
+系数行列式等于0则方程组无解

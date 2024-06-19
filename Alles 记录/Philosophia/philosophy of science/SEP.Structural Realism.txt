@@ -1,0 +1,36 @@
+Ladyman, James 
+Structural Realism 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Introduction
+2. The Best of Both Worlds?
+Gerhard Schurz (2009) proves a structural correspondence theorem showing that successive theories that share empirical content also share theoretical content. (McArthur (2011) argues that structural realism eliminates both theory change in science and scientific discovery.)
+Simon Saunders (1993a) discusses the structural continuities between classical and quantum mechanics and also shows how much structure Ptolemaic and Copernican astronomy have in common. Harvey Brown (1993) explains the correspondence between Special Relativity and classical mechanics. Jonathan Bain and John Norton (2001) discuss the structural continuity in descriptions of the electron, as does Angelo Cei (2004). Votsis (2011) considers examples of continuity and discontinuity in physics. Robert Batterman (2002) discusses many examples of limiting relationships between theories, notably the renormalization group approach to critical phenomena, and the relationship between wave and ray optics. Holger Lyre (2004) extends Worrall's original example of the continuity between wave optics and electromagnetism by considering the relationship between Maxwellian electrodynamics and Quantum Electrodynamics. Saunders (2003c and d) also criticises Tian Cao (1997) for underestimating the difficulties with a non-structuralist form of realism in the light of the history of quantum field theory.
+Simon Saunders (1993a)讨论了经典力学和量子力学之间的结构连续性，还说明了托勒密天文学和哥白尼天文学在结构上有多少共同之处。Harvey Brown（1993）解释了狭义相对论和经典力学之间的对应关系。Jonathan Bain和John Norton (2001)讨论了对电子的描述中的结构连续性，Angelo Cei (2004)也是如此。Votsis（2011）考虑了物理学中的连续性和不连续性的例子。Robert Batterman (2002)讨论了许多理论之间的极限关系的例子，特别是对临界现象的重整化群方法，以及波和射线光学之间的关系。Holger Lyre (2004)通过考虑麦克斯韦电动力学和量子电动力学之间的关系，扩展了Worrall关于波光学和电磁学之间连续性的例子
+3. Epistemic Structural Realism (ESR)
+3.1 Kantian ESR
+3.2 ESR and Ramsey Sentences
+Newman objection, "naturalness"
+Demopoulos and Friedman
+4. Ontic Structural Realism (OSR)
+1.Eliminativism: there are no individuals (but there is relational structure)
+(I) The idea of a universal.
+(II) The relata of a given relation always turn out to be relational structures themselves on further analysis.
+(2) There are relations (or relational facts) that do not supervene on the intrinsic and spatio-temporal properties of their relata.
+(3) Individual objects have no intrinsic natures.
+The violation of the Identity of Indiscernibles restricted so that identity involving properties are not in its scope leads to a dilemma that was articulated by Steven French and Michael Redhead (1988); either quantum particles are not individuals, or they are individuals but the principle of individuation that applies to them must make reference to some kind of empirically transcendent haecceity, bare particularity or the like.
+(4) There are individual entities but they don't have any irreducible intrinsic properties.
+(5) Facts about the identity and diversity of objects are ontologically dependent on the relational structures of which they are part.
+(6) There are no subsistent objects and relational structure is ontologically subsistent.
+(7) Individual objects are constructs
+4.1 OSR and Group Theory
+4.2 OSR and Quantum Field Theory
+Critics of OSR may argue that the claim of metaphysical underdetermination in the case of non-relativistic many particle quantum mechanics is resolved by the shift to quantum field theory. This is especially plausible when it comes to quantum field theory in a curved spacetime since in that context, “a useful particle interpretation of states does not, in general, exist” (Wald 1984, 47, quoted in Stachel 2006, 58).
+Field quantities are usually attributed to space-time points or regions. The problem of individuality now concerns whether fields themselves are individuals, or whether they are the properties of spacetime points. In the latter case the problem becomes whether the spacetime points are individuals. This last question is bound up with the debate about substantivalism in the foundations of General Relativity.
+4.3 OSR and Spacetime Physics
+5. Objections to Structural Realism
+“没有关系项，哪来关系”（no relation without relata）（如曹天予）
+本体论结构主义者们尝试以“结构是共相”、“关系项也仍还可以继续分析下去”，和以数学中的范畴论（category theory）而非集合论作为基础[Bain, J., 2013. Category-Theoretic Structure and Radical Ontic Structural Realism [J], Synthese, 190(9): 1621–1635.]等路径进行回应
+6. Other Structuralisms

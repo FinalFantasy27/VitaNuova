@@ -1,0 +1,38 @@
+
+Logic and Conversation
+	
+dr. F. Roelofsen (co-ordinator)
+
+Objectives
+In-depth understanding of logical frameworks used in natural language semantics
+Ability to analyse complex linguistic phenomena using these logical frameworks
+Ability to evaluate logical semantic frameworks and theories of particular phenomena
+Ability to extend existing frameworks and improve existing semantic theories
+Contents
+The course is concerned with theories of meaning. How should the meaning of sentences be represented? How is it derived from the meaning of the words that the sentence consists of? What is the role of intonation? To what extent is the interpretation of a sentence context-dependent?
+
+Traditionally, formal theories of meaning are mainly concerned with the truth-conditional content of declarative sentences. This course focuses on aspects of meaning that go beyond truth-conditional content, in particular the inquisitive content of questions.
+
+The first part of the course is an introduction to inquisitive semantics, a logical framework developed over the past decade at the UvA, in which the informative and the inquisitive content of statements and questions is represented and derived in an integrated way. The second part of the course varies from year to year. A detailed program will be made available on:
+https://projects.illc.uva.nl/inquisitivesemantics
+
+Recommended prior knowledge
+Working knowledge of first-order logic is required, and some background in formal semantics is convenient, though not really necessary. For students of the Master of Logic, it usually works best to take this course in your second year (although there may be exceptions of course, depending on your specific background). Students from other Master programmes (e.g., Linguistics, Philosophy, AI, Cognitive Science) are also very welcome. Students who have no prior background in formal semantics are encouraged to work through Coppock and Champollion's Invitation to Formal Semantics (https://eecoppock.info/bootcamp/semantics-boot-camp.pdf). With this background you should be well-prepared for the course.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Study materials
+Syllabus:
+Inquisitive semantics textbook http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198814788.pdf
+Other:
+Research articles, made available online.
+Assessment
+Take-home assignments and a term paper.
+
+ 
+
+Remarks
+For further details, see: https://projects.illc.uva.nl/inquisitivesemantics

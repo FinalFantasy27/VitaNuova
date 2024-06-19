@@ -1,0 +1,5 @@
+拓扑的定义是Hausdorff在1914年提出来的，Levy 199
+
+Cantor-Bendixson theorem 完美集性质：不可数闭集可以拆分成一个完美集（实数上的）P（基数为C）和一个至多可数的集合S的并
+Jech Corollary 4.7 If F is a closed set, then either |F|<=\aleph_0 or |F|=2^{\aleph_0}
+闭集合不会成为连续统假设的反例

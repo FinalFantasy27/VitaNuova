@@ -1,0 +1,18 @@
+·Brun用“集合”{n(x-n): n<x}进行筛法，x是一个大偶数，如果其中有一个n(x-n)不能被小于根号x的素数整除，那么n和x-n都不能被小于根号x的素数整除，即这二者都是素数，那么x也就是两个素数之和。Brun证明了一个弱化的结论，对于任何足够大的偶数x，{n(x-n): n<x}中有一个元素不能被任何小于x的1/10次方的素数整除，这意味着n和x-n都最多只有9个素因子，这也就是“9+9”；王元1957证明了“2+3”；1948 Renyi用{x-p: p<x}做筛法，如果能证明有x-p不能被小于x的1/(c+1)次方的素数整除，那么x-p是最多c个素因子的乘积；此前已做到1+6，但需要假设广义黎曼猜想；Renyi通过集合中某数倍数的数量的较精确的估计证明了1+c（ta没计算出c）；潘承洞1962证明了1+5和1+4，1965，Buchstab, Bombieri（后来获得菲尔兹奖） and A.I. Vinogradov证明论1+3；陈景润从{x-p: p<x}出发，最后要去除x-p-p1p2p3，他用{x-p1p2p3}做（张益唐，Recalling "1+2", Dedicated to the 90th birthday of Prof. Chen jing Run）
+·所有的对数函数进行底的变换，其结果的差异也一定只会是常数倍的，因logAx=logAB^logBx
+=logBxlogAB
+logAx=logABlogBx
+其中前者是一常数
+·无论怎样天才的程序员，也无法将比较排序算法的最大比较次数降低到小于nlogn阶（数学女孩4）
+. when continual, the probability of a single point could not be 0 or non-0, the solution is probability density (function)(PDF), and this is what means by "the probability is 0 is not equal to impossibility". (https://youtu.be/ZA4JkHKZM50(21.10.27))
+. "Almost" Fourier analysis: when a  wave of  frequency 2 cycles/second adds up a 3 cycles/second wave, its rotating vector, where its length is equal to the height of our graph at that time, when the frequency with which we are wrapping the graph around the circle matches the frequency of the singles(2 or 3 cycles/second), things nicely aligned (?question still) (https://youtu.be/spUNpyF58BY (21.10.27))
+. Disney is great at 3d and graphics; Tengxun and Baidu at ai.
+. signature(e.g. a 256 bite hash(SHA256) string, a huge amount of modern security, e.g. the algorithm underlie the secure connection that your browser is making with YouTube or that it makes with your bank) depends on message and your private key, and public key come into play as a function to verify that a signature is valid, you can check using public key everyone knows. The principal of decentralisation of Bitcon is that everyone agrees to give preference to whichever blockchain has the most work put into it. (https://b23.tv/cpTeST(21.1028))
+. exp of measure: area, volumn ... what it meams a shape to be 2-dimensional is that when you scale its length by some factor, its measure is scaled by that factor raised to the second power, then Fractal, e.g. Sierpinski triangle its dimension is the D which (1/2)^D = 1/3, its area is 0 and its turns out to be infinite. and for koch curve its scaling factor is 1/3 and mass scaling factor is 1/4
+. Parity check
+. inverse square law, think of screen
+. extension of definition. e.g. we want 2^x2^y=2^(x+y) still hold for negative exponentialation
+. kahneman and Tversky's paper
+. group theory and the permutations of the roots of the polunomials
+. Borsuk–Ulam theorem and temperature and pressure on earth, and stolen neck theorem
+.48/50 and 10/10, how to compare? pretend that you see two more, one that was positive，one negative (laplace's rule of succession) . Think of randomly pick number from 0~1 ten times，when it is less than 0.95, we call it positive, and if the rate of positive is 0.95, you will see nearly 60% ten times tests give out 10 out of 10. P(data|S)) = (data total choose positive)(S^positive)(1-s)^negative（binomial distribution）

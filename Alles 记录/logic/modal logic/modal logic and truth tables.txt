@@ -1,0 +1,44 @@
+Gerald J. Massey. The theory of truth tabular connectives, both truth functional and modal. The journal of symbolic logic, vol. 31 (1966), pp. 593-608. presents a partial truth table for S5.
+
+H. Leonard.Two-Valued Truth Tables for Modal Fucntions.partial truth tables
+
+Dugundji's theorem
+In [modal logic], Dugundji's theorem proves that no modal logic that is a subsystem of S5 can have a finite, truth-value-like semantics.
+
+Assume that we interpret the formulas ϕ of a modal logic as elements of a set M, traditionally called a matrix. This requires that we interpret all logical connectives of the logic (e.g. ∧, ∨, □, ...) as operations on this matrix M. Assume further that a subset T⊆M is used to represent the values that are "true". For example, we could interpret propositional logic by taking M to be {0,1}, and T to be {1}.
+
+Then, Dugundji's theorem proves that no finite-value matrix can characterise any logic that is a subset of S5
+
+The method used to arrive at such negative result is not original. As pointed out by Dugundji himself, his result was inspired by a previous proof by K. Gödel (Gödel, 1932) on a similar theorem concerning intuitionistic propositional logic IPC: Gödel proved that a wide family of logics encompassing IPC could not be characterized by finite logical matrices.
+
+Starting with Gödel, passing through Dugundji's Theorem until arriving to paraconsistent logics, it will be shown that the results in (Arruda,1975) and (Carnielli, Coniglio e Marcos, 2007) support the thesis that, indeed, a comparatively small number of logic systems can be characterized by finite matrices (although there is an infinite number of many-valued logics). The first part of the present tutorial intends to trace a continuous line between the seven decades distancing these results.
+
+Behind that line there exists, on the one hand, the attempt to generalize the semantics of finite matrices. By means of the notion of Nmatrices, it is possible to (non-deterministically) associate to each formula of a given language a set of possible truth-values, instead of a (deterministic) single truth-value. As proved in (Avron, 2005), Dugundji-like theorems even for Nmatrices persist for some systems of paraconsistent logics. In more precise terms: there is a vast family of paraconsistent systems such that no one of them can be semantically characterized by a single finite Nmatrix.
+
+On the other hand, there have been attempts to generalize Dugundji's result in order to encompass the enormous amount of modal systems that have arisen since the publication of his theorem. Among them, it should be mentioned the results obtained by (Scroggs, 1951), (Esakia and Meskhi, 1970), (Chagrov and Zakharyaschiev, 1997) and (Coniglio and Peron, 2014).
+
+Bibliography
+
+(Avron, 2005) Non-deterministic semantics for paraconsistent C-systems. In L. Godo, editor, Proceedings of the VIII European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2005), pages 625-637.
+
+(Arruda, 1975) Remarques sur les systèmes Cn. In Comptes Rendus de l' Academie de Sciences de Paris, volume 280 of A-B, pages 1253-56.
+
+(Carnielli, Coniglio and Marcos, 2007) Logics of Formal Inconsistency. In D. Gabbay and F. Guenthner, editors, Handbook of Philosophical Logic (2nd. edition), volume 14, pages 15-107.
+
+(Coniglio and Peron, 2014) Dugundji's Theorem Revisited . Logica Universalis, 8(3-4):407-422, 2014.
+
+(Chagrov and Zakharyaschiev, 1997) Modal Logic, Oxford University Press.
+
+(Dugundji, 1940) Note on a property of matrices for Lewis and Langford's calculi of propositions. The Journal of Symbolic Logic,
+5(4):150-151. : that no modal system between S1 and S5 can be characterized by a single finite logic matrix
+
+(Esakia and Meskhi, 1970) Five critical modal systems. Theoria, 43(1):52-60, 1977.
+
+(Gödel, 1932) On the intuitionistic propositional calculus. Anzeiger Akademie der Wissenschaften Wien, mathematisch-naturwiss. Klasse,
+32:65-66.
+
+(Scroggs, 1951) Extensions of the Lewis system S5. The Journal of Symbolic Logic, 16(2):112-120.
+
+来源
+......
+https://www.uni-log.org/t5-dugundji.html

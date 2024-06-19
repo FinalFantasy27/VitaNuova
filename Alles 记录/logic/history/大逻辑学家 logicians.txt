@@ -1,0 +1,334 @@
+
+波尔扎诺 Bernard Bolzano 1781-1848
+
+布尔 Boole、C.S.皮尔士 Pierce 1839-1914、施罗德 Ernst Schröder 1841-1902 、洛文海姆 Leopold Löwenheim 1878-1957 一阶逻辑的一元谓词片段可判定 和 Alwin Korselt 1864-1947 关系代数
+
+弗雷格 Gottlob Frege 1848-1925 量词；分析哲学；语言哲学；死后许久被发现反犹主义
+
+马尔可夫 Andrey Markov 1856-1922
+
+皮亚诺 Giuseppe Peano 1858-1932 皮亚诺公理 PA 皮亚诺曲线
+
+白脑袋 Alfred North Whitehead 1861-1947 PM
+
+希尔伯特 David Hilbert 1862-1943 数学；几何基础公理化；23个问题
+
+罗素 Bertrand russell 1872-1970 《数学原理》PM、分析哲学、政治（核裁军运动、罗素-爱因斯坦宣言、罗素法庭）、教育活动
+
+华沙-利沃夫学派  Lwów–Warsaw School（卢卡西维茨 Jan Łukasiewicz 1878-1956 多值逻辑等、Stanisław Leśniewski 1886-1939、Stanisław Jaśkowski 1906-1965 等）
+
+布劳威尔 L. E. J. Brouwer 1881-1966 （荷兰） 拓扑 直觉主义
+
+C.I.刘易斯 Clarence Irving Lewis 1886-1939 模态逻辑
+
+凯恩斯 1883-1946 John Maynard Keynes 经济学：凯恩斯主义；概率逻辑 probability logic
+
+Nikolai Luzin 1883-1950 描述集合论
+
+司寇伦 Thoralf Skolem 1887-1963 （挪威）
+洛文海姆-斯寇伦定理 Löwenheim–Skolem theorem（司寇伦壳 Skolem Hull）；Skolem's Paradox
+Skolem范式和Skolem函数，消去量词的方法
+1933和1934的两篇论文论证了有限的或可数的语句集无法刻画自然数，这是哥德尔完全性定理的一个简单推论，但司寇伦使用的方法是如今ultraproduct构造的前身
+递归函数 recursive function
+引进替换公理 axiom of replacement
+证明∀*∃*不可判定
+解丢番图方程的p-adic方法在格论上的工作（因为发表在挪威杂志）后来在30年代被重新发现
+组合上的工作
+
+贝奈斯 Paul Bernays 1888-1977 希尔伯特的助手 
+∃*∀*的判定过程（和施隆芬克尔（1889—1942））（1928）
+NBG集合论
+
+Abraham Fraenkel 1891-1965 （以色列的名字） ZFC的F
+用带原子 Urelement 的集合论 ZFU 证明独立性结果
+
+（卡尔纳普 Rudolf Carnap 1891-1970 不动点引理 diagonal lemma、归纳逻辑 inductive logic、语义 semantics）
+
+阿克曼 Wilhelm Ackermann 1896-1962 希尔伯特的助手，经典著作希尔伯特阿克曼1928（里面提出了（语义）完全性问题和可判定性问题 Entscheidungsproblem）；阿克曼函数 Ackermann function；阿克曼序数 Ackermann ordinal；在传递有限集 Hereditarily finite set 上有工作；提出了阿克曼集合论 Ackermann set theory （其中真类可以是其它真类的元素）；∃*∀∃*的判定过程
+
+波斯特 Emil Leon Post 1897-1954 完全性定理 开创度论
+
+海廷 Arend Heyting 1898-1980 （荷兰） 布劳威尔的学生 直觉主义的形式化
+
+库里 Haskell Curry 1900-1982 名字命名了三个程序语言的人；函数式编程；组合逻辑 combinatory logic；柯里-霍华德同构 Curry–Howard correspondence；库里悖论 Curry's paradox
+
+Pyotr Novikov 1901-1975 （俄国） 群论
+
+塔斯基 Alfred Tarski 1902-1983 模型论 model theory；Banach–Tarski 怪球；几何；群论；代数；真定义、真之不可定义性 theory of truth、Tarski's undefinability theorem；Tarski universes
+
+（J. C. C. McKinsey 模态逻辑的拓扑解释） 
+
+拉姆齐 Frank Ramsey 1903-1930 拉姆齐理论
+
+冯诺依曼 John von Neumann 1903-1957 冯诺依曼结构、博弈论、看出第二不完备性定理、集合论 等等
+
+柯尔莫哥洛夫 Andrey Kolmogorov 1903-1987 概率论、Brouwer–Heyting–Kolmogorov interpretation、算法随机性（Kolmogorov complexity）
+
+丘奇 Alonzo Church 1903-1995 
+
+林登堡 Adolf Lindenbaum 1904-1941 （波兰） 林登堡代数 Lindenbaum–Tarski algebra 林登堡引理 Lindenbaum's lemma （每个一致的理论都可以扩张为极大一致集）
+
+Mojżesz Presburger 1904-1943（波兰） 塔斯基的硕士生 Presburger arithmetic 的可判定性（master thesis）
+
+哥德尔 Kurt Gödel （奥地利->美国）  1906-1978
+完全性定理 completeness （1930 thesis） 
+不完全性定理 incompleteness （1931） ；二阶逻辑的不完全性
+通过可构造宇宙 V=L 证明选择公理相对于ZF的一致性 
+爱因斯坦场方程的一个有闭类时曲线的解：哥德尔旋转宇宙 Gödel metric 
+“假设zfc+v=L，则不存在不可测的投影集”（1938）（索洛维1965年证明了投影集可测问题的独立性）
+给出了任意数量的存在量词间包含两个全称量词的判定过程（1932）；证明∀∀∀∃*不可判定（1933）
+直觉主义逻辑的哥德尔-根岑翻译 Gödel–Gentzen translation
+直觉主义没有有限真值表
+Gödel, K., 1932, “Zum intuitionistischen Aussagenkalkül,” Anzeiger der Akademie der Wissenschaftischen in Wien 69: 65–66. 观察到直觉主义命题逻辑有disjunction property 
+辩证法翻译 Dialectica interpretation
+speed up theorem
+
+罗瑟 J. Barkley Rosser 1907-1989 Rosser's trick；Kleene–Rosser paradox证明原始形式地lambda calculus不一致；数论
+
+英年早逝的Jacques Herbrand 1908-1931 Herbrand定理 Herbrand's theorem 等
+
+贝丝（男） Evert Willem Beth 1908-1963 （荷兰） 表列方法 tableaux；Beth可定义性定理 Beth definability （一阶逻辑中一个概念可隐定理当且仅当其可显式定义）；直觉主义逻辑的Beth模型 Beth models
+
+蒯因 Willard Van Orman Quine 1908-2000 （1993肖克奖） 捍卫一阶逻辑、反对高阶逻辑、反对模态逻辑；predicate functor logic；化归布尔等式的Quine–McCluskey algorithm；NF集合论；拒斥“经验主义的两个教条”：拒斥分析-综合二分 analytic–synthetic distinction、整体主义 holism、本体论相对性 ontological relativity、翻译不确定型（gavagai）、本体论承诺 ontological commitment、杜恒-蒯因论题 Duhem–Quine thesis、唯名论 nominalism（和Nelson Goodman）、数学实在论、自然主义 naturalism、知识论自然化 epistemology naturalized 
+
+根岑 Gerhard Gentzen 1909-1945 证明论 自然演绎 natural deduction（normalization） 矢列演算 sequent calculus（切消 cut-elimination）；论证他对算术一致性证明中超穷的使用是不违背“有穷性”要求的；作为纳粹饿死于苏联集中营
+
+Anatoly Maltsev/Mal'cev 1909-1967 （俄国）
+
+克林尼 Stephen Cole Kleene 1909-1994 克林尼递归定理 Kleene's recursion theorem 克林尼不动点定理 Kleene fixed-point theorem、Kleene–Rosser paradox证明原始形式地lambda calculus不一致、正则表达式 Regular expression 克林尼层谱 Kleene hierarchy 克林尼三值逻辑 three-valued logic、Kleene algebra、the Kleene star (Kleene closure) 直觉主义
+
+舒特 Kurt Schütte 1909-1998 证明论、序数分析 ordinal analysis
+
+亨金 Leon Henkin 1910-1973 证明完全性定理的亨金方法 Henkin method （thesis）等
+
+Raphael M. Robinson 1911-1995 罗宾逊算术 Robinson Arithmetic Q；数论
+
+图灵 Alan Turing 1912-1954
+图灵机 Turing machine 对能行可计算概念的分析和哲学论证
+不可判定性 Entscheidungsproblem （停机问题 halting problem）
+破解密码
+叠代理论的一致性语句无穷次以试图“超越”不完备醒定理（Turing’s completeness theorem (thesis) ）
+证明∀∃∀∃∃∃∃∃∃不可判定，后优化到4个∃
+生物数学
+
+鲁宾斯坦 Reuben Goodstein 1912-1985 鲁宾斯坦定理 Goodstein's theorem
+
+Andrzej Mostowski 1913-1975 （波兰） Mostowski collapse lemma、Mostowski model、算术等
+
+Arthur Prior 1914-1969 （新西兰） 时态逻辑 tense logic、hybrid logic、证明论语义学 Prior's tonk、内涵逻辑、命题量词与内涵悖论、道义逻辑中的悖论
+
+约书亚·巴尔-希勒尔 Yehoshua Bar-Hillel 1915-1975 Foundations of Set Theory (1958, 1973) 合著者之一；范畴语法 Categorial grammar ；上下文无关语法的泵引理；信息科学、机器翻译
+
+Paul Lorenzen 1915-1994 Kuno Lorenz 1932-
+
+Roger Lyndon 1917-1988 Lyndon interpolation；Lyndon theorem 等
+
+Helena Rasiowa 1917-1994 女逻辑学家 Rasiowa–Sikorski lemma (with Roman Sikorski 1920-1983)
+
+Abraham Robinson 1918-1974 非标准分析、Robinson's joint consistency theorem
+
+Wanda Szmielew 1918-1976 女逻辑学家 证明阿贝尔群的可判定性
+
+Alfred Horn 1918-2001 Horn clauses Horn sentences
+
+克雷格警长 William Craig 1918-2016 克雷格内插定理 Craig interpolation theorem “初等逻辑里最后一个定理” 克雷格定理 Craig's theorem/Craig's reaxiomatization theorem
+
+Julia Robinson 1919-1985 希尔伯特第十问题；丢番图数论；有理数理论不可判定（在有理数中可以定义自然数） 美国科学院第一位女数学院士、美国数学会第一位女主席
+
+Robin Gandy 1919-1995 （英国） 递归论
+
+Jerzy Łoś 1920-1998 Łoś theorem、Łoś–Tarski preservation theorem、Łoś–Vaught test、Transfer principle、阿贝尔群论、universal algebra
+
+Roland Fraïssé 1920-2008 （法国） (Andrzej) Ehrenfeucht（ 1932- 塔斯基的女婿）–Fraïssé games/back-and-forth game；Fraïssé limit
+
+Bjarni Jónsson 1920-2016 塔斯基的学生 universal algebras、algebraic logic
+
+王浩 Hao Wang 1921-1995 奎因的学生 机器自动定理证明、王氏砖 Wang tile 与图灵机的等价性（Robert Berger 1938- 找到了第一组非周期性砖）；与哥德尔的交往
+博士生有NP完全性的库克定理的Stephen Cook（1939-）
+
+Martin Löb 1921-2006 Löb's theorem、Fast-growing hierarchy
+
+露丝·巴坎·马库斯 Ruth Barcan Marcus 1921-2012 量化模态逻辑及其中的巴坎公式 arcan formula；本质主义 Essentialism；量词的替代解释 Substitutional quantification
+
+Boris Trakhtenbrot 1921-2016 （俄国犹太人） Trakhtenbrot's theorem
+
+Joachim Lambek 1922-2014
+
+苏佩斯 Patrick Suppes 1922-2014 物理学公理化 axiomatization of physics；科学哲学
+
+John Myhill 1923-1987
+
+克雷塞尔 Georg Kreisel 1923-2015 证明论
+
+Julius Richard Büchi 1924-1984 Büchi-Elgot-Trakhtenbrot theorem：一个语言是正则的当且仅当它可以被一元二阶逻辑定义
+
+Alexander Esenin-Volpin 1924-2016 超有限主义 ultrafinitism；早期点集拓扑
+
+Heinz Bachmann 1924- Ordinal collapsing function；CZF的Bachmann–Howard ordinal
+
+安德森 Alan Ross Anderson 1925-1973 相干逻辑 Relevance logic 道义逻辑 Deontic Logic
+贝尔纳普 Nuel Belnap 1930- 相干逻辑、时态逻辑、结构证明论等
+Bob Meyer 1932-2009 相干逻辑的语义学
+Richard Routley/Richard Sylvan （新西兰） 1935-1996
+
+达米特 Michael Dummett （1995年洛夫肖克奖 Rolf Schock prize） 1925-2011 《形而上学的逻辑基础》  The Logical Basis of Metaphysics；直觉主义；反实在论和可验证性  verifiability；分析哲学史（弗雷格、胡塞尔）；中间逻辑 intermediate logic 哥德尔-达米特逻辑 Gödel–Dummett logic；左翼活动家
+
+Robert Lawson Vaught 1926-2002 模型论：Tarski–Vaught test 、Vaught conjecture、 Feferman–Vaught theorem、the Łoś–Vaught test等；泛函分析（C* algebras）
+
+普特南 Hilary Putnam 1926-2016 （2011肖克奖） 希尔伯特第十问题、缸中之脑 brain in a vat、心灵哲学功能主义 functionalism （Multiple realizability）、对功能主义的反驳、语义外在论 Semantic externalism（孪生地球 twin earths）、指称理论、科学实在论（Quine-Putnam indispensability argument）、逻辑可修改、量子逻辑 quantum logic、反实在论（model-theoretic argument 等）、内在实在论 internal realism、反对价值-事实二分 fact–value dichotomy
+
+竹内外史 Gaisi Takeuti 1926-2017 （日本） 证明论
+
+William Alvin Howard 1926- 柯里-霍华德同构；CZF的Bachmann–Howard ordinal
+
+Joseph R. Shoenfield 1927-2000 改进Forcing 递归论
+
+张晨钟 Chen Chung Chang  1927-2014 模型论；多值逻辑；连续模型论 continuous model theory
+
+所罗门费佛曼 Solomon Feferman 1928-2016 （2003肖克奖） 塔斯基的学生 不完全性定理；直谓主义数学 predicative mathematics 费弗曼-舒特序数 Feferman–Schütte ordinal KP集合论 等；妻子是一名逻辑史家
+
+马丁戴维斯 Martin Davis 1928-2023 希尔伯特第十问题；布尔可满足性求解器的DPLL算法
+
+辛提卡 Jaakko Hintikka 1929-2015 （芬兰）（2005肖克奖） 认知逻辑 epistemic logic；博弈语义学 Game-theoretic Semantics；证明完全性的辛提卡集 Hintikka set；independence-friendly logic
+
+牛顿·达·科斯塔 Newton da Costa 1929-（巴西） 次协调逻辑 Paraconsistency 混沌理论的不可判定性 undecidability of chaos theory （Francisco Dória 1945-）
+
+蒙塔古 Richard Montague 1930-1971 通过证明集合论（ZFC）的反射原理证明了ZFC不可有穷公理化（dissertation）
+蒙塔古语法 Montague Grammar
+
+Michael D. Morley 1930-2020 Morley's categoricity theorem
+
+Michael O. Rabin 1931-
+
+Edward Nelson 1932-2014 数学物理、非标准分析、量子力学、几何图论、试图证明皮亚诺算术公理不一致
+
+Dana Scott 1932- （1976图灵奖得主；1997肖克奖） 布尔值模型 Boolean-valued model、理论计算机、自动机理论 Automata theory、域论 domain theory（Scott topology）、模态μ-演算 Modal μ-calculus、Scott's trick、Scott–Potter set theory等
+
+Anil Nerode 1932-
+
+van Dalen 1932- 构造主义；结构证明论
+
+Gerald Sacks 1933-2019 递归论
+
+保罗科恩 Paul Cohen 1934-2007 逻辑学唯一一位菲尔兹奖得主；独立性（力迫法 forcing）；分析出身；最后据说去做黎曼猜想了；数学形式主义者
+
+Azriel Lévy 1934- 集合论、选择公理、Levy collapse 等
+
+Haim Gaifman 1934- 布尔代数；算术模型
+
+Richard M. Friedberg 1935- 本科生时发明了优先方法priority method解决了递归论的Post问题（苏联的Albert Muchnik 1934-2019 也独立解决）；理论物理学家
+
+Per Lindström 1936-2009 （瑞典） 刻画一阶逻辑的Lindström's theorem 广义量词 generalized quantifiers
+
+Howard Jerome Keisler 1936- 超积 Ultraproduct 无穷逻辑 infinitary logic 非标准分析 infinitesimal analysis
+
+Donald Monk 布尔代数、集合论
+
+Ronald Jensen 1936- V=L的集合论；NFU集合论
+
+Dag Prawitz 1936- （2020肖克奖） 自然演绎、证明论语义学 proof-theoretic semantics
+
+James Ax 1937-2006 数论、代数 Simon B. Kochen 1934- 数论、量子力学
+
+William Hanf 无穷逻辑 
+
+Yiannis N. Moschovakis 1938- 描述集合论 Descriptive Set Theory
+
+索洛维 Robert M. Solovay 1938- Solovay's theorem：假设存在一个不可达基数，那么“每个实数集都是勒贝格可测的”与ZF一致；集合论（连续统假设、Suslin's hypothesis等）；可证性逻辑等
+
+Anne Sjerp Troelstra 1939-2019 直觉主义逻辑、线性逻辑7证明论
+
+George Boolos 1940-1996 叠代集合观 Iterative set conception、可证性逻辑 provability logic、新逻辑主义 Neologicism、复多/复数量化 plural quantification 和二阶逻辑 second-order logic
+
+Petr Hájek 1940-2016 捷克 Metamathematics of First-Order Arithmetic 
+模糊逻辑 fuzzy logic；集合论的变种
+
+克里普克 Saul Kripke （	2001年 Rolf Schock Prizes） 1940-2022 模态逻辑的可能世界语义学 possible world semantics（18岁）、直觉主义的克里普克语义学、非正规模态逻辑 non-normal modal logic、语言哲学指称理论、先天偶然、后天必然、本质主义、真理论 theory of truth、维特根斯坦的解释 Kripkenstein in Wittgenstein on Rules and Private Language、KP集合论、递归论
+
+Yury Yershov 1940- （俄国） 代数、域论、数理逻辑、模型论、构造主义、计算机理论等
+
+唐纳德·马丁 Donald A. Martin 1940-  analytic determinacy (from the existence of a measurable cardinal)、Borel determinacy（Annals）、projective determinacy (with John R. Steel) (from suitable large cardinal axioms) The Martin measure on Turing degrees
+
+Robert I. Soare 1940- 递归论 
+
+大卫·刘易斯 David Lewis 1941-2001 反事实语义学 Counterfactuals 对应体理论 counterpart theory 模态实在论 modal realism 因果 causation 分体论 mereology 对惯例 convention 的博弈论分析（dissertation） 公共知识 common knowledge 心灵哲学同一论、功能主义 Lewis's triviality result：不可能将条件概率P(B|A)等同于条件句A->B的概率
+
+Jon Michael Dunn 1941-2021 相干逻辑；子结构逻辑 substructural logic
+
+Angus Macintyre 1941- 模型论 代数、代数几何、数论
+
+Melvin Fitting 1942- 直觉主义和力迫
+
+马丁洛夫 Per Martin-Löf 1942- （2020年肖克奖） 类型论 type theory
+
+James Earl Baumgartner 1943-2011 集合论
+
+Kenneth Kunen 1943-2020 Kunen's inconsistency theorem（Reinhardt cardinal 不存在）等
+
+Jeff Paris 1944 Paris–Harrington theorem
+
+John Lane Bell 1945- 集合论、构造主义、topos、格论等
+
+Dov Gabbay 1945- 哲学逻辑、计算机等
+
+Saharon Shelah 1945- （以色列）（2001沃尔夫奖得主；2018肖克奖得主） 集合论（proper forcing）、模型论（classification theory）、Whitehead's problem的独立性等；写了1200篇论文
+
+Steve Simpson 反推数学
+
+Leo Harrington 1946-
+
+Alexander S. Kechris 1946- 
+
+Menachem Magidor 1946- （以色列） 集合论
+
+Richard Shore 1946- 递归论
+
+Kit Fine 1946- 模态逻辑；命题量词；现在最大的哲学家
+
+柴廷 Gregory Chaitin 1947-
+
+尤里·马季里亚维齐 Yuri Matiyasevich 1947- 希尔伯特第十问题；据说后来也去做黎曼猜想了
+
+Jean-Yves Girard 1947- （法国式） strong normalization in a system of second-order logic System F；Girard's paradox；线性逻辑 linear logic 等
+
+Keith Devlin 1947- 内模型
+
+哈维弗里德曼 Harvey Friedman 1948- 反推数学的提出者；1967年时因18岁就在斯坦福大学担任助理教授以世界上最年轻的教授身份载入吉尼斯世界记录；1991-2000年在俄亥俄大学兼任音乐教授 1
+
+John R. Steel 1948- 集合论
+
+金森晶洋 Akihiro Kanamori 1948- 集合论
+
+Alex Wilkie 1948- （伦敦数学会波莱亚奖） 模型论
+
+Graham Priest 1948- （澳大利亚） 次协调逻辑、辩证主义 dialecticism
+
+约翰·范·本瑟姆 Johan van Benthem 1949- （荷兰的名字） 模态逻辑中的互摸拟 bisimulation 概念、模态对应理论 Modal Correspondence theory 和 Van Benthem characterization theorem、动态逻辑 dynamic logic、模态逻辑的各种变种、游戏与逻辑的联系等
+
+Boris Zilber 1949- （伦敦数学会波莱亚奖） 模型论
+
+Bruno Courcelle Courcelle's theorem in graph theory：图的一元二阶逻辑中可定义的每个图的性质都可以在有界树宽的图上以线性时间判定
+
+Lou van den Dries 1951- 模型论 p-adic域、值域和有限域、群论等
+
+Anand Pillay 1951-  模型论
+
+Jean Paul Van Bendegem 1953- 严格有穷主义 Strict finitism
+
+Sy Friedman 1953- 集合论
+
+Theodore Slaman 1954- 递归论
+
+武丁 W. Hugh Woodin 1955-
+
+Matthew Foreman 索洛维的学生 集合论
+
+Rodney G. Downey 1957- 递归论（算法随机性 algorithmic randomness）
+
+Ehud Hrushovski 1959 （以色列） 2022邵逸夫奖得主 模型论
+
+Steffen Lempp 递归论
+
+Jonathan Pila 1962- （2022肖克奖） 模型论
+
+1 https://u.osu.edu/friedman.8/foundational-adventures/degrees-employment-students-contact/

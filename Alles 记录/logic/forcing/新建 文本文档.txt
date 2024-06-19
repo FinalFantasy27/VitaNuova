@@ -1,0 +1,10 @@
+
+jech的力迫的证明细节都是糊的
+
+Forcing for Mathematicians and Kunen
+
+从zfc力迫直接给出的那个完整模型肯定是满足zfc的，但是可以在那个模型里找一个真类使得这个真类只满足zf而不满足zfc，symmetric models就是一种系统地生成这样的子模型的方法，大概做法就是先力迫出一个模型，然后取这个模型的某个子模型可以让子模型不满足C
+
+ZFC可以力迫出AC不成立的模型
+得带原子
+Halbeisen. Combinatorial Set theory

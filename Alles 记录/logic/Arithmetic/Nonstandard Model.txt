@@ -1,0 +1,4 @@
+
+The Order Type of Countable Nonstandard Model (Henkin 1950) Any countable non-standard model ofarithmetic has order type \omega +(\omega*+ \omega)·η,where \omega is the order type of the standardnatural numbers, \omega* is the dual order (aninfinite decreasing sequence) and η is theorder type of the rational numbers.
+
+For denseness, for any a<<b, consider either (a+b)/2 or (a+b+1)/2. 

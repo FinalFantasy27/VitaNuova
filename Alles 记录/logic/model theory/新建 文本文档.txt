@@ -1,0 +1,6 @@
+
+"homogeneous", I guess you mean that for any a,b∈M
+, there is an automorphism σ∈Aut(M)
+ with σ(a)=b
+. It might be helpful to clarify this, since "homogeneous structure" has a few different meanings - e.g., M
+ is homogeneous if every isomorphism between finitely generated structures extends to an automorphism of M

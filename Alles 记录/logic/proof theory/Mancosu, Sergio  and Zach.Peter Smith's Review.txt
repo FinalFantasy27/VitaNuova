@@ -1,0 +1,23 @@
+
+p.s. 我觉得这本写得很好（我读了其中关于切消的部分），
+比如Peter smith也提到了：详细的细节，和对如mix-elimination的方法不能直接用来直接证明cut-elimination等点的说明（von Plato’s Handbook piece on ‘Gentzen’s Logic’也是少有的明确说了这个点的（））
+
+https://www.logicmatters.net/blog/?category_name=IPT&search&orderby=post_date&order=asc
+
+里面谈到了一个特点，似乎Zach ta们的presentation比较注重（较为接近）Genzten本人原本的呈现，
+比如没有使用如G3i或G3c之类的系统来让cut-elimination的证明变得更简单（提到Takeuti甚至只有6页的证明Sketch；但也比Takeuti的呈现更好），
+缺少了一些对如harmony等性质的简单讨论，
+
+von Plato and Negri’s Structural Proof Theory cover the basics of the sequent calculus approach, with chapters on intuitionist propositional logic (focusing on the propositional version of G3i), classical propositional logic (cut down from G3c), and then the full first-order versions, with cut-elimination theorems for each case snappily proved along the way (the details are  there, but much less painful). There are also discussions of the consequences of cut elimination, and many more asides, all done in a pretty reader-friendly way in twenty-five fewer pages than IPT
+
+最后对Consistency of Arithmetic的证明 没有一些对为什么要接受ordinal induction的哲学上的论述，
+也没有讨论Schütte的用允许无限长的证明的omega-rule（PA_ω）的证明
+（证明了PA_ω的一致性）
+（omega-rule代替了induction（我们可以将任何归纳展开成PA_ω中的推演），因为induction使得序数的分配看起来很ad hoc和horribly messy）
+
+as Michael Rathjen suggests in his entry on Proof Theory in the Stanford Encyclopedia, and is familiar to old hands from the tantalizing fourteen-page Appendix in the first edition of Mendelson’s classic book!
+
+
+the chapter in Gaisi Takeuti’s justly admired 1975 Proof Theory, but that’s fairly tough going for anyone. I’ve seen the long Chapter 1 of Wolfram Pohler’s 1989 Proof Theory described as giving “a very clean, streamlined approach”, but — to say the very least — it will be impenetrable for the relative beginner. There’s a little 77 page 2014 book by Anna Horská with the promising title Where is the Gödel-Point Hiding: Gentzen’s Consistency Proof of 1936 and his Representation of Constructive Ordinals
+
+

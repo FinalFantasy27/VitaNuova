@@ -1,0 +1,16 @@
+Sider, Ted 
+Crash course on quantities and measurement theory 
+2011 
+Measurement theory uses numbers to represent quantities.
+Proof skteches of a representation theorem to the effect that homomorphisms from relational structures (<A,>=,C>) to mathematical structures (<R,>=,+>) and a uniqueness theorem that any two homomorphisms are scalar multiples of each other are given. (transitivity, no infinitely massive object and Archimedean assumption assumed)
+
+The philosophers of science who developed measurement theory were largely concerned with epistemic questions like: we can’t observe correlations between physical objects and real numbers, so how can the use of real numbers be
+justied in terms of things we can observe? As we saw, the metaphysical concerns about quantity are different; but they too can be addressed using measurement theory.
+
+Problem 1 What are the fundamental facts of quantity like, which enable them to be spoken of and theorized about using numbers?
+Problem 2 What is the deciency of statements of quantity that “don’t make sense” because of missing quantitative structure?
+1. The mass of object o is 5
+5. The mass of object o is greater than the charge of object p
+• Possible answer to problem 1: the fundamental relations for a quantity are those relations in the nonmathematical structures ( and C in the
+case of mass). Talk of numbers is useful (and justied) because of the homomorphisms.
+• Possible answer to problem 2: there are insufcient fundamental relations to prove the uniqueness theorems, in cases of insufcient structure

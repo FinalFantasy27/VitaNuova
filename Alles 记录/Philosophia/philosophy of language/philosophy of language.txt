@@ -1,0 +1,11 @@
+
+描述论：弗雷格Frege (1892)、罗素Bertrand Russell (1911)
+(1) 名称都有含义和所指；(2) 关于名称所指对象的一个或一簇描述给出名称的含义；(3) 名称的含义是识别名称所指的依据、标准或途径；(4) 名称的所指是外部世界中的对象
+簇描述论：维特根斯坦、斯特劳森和塞尔
+
+直接指称论：密尔John Stuart Mill (1867)、克里普克Kripke (1972)、唐奈兰Keith Donnellan (1970)、卡普兰、马库斯Ruth Barcan Marcus (1961)、普特南 （开创者）；萨蒙Nathan Salmon和索姆斯
+（有些）确定名称所指的是开始于对象的初始命名仪式、在语言共同体内传播的因果历史链条Peter Geach (1969), Keith Donnellan (1970), and Kripke (1972)
+批评：达米特（如“星期三”）、埃文斯（非洲人原本用马达加斯加Madagascar指非洲大陆上的某个地方，但后来的欧洲人弄错了，用它来指现在的马达加斯加岛；The moral Evans drew from it is that “the intentions of the speakers to use the name to refer to something must be allowed to count in determination of what it denotes” (Evans, G. 1973, 11)）、塞尔、普兰廷加、刘易斯、大卫·索萨、斯坦利Jason Stanley等
+
+two dimensional semantics: Robert Stalnaker, Frank Jackson (1994; 1998a; 1998b; 2004) and David Chalmers (1996; 2002b; 2002c; 2004; 2006a)
+

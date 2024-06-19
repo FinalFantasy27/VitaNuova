@@ -1,0 +1,18 @@
+
+胡星铭 
+Gettier问题：一个批判的综述 
+2021 
+哲学评鉴
+
+Robert G. Meyers & Kenneth Stern1973, D. M. Amstrong1973 Robert Audi 1995反对“如果“S相信q，是因为S相信p并从p演绎有效地推出q”，那么“S是基于好的理由相信p，那么S之相信q也是基于好的理由””。前三者认为错误的信念不能构成一个命题的好的理由。Audi类似Fred Dretske1970和Nozick1981地反对知识闭合原则。
+Chisholm 1989: 93给出了一个没有任何推理的例子“田中之羊”。
+Stephen Hetherington1989，2001和Alan Musgrave2012等认为知识和运气是兼容的，我们关于Gettier情况地直觉是不可靠的。
+Jonathan M. Weinberg, Shaun Nichols and Stephen Stich2001调差发现不同种族背景、不同经济社会地位的非专业哲学家的人对Gettier情况有不同的直觉。但也遭到另一些实验哲学家的质疑（Edouard Machery et al. 2015等）。
+Julien Dutant2015认为传统知识定义认为的好的理由是确凿不移的理由：如果有好的理由相信p，p一定为真。Pierre Le Morvan2017认为Paul K. Moser把gettier反驳的定义追溯到柏拉图，Laurence BonJour追溯到笛卡尔，Robert K. Shope追溯到康德，都是没有根据的。柏拉图专家Gail Fine1990，笛卡尔专家Lex Newman2019分别认为柏拉图、笛卡尔确实认可gettier反驳的定义（Newman指出笛卡尔的“理由”并不是确凿不移的理由）。
+Mark Kaplan1985认为对于探究，重要的是我们的信念建立在我们拥有的最好的证据上，而不管是不是叫“知识”。
+罗素在Human Knowledge: Its Scope and Limits1948提出了与Gettier相似的例子。Edward Craig1990认为知识是个家族相似概念，无法被分析/定义为一组充分必要条件。
+Timothy Williamson论证知识不可分析/定义：X是可分析的，only ifX可以被拆解成几个部分。但primitive thing没有部分。知识是一种基本的mental state。W诉诸最佳解释推理：自G之后的所有对知识的分析都是失败的，对这失败的最佳解释是知识是不可分析的。W给出了一个类比（2003），红色如果=有颜色+Y，我们必须用红色说明Y，循环。Alvin Goldaman2009: 74指出W认为真、信念和安全性是知识的必要条件。
+Lehrer & Paxson 1969，Shope1983，Conee & Feldman2004（证据主义）认为S知道p=JTB+no defeaters。
+Alvin Goldman的过程可靠主义要求排除其它相关选项。而这与一个选项发生的可能性有关。
+TB+X：Virtue epistemology（Sosa1991，2007，Zagzebski1996等）认为S知道p仅当S因其理智德性相信真命题p。Sosa2007定义S知道piffS因为运用自己的理智德性（intellectual Virtues）而相信真命题p。有accuracy（实现目标）、adroit（展现出能力）和apt（因为能力实现目标）三个维度。Soasa（2007：95）区分了“为什么某人有某个信念”和“为什么某人的信念为真”。某人可以运用了ta的能力，但信念却碰巧为真。有如射箭被东风刮走又被西风刮回来的比喻。
+Richard Foley认为S相信p当且仅当S相信p并且S有足够多的相关信息。

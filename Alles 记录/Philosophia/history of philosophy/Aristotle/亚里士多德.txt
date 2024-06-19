@@ -1,0 +1,51 @@
+
+亚里士多德的著作几乎延展了人类知识的每一个领域。这些著作的主题包括： 逻辑与语言（包括真假的定义、真假的载体、判断的性质、谓词、一般性、逻辑上有效的论证模式以及谬误）、认识论（包括证明、知识、演绎推理和归纳推理）、形而上学（包括物质、本质、偶然、存在和上帝）、物理学（自然世界和宇宙）、 物理学（自然世界和宇宙）、生物学（包括动物的历史、生成、生活和死亡）、心理学（包括感知、记忆、推理、睡眠和做梦）以及伦理学、政治学和美学（包括修辞学和诗学）。
+(Aristotle's) writings extended nearly every domain of human learning. They are or ganized around the following major topics: Logic and Language (including definitions of truth and falsity, their bearers, the nature of judgment, predication, generality, patterns of logically valid argument, and fallacies), Epistemology (including proof, knowledge, and deductive and inductive reasoning), Metaphysics (including substance, essence, accident, existence, and God), Physics (the natural world and the cosmos), Biology (including the history, generation, life, and death of animals), Psychology (including perception, memory, reasoning, sleeping, and dreaming), and Ethics, Politics, and Aesthetics (including rhetoric and poetics).
+Soames 10
+
+12 世纪末和 13 世纪初，亚里士多德的著作被全面翻译成拉丁文，扩大了他的神学读者群，伟大的阿拉伯哲学家阿维森纳和阿维罗伊也对亚里士多德的著作进行了精彩的阐释和批判。
+Comprehensive translations of (Aristotle's) work into Latin in the late twelfth and early thirteenth century expanded his theological audience, as had the brilliant expositions and critiques by the great Arab philosophers Avicenna (Persia, 980–1037) and Averroes (Spain and North Africa,1126–1198).
+22
+
+解释篇大量讨论了不同层面的否定（命题的，谓词的，量词的，模态词的）
+
+亚里士多德的分类法，晚期柏拉图的辩证法
+三种存在（基本范畴、属性、真），四因（形式的、质料的、动力的、目的的），三本原（实体上、原理上、时间上），尼各马可伦理学
+（实体／属性、形式／质料、潜能／现实），（自然／技术、本质／偶性、对立／居间者）
+
+
+亚里士多德（《物理学》，第3章）写道：“人们不认为他们知道某件事情，除非他们已经掌握了其‘为什么’
+
+
+属加种差定义
+ in Metaphysics (998b22), Aristotle argues explicitly that there cannot be a highest genus (e.g., of being or unity) shared by entities of different categories (cf. Ackrill 1963, 81). For a species is defined in terms of its subsuming genus and differentia (e.g., man is definable as an animal that is rational), and while the genus (animal) may be predicated of the species (man), it may not be predicated of the differentia (rational). As a result, if being (or unity) were a genus, no differentiae could be said to have being (or to be one); but “the differentiae of any genus must each of them both have being and be one” (Metaphysics 998b22–3).
+
+SEP.Categories
+
+十范畴
+the ten highest categories of things “said without any combination” (Categories 1b25):
+
+Substance (e.g., man, horse)
+Quantity (e.g., four-foot, five-foot)
+Quality (e.g., white, grammatical)
+Relation (e.g., double, half)
+Place (e.g., in the Lyceum, in the market-place)
+Date (e.g., yesterday, last year)
+Posture (e.g., is lying, is sitting)
+State (e.g., has shoes on, has armor on)
+Action (e.g., cutting, burning)
+Passion (e.g., being cut, being burned)
+
+SEP.Categories
+
+第一实体和第二实体
+There are two sorts of substance: a primary substance is, e.g., an individual man or horse; the species (and genera) of these individuals (e.g., man, animal) are secondary substances. While the ten categories are all equally highest kinds, primary substances nonetheless have a certain sort of priority, since “all the other things are either said of the primary substances as subjects or in them as subjects. So if the primary substances did not exist it would be impossible for any of the other things to exist” (Categories 2b4).
+
+SEP.Categories
+
+亚里士多德的实体（ουσια）范畴内的词项
+我们不妨先区分两种谓词或普遍词项。一种叫种类词，即亚里士多德的实体（ουσια）范畴内的词项。包括“人” 、“狗”、“南瓜”、“外衣”、“岛”等等，以及更普遍的词项“生物”、“物体”等等，其所以在逻辑上自成一类，靠的是一个特点：种类词“iota”的涵义、意义、内涵、内包、“语义解释”的一部分就在于，凡是iota者在其整个存在期内曾经一直是iota也将要永远是iota。另一种叫非种类词，即质、行为、爱好等范畴内的词项，包括“白”、“诚实”、“管子工”等等，它们没有“分析的永久性”这一特点。（p204-5）
+
+可能世界的逻辑R.B.马库斯上海译文出版社1993-5-1
+
+强调道德的能力和实践维度，在不同的情境中有不同的善（不存在善的理念）尼各马可伦理学

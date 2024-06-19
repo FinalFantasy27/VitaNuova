@@ -1,0 +1,43 @@
+
+Topics in Formal Epistemology
+
+dr. A. Özgün (co-ordinator)
+
+Objectives
+use logical (qualitative) and probabilistic (quantitative) tools to formalize and address problems in epistemology in novel settings;
+compare various formal tools used in formal epistemology and report on their relative merits and weaknesses;
+prove mathematical/metalogical results concerning the main concepts introduced in the course;
+critically analyze and present (both orally and in writing) research papers on topics covered in the course.
+Contents
+Formal epistemology uses mathematical and logical tools to explore and answer questions of epistemology and rationality. What makes a system of credences rational? What can/should a rational agent know or believe given a body of evidence? How strongly should they believe? When is a belief justified? How should a rational agent revise their beliefs and update their knowledge in light of new information?
+
+This course introduces commonly used technical methods in formal epistemology and treats a collection of selected topics. In particular, we will use probability theory and modal logic to formalize notions of (degrees of) belief and knowledge; and address epistemological issues concerning the nature of rationality, belief revision, logical omniscience, and reasoning about conditionals. Throughout, we will compare qualitative vs. quantitative approaches and assess their relative merits and weaknesses. Topics to be covered include, among others, Bayesian/probabilistic models of belief and belief revision, rationality constraints on credences, conditional credences and credences of conditionals, arguments for and against Bayesianism, non-normal and hyperintensional logics for knowledge and belief. (This list is tentative and can be modified to address students’ interests.)
+
+The particular topics and relevant literature will be selected in a way that the course complements other related courses in the Master of Logic programme, such as Dynamic Epistemic Logic; Topology, Logic and Learning; and Philosophical Logic.
+
+Recommended prior knowledge
+Familiarity with basic probability theory and modal logic (especially with its epistemic/doxastic interpretation).
+Some degree of mathematical maturity and an interest in the themes of the course.
+Having taken Introduction to Modal Logic and Dynamic Epistemic Logic is an advantage but not required. Although some basic probability theory will be introduced as needed, students are expected to be able to quickly learn the required mathematical/formal tools and use them in formal proofs and philosophical applications.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Presentation/symposium
+Working independently on e.g. a project or thesis
+Study materials
+Literature:
+We will use academic papers and book chapters, supplemented by lecture slides. Each lecture has a required and supplementary list of readings. All course material will be made available on Canvas.
+
+In particular,  we heavily rely on Titelbaum, M. G. (2022) Fundamentals of Bayesian Epistemology Volume 1 & 2. OUP. (freely available online at the UvA library) and supplement the material presented there with primary and further secondary sources.
+Syllabus:
+The course syllabus will be made available on Canvas a few weeks before the course starts.
+Assessment
+Homework assignments, discussion questions, (group) presentation and/or final report.
+
+Remarks
+The entire course is offered in English.
+The course will make use of a Canvas site and all course information will be made available there.

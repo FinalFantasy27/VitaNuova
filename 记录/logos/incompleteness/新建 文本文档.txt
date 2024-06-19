@@ -1,1 +1,0 @@
-Tarski, Mostowski and Robinson showed that R is a good base theory for G1. 

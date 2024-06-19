@@ -1,0 +1,2 @@
+Recursive Functions by Rózsa Péter, and Part I of Mathematical Logic by J. Donald Monk.
+Enumerability, Decidability, Computability by Hans Hermes.

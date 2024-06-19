@@ -1,0 +1,6 @@
+
+the implicational fragment differs from full intuitionistic logic is that the former is locally finite: for every finite n, there are only finitely many inequivalent formulas in n variables;
+As a consequence, the n-variable intuitionistic fragment is determined by a single finite Kripke frame (whose size depends on n);
+as another consequence, the implicational fragment of every superintuitionistic logic has the finite model property.
+More generally, all this holds also for the {→,∧,⊥}-fragment. This is known as Diego's theorem.
+See e.g. Chagrov and Zakharyaschev, Modal logic.

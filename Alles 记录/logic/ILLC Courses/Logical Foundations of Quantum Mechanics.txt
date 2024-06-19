@@ -1,0 +1,32 @@
+
+Logical Foundations of Quantum Mechanics
+
+	
+dr. S.J.L. Smets (co-ordinator)
+
+Objectives
+Understand a range of different quantum logical formalisms and approaches;
+Be able to extract the logical features that play a role in the paradoxes and debates on the foundations of quantum theory;
+Be able to derive and debate philosophical conclusions on the basis of a logic-technical analysis;
+Be able to apply quantum logic to the analysis of quantum information flow.
+Contents
+This course is addressed to students who are interested in the use of logic to gain a better understanding of the nature of quantum systems and quantum information. We will make use of logical tools to analyze intriguing epistemic quantum paradoxes. We look for simple logical explanations for some of the ‘miraculous’ powers of quantum computation. In particular, in this course we focus on:
+
+Logics for Quantum Mechanics and their relevance for Philosophy of Logic:  we highlight the use of logic to reason about a range of quantum features and phenomena (such as superposition, entanglement, incompatibility, complementarity, uncertainty and contextuality). We go over different quantum logics and highlight their algebraic and relational semantics. Examples include ortho(modular) logic, operational quantum logic, modal quantum logic, dynamic (epistemic) quantum logic and the dialogic approach to quantum logic. We look at the debates about the relation between classical and quantum logic, the question about the empirical nature of logic, the added value of logic for quantum theory, but also at what logic can learn from quantum mechanics.
+Epistemic aspects of Quantum Mechanics: we focus on the philosophical analysis of the role of the observer in quantum theory and the rise of new paradoxes based on Wigner’s-Friend-type thought experiments. In this part of the course we relate to some of the various interpretations of quantum mechanics, and to the use of epistemic logic in analyzing these paradoxes.
+Logics for Quantum Information and Computation: we apply quantum logical formalisms to reasoning about information flow in quantum systems, and in particular to the analysis of different protocols in quantum computation, e.g. teleportation, quantum secret sharing and quantum key distribution. We show how logical axioms can be used to verify a protocol’s correctness.
+Recommended prior knowledge
+Some prior familiarity with basic modal logic and with some basic algebraic notions in linear algebra would be very helpful; nevertheless, we will provide and briefly explain all the necessary concepts and definitions, so the course is self-contained. We design this course for an audience of students with different backgrounds so that students in logic, physics, philosophy and mathematics can all take this course.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Presentation/symposium
+Working independently on e.g. a project or thesis
+Study materials
+Other:
+Research papers and selected book chapters will be posted on canvas. Course slides are made available on-line after the lectures.
+Assessment
+The assessment of the course is based on two components: a) an in-class presentation and b) a final exam paper. Instructions for the final exam paper are provided in class. In the final weeks of the course, we organize student presentations, during which students will present the topic of their exam paper. The final grade for this course is based on the presentation and on the final exam paper.

@@ -1,0 +1,46 @@
+Rank   	Cites   	Item   	Typically Cited In
+2	131	Lewis D 1986 Plurality Worlds	Nous, Philosophical Review
+5	82	Lewis D 1973 Counterfactuals	Mind, Nous
+9	73	Lewis D 1986 Philos Papers	Mind, Nous
+16	50	Lewis D 1983 Philos Papers	Nous, Mind
+18	48	Lewis D 1983 Australas J Philos	Nous, Mind
+20	44	Lewis D 1996 Australas J Philos	Nous, Philosophical Review
+41	36	Lewis D 1979 J Philos Logic	Nous, Mind
+47	34	Lewis D 1991 Parts Classes	Nous, Mind
+67	29	Lewis D 1969 Convention Philos St	Mind, Journal of Philosophy
+67	29	Lewis D 1986 Philos Papers	Philosophical Review, Nous
+82	27	Lewis D 1979 Philos Rev	Philosophical Review, Nous
+96	25	Lewis D 1984 Australas J Philos	Nous, Philosophical Review
+99	24	Lewis D 1979 Nous	Philosophical Review, Mind
+130	21	Lewis D 1970 J Philos	Philosophical Review, Nous
+141	20	Lewis D 1999 Papers Metpahysics E	Nous, Philosophical Review
+141	20	Lewis D 1994 Mind	Philosophical Review, Mind
+141	20	Lewis D 1973 J Philos	Journal of Philosophy, Mind
+141	20	Lewis D 1968 J Philos	Philosophical Review, Mind
+165	19	Lewis D 2000 J Philos	Journal of Philosophy, Philosophical Review
+179	18	Lewis D 1983 Philos Papers	Philosophical Review, Mind
+195	17	Lewis D 1997 Philos Quart	Mind, Nous
+211	16	Lewis D 1976 Philos Rev	Philosophical Review, Mind
+211	16	Lewis D 1972 Australas J Philos	Philosophical Review, Nous
+262	14	Lewis D 1981 Theoria	Philosophical Review, Journal of Philosophy
+262	14	Lewis D 1989 P Aristotelian Soc S	Philosophical Review, Nous
+288	13	Lewis D 1999 Papers Metaphysics E	Philosophical Review, Nous
+324	12	Lewis D 1980 Studies Interactive	Mind, Philosophical Review
+363	11	Lewis D 1986 Australas J Philos	Mind, Nous
+363	11	Lewis D 1992 Australas J Philos	Philosophical Review, Nous
+435	10	Lewis D 1981 Australas J Philos	Philosophical Review, Mind
+435	10	Lewis D No Year No Source	Mind, Nous
+435	10	Lewis D 1970 Synthese	Philosophical Review, Mind
+435	10	Lewis D 1966 J Philos	Nous, Journal of Philosophy
+
+No one else comes anywhere near this level of influence. By comparison, here is the same table for Saul Kripke
+
+Rank	Cites	Item	Typically Cited In
+1	180	Kripke S 1980 Naming Necessity	Nous, Philosophical Review
+53	33	Kripke S 1982 Wittgenstein Rules P	Mind, Philosophical Review
+195	17	Kripke S 1975 J Philos	Mind, Philosophical Review
+324	12	Kripke S 1963 Acta Philos Fenn	Philosophical Review, Journal of Philosophy
+
+来源
+June 19, 2013 Lewis and the Women
+https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/

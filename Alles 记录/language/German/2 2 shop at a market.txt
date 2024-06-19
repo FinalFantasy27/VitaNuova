@@ -1,0 +1,49 @@
+
+
+2 2 shop at a market (numbers and fruit)
+
+Wie viel? How much?
+Wie viel kostet die Wurst?
+Wie viel kostet ein Tee?
+
+null 
+eins 
+zwei
+drei
+vier 
+fuent 
+sechs 
+sieben 
+acht 
+neun 
+zehn
+Zwei oder drei Orangen?
+
+der Marktplatz marketplace 
+der Doener doner kebab一种土耳其菜
+
+der dollar
+Euro
+
+das Bier beer
+
+kostet 
+Das Beer kostet drei Euro.
+Kostet das Brot zwei Euros?
+Das Sandwich kostet wirklich sieben Euros!
+
+drei Orangen orange 
+Tomaten
+Erdbeeren strawberries 
+Das Sandwich mit Erdbeeren it’s super!
+Kartoffeln potatoes 
+
+Eier eggs
+
+Kilo kilograms of
+acht Kilo Tomaten
+
+wirklich really 
+Vielen Danke! Thank you very much!
+much a lot
+Gern geschehen! You are welcome!

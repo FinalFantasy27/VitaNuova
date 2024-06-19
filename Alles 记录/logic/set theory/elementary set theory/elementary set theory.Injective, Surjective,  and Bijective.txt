@@ -1,0 +1,17 @@
+
+A function f with nonempty domain is injective if and only if it has a left inverse.
+(AC) A function f has a right inverse if and only if it is surjective. 
+
+Cantor-Bernstein theorem: If both f:A→B and g:A→B injective, there is a bijection 
+
+(AC) If f:A→B is a surjection, then there is injective function going the other way.
+Since g is surjective, for every b∈B the set g^{−1}(b) is nonempty. If so we can choose a_b to be such that g(a_b)=b for every b∈B (this can be a proper subset of A). The function b↦ab is an injective function from B into A.
+
+Proof of the Cantor-Bernstein theorem using the axiom of choice:
+By the axiom of choice we can well order A and B as the least order type possible. So without the loss of generality we may assume A=α and B=β for two ordinals.
+Since two well orders are comparable in the embedding relation (i.e. α can be embedded into an initial segment of β, or vice versa) and in particular α⊆β or β⊆α, we have if so that f:α→β and g:β→α are two injective functions.
+Recall that β was the least ordinal bijectible with B, so if α<β there is no injection from β into α. Therefore g witnesses β≤α.
+The same argument holds for α and A so f witnesses α≤β. Since the ordinals are linearly ordered, anti-symmetry implies α=β.
+The function h is the composition of the well ordering functions of A and B, that is if w1:A→α is the bijection of  A with α, and w2:B→β the bijection we used to well order the set B, define h=w_2^−1∘w1:A→B which is a bijection.
+
+https://math.stackexchange.com/questions/46168/cantor-bernstein-like-theorem-if-f-colon-a-to-b-is-injection-and-g-colon-a-t

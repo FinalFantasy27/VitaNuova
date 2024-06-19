@@ -1,0 +1,25 @@
+
+The Second Law The (thermodynamic) entropy of a closed system (typically) does not decrease over time.
+the Past Hypothesis (Albert (2000)).in a universe with wide-spread temporal asymmetries, postulate a low-entropy initial condition
+Boltzmann (1964)[1898]§89 (though he ultimately seems to favor what may be called the Fluctuation Hypothesis) and has many advocates: Feynman et al. (2011, 46-5)[1963], Feynman (2017)[1965], Lebowitz (2008), Penrose (1979), Albert (2000), Callender (2004), North (2011),Wallace (2011), Loewer (2016, 2020), and Goldstein et al. (2020)
+
+Some philosophers, such asWinsberg (2004) and Earman (2006), have raised technical
+objections against the explanation. See Earman (2006) for some worries about the Past Hypothesis as a hypothesis about the initial condition for the universe. See Goldstein et al. (2016) for a discussion about the possibility and some recent examples, of explaining the arrow of time without the Past Hypothesis.
+
+Penrose (1979)’s Weyl Curvature Hypothesis or Ashtekar and Gupt (2016)’s initial condition for Loop Quantum Cosmology
+
+
+Albert, D. Z. (2000). Time and chance. Cambridge: Harvard University Press.
+Boltzmann, L. (1964). Lectures on gas theory. Berkeley: University of California Press.
+Callender, C. (2004). Measures, explanations and the past: Should ‘special’ initial
+conditions be explained? The British Journal for the Philosophy of Science, 55(2):195–217.
+Earman, J. (2006). The “past hypothesis”: Not even false. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 37(3):399–430.
+Feynman, R. (2017). The Character of Physical Law. Cambridge: MIT press.
+Feynman, R. P., Leighton, R. B., and Sands, M. (2011). The Feynman lectures on physics, Vol. I: The new millennium edition: mainly mechanics, radiation, and heat, volume 1. Basic books (first published in 1964 by Addison-Wesley).
+Goldstein, S., Lebowitz, J. L., Tumulka, R., and Zanghì, N. (2020). Gibbs and Boltzmann entropy in classical and quantum mechanics. In Allori, V., editor, Statistical Mechanics and Scientific Explanation: Determinism, Indeterminism and Laws of Nature. Singapore: World Scientific.
+Lebowitz, J. L. (2008). Time’s arrow and Boltzmann’s entropy. Scholarpedia, 3(4):3448.
+Loewer, B. (2016). The Mentaculus vision. Manuscript.
+Loewer, B. (2020). The Mentaculus. In Barry Loewer, EricWinsberg, B.W., editor, Time’s Arrows and the Probability Structure of the world. Harvard University Press, forthcoming.
+North, J. (2011). Time in thermodynamics. The oxford handbook of philosophy of time, pages 312–350.
+Penrose, R. (1979). Singularities and time-asymmetry. In Hawking, S. and Israel, W., editors, General relativity, pages 581–638. Cambridge: Cambridge University Press.
+Winsberg, E. (2004). Can conditioning on the “past hypothesis” militate against the reversibility objections? Philosophy of Science, 71(4):489–504.

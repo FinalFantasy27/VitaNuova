@@ -1,0 +1,2 @@
+That is, the Skolem-Hull of e is the set e together with every v-witness of every formula over every e-assignment. Roughly, the idea is to start with e and then throw in enough elements to make each existentially quantified formula true. 
+SEP.Classical Logic

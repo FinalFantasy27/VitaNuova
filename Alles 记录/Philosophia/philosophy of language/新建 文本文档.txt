@@ -1,0 +1,7 @@
+Externalist Theories of Meaning 
+a symbol S means p if 
+(i) under some conditions, C, it’s a law that S is entokened iff p, and 
+(ii) any other tokening of S synchronically depends upon (i), but not vice versa. 
+Fodor or teleosemantics 
+
+See SEP: Causal Theories of Mental Content

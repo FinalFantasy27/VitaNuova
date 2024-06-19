@@ -1,0 +1,24 @@
+Hein Duijf (Utrecht University).Responsibility Voids and Collective Obligations
+University of Maryland Zoom
+Joint work with Allard Tamminga and Frederik Van De Putte
+
+Philosophical logic
+individualism
+1. There is no \Gamma \subset \mathcal L_{ind} such that \Gamma is satisfiable and \Gamma is (deductively) sufficient for ⭐G
+2. There is no \Gamma \subset \mathcal L_{ind} such that \Gamma is non-valid and \Gamma is (deductively) necessary for ⭐G
+Proof Sketch.construct two probabilistic game models (M_1,b) and (M_2,c) such that 
+1. (M_1,b) and (M_2,c) satisfy exactly the same individualistic formulas
+2. Group G performs a group action that maximizes expected utility in (M_1,b) 
+3. Group G performs a group action that does not maximize expected utility in (M_1,c)
+There is no logical regularity between a particular social statement \sigma and statements in a specific individualistic language \mathcal L_{ind}
+So, there are no reductive explanations of the social statement \sigma in the individualistic language \mathcal L_{ind}
+E.g. G = {i,j}
+1. If agents i and j together see to it that \phi, then agent i sees to it that \phi and agent j sees to it that \phi? No
+a payoff martix (a1,a2)|=[G]p \land \lnot[i]p.
+a \models [i]p iff for all b \in A=×_{i\in N}A_i the set of action profiles with b_i=a_i it holds that b\models p
+2. If agents i and j together ought to see to it that \phi, then agent i ought to see to it that \phi and agent j ought to see to it that \phi? No
+· If agent i fulfils her obligations and agent j fulfils her obligations, then agents i and j together fulfil their collective obligations? No, and no for the converse
+
+Game theory, maximizing expected utility, probability
+
+1: 30

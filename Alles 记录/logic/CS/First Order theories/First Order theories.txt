@@ -1,0 +1,64 @@
+
+Theory of Equality and Uninterpreted Functions (EUF)
+E ::= x|c
+R :: = E=E|E!=E
+P ::= R
+       | P \land P
+
+E ::= x|c|f(E,\dots,E)
+R :: = E=E|E!=E
+P ::= R
+       | P \land P
+
+(axioms)
+
+For a formula in EUF with relations, the following transformation yields equisatisfiable formula with only functions:
+For each relation constant p:
+1. introduce a fresh function constant f_p
+2. rewrite p(x_1, . . . , x_n) as f_p(x_1, . . . , x_n) = t
+where t is a fresh object constant
+
+is undecidable. 
+The quantifier-free fragment [sentences of the kind \forall x_1,\dots, x_n \phi where \phi is quantifier free] is decidable. 
+F is valid iff ¬F is unsatisfiable. We thus only consider satisfiability in the case of quantifier-free fragment. Note that both validity and satisfiability are needed if there are quantifier alternations such as ∀x∃y or ∃x∀y.
+
+
+Congruence Closure
+
+Note. The theory of pure equality, with signature consisting of only the equality relation symbol, is decidable, proven by Leopold Löwenheim in 1915. If an additional axiom is added saying that there are exactly m objects for a fixed natural number m, or an axiom scheme is added saying that there are infinitely many objects, then the resulting theory is complete.
+Monk, J. Donald (1976). "Chapter 13: Some Decidable Theories". Mathematical Logic. Graduate Texts in Mathematics. Berlin, New York: Springer-Verlag. . ISBN 978-0-387-90170-1.
+
+linear arithmetic / Theory of Intergers with + (T_{\mathbb Z})
+and Presburger Arithmetic (\Sigma_{\mathbb N}) has the same expressiveness. [Every T_{\mathbb Z}-formula can be reduced to \Sigma_{\mathbb N}-formula]
+https://theory.stanford.edu/~arbrad/slides/cs156-old/lec3.pdf
+
+bi vector位向量
+
+List
+cons(a, b) – list constructed by concatenating a and b
+car(x) – left projector of x: car(cons(a, b)) = a
+cdr(x) – right projector of x: cdr(cons(a, b)) = b
+atom(x) – true iff x is a single-element list
+undecidable
+quantifier-free fragment efficiently decidable
+
+Arrays数组 (with / without extensionality: \forall a, b. (\forall i. a[i] = b[i]))
+a[i] binary function –
+read array a at index i (“read(a,i)”)
+a\langle i \triangleleft v \rangle ternary function –
+write value v to index i of array a (“write(a,i,e)”)
+undecidable
+quantifier-free fragment decidable
+
+Combination of Theories. Nelson & Oppen showed that 
+Given theories T_1 and T_2 such that \Sigma_1 \cap \Sigma_2 = {=}, 
+the combined theory T_1 \cup T_2 has signature \Sigma_1 \cup \Sigma_2 and Axioms A_1 \cup A_2,
+if satisfiability of quantifier-free fragment of T_1 is decidable, satisfiability of quantifier-free fragment of T_1 is decidable, and certain technical simple requirements are met,
+then satisfiability of qff of T_1 ∪ T_2 is decidable.
+
+satisfiability modulo theories
+
+https://theory.stanford.edu/~arbrad/slides/cs156-old/
+
+
+ 

@@ -1,0 +1,50 @@
+
+Yagisawa, Takashi 
+Possible Objects 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+Abstract: 1. What They Are 
+2. Possible Worlds 
+2.1 Possibilist Realism 
+2.1.1 Modal Counterpart Theory 
+2.1.2 Modal–Dimensionalism 
+2.1.3 Specificity Problem 
+2.2 Actualist Representationism 
+2.2.1 Nesting Problem 
+2.2.2 Essence Solution 
+2.2.3 Other Solutions 
+3. Without Possible Worlds 
+3.1 Subsistence vs. Existence 
+3.1.1 Theory of Non-Existent Objects 
+3.1.2 Theory of Encoding 
+4. Unicorns 
+5. Fictional Objects 
+incomplete, vagueness: But there are many particular possible objects that are equally suited for the identification with Holmes. One of them has n-many hairs, whereas another has (n+1)-many hairs. No fictional story about a particular fictional object written or told by a human being is detailed enough to exclude all possible objects but one to be identified with that fictional object 
+
+there is some plausible consideration in support of the claim that fictional objects are actual objects. We make various assertions about fictional objects outside the stories in which they occur and some of them are true: for example, that Sherlock Holmes is admired by many readers of the Holmes stories. The simplest and most systematic explanation appears to be to postulate Holmes as an actual object possessing the properties such true assertions ascribe to him. Fictional objects may then be said to be theoretical objects of literary criticism as much as electrons are theoretical objects of physics. This type of view enjoys surprisingly wide acceptance. (Searle 1974, van Inwagen 1977, 1983, Fine 1982, Salmon 1998, Thomasson 1999). The theorists in this camp, except van Inwagen (van Inwagen 2003: 153–55), also think that fictional objects are brought into existence by their authors as actual objects. 
+
+impossibility and non-uniqueness 
+
+Vulcan 
+According to Parsons, the word ‘Vulcan’ is ambiguous. In one sense, it is the name of a fictional object which originates in a false astronomical story. In the other sense, it does not refer to anything. Zalta does not recognize Parsons’ second sense and simply regards ‘Vulcan’ as the name of a fictional object. 
+
+Castañeda 1979. Charles Crittenden offers a view in a Meinongian spirit but with a later-Wittgensteinian twist (Crittenden 1991). Like Parsons, Crittenden maintains that some objects do not exist and that fictional objects are such objects. Following later Wittgenstein, however, he sees no need to go beyond describing the “language game” we play in our fictional discourse and dismisses all metaphysical theorizing. Robert Howell criticizes Parsons’ theory, among others, and recommends an approach which construes fictional objects as non-actual objects in fictional worlds, where fictional worlds include not just possible but impossible worlds (Howell 1979). Nicholas Wolterstorff argues for the view that fictional objects are kinds (Wolterstorff 1980). For criticism of this view, see Walton 1983. Van Inwagen 2003 contains useful compact discussions of some Meinongian and non-Meinongian theories of fictional objects. 
+Currie, G., 1990, The Nature of Fiction, Cambridge: Cambridge University Press. 
+Gregory Currie denies that fictional names like ‘Sherlock Holmes’ are proper names or even singular terms (Currie 1990). He claims that sentences of fiction in which ‘Sherlock Holmes’ occurs should be regarded as jointly forming a long conjunction in which every occurrence of ‘Sherlock Holmes’ is replaced with a variable bound by an initial existential quantifier in the way suggested by Frank Ramsey (Ramsey 1931). 
+
+Kendall Walton, Kripke 2013 
+
+Currie, G., 1990, The Nature of Fiction, Cambridge: Cambridge University Press. 
+Van Inwagen, P., 2003, “Existence, Ontological Commitment, and Fictional Entities”, in Loux and Zimmerman 2003: 131–57. 
+6. Quantified Modal Logic 
+Barcan formula and converse Barcan formula 
+see Lambert 1991, Jacquette 1996. For a criticism of the free-logical approach to fictional discourse, see Woods 1974: 68–91. 
+Marcus herself proposes the substitutional reading of quantification to skirt the need for non-actual possible objects (Marcus 1976), and later suggests combining it with objectual quantification over actual objects (Marcus 1985/86). 
+Williamson 2013 contains a detailed and useful discussion of the Barcan Formula and the Converse Barcan Formula. 
+Williamson 2013 also proposes that we should replace the possibilism-actualism distinction in favor of the distinction between necessitism (necessarily everything is necessarily something) and contingentism, which is the negation of necessitism. Necessitism entails that everything necessarily exists. Intuitively contingentism seems correct; it seems that you and I fail to exist at some possible worlds. But according to necessitism, such worlds are worlds where you and I do not exist as concrete objects but do exist as abstract objects. Williamson defends his proposal by arguing that the possibilism-actualism distinction is a distinction between a logical falsity and a logical triviality and that it neglects impossibilia. Menzel 2020 gives a critical examination of Williamson’s proposal. Also see Cameron 2016. 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

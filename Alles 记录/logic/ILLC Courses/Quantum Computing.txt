@@ -1,0 +1,104 @@
+Quantum Computing (UvA course code 5334QUCO8Y)
+University of Amsterdam and Mastermath course, Fall 2023 semester
+
+Lecturer: Ronald de Wolf (CWI and ILLC)
+Teaching assistants: Lynn Engelberts (CWI) and Yanlin Chen (CWI)
+Registration is through the Mastermath website, not through your own university.
+Contents of the course:
+Today's computers---both in theory (Turing machines) and practice (PCs and smart phones)---are based on classical physics. However, modern quantum physics tells us that the world behaves quite differently. A quantum system can be in a superposition of many different states at the same time, and can exhibit interference effects during the course of its evolution. Moreover, spatially separated quantum systems may be entangled with each other and operations may have "non-local" effects because of this. Quantum computation is the field that investigates the computational power and other properties of computers based on quantum-mechanical principles. Its main building block is the qubit which, unlike classical bits, can take both values 0 and 1 at the same time, and hence affords a certain kind of parallelism. The laws of quantum mechanics constrain how we can perform computational operations on these qubits, and thus determine how efficiently we can solve a certain computational problem. Quantum computers generalize classical ones and hence are at least as efficient. However, the real aim is to find computational problems where a quantum computer is much more efficient than classical computers. For example, Peter Shor in 1994 found a quantum algorithm that can efficiently factor large integers into their prime factors. This problem is generally believed to take exponential time on even the best classical computers, and its assumed hardness forms the basis of much of modern cryptography (particularly the widespread RSA system). Shor's algorithm breaks all such cryptography. A second important quantum algorithm is Grover's search algorithm, which searches through an unordered search space quadratically faster than is possible classically. In addition to such algorithms, there is a plethora of other applications: quantum cryptography, quantum communication, simulation of physical systems, and many others.
+The course is taught from a mathematical and theoretical computer science perspective, but should be accessible for physicists as well. This is a theory course, no programming is involved.
+Prerequisites:
+Familiarity with basic linear algebra, probability theory, discrete math, algorithms, all at the level of a first Bachelor's course. Also general mathematical maturity: knowing how to write down a proof properly and completely. Beware: The expected level of rigour and precision in homework and exam is a bit higher than what is typically expected in physics courses.
+Material:
+Ronald's lecture notes http://homepages.cwi.nl/~rdewolf/qcnotes.pdf.
+If you have trouble with some of the material, you could have a look at the first few chapters of Nielsen and Chuang's book Quantum Computation and Quantum Information, which takes a slower pace.
+Grades and homework:
+Your final grade will be determined 40% by homework and 60% by a final 3-hour exam in June (with the possibility of a re-sit of the exam a few weeks later). It's a general rule of Mastermath courses that you need an exam grade of at least 5.0 and a final grade of at least 5.5 to pass the course. Also, the final grade will be rounded to the nearest integer.
+There will be 7 homework sets. You can write down your solutions, scan them (for instance using an app on your phone), and upload them as one pdf file on the ELO website before the deadline via the "Homework" assignments that I will set up there. Your homework grade will be determined by the best 6 of your 7 homework grades, so no big problem if you mess up or skip 1 of the homeworks. This also covers cases where you might not be able to hand in a particular homework set on time for whatever reason, so please don't ask me for permission to submit late.
+Lectures and location:
+Starting September 13: every Wednesday 14:00-16:45, Amsterdam Science Park room C0.110. Each Wednesday block consists of 2x45 minutes of oral lectures and a 45-minute exercise session. There won't be a live stream nor recordings of this year's lectures, and I would encourage people to attend in person as much as possible to interact with me and other students, ask questions during the lectures etc.
+
+As a backup you can watch the lectures from 2022 here: https://vimeo.com/showcase/9241142 with password 98rT
+The first 14 lectures correspond essentially to the first 14 lecture of this term (the topic of the 15th lecture was not in the 2022 course).
+
+Wednesday Sep 13, 14:00-16:45
+Introduction to quantum mechanics and qubits, overview of the course
+Chapter 1 of lecture notes. Also make sure you know the material in Appendices A and B
+
+Tuesday Sep 19: Homework set 1 due (upload in ELO before 11:59pm): Ex 4, 5, 11, 12 from Chapter 1
+
+Wednesday Sep 20, 14:00-16:45
+The circuit model, Deutsch-Jozsa algorithm
+Chapter 2 of lecture notes
+
+Wednesday Sep 27, 14:00-16:45
+Simon's algorithm
+Chapter 3 of lecture notes
+
+Tuesday Oct 3: Homework set 2 due (upload in ELO before 11:59pm): Ex 2, 6, 9, 10 from Chapter 2, and Ex 3 and 5 from Chapter 3
+
+Wednesday Oct 4, 14:00-16:45
+Quantum Fourier transform
+Chapter 4 of lecture notes
+
+Wednesday Oct 11, 14:00-16:45
+Shor's factoring algorithm
+Chapter 5 of lecture notes
+
+Tuesday Oct 17: Homework set 3 due (upload in ELO before 11:59pm): Ex 1, 2, 3, 4 from Chapter 4, and Ex 2 and 3 from Chapter 5
+
+Wednesday Oct 18, 14:00-16:45
+Grover's search algorithm
+Chapter 7 of lecture notes
+
+Wednesday Oct 25, 14:00-16:45
+Quantum walks
+Chapter 8 of lecture notes
+
+Tueesday Oct 31: Homework set 4 due (upload in ELO before 11:59pm): Ex 5, 8, 10 from Chapter 7, and Ex 4, 5 from Chapter 8
+
+Wednesday Nov 1, 14:00-16:45
+Hamiltonian simulation
+Chapter 9.1-3 of lecture notes
+
+Wednesday Nov 8, 14:00-16:45
+Finishing Hamiltonian simulation, and the HHL algorithm
+Chapter 9.4 and Chapter 10 of lecture notes
+
+Tuesday Nov 14: Homework set 5 due (upload in ELO before 11:59pm): Ex 5, 8, 9, 10 from Chapter 9, and Ex 1, 3 from Chapter 10
+
+Wednesday Nov 15, 14:00-16:45
+Quantum query lower bounds
+Chapter 11 of lecture notes
+
+Wednesday Nov 22, 14:00-16:45
+Quantum complexity theory
+Chapter 13 of lecture notes
+
+Tuesday Nov 28: Homework set 6 due (upload in ELO before 11:59pm): Ex 3, 7, 10, 12 from Chapter 11, and Ex 2, 4 from Chapter 13
+
+Wednesday Nov 29, 14:00-16:45
+Quantum encodings, with a non-quantum application
+Chapter 15 of lecture notes
+
+Wednesday Dec 6, 14:00-16:45
+Quantum communication complexity
+Chapter 16 of lecture notes
+
+Wednesday Dec 13, 14:00-16:45
+Quantum cryptography
+Chapter 18 of lecture notes
+
+Tuesday Dec 19: Homework set 7 due (upload in ELO before 11:59pm): Ex 1, 5, 7 from Chapter 15, Ex 5, 12 from Chapter 16, and Ex 2, 4 from Chapter 18
+
+Wednesday Dec 20, 14:00-16:45
+Error-correction and fault-tolerance
+Chapter 20 of lecture notes
+
+
+Wednesday Jan 24, 14:00-17:00, final exam, IWO 4.04B (Geel). Here's the exam, with solutions.
+
+Wednesday Feb 21, 14:00-17:00, re-sit of exam, G0.10-G0.12 at Amsterdam Science Park
+
+If you want to practice: here are the exams from 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2022 (resit), 2023 http://homepages.cwi.nl/~rdewolf/qcexam23.pdf, with solutions.
+Last update of this page: Feb 19, 2024

@@ -1,0 +1,55 @@
+Beall Jc, Michael Glanzberg / Ripley, David 
+Liar Paradox 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2020 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. The Paradox and the Broader Phenomenon 
+1.1 Simple-falsity Liar 
+1.2 Simple-untruth Liar 
+1.3 Liar cycles 
+1.4 Boolean compounds 
+1.5 Infinite sequences 
+2. Basic Ingredients 
+2.1 Truth predicate 
+2.2 Principles of truth 
+2.3 The Liar in short 
+2.3.1 Existence of Liar-like sentences 
+2.3.2 Other logical ‘laws’ 
+2.3.3 The Liar in abstract 
+3. Significance 
+4. Some Families of Solutions 
+4.1 Paracomplete and paraconsistent logics 
+4.1.1 Paracomplete 
+4.1.2 Paraconsistent 
+4.1.3 Expressive power and ‘revenge’ 
+4.2 Substructural logics 
+4.2.1 Noncontractive logics 
+4.2.2 Nontransitive logics 
+4.2.3 Nonreflexive logics 
+4.3 Classical logic 
+4.3.1 Tarski’s hierarchy of languages 
+4.3.2 The closed-off Kripke construction 
+[Tr([A])VTr([ A])]->[Tr([A])<->A] 
+ Tr([L]),  Tr([ L]) 
+4.3.3 Determinateness revisited 
+The notion of grounding has spawned its own literature, with Leitgeb (2005) a key impetus. See also Bonnay and van Vugt (2015), Meadows (2013), and Schindler (2014). 
+McGee on truth and definite truth 
+4.3.4 Other classical approaches 
+Kripke’s work on truth was developed in conjunction with some important ideas about inductive definitions (as we see, for instance, in the later parts of Kripke 1975). These connections are explored further in work of Burgess (1986) and McGee (1991). We also pause to mention work of Aczel (1980) combining ideas about inductive definitions and the lambda calculus. 
+4.4 Contextualist approaches 
+4.4.1 Instability and revenge 
+truth bearers are propositions expressed by sentences in contexts, and that the Liar sentence fails to express a proposition. (C. Parsons (1974)) 
+‘this sentence does not express a true proposition’ 
+4.4.2 Contextual parameters on truth predicates 
+4.4.3 Contextual effects on quantifier domains 
+4.4.4 Situation theory 
+4.4.5 Issues for contextualism 
+contextualists must apply restrictions on quantifiers to such quantifiers as ‘all contexts’.absolutely unrestricted quantifiers 
+4.5 The revision theory 
+4.6 Inconsistency views 
+5. Concluding Remarks 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

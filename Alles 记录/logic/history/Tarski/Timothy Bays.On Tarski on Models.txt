@@ -1,0 +1,41 @@
+
+Bays, Timothy 
+On Tarski On Models 
+2001 
+
+Journal of Symbolic Logic , Vol. 66, No. 4 
+p. 1701-1726 
+
+Abstract: This paper concerns Tarski’s use of the term “model” in his 1936 paper “On the Concept of Logical Consequence.” Against several of Tarski’s recent defenders, I argue that Tarski employed a non-standard conception of models in that paper. Against Tarski’s detractors, I argue that this non-standard conception is more philosophically plausible than it may appear. Finally, I make a few comments concerning the traditionally puzzling case of Tarski’s -rule example. 
+
+Tarski's conception of logical consequence: 
+If, in the sentences of the class K and in the sentence X, the constants—apart from purely 
+logical constants—are replaced by any other constants (like signs being everywhere replaced by like signs), and if we denote the class of sentences thus obtained from K by ‘K'’, and the sentence obtained from X by ‘X'’, then the sentence X' must be true provided only that all the sentences of the class K' are true. (p. 415) 
+
+This condition will count 
+1. Tim is a philosopher. 
+So, 2. Tim is a graduate student. 
+as valid. (if we are working with a particularly impoverished language—say, one which contains only the name “Tim” and the predicates “is a philosopher” and “is a graduate student”) 
+we can avoid this by generalizing the condition by allowing complex terms to be substituted for non-logical constants, e.g. "not a graduate student". 
+However, this modification could not save the condition from 
+Tim is a philosopher. 
+Tim is not the only philosopher. 
+So, There are at least three philosophers. 
+
+Tarski adopts a fixed-domain conception of model. However, he assumes a variable-domain conceptions of models in several papers around the time. E.g. Alfred Tarski. On the limitations of the means of expression of deductive theories. In Logic, Semantics, and Metamathematics , pages 284–392. and Alfred Tarski. Some methodological investigations on the definability of concepts. In Logic, Semantics, 
+and Metamathematics, pages 296–319. 
+
+"On the modern definition of "model," we keep the original language of our sentences, i.e. we do not follow Tarski in replacing terms with variables?but we regard this original language as uninterpreted. When we move from model to model, we simply vary the interpretation of our otherwise uninterpreted language. Mathematically, there's not much of a difference here, but from a philosophical standpoint, the two techniques reflect a different understanding of the relationship between languages and models." 
+"When we look to the writings of other model theorists who were working around the time “Logical Consequence” was published, we find that they often assume a variable-domain conception of models" 
+"13See, for instance, sections III.11 and IV.6 in Hilbert and Ackermann's "Principles of Mathematical Logic" [8]. Here, the authors examine a collection of axiom systems (for, e.g., arithmetic and geometry) and explain how to interpret these systems with respect to different "domains of individuals." Similarly, Skolem discusses techniques for interpreting axioms in differen "domains" in [14]."
+"there is a relatively straightforward technicaltrick which allows the proponent of a fixed-domain conception of models to obtain all the mathematical advantages of a variable-domain conception. Given a collection of sentences , he has only to introduce a new predicate (for domain) and to explicitly relativize each of the quantifiers in to the predicate D. D Having done this, he will induce a natural orrespondence between the collection of variable-domain models of the original Γ and the collection of fixed-domain models of the newly relativized Gamma'." 
+
+"In fact, however, fixed-domain conceptions of models were relatively common (indeed, relatively "standard") at the time Tarski wrote "On the concept of logical consequence". At this time, logicians often worked in some form of type theory in which the domain of individuals was taken as fixed" 
+
+"Tarski often treated the axiom of infinity as a part of logic (see, for instance, Alfred Tarski. The concept of truth in formalized languages. In Logic, Semantics, and Metamathematics, pages 152–278., Alfred Tarski. On the limitations of the means of expression of deductive theories. In Logic, Semantics, and Metamathematics, pages 284–392., Alfred Tarski. Some methodological investigations on the definability of concepts. In Logic, Semantics, and Metamathematics, pages 296–319., Alfred Tarski. Some observations on the concepts of -consistency and -completeness. In Logic, Semantics, and Metamathematics, pages 278–295.)." 
+
+Echemendy criticize Tarski for the odd consequences of combining a fixed-domain conception of models with Tarski’s definition of logical consequence in his "Tarski on truth and logical consequence" and The Concept of Logical Consequence. Whereas, Sher, The Bounds of Logic and Ray Greg 1996 use this to argue against a fixed-domain reading of Tarski. 
+
+"To the extent that Tarski is simply trying to resist derivational analyses of consequence, the example serves him well. However, just as the -rule outstrips derivability in standard systems of deduction, it also outstrips model-theoretic consequence in standard systems of model theory." 
+
+Etchemendy was wrong in taking Tarski’s -inference example to be an illustration of first-order inference. The original source employs higher-order variables.

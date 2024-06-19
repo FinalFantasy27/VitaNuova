@@ -1,0 +1,41 @@
+Sider, Ted 
+Properties seminar.Metaphysical preliminaries 
+2011 
+
+metaphysical tools
+1. Ontology
+2. Ordinary meaning
+3. Modality: necessarily and possible
+3.1 Fine on essence: Socrates and {Socrates}
+4. Modality too coarse-grained
+Suppose we understand physicalism modally: “all facts supervene on the physical facts”.
+If God exists necessarily, then God’s existence won’t violate physicalism; A platonist view of mathematics won’t violate physicalism; If Spinoza is right that all true propositions are necessary then nothing would violate physicalism
+5. Ground
+According to Fine and Rosen, in order to be a naturalist, is that the moral facts are grounded in the nonmoral facts.
+Example from Fine illustrating that ground is finer-grained than modality: “Either it’s raining or it’s not raining” is necessitated both by “It is raining” and “It is snowing”; but only the former can ground it.
+6. Fundamentality
+7. Natural properties, naturalness 
+Lewis (1983) argues that we need naturalness to understand various things in philosophy
+8. Structure
+9. Fundamentality and the semantic view of theories
+“Which of these theories is the right fundamental one? Is the basic mereological relation that of parthood, or overlap, or fusion?”—the question strikes some people as absurd. (Compare: are the basic truth functions negation and conjunction,
+or negation and disjunction?)
+Idea: instead of taking a theory to be a set of axioms, instead take it to be a class of models. We thereby cut down on spurious differences between theories, since multiple axiomatic theories can correspond to a single class of models.
+We can’t say that a fact is fundamental when it’s true in all the models that comprise the theory, since the theory might not say everything fundamental there is to say about the subject matter. Instead, we might say that fundamental facts are those that never differ between “equivalent” models, where equivalent models are those that, intuitively, represent the same objective facts.
+But a class of models, and the right relation of equivalence, is not an appropriate explanatory stopping point. [More things to think about, in the vicinity of Russell (2011).]
+10. Humeanism about modality, defended in Sider (2011, chapter 12).): Modality is not a fundamental feature of reality; Modality is given by a list of types of propositions: logical truth, mathematical truth, etc.. Necessity = i) true, and ii) of a type that’s on the list; Nothing deep unies the list.
+11. Intrinsicality
+Lewis’s (1986) defines Duplication, Intrinsicality, Internality and Externality
+
+References
+Fine, Kit (1994). “Essence and Modality.” In James Tomberlin (ed.), Philosophical Perspectives 8: Logic and Language, 1–16. Atascadero, CA: Ridgeview.
+— (2012). “Guide to Ground.” In Fabrice Correia and Benjamin Schnieder (eds.), Grounding. Cambridge: Cambridge University Press. Forthcoming.
+Lewis, David (1983). “NewWork for a Theory of Universals.” Australasian Journal of Philosophy 61: 343–77. Reprinted in Lewis 1999: 8–55.
+— (1986). On the Plurality of Worlds. Oxford: Blackwell.
+— (1999). Papers in Metaphysics and Epistemology. Cambridge: Cambridge University
+Press.
+Rosen, Gideon (2010). “Metaphysical Dependence: Grounding and Reduction.” In
+Bob Hale and Aviv Hoffmann (eds.), Modality: Metaphysics, Logic, and Epistemology, 109–36. Oxford: Oxford University Press.
+Russell, Jeffrey Sanford (2011). Possible Worlds and the Objective World. Ph.D. thesis, New York University.
+Sider, Theodore (2011). Writing the Book of the World. Oxford: Clarendon Press. Forthcoming.
+

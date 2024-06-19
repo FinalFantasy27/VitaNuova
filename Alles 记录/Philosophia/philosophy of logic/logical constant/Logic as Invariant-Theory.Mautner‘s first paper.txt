@@ -1,0 +1,11 @@
+
+Friederich Mautner. An Extension of Klein’s Erlanger Program: Logic as Invariant-Theory 
+http://www.jstor.org/stable/2371821
+
+If I have a set X with n elements, I can see how a subgroup of S_n acts on the Boolean algebras, P(X), P(X^2), P(X^3), ... Logical terms arise from orbits of the full group S_n . So, for example, in P(X^2) , the atoms are ordered pairs, and they fall into four orbits, corresponding to the empty set, the universal set, x=y and x \not= y. Hence, equality is a logical notion.
+
+Todd and Jim had the advantage of hyperdoctrines and the Beck-Chevalley condition to handle the relations between different P(X^i).
+https://golem.ph.utexas.edu/category/2007/10/concrete_groups_and_axiomatic.html
+https://golem.ph.utexas.edu/category/2007/11/concrete_groups_and_axiomatic_1.html
+
+https://golem.ph.utexas.edu/category/2012/01/logic_as_invarianttheory.html

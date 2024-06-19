@@ -1,0 +1,5 @@
+想象一个问受试者从哪些陈述中可以得出合乎逻辑的结论的测试。通过记录ta们做出决定需要多长时间；何时正确，何时错误，何时没有结论；哪些因素干扰了ta们的决定；以及ta们在认知发展过程中何时获得了通过测试的能力，心理学家可以获得有关无意识认知过程的证据，
+这一方向的最有趣的心理学理论之一是菲利普-约翰逊-莱尔德的心理学推理理论
+One of the most interest ing psychological theories of inference along these lines* is presented by Philip Johnson- Laird, in Mental Models (1983), which supplements a wide- ranging 1977 state- of- the- art collection, Thinking: Readings in Cognitive Science, edited by Johnson-Laird and P. C. Watson.
+Soames 213
+* Imagine a test that asks them what statements follow logically from which others (explaining to them what we mean by this). By noting how long it takes them to decide; when they are right, when they are wrong, when they reach no conclusion; what factors interfere with their decisions; and when in their cognitive development they acquired the tested ability, psychologists can obtain evidence about the unconscious cognitive processes involved. 212

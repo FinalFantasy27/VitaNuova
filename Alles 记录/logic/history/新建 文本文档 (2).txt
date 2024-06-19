@@ -1,0 +1,10 @@
+
+American Postulate Theorists
+E.V. Huntington, E.H. Moore, R.L. Moore, Edwin Wilson
+Following a suggestion of his University of Chicago Colleague, John
+Dewey, Oswald Veblen named categoricity.
+(Both Huntington and Veblen have the modern notion of isomorphism.)
+Veblen proved the categoricity of a set of second order axioms for Euclidean Geometry
+(Completeness and Categoricity: Formalism as a mathematical tool, John T. Baldwin, April 24, 2013)
+"Veblen's first professional publication was a comparison of Hilbert's logical foundations in Grundlagen der Geometrie with those provided in lesser-known works by Levi-Civita, Pasch, Peano, and Veronese. Veblen points out that, despite the numerous enthusiastically positive reviews of Hilbert's work, which sought to correct the logical inadequacies of Euclid's Elements, the Grundlayen itself left room for logical improvement. In particular, Veblen shows that the number of Hilbert's undefined terms can be reduced, that Hilbert makes a logical error in demonstrating the independence of his axioms of congruence, and (reiterating a result of E.H. Moore) that one of Hilbert's axioms can be deduced from the other axioms. Veblen continued these investigations in his doctoral dissertation, which he completed in 1903 and published in 1904."
+(Aspray, W. (2008). Oswald Veblen and the Origins of Mathematical Logic at Princeton. In: Drucker, T. (eds) Perspectives on the History of Mathematical Logic. Birkhäuser Boston. https://doi.org/10.1007/978-0-8176-4769-8_5)

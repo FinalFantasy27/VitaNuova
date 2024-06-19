@@ -1,0 +1,44 @@
+
+Machine Learning 1
+
+Lecturer(s)
+
+dr. ir. E.J. Bekkers (co-ordinator)
+
+Objectives
+The student can explain, motivate and distinguish the main areas of machine learning in general and on examples
+The student can explain the major statistical learning frameworks/principles together with their advantages and shortcomings
+The student knows the major linear and non-linear statistical models together with their advantages and disadvantages, can explain them and the made model assumptions, can reason about and inside them, and can manipulate them
+The student can set up learning objectives with the taught models, can train and evaluate them and can assess the quality of fit
+The student can implement all the above in Python and apply the learned principles and models to real world problems and data sets
+Contents
+This course is lecture based, with homework assignments and programming assignments.
+
+The curriculum is based on chapters 1,2,3,4,5,6,7,9,14 of the book Pattern Recognition and Machine Learning by C. Bishop:
+
+Statistical learning principles
+Linear regression
+Linear classification
+Neural networks
+Kernel methods
+Dimensionality reduction
+Clustering methods
+Ensemble methods
+Recommended prior knowledge
+Calculus, Linear algebra, probability theory, statistics, programming.
+
+Teaching method and contact hours
+Lecture
+Computer lab session/practical training
+Self-study
+Discussion forum
+Exercise group
+Homework exercise
+Programming assignment
+Practice exercise
+Study materials
+Literature:
+C.M. Bishop, Pattern Recognition and Machine Learning, 2006, Springer, ISBN 0-38-731073-8
+
+Assessment
+4-5 homework exercises, 3 programming assignments, final exam.

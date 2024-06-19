@@ -1,0 +1,18 @@
+
+Wang18.knowing what-first-order epistemic logic.take a know-wh construction as a single modality (a "bundle"), e.g. pack \exists x K(Mary≈x) into kwho Mary.the use of quantifiers is restricted.
+new decidable fragments of first-order modal logic
+
+Wang, Synthese 18.plan.make sure.roughly \exists \sigma K[\sigma]\phi
+
+Logic of strategy-based know-how[Fervari, Herzig, Li, W.IJCAI 17].axioms of modalities K and Kh
+
+A general unified framework [Li & Wang, Artificial Intelligence 21].Use a programming language to specify all kinds of plans, e.g., if \phi then \pi else \pi, while \phi do \pi.
+show that ten different notions of plans share the same know-how logic
+
+know-how based planning[Li & Wang TARK21].planning with a goal \phi = model checking Kh\phi.
+higher-order epistemic planning, e.g.,
+Kh_1(\phi \land Kh_1\lnot\phi).
+Technical results.
+- PTIME model checking algorithm for the full language over explicit models.
+- Complete axiomatization of the logic over finite models with perfect recall w.r.t. knowledge-based plans.
+- The logic is decidable.

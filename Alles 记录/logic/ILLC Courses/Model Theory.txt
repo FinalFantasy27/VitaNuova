@@ -1,0 +1,29 @@
+ 
+Model Theory
+
+	
+prof.dr. Y. Venema (co-ordinator)
+
+Contents
+In this course we will give a general introduction to the methods and results of classical model theory. More concretely, we will cover the following topics:
+
+Basic notions: diagrams, compactness, Loewenheim-Skolem Theorem, model comparison games
+Classical model theory: ultraproducts, preservation theorems, quantifier elimination
+Types: type spaces, saturation, omitting types, omega-categoricity
+Recommended prior knowledge
+We presuppose some (but very little) background knowledge in logic; roughly, what is needed is familiarity with the syntax and semantics of first-order languages. Familiarity with elementary notions from set theory (ordinals, cardinals) is required. Some basic knowledge of topology will be handy, and familiarity with algebraic structures (such as rings, fields, and vector spaces) will be useful in order to be able to appreciate some of the examples; none of these will be essential, however. More importantly, we assume that participants in the course possess some mathematical maturity, as can be expected from students in mathematics or logic at the MSc level.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Exercise sessions
+Study materials
+Syllabus:
+Lecture notes for the course will be made available in canvas and/or from the course website.
+Assessment
+Homework and final examination.
+
+Remarks
+More information on the course will be available from the Canvas page.

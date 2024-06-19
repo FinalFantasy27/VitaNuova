@@ -1,0 +1,11 @@
+Shi, Ellen Yunjie 
+The Quasi-Empirical Epistemology of Mathematics 
+2022 
+
+KRITERION – Journal of Philosophy , Vol. 36, No. 2
+p. 207-226 
+
+Abstract: This paper clarifies and discusses Imre Lakatos’ claim that mathematics is quasi-empirical in one of his less-discussed papers A Renaissance of Empiricism in the Recent Philosophy of Mathematics. I argue that (1) Lakatos’ motivation for classifying mathematics as a quasi-empirical theory is epistemological; (2) what can be called the quasi-empirical epistemology of mathematics is not correct; (3) analysing where the quasi-empirical epistemology of mathematics goes wrong will bring to light reasons to endorse a pluralist view of mathematics. 
+
+In Section 2, I first explain what Lakatos means by the terms “Euclidean theories” and “quasi-empirical theories” in Renaissance by referring to another one of his papers Infinite Regress and Foundations of Mathematics. In a Euclidean theory, the true basic statements prove the rest of the system. The epistemic bedrock of a theory is thus its basic statements, which for a Euclidean theory is the set of axioms and for a quasi-empirical theory is some special theorems 
+In Section 3, an immediate question “what are the falsifiers for mathematics?” arises (Lakatos 1976, p. 202). According to Lakatos, there are two kinds of potential falsifiers for mathematics: logical falsifiers and heuristic falsifiers (Lakatos 1976, p. 213). Logical falsifiers are concerned with the consistency of the quasi-empirical theory. More specifically, they are logical contradictions. Lakatos believed that when a theory derives a logical contradiction the theory is falsified. However, I argue that is not always the case. There are inconsistent theories (Mortensen 1995) in mathematics, all of which derive logical contradictions but remain legitimate parts of mathematics. Heuristic falsifiers, on the other hand, are the informal theories intended to be formalised in mathematics. I argue that no epistemic source (intuition, experience) can support any mathematical statement to be taken as a heuristic falsifier. Therefore, I conclude in this section that mathematics is not quasi-empirical.

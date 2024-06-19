@@ -1,0 +1,18 @@
+
+Philosophy of Physics物理学哲学
+
+- Interpretations of QM
+
+-- Everett interpretation
+According to the Everett interpretation, we have a universal wave function which evolves according to the Schrödinger equation. Meanwhile, Bohmian quantum mechanics suggests that we have a universal wave function, which evolves according to the Schroödinger equation, together with particles in definite locations, which obey a guidance equation. (Philosopher's Annual, 2015)
+
+-- epistemic or realistic?
+proven theorem (2012) of Pusey, Barrett, and Rudolph about the reality of the quantum state, which is in the same spirit as Bell’s theorem. (Their theorem says that, under plausible assumptions, quantum states represent states of reality rather than merely certain knowledge about reality.)
+
+-- wave function
+realist interpretation of the wave function. Proponents of this view include many prominent physicists and philosophers such as Sean Carroll, David Albert, and Alyssa Ney
+some of the problems facing the realist interpretations of the wave function. First, if we take seriously the space on which the wave function is defined, we might need to accept that the real arena where physical events unfold is a space of extremely high dimensions - about 10 to the power of 80, which is a huge number. While we may believe our universe may contain the 20+ dimensions postulated by some versions of string theory, it is much harder to swallow the idea that in fact, the real number of dimensions of the universe is 10 to the power of 80. It is difficult to see how ordinary four-dimensional objects like dogs and cats can emerge from it.
+Second, if we assume that the wave function is a physical object living in four-dimensional spacetime, it leads to a surprising kind of holism. Suppose we have a group of particles in spacetime. The wave function would endow the group with properties that cannot be derived from properties of the individual particles. The whole is, as it were, more than its parts. That is related to what is called quantum entanglement.
+Finally, realist interpretations of the wave function seem to be in tension with Einstein’s relativity theory – a pillar of modern physics. If there is no objective and unique way of slicing spacetime into space and time, as relativity theory tells us, admitting quantum entanglement as a fundamental feature of the physical world makes it difficult to describe the full history of the universe. As David Albert argues, the history of a quantum universe on one way of slicing spacetime cannot be related to that on another, just by changing the reference frame. Instead, it requires details about the laws of nature.
+
+According to an earlier proposal (due to Detlef Dürr, Sheldon Goldstein, Stefan Teufel, and Nino Zanghì), the wave function of the universe is not a physical object, but a physical law, like Newton’s second law of motion

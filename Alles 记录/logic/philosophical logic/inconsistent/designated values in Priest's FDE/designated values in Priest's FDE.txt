@@ -1,0 +1,10 @@
+See Pietz (=Kapsner) and Rivieccio 2013, Kapsner 2014, and Kapsner 2016 for questioning of the choice of designated values in Priest's FDE (See Priest 2008, ch. 8.).
+Andreas Pietz & Umberto Rivieccio, Nothing but the Truth
+Kapsner, A. (2014), Logics and falsifications (Cham: Springer).
+Kapsner, A. (2016), “On Gluts in Mathematics and Science”, in Holger Andreas and
+Peter Verdée (eds.), Logical Studies of Paraconsistent Reasoning in Science and
+Mathematics (Cham: Springer), 91–101. <https://doi.org/10.1007/978-3-319-40
+220-8_6>
+
+Cobreros, Egre, Ripley and van Rooi (e.g., Cobreros et al., 2012).in which values can also be both designated and, in other cases, undesignated, but where there is a clear intra-logical indication which of these cases we are dealing with at any given time.
+Cobreros, P., Egré, P., Ripley, D., and van Rooij, R. (2012), “Tolerant, Classical, Strict”, Journal of Philosophical Logic 41.2: 347–385. <https://doi.org/10.1007/s10992-010-9165-z>

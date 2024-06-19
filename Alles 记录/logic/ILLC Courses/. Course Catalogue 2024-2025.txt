@@ -1,0 +1,85 @@
+Logic
+Programme
+In order to obtain the MSc Logic degree, a student needs to pass at total of at least 120 EC, consisting of:
+
+1. Core components(at least 72 EC):
+
+Obligatory components: the courses Logic, Language and Computation and Mathematical Proof Methods for Logic  (unless exempted) and the track-specific obligatory courses for at least one of the four tracks;
+Research projects: Every student must have at least 6 and at most 24 EC in research projects. During the final month of each semester, the MSc Logic offers projects for this purpose. However, students can also organise individual research projects with a member of staff of their choice. Credits for any learning activity that is not taught in the usual style of courses and/or that is not part of a regular Master's programme of a university, like for examples internships and summer schools, are counted towards the maximum of 24 EC in research projects.
+Electives: a sufficient number of elective courses from the list of MSc Logic courses.
+2. The Thesis Master of Logic (30 EC). The Thesis Master of Logic is written under the supervision of a member of staff at the ILLC. The student should start discussing possible topics with staff members in his or her third semester (in close consultation with his or her academic mentor) and agree with a supervisor on a thesis topic and plan by the end of the third semester. The thesis defense (in the presence of a thesis committee) is the final examination of the MSc Logic.
+
+3. Free choice (18 EC): students may choose components from other Master’s programmes. There is no limit on the number of free-choice electives that a student can take, as long as the curriculum meets the requirements mentioned above (in particular, the curriculum must have at least 72 EC in core components).
+Taking a course as free-choice elective does not require any prior permission from the Examinations Board. 
+
+In addition, students are expected to attend at least 10 research talks before starting work on their thesis. These talks could be talks at a workshop or conference in Amsterdam or a talk in one of the regular meetings of the research seminars at the ILLC, e.g., the Logic Tea, the DIP Colloquium, or the Computational Linguistics Seminar.
+
+
+
+		EC
+Mathematical Proof Methods for Logic	6
+Logic, Language and Computation	3
+Constrained courses	75
+
+Advanced Neural and Cognitive Modelling	6
+Algorithmic Game Theory	6
+Basic Probability: Theory	3
+Category Theory	8
+Introduction to Modal Logic	6
+Introduction to the Philosophy of Language	6
+Knowledge Representation and Reasoning	6
+Machine Learning 1	6
+Meaning, Reference and Modality	6
+Philosophy of AI	6
+Philosophy of Science	6
+Quantum Computing	8
+Rationality, Cognition and Reasoning	6
+Syntax-Semantics Interface 1	6
+Advanced Algorithms	6
+Cognition and Language Development	6
+Computational Learning Theory, Logic and Knowledge Representation	6
+Computational Social Choice	6
+Data-driven History of Ideas	6
+Deep Learning 1	6
+Dynamic Epistemic Logic	6
+Foundations of Neural and Cognitive Modelling	6
+Information Theory	6
+Introduction to Python for Data Processing	3
+Logic and Conversation	6
+Natural Language Processing 1	6
+Ontology: Historical Perspectives (Plato: Sophist, 236d-264b, Aristotle, Leibniz, Kant, Sartre, non-being)	6 
+Philosophical Logic	6
+Philosophy of Cognition	6
+Philosophy of Logic	6
+Power, Speech and Conceptual Engineering	6
+Proof Theory	6
+Topics in Modal Logic	6
+Full-Stack Quantum Computing 6
+Functional Programming	6
+How Music Works: Music Cognition	6
+Logical Foundations of Quantum Mechanics	6
+Machine Learning Theory	8
+Mathematical Structures in Logic	6
+Philosophy of Mathematics	6
+Quantum Information Theory	8
+Rudiments of Axiomatic Set Theory	6
+Semantics and Philosophy	6
+Seminar Mathematical Logic	3
+Syntax-Semantics Interface 2	6
+Topics in Formal Epistemology	6
+Topology, Logic and Learning	6
+Topos Theory	8
+Advanced Topics in Computational Semantics	6
+Automated Planning	6
+Computational Complexity	6
+Game Theory	6
+Model Theory	6
+Natural Language Processing 2	6
+Quantum Cryptography	6
+Recursion Theory	6
+Structures for Semantics	6
+Type Theory	6
+Interpretability & Explainability in AI	6
+
+Research Project Master of Logic 1	
+Thesis Master of Logic	30

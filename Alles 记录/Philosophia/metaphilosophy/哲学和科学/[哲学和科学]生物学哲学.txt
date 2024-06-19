@@ -1,0 +1,42 @@
+
+生物学哲学
+历史
+从20世纪30年代开始，一些由思辨兴趣的生物学家，如英国生理学家霍尔丹（John B. Haldane）（《科学与哲学》（The Sciences and Philosophy） 1929、《生物学的哲学基础》（The Philosophical Basis of Biology））、霍格本（Lancelot Hogben）（《生命的本质》（The Nature of Living Matter） 1930）、霍尔丹的儿子桑德森·霍尔丹（John B. S. Haldane）（《马克思主义哲学与科学》 1939）等，对还原论与整体论、活力论与机械论等展开了讨论。
+60年代后期到70年代，专门的生物学哲学家出现，如赫尔（David Hull）、鲁斯（Michael Ruse）、索伯（Elliott Sober）、威姆萨特（William Wimsatt）等。
+哲学家们与生物学家们展开了频繁且密切的合作交流。赫尔本人一方面担任美国科学哲学联合会会长，一方面又担任系统动物学学会理事长。
+生物学家的阵营还包括：
+著名生物学家、“进化综合”（Evolutionary Synthesis，将孟德尔传统的实验遗传学和达尔文主义的博物学融合起来，代表人物还有斯特宾斯（Ledyard G. Stebbins）、杜布赞斯基等人）迈尔（Ernst Mayr）（写下了《生物学哲学》（Toward a New Philosophy of Biology））、
+辛普森（George G. Simpson）、路翁廷（Richard Lewontin）、威廉斯（George C. Williams）、威尔逊（Edward O. Wilson）、理查德·道金斯等。
+从60年代到80年代ta们共同关注的一个重要话题是自然选择单位（是个体、基因、种群，还是多层次的，涉及对利ta主义、复制子（replicator）等（如赫尔区分了复制子和交互子（interactor））的讨论）的问题。
+70年代，鲁斯和威姆萨特对还原论进行了有力的批判。
+1982年基切尔（Philip Kitcher）对基因概念进行了分析；1985年罗森堡（Alex Rosenberg）倡导将遗传学和分子生物学置于生物学的中心地位。
+
+研究问题与方向
+1. 生物学是否具有以往物理学和数学的独立地位呢？
+2. 生物学理论是否可以还原为化学、物理学理论？
+生物学哲学的基本方向包括：
+1.定律（law）、机制（mechanism）与模型（model）：生物学中有无类似于物理学定律那样的普遍性定律？如果没有，那么是否可以用历史叙述代替规律性叙述？如何界定科学定律？如分子生物学的“中心法则”，虽然具有很高的普遍性，但仍可找到一些反例，并且它们不是完全的时空不受限。它们是定律吗？还是只具有或然的似律性（accidental regularity）？
+机制：还原主义（reductionist） v. 涌现（emergent）
+自组织
+科学解释：功能解释、目的论解释、机制解释（mechanistic explanation）
+2.进化（evolution）与自然选择（selection）
+“适应主义” v. 自然选择是进化的主要途径吗？
+自然选择原理的结构、进化的方向性
+3.适应（adapation, adaptedness, fitness）与功能（function）：适者生存，什么是适者？功能是什么？……
+4.个体（individual）：什么是生物学意义上的个体？
+生命的本质、生命与非生命的标准
+5.基因
+基因概念、基因组和蛋白质组
+6.物种
+物种有本质吗？一般科学哲学上的本质主义？物种是不是个体？
+7.进化与社会
+在生物学的框架中讨论社会、道德、行为
+如威尔逊的社会生物学是有效的吗？（参见基切《奢望：社会生物学与人性的探求》（Vaulting Ambition: Sociobiology and the Quest for Human Nature）（拉卡托斯奖得奖作品））
+8.信息（information）（通信（communication）、消息（message）、信号（signal，如Brain Skyrim的信号理论signal theory），包括遗传信息的传递、发育中对具体的位置信息的接收）
+（科学哲学家戈弗雷-史密斯（Peter Godfrey-Smith）2014年出版的《生物学哲学》各章标题；其科普著作《章鱼的心灵》有中文翻译出版（Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness））
+除了进化生物学外，其它生物学分支学科，包括发育学、免疫生物学、微生物学、共生生物学也提出的概念和理论问题，如发育约束、发育系统理论、表型遗传、个体形成、遗传学、群体遗传学、系统生物学、神经生物学、生态学、表型可塑性、性别与科学、胚胎概念、自我与非我、健康与疾病、复杂性、趋势与倾向、同源性、先天与后天、环境伦理学、干细胞伦理、医学伦理、生物学与宗教等。
+
+参考
+杨仕健，何为生命之单元——现代生物学思想中的个体性概念研究，厦门大学出版社，2018
+Lloyd, Elisabeth, "Units and Levels of Selection", The Stanford Encyclopedia of Philosophy (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/selection-units/>.
+等

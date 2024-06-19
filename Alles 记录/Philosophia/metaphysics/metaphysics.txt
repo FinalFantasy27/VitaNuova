@@ -1,0 +1,101 @@
+
+According to a common view, abstract entities lack spatio-temporal properties and relations, as opposed to concrete objects which exist in space and time (Lowe 1995: 515).
+Lowe, Jonathan, 1995, “The metaphysics of abstract objects”, The Journal of Philosophy, 92: 509–524.
+another requirement often imposed upon abstract objects, namely the one of a causal inefficacy (see, e.g., Grossmann 1992: 7).
+Grossmann, Reinhardt, 1992, The Existence of the World, London: Routledge.
+SEP.truth values
+
+Is impure set mind-depedent? SEP abstract object
+
+Goodman and Quine (1947) tie the notion of abstractness to the notion of spatiotemporal location, but, after Benacerraf (1973), discussions about abstracta regularly focus on causal notions in characterizing the abstract–concrete distinction.
+Sam Cowling .Abstract Entities. 2017. Routledge
+
+Universal
+Perfect triangle (the idea of triangle) is not a triangle. For if it is, then it is either a isosceles or a scalene. But none of the cases can hold, for if it is isosceles, it is not the universal of all triangles, and for the same reason, it cannot be scalene. 
+SEP.Klima, Gyula.The Medieval Problem of Universals (Spring 2022 Edition)
+
+Armstrong 1978b: 94：如果某共相的示例是n元的，则它的所有个例都是n元的 另参彭孟尧 2012 45
+Butchvarov 1966: 109-110：每个关系必定具有确定数量的关系项
+内部关系：R对两个个体x, y是内部关系，当且仅当，x, y的一元性质必然使得Rxy成立（Armstrong 1978b: 85; 1989: 43）
+
+perfect circular, universal realism and ellipse
+
+Plato seems to object to the idea of negative universals/forms. （彭孟尧）
+
+It seems that Predicate Nominalism, Class Nominalism, Mereological Nominalism, Concept Nominalism cannot successfully paraphrase the sentence "Courage is a virtue." (Not all courageous people are virtuous people.)
+Resemblance Nominalism
+tropes: abstract individuals (Williams 1953 (dates back to Stout 1921), Cambell 1990), and an individual is a bundle of tropes
+
+Disposition
+Lewis
+Martin's, Johnson's, Bird's, Prior, Pargetter & Jackson's and Lewis's counterexamples (1994)
+Armstrong 1996a/b: dispositions reduced to qualitative properties of an individuals (usually the microstructure)
+natural laws as relations between universals (Armstrong 1983, Dretske 1977, Tooley 1977; 1984)
+Place: dispositions with intentionality (Molnar 2003), against Armstrong (1999b)
+dispositional v. qualitative?
+Prior, Pargetter & Jackson 1982 : a disposition is not its causal bases and does not have casual power. 
+functionalist theory of dispostions (Mumford 1998)
+
+Individual
+the bundle theory and the substratum theory are equivalent? (Benovsky (2008) , Morganti (2009))
+Constitution
+Gibbard 1975, Sider 2008, tailless cat (Wiggins 1968, Geach 1980, Rea (1995: 537-539))
+Baker 1997, 1999: constitution is not identity (constitution is not a symmetric relation. Two objects can be in the same position at the same time.) ”实在界的爆炸” (Sosa 1993)
+Perdurance versus Endurance (Lewis 1986a)
+Four-dimensionalism (Quine 1960, Sider)
+Mereology (Simons 1987, van Cleve 2008, Markosian 2008, Rea 1998, Lewis 1991) objections:
+
+1 那圯陶土（或者那塑像）的部分本來就一直存在的，甚至那圯陶土的各個部分在更早之前就已經存在了，一直要到某個時間點，那一大堆分散各地的陶土才「湊成」這一圯陶土。我們要承認逍一圯陶土早就已經存在了嗎？換個例子來說，構成眼前這張講桌的所有部分：各個木頭和各個不鏽鋼材質等，在做成桌面、桌腳、螺絲釘之前，早就已經存在了。既然這些東西早就存在了，依據部分學，這是否表示這張講桌早就存在了一即使這些東西還沒有被「湊成j 這張講桌？這當然是很奇怪的說法。
+2 莱布尼茨律（包括猫和去掉了尾巴的猫）
+van Inwagen 1990 poses the problem of Material Constitution: eliminativism/nihilism, universalism (Lewis 1986a, Rea 1998, van Cleve 2008：月亮与桌上这枚一元硬币就组成一个个体), restrictivism, conceptual relativism (Sosa 1993)
+
+Within Restrictivism, Carmichael (2015) proposed the most representative Series-style Answer (SSA) and defend this answer from van Inwagen’s transitivity problem.
+
+Natural Kind: Carving Nature at Its Joints
+Natural Kind and Hume Problem: Kornblith 1993, Wilkerson 1995: 63-66
+essentialism: Kripke 1971; 1980, Putnam 1975, Ellis 2001; 2002a, George Bealer, John Bigelow, Evan Fales
+categorization in cognitive science: Barsalou 1989, Keil 1989, Rips 1989: perceptual similarity v. 深层相似性, Smith 1989: 全域相似性 v. 向度相似性, Vosniadou & Ortony 1989: 醒目相似性, Medin & Ortony 1989, Gentner 1989: 表面相似性 v.深層相似性
+philosophy of biology: function (Bigelow & Pargetter 1987, Cummins 1975, Neander 1991, Prior 1985), LaPorte 2004 doubts and Ellis 2001 argues agiainst the idea that species are natural kinds
+natural kind realism (Bird 2009): Boyd 1988;1989;1991  “因果穩定性質叢集”定義自然類, and see Kornblith 1993 cha.3's discussion on Boyd's theory
+Harper 1989, Kornblith 1993, Wilkerson 1995: the essence of a natural kind is some kind of casual power
+objections: nonexistent individuals (想一想：科學定律真地不可能對於不存在的個物進行量限嗎？理想氣體定律不就是關於不存在物（理想氣體）的定律嗎？是否還有別的例子？所以，阿姆斯壯這個質疑是錯誤的？); () (Armstrong 2002)
+perception and conception: Gibson's ecological theory of perception v. Rock's Indirect Perception theory
+Pluralism: Dupré 1993;1996
+
+Identity
+relative identity: Geach 1973
+identity is vague: van Inwagen 1990
+Self-identity
+Leibniz's law (the indiscernibility of identicals and The Identity of Indiscernibles (restricted to unary property))
+Max Black's two spheres universe (1952)
+identity over time
+Ship of Theseus (Chisholm 1946)
+theoretical term (Lewis 1972)
+
+Existence
+Frege-Russell
+Meinong
+a thing is existent iff it belongs to the causal system of the spacetime structure of our world (Aune 1985: 35)
+To be is to be the value of a (bound) variable. There is no entity without identity. Quine (1969c)
+Plato's beard
+Free logic
+
+Causation
+strong reductionism v. weak reductionism (Tooley 1990)
+casual relations are not between events but between facts (D.H. Mellor); between process (Salmon 1984); between state of affairs (Armstrong 1983; 1997)
+anti-realism/reductionism: Hume (1739; 1748):
+
+We may define a cause to be an object followed by another, and where all the objects, similar to the fust, are followed by objects similar to the second. Or, in other words, where, if the first object had not been, the second never had existed (1748)
+
+objections: casual relations that occur only once 2. contingency (Armstrong 1983 cha. 2- cha.4)
+time: Reichenbach 1956
+Insufficient but Non-redundant part of an Unnecessary but Sufficient condition
+The problem of common cause and the problem overdetermination
+counterfactual
+casuation realism: Armstrong 1983; 1997, Drestke 1997, Tooley 1997; 1984, Fodor 1986, Stampe 1977
+Probabilistic Causation: Hans Reichenbach, I.J. Good, Patrick  Suppes, see also Salmon 1980a and 1984b cha.6
+
+参考
+彭孟尧
+等
+

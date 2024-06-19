@@ -1,0 +1,7 @@
+generator: a is a generator of a group x, iff all elements of x is some power of a. And the group x generated in this way is called a cyclic group.
+all cyclic groups are abelian.
+De Moivre's formula: cos n \theta + i sin n\theta= (cos \theta + i sin \theta)^n 
+(n times the argument = n times the complex number)
+(The cube of 1 corresponds to a triangle on the complex plane, and the fourth root of 1 corresponds to a square on the complex plane, and so on.)
+Euler's formula: cos \theta+i sin \theta=e^{i \theta}
+De Moivre's formula (in exponential function form): e^{i n \theta}=(e^{i \theta})^n

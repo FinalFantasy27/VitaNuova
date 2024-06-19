@@ -1,0 +1,184 @@
+
+目录Contents
+知识Knowledge
+Belief信念
+Economics经济学
+Decision Theory决策论
+部分认识论学家Epistemologists
+
+
+知识Knowledge
+
+知识作为信念的亚种
+（Bonjour 1985; Goldman 1986; Audi 1998）
+
+知识敏感性Sensitivity
+Nozick(1981)
+
+（粗略理解）如果你知道p，那么如果p是假的，你就不会相信p。
+
+争议问题：
+Goldman(1976) 案例（改编）：你看到一只毛茸茸的大比利牛斯山犬在田野里看守着羊群，你就形成了一种信念，即你面前有一只狗。在这里你很确信面前有一只狗，因为大比利牛斯山犬显然是一只狗。但是，如果没有比利牛斯山犬，一只长得像哈士奇的狼正好在那里，会让你误以为眼前是一只狗。如果知识需要敏感的的信念，那么就算当你看到比利牛斯山犬时，你也不知道面前有一只狗。
+
+改进敏感性方法的尝试的讨论：Williamson 2000、Roush 2007或DeRose 2010
+
+
+安全性Safety
+（Sosa 1999，Williamson 2000）
+
+（大概想法）如果你知道p，那么你就不会轻易地对是否是p这样的情况犯错误。
+
+
+证成/辩护Justification
+
+内在主义Internalist
+
+1. 可访问主义Accessibilism）
+（大致想法）如果当你反省时，某些东西对你来说是看不见的，那么它对你有理由相信的东西没有影响。
+（粗略地说）如果两个人在他们可以内省地获得的东西方面是相同的，那么他们在有理由相信的方面也是相同的。因此，如果两个人在某些方面存在差异，但在内省上没有差异，那么这种差异不会影响他们有理由相信的东西
+
+2. 心灵主义Mentalism
+决定一个主体是否有理由相信一个命题的因素是心灵的。因此，如果两个人在心灵上是相同的，那么他们在有理由相信的东西上也会是相同的（某些版本的心灵主义会优先考虑范围较窄的心灵状态）。
+Conee and Feldma（2001）
+
+自由主义Liberalism
+经验对信念进行证成不需要辅助的信念的帮助，经验是非推理性证成的来源
+你的头痛直接证成了你有头痛，而你对在线论坛中的评论的信念的证成必须与你的（有证成的）背景信念相结合，即评论是来自于可靠的消息来源
+（Pollock 1974；Pryor 2000；Huemer 2001）
+
+充分性论点（Sufficiency Thesis）：
+（充分性论点）：如果你有一个具有p内容的经验E，并且没有证据表明你的经验有任何问题，那么你有理由从E相信p。
+Pryor (2000)或Huemer (2001)
+
+负面案例（认知渗透）：Jill的经验拥有Jack在生气的内容，尽管她的经验有问题，但她没有证据表明她的经验有任何问题。因此，充分性论点认为，根据她的经验，她有理由相信Jack生气了。但是有些人会坚决反对充分性论点并认为她没有理由这么认为。
+Nicholas Silins. Cognitive Penetration and the Epistemology of Perception. Philosophy Compass 11 (1):24-42 (2016) 
+
+
+保守主义Conservative
+经验证成信念的能力部分上是用辅助信念来解释的
+知觉证成是推理证成的一个特例。当你拥有内容为p的经验时，你从经验中得到的任何相信p的理由都是建立在你的背景信念之上的，即如果你有内容为p的经验，那么p
+（Wright 2002；Cohen 2002）
+
+
+内省Introspection
+
+我们并不总是能够知道我们的经历是什么样的论点
+Williamson (2000)或Greenough (2012)
+
+
+Belief信念
+
+
+Full Belief and Partial Belief
+Some writers have argued that full belief is merely maximal partial belief, or credence, while others have claimed that it is instead credence above some salient threshold. Both of these views are open to objections, however. In the case of the first, the claim can seem too strong: believing a proposition should be compatible with doubting it. In the case of the second, we can construct situations (like lottery paradoxes) in which the threshold can be set arbitrarily high, and yet rationality seems to require that one not fully believe the proposition in question. 
+(Philosopher's Annual, 2019. Introduction)
+
+
+Lockean thesis
+The strong Lockean thesis gives rise to the well-known Lottery paradox, due originally to Kyburg (1961, 1997). According to Kyburg, what the paradox teaches is that we should give up on deductive cogency: full belief should not necessarily be closed under conjunction. Many others take the lesson of the Lottery to be that the strong Lockean thesis is untenable.
+
+
+Conditional Belief
+
+Robert Stalnaker originally proposed that The degree of belief assigned to a conditional sentence ‘if A then B’ should be identical to one’s conditional degree of belief in B given A.
+(Philosopher's Annual, 2015. Introduction to Andrew Bacon, “Stalnaker’s Thesis in Context”)
+
+
+Economics经济学
+
+
+Harsanyi’s utilitarianism (in which everyone receives equal weight)
+corresponds to risk-neutral individuals in decision theory
+
+and 
+
+Rawls’ maximin equity (where the worst-off in society receive all of the weight)
+maximal risk avoidance risk-avoidant individuals
+
+convex importance / social choice functions (members of the Gini family)
+risk-avoidant
+(Philosopher's Annual, 2017. Introduction to Lara Buchak, "Taking Risks Behind the Veil of Ignorance")
+
+
+Arrow's well-known General Possibility Theorem on group choice
+
+List’s theorem on Judgment Aggregation
+
+Russell, Hawthorne, and Buchak’s result that the only continuous aggregate credence function which obeys several plausible constraints on aggregation is the geometric mean of the individual member's credences. 
+
+
+Decision Theory决策论
+
+
+Evidential decision theory, endorsed by Jeffrey (1983)
+
+a probability on the supposition that the agent chooses P_A (o)=P (o | A)
+
+
+Against Jeffrey, Spohn (1977) and Levi (1991)
+
+
+Nozick (1969) the Newcomb Problem
+on Jeffrey's definition of conditional probability, one-boxing has a higher expected utility than two-boxing
+
+
+Causal decision theory comes in many varieties, a representative version proposed by Savage (1972).
+SEP.expected value
+
+Causal decision theory says that an agent should choose whatever option looks best to her, in light of her beliefs and desires, at a given time.
+
+
+Decision situations involving instability are often thought to spell trouble for causal decision theory. (2017)
+
+Allan Gibbard and William Harper considered the issue of stability in rational choice, illustrated by the example of the man who met death in Damascus:
+Consider the story of the man who met death in Damascus. Death looked surprised, but then recovered his ghastly composure and said, ‘I am coming for you tomorrow’. The terrified man that night bought a camel and rode to Aleppo. The next day, death knocked on the door of the room where he was hiding and said, ‘I have come for you’.
+‘But I thought you would be looking for me in Damascus,’ said the man.
+‘Not at all,’ said death "that is why I was surprised to see you yesterday. I knew that today I was to find you in Aleppo."
+Now suppose the man knows the following. Death works from an appointment book which states the time and place; a person dies if and only if the book correctly states in what city he will be at the stated time. The book is made up weeks in advance on the basis of highly reliable predictions. An appointment on the next day has been inscribed for him. Suppose, on this basis, the man would take his being in Damascus the next day as strong evidence that his appointment with death is in Damascus, and would take his being in Aleppo the next day as strong evidence that his appointment is in Aleppo.
+To evaluate his options with causal decision theory, the man uses states of the world that form a K-partition. Each such state is one he takes to be outside his causal influence, and sufficiently specific given his interests. Let KD and KA be ‘Damascus is inscribed’ and ‘Aleppo is inscribed’; they form a K-partition. If, for example, he believes it is Damascus rather than Aleppo, and his belief pr(KD) is greater than 1⁄2, then causal decision theory endorses going to Aleppo.Butthatdecisionseemsunstable:whenthemancomestobelieve he is about to go to Aleppo, he has new information that influences his other beliefs, including his beliefs about what is inscribed, about KD and KA. Since he takes death’s appointment book to be based on reliable predictions, his anticipation that he will go to Aleppo raises his belief that Aleppo is inscribed after all, so prn(KA) is greater than 1⁄2, and prn(KD) is less, which makes Damascus the better option. But when the man anticipates he is about to choose Damascus, that newer information again influences his beliefs, so prnn(KD) exceeds 1⁄2, which makes Aleppo the better option ..., and so on.
+(Allan Gibbard and William Harper, “Counterfactuals and Two Kinds of Expected Utility,” in C.A. Hooker, J.J Leach, E.F. McClennan (eds.) Foundations and Applications of Decision Theory (Dordrecht: Reidel, 1978); reprinted in W.L. Harper, G.A. Pearce, R. Stalnaker (eds.) Ifs (Dordrecht: Reidel, 1981), pp. 153-190, pp. 185-6)
+
+Andy Egan’s Murder Lesion case is perhaps the most worrying problem of this kind, and his challenge has received wide attention:
+Mary is debating whether to shoot her rival, Alfred. If she shoots and hits [S & H], things will be very good for her. If she shoots and misses [S & M], things will be very bad. (Alfred always finds out about unsuccessful assassination attempts, and he is sensitive about such things.) If she doesn’t shoot [~S], things will go on in the usual, okay-but-not-great kind of way. Though Mary is fairly confident that she will not actually shoot ... she thinks that it is very likely that if she were to shoot, then she would hit [S □→ H]. So far, so good. But Mary also knows that there is a certain sort of brain lesion that tends to cause both murder attempts and bad aim at the critical moment. If she has this lesion, all of her training will do her no good—her hand is almost certain to shake as she squeezes the trigger. Happily for most of us, but not so happily for Mary, most shooters have this lesion, and so most shooters miss. Should Mary shoot? 
+(Andy Egan, “Some Counterexamples to Causal Decision Theory,” Philosophical Review CXVI (January 2007): 93-114, p. 97.)
+
+Following Egan, let the utility of shooting and hitting (S & H) be 10, the utility of shooting and missing (S & M) be -10, and the utility of not shooting (~S) be 0 throughout. Mary’s initial beliefs are that she is unlikely to shoot, pri(S) < .5. She also thinks that if she did, she would hit, pri(S □→ H) > .5. Her belief in that causal conditional is dependent on whether or not she shoots, since shooting is correlated with having the lesion; so pri(S □→ H/ S) < .5. However, her initial unconditional belief in that conditional is high, as just specified, since she initially thinks S is unlikely.
+With those initial beliefs, a causal decision theory calculation will yield Ui(S) > Ui(~S) = 0, since the better outcome of S, namely S & H, is weighted by the high probability pri(S □→ H), while the worse outcome S & M is weighted by the low probability pri(S □→ M). So causal decision theory endorses shooting. Egan regards that as a flawed endorsement.
+
+Armendt’s response to Egan’s puzzle: cases like Egan’s pose no threat to causal decision theory after all. Instead, contrary to what some have claimed, Armendt maintains that there is no single option that Causal Decision Theory recommends in such cases: the theory says only that an agent should choose whatever option looks best to her, in light of her beliefs and desires, at a given time. And if those beliefs and desires happen to change as she deliberates about what to do, then causal decision theory’s recommendations change as well.
+(Philosopher's Annual, 2019. Introduction to Brad Armendt, “Causal Decision Theory and Decision Instability”)
+
+
+Evidence
+
+Is free evidence always valuable in decision making?
+
+Good’s Theorem.
+Good (1967) proved that the expected utility of an informed decision is always at least as great as the expected utility of an uninformed decision.
+Good, Irving John. 1967. “On the Principle of Total Evidence.” The British Journal for the Philosophy of Science 17 (4): 319–21.
+Jeffrey, Richard. 1983. The Logic of Decision. Second. Chicago: University of Chicago Press.
+Lewis, David. 1981. “Causal Decision Theory.” Australasian Journal of Philosophy 59: 5–30.
+Skyrms, Brian. 1990. “The Value of Knowledge.”
+
+However, recently, a number of scholars have argued that the Value of Evidence thesis (VE) fails on externalist theories of evidence and on nonclassical decision theories, such as decision theories that take into account risk-aversion or ambiguity aversion.
+
+
+可参见叶茹的工作. Gaining Evidence and Gaining Flexibility: the Value of Evidence in Decision Making
+叶茹给出了另一个相近的原则：
+
+‘the Comparative Value of Evidence for the Resolute (CVER).’ It says that more evidence is always better than less evidence in decision making if one is certain that, among those action plans available after gaining the evidence, one will follow the plan that’s ex ante optimal.
+
+并论证CVER对证据的外在主义者和非经典决策论学家是可以接受的。
+——
+
+Michael Huemer，加州大学伯克利分校哲学学士，罗格斯大学哲学博士，现为科罗拉多大学博尔德分校哲学教授。他的研究领域主要包括认识论（包括形式认识论）、伦理学、元伦理学和政治哲学。
+
+罗宾·麦肯纳（Robin McKenna），爱丁堡大学哲学博士，利物浦大学哲学系讲师。他主要研究认识论（应用认识论、社会认识论和女权主义认识论）、语言哲学、科学哲学、伦理学和政治哲学。他的研究越来越多地借鉴政治心理学、说服心理学和科学传播学。他的著作主要包括《非理想认识论》（Non-Ideal Epistemology）（Oxford University Press, 2023）。
+马丁·库什（Martin Kusch）和罗宾·麦肯纳（Robin McKenna）（2018）是相对主义和绝对主义谱系。
+
+迈克尔·汉农（Michael Hannon），剑桥大学哲学博士，诺丁汉大学哲学系副教授。他的研究领域包括认识论、社会和政治哲学以及伦理学。他发表过关于真理在政治中的作用、政治同理心、公共话语和分歧、智力谦逊、理解、怀疑主义、认知规范性和知识的价值的文章。
+（2013, 2015, 2019）和史蒂文·雷诺兹（Steven Reynolds）（2017）是关于知识和理解概念的克雷格谱系
+
+米兰达 · 弗里克（Miranda Fricker, 1966年3月12日-） ，英国哲学家，纽约大学哲学教授，纽约哲学研究所联合主任，谢菲尔德大学荣誉教授。她拥有牛津大学哲学博士的学位，并曾任教于伦敦大学伯贝克学院、谢菲尔德大学、纽约市立大学研究生中心。弗里克在她2007年出版的著作《认识不正义》（Epistemic Injustice）（2007）中创造了“认识不正义”这个术语；对证词正义美德进行了谱系学研究。
+
+

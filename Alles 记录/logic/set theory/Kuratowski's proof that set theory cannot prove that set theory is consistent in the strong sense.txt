@@ -1,0 +1,7 @@
+Kuratowski proof:
+
+Set theory cannot prove that set theory is consistent in the strong sense
+that some *V*α is a model of set theory. For suppose it does. Then there is
+α such that *V*α is a model of set theory. Hence there is also in *V*α some
+β<α such that *V*βis a model of set theory. Continuing in this way we get
+an infinite descending sequence of ordinals, a contradiction.

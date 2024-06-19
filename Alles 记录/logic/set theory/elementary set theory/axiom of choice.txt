@@ -1,0 +1,34 @@
+
+"对任意无穷集合X，X与X× X等势"等价于选择公理
+
+可数个可数集合的并可数需要选择公理. 
+假设我们有可数个集合{Xi}i∈ω \{X_i\}_{i\in\omega}，每个集合X_i可数。也就是说，存在(至少一个)函数 f 见证其可数，即 f:ω→X f:\omega\to X是满射. 
+要证明⋃i∈ωXi \bigcup_{i\in\omega}X_i可数，只需要把见证每个X_i可数的函数(序列)排列成ω×ω \omega\times\omega的样子，然后用\omega\times\omega典范序就可以得到满射g:ω→ω×ω g:\omega\to\omega\times\omega. 对每个X_i可能有多个函数见证它是可数的，每个Si={f∈Xiω|f is onto} S_i=\{f\in X_i^\omega|f \text{ is onto}\}事实上是无穷的。在构造\omega到⋃i∈ωXi \bigcup_{i\in\omega}X_i的满射时，我们需要从每个S_i中选定一个f_i.
+
+有穷个可数集合的并可数不需要选择公理. 以两个可数集合为例，不用选择公理就可证∃f1(f1 witness X1 is countable )∧∃f2(f2 witness X2 is countable )→∃g(g witness X1∪X2 is countable)
+\exists f_1(f_1\text{ witness }X_1\text{ is countable })\wedge \exists f_2(f_2\text{ witness }X_2\text{ is countable }) \rightarrow \exists g(g \text{ witness } X_1\cup X_2\text{ is countable}) .
+特别地，我们可以证： \forall f_1 \forall f_2 (f_is are function on \omega) \to \exists ! g \phi_2 (g, f_1, f_2),
+其中 \phi_2 (g, f_1, f_2) 是：g is a function \land dom g = \omega \land \forall \in \omega (g(2n) = f_1 (n) \land g(2n+1) = f_2(n)).
+
+任何有连续势的集合的全体可数子集所构成的族的势为连续势需要选择公理需要选择公理. 
+实数集的势是2^ℵ0 2^{\aleph_0}，根据简单的基数运算规则我们观察到(2^ℵ0)^ℵ0=2^{ℵ0×ℵ0}=2^ℵ0 (2^{\aleph_0})^{\aleph_0}=2^{\aleph_0\times\aleph_0}=2^{\aleph_0}，所以所有实数数列的集合R^N:={f∣f:N→R} \mathbb{R}^\mathbb{N}:=\{f\mid f:\mathbb{N}\to\mathbb{R}\}跟实数集R等势（这里不需要选择公理）. 
+|R^N|≤|[R]^N|（实数的全体可数子集） |\mathbb{R}^\mathbb{N}|\leq |[\mathbb{R}]^\mathbb{N}|：因为每一个函数f:N→Rf:\mathbb{N}\to\mathbb{R}f:\mathbb{N}\to\mathbb{R}都可以被看作一堆有序对的集合，所以每个这样的函数都是R^2的子集，而同时由于函数的定义，每个这样的f必然是R^2的可数子集。因为我们可以显式地写下一个R跟R^2之间的双射，所以我们可以将R^2的可数子集映射为R的可数子集，那么我们就得到了从R^N到[R]^N的单射. （不需要选择公理）
+|[R]^N|≤|R^N|：记|[R]^N|为{Y_i | i \in I}，集族{X_i | X_i 包含且仅包含Y_i 和自然数集之间的双射}是无穷个非空不相交的集合，根据选择公理我们可以在每个X_i里挑出一个双射f_i，将Y_i映射到f_i就得到了从[R]^N到R^N的单射. （需要选择公理）
+
+一般地，可数个势为c的集X_1, X_2, X_3, ..., 构造序列 (x_1, x_2, ...)，其中 x_k \in X_k ，则这类序列的集合A 的势为 c 
+引理. 正整数数列的集合I的势为 c.
+记\phi_k : X_k \to I, 每个 x_k \in X_k 对应一个正整数列. \forall a \in A, a = {x_1, x_2, ...} 都可以唯一地对应一个无穷矩阵（选择公理）
+
+
+[x1_1 x2_1 x3_1...
+x12 x22 x32...
+x13 x23 x33...
+............]
+\begin{bmatrix}x_{1_{1}}&x_{2_{1}}&x_{3_{1}}&...\\x_{1_{2}}&x_{2_{2}}&x_{3_{2}}&...\\x_{1_{3}}&x_{2_{3}}&x_{3_{3}}&...\\...&...&...&...\end{bmatrix}
+
+根据 x11 \to x21 \to x12 \to x13 \to x22 \to x31 \to x41 \to ... 的顺序，这类无穷矩阵和I之间可以建立一个双射. 因此无穷矩阵的基数为c，A的基数也为c.
+
+
+
+
+

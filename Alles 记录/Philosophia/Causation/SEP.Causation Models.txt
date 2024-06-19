@@ -1,0 +1,35 @@
+Hitchcock, Christopher 
+Causal Models 
+
+
+The Stanford Encyclopedia of Philosophy (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.) 
+
+1. Introduction
+2. Basic Tools
+2.1 Variables, Logic, and Language
+2.2 Probability
+2.3 Graphs
+3. Deterministic Structural Equation Models
+3.1 Introduction to SEMs
+3.2 Structural Counterfactuals
+3.3 Actual Causation
+As an illustration, Halpern (2016): X=x is an actual cause of Y=y in world w just in case X belongs to a minimal set of variables X, such that when we intervene to hold the variables in Z fixed at the values they actually take in w, Y counterfactually depends upon the values of the variables in X.
+which can deal with preemption and overdetermination
+Despite these successes, none of the analyses of actual causation developed so far perfectly captures our pre-theoretic intuitions in every case.
+4. Probabilistic Causal Models
+4.1 Structural Equation Models with Random Errors
+4.2 The Markov Condition
+screen off
+4.3 The Minimality and Faithfulness Conditions
+4.4 Identifiability of Causal Structure
+4.5 Identifiability with Assumptions about Functional Form
+4.6 Latent Common Causes
+4.7 Interventions
+4.8. Interventionist Decision Theory
+4.9 Causal Discovery with Interventions
+4.10 Counterfactuals
+5. Further Reading
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

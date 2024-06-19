@@ -1,0 +1,30 @@
+
+周振忠 
+真之多元论的混合合取难题 
+2021 
+
+逻辑学研究 , No. 1 
+p. 71-81 
+
+Abstract: 不同领域 
+混合推理C. Tappolet, 1997, “Mixed inferences: A problem for pluralism about truth predicates”, Analysis,57(3): 209–210.、混合合取C. Tappolet, 2000, “Truth pluralism and many-valued logics: A reply to Beall”, Philosophical Quarterly, 50(200): 382–385. 
+C. Tappolet论证p&q的真性质一种适用于所有领域的普遍的真性质，因为，“一个合取命题为真，当且仅当，其合取支皆为真”是一条关于合取命题的基本原理，根据这一原理，合取命题及其合取支应该“以相同的方式为真”。（385） 
+上述关于合取命题的基本原理是否意味着合取命题及其合取支必须“以相同的方式为真”？或许该原理所要求的只是合取命题及其合取支皆为真即可，无论它们各自以何种方式为真。W. Gamester, 2019, “Logic, logical form and the disunity of truth”, Analysis, 79(1): 34–43. 
+强多元论：1.逻辑领域D. Edwards, 2009, “Truth-conditions and the nature of truth: Re-solving mixed conjunctions”, Analysis, 69(4): 684–688. 
+A. Strollo, 2018, “A simple notion of validity for alethic pluralism”, Synthese, 195(4): 1529–1546. 
+断定的内容上等价却分属不同领域，如  p和p，要么违反了上述“一个命题包含了逻辑概念即属于逻辑领域”的定义，要么违反了多元论的典型主张，即物理、数学、道德等常规的领域是由原子命题所构成D. Edwards, 135 
+A. Strollo：1.原子命题和逻辑上与之等价的复合命题不是相同的命题；2.只适用于不与任何原子命题逻辑等价的复合命题（1538）；特设，需要论证 
+尽管林奇不支持这一典型主张，他认为只要构成复合命题的原子命题都来自同一领域，则该复合命题也属于那个领域M. Lynch, 2004, “Truth and multiple realizability”, Australasian Journal of Philosophy, 82(3):384–408. 399注14, 类似的S. Kim and N. J. L. L. Pedersen2018 
+D. Edwards的看法，即所有复合命题（无论混合的还是纯的）都属于逻辑领域，后来Edwards放弃了逻辑论域的说法D. Edwards, 2018, The Metaphysics of Truth, Oxford: Oxford University Press. 
+确定逻辑领域的困难G. Sher, 2004, “In search of a substantive theory of truth”, Journal of Philosophy, 101(1): 5–36. 30 Lynch的批评399-400，注14 W. Gamester 41注13 
+2.合取命题有自身独特的真性质，即合取真A. Strollo, 2018, “A simple notion of validity for alethic pluralism”, Synthese, 195(4): 1529–1546.（conjunction-truth）S. Kim and N. J. L. L. Pedersen, 2018, “Strong truth pluralism”, in J. Wyatt, N. J. L. L. Pedersen and N. Kellen (eds.), Pluralisms in Truth and Logic, pp. 107–130, Cham: Palgrave Macmillan. 
+真性质数量的膨胀A. Cotnoir, 2009, “Generic truth and mixed conjunctions: Some alternatives”, Analysis, 69(3): 473–479. 
+温和多元论：lynch truth as such 
+M. Lynch, 2009, Truth as One and Many, Oxford: Clarendon Press. 70, 78 
+“实现真（truth-realizing）的性质”或“显示真 
+（truth-manifesting）的性质”“存在其他性质，不同于真，它们……实现那个薄的性质”M. Lynch, 2018, “Truth pluralism, quasi-realism, and the problem of double-counting”, in J. Wyatt, N. J. L. L. Pedersen and N. Kellen (eds.), Pluralisms in Truth and Logic, pp. 63–84, Cham: Palgrave Macmillan. 78 一个原子命题之所以为真，取决于其具有某个“其他性质”（符合、一致等） 
+对于合取命题而言，由于其本身并不具有局部的真性质，局部的真性质不能成为它们为真的直接的本体论依据 间接的本体论依据。一般而言，复合 
+命题的真值随附于原子命题的真值，林奇称之为“弱依据原则”。（2009，第90 页） 
+[作者的观点……] 
+强一元论/厚的真性质导致适真性的范围变窄 
+承认薄的真性质的一元论“弱一元论”，如deflationism（某些收缩论不承认真谓词指称性质，如履行论），N. Damnjanovic所说的“新浪潮收缩论”，它承认真谓词指称性质，但这种性质不是实质性的，代表人物是Horwich P. Horwich, 1998, Truth (2nd edition), Oxford: Clarendon Press.

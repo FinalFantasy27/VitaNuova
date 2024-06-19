@@ -1,0 +1,189 @@
+1;The Water Music Suite No.3 in G HWV 350:III: Menuet I & II - (G大调第3号《水上音乐》组曲，HWV350-第3首);03:16;Jane Glover/London Mozart Players;Water Music Suite No.3 in G, HWV 350;473199876
+2;The Water Music Suite No.3 in G HWV 350:II: Rigaudon I & II;03:01;Jane Glover/London Mozart Players;Water Music Suite No.3 in G, HWV 350;473199875
+3;The Water Music Suite No.2 in D HWV 349:V: Bourrée - (D大调第2号组曲 -"水上音乐"组曲, HWV 349:v:布雷舞曲);01:28;London Mozart Players/Jane Glover;Water Music Suite No.3 in G, HWV 350;473199873
+4;The Water Music Suite No.2 in D HWV 349:III: Menuet;01:12;Jane Glover/London Mozart Players;Water Music Suite No.3 in G, HWV 350;473199871
+5;The Water Music Suite No.2 in D HWV 349:II: Alla hornpipe - (D大调第2号《水上音乐》组曲，HWV349-第2首);04:20;London Mozart Players/Jane Glover;Water Music Suite No.3 in G, HWV 350;473199870
+6;The Water Music Suite No.1 in F HWV 348 (1717 rev. 1736):VII. Bourrée;01:09;Jane Glover/London Mozart Players;Water Music Suite No.3 in G, HWV 350;473199866
+7;The Water Music Suite No.1 in F HWV 348 (1717 rev. 1736):VI. Menuet - (F大调第1号《水上音乐》组曲，HWV348-第6首“小步舞曲”);02:58;London Mozart Players/Jane Glover;Water Music Suite No.3 in G, HWV 350;473199865
+8;The Water Music Suite No.1 in F HWV 348 (1717 rev. 1736):V. Air - (F大调第1号《水上音乐》组曲，HWV348-第5首);03:05;London Mozart Players/Jane Glover;Water Music Suite No.3 in G, HWV 350;473199864
+9;Concerto grosso in B-Flat Major, Op. 3 No. 2, HWV 313:V. Gavotte - (降B大调第2号大协奏曲，作品 313 - 第5乐章“加沃特舞曲”);03:19;English Baroque Soloists/John Eliot Gardiner;Handel : 6 Concerti grossi Op.3 - Apex;405630443
+10;Concerto grosso in B-Flat Major, Op. 3 No. 2, HWV 313:III. Allegro - (降B大调第2号大协奏曲，作品 313 - 第3乐章 快板);01:58;English Baroque Soloists/John Eliot Gardiner;Handel : 6 Concerti grossi Op.3 - Apex;405630441
+11;Concerto grosso in B-Flat Major, Op. 3 No. 2, HWV 313:I. Vivace - (降B大调第2号大协奏曲，作品 313 - 第1乐章 活板);02:01;English Baroque Soloists/John Eliot Gardiner;Handel : 6 Concerti grossi Op.3 - Apex;405630439
+12;Music for the Royal Fireworks, HWV 351:VI. Menuet II;02:54;London Symphony Orchestra/Michael Gray/Robert Gooch/Sir Charles Mackerras/Suvi Raj Grubb;Handel: Water & Fireworks Music;22210322
+13;Music for the Royal Fireworks, HWV 351:V. Menuet I - (皇家烟火音乐, HWV 351:v.小步舞曲 i);01:22;London Symphony Orchestra/Michael Gray/Robert Gooch/Sir Charles Mackerras/Suvi Raj Grubb;Handel: Water & Fireworks Music;22210321
+14;No.47 Worthy is the Lamb;03:20;Sir Georg Solti/Chicago Symphony Orchestra;Handel: Messiah - Highlights, HWV 56;25851087
+15;No.39 Hallelujah (chorus);03:53;Sir Georg Solti/Chicago Symphony Orchestra;Handel: Messiah - Highlights, HWV 56;25851099
+16;No.11 For unto us a Child is born (chorus);03:57;Sir Georg Solti/Chicago Symphony Orchestra;Handel: Messiah - Highlights, HWV 56;25851094
+17;The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter":III. Allegro - (f小调第4号小提琴协奏曲，作品 8 - 第3乐章 快板“冬”);03:16;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123698
+18;The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter":II. Largo - (f小调第4号小提琴协奏曲，作品 8 - 第2乐章 广板“冬”);02:02;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123690
+19;The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter":I. Allegro non molto - (f小调第4号小提琴协奏曲，作品 8 - 第1乐章 不太快的快板“冬”);03:30;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123727
+20;The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer":III. Presto - (g小调第2号小提琴协奏曲，作品 8 - 第3乐章 急板“夏”);02:48;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123708
+21;The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer":II. Adagio - (g小调第2号小提琴协奏曲，作品 8 - 第2乐章 柔板“夏”);02:01;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123704
+22;The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer":I. Allegro non molto - (g小调第2号小提琴协奏曲，作品 8 - 第1乐章 不太快的快板“夏”);05:34;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123734
+23;The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring":III. Allegro - (E大调第1号小提琴协奏曲，作品 8 - 第3乐章 快板“春”);04:35;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123694
+24;The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring":II. Largo e pianissimo sempre - (E大调第1号小提琴协奏曲，作品 8 - 第2乐章 始终很弱的广板“春”);03:05;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123731
+25;The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring":I. Allegro - (E大调第1号小提琴协奏曲，作品 8 - 第1乐章 快板“春”);03:18;Anne-Sophie Mutter/Herbert von Karajan/Peter Alward/Wiener Philharmoniker;Vivaldi: The Four Seasons;2123686
+26;Prelude & Fugue No. 3 in C-Sharp Major, BWV 848:Fugue - (升C大调第3号前奏曲与赋格，BWV 848 -“赋格曲”);02:05;Glenn Gould;Bach: The Well-Tempered Clavier, Book I, BWV 846-869 (The Glenn Gould Edition);18000644
+27;Mass In B Minor, BWV 232 / Agnus Dei:Dona nobis pacem;03:25;Karl Richter/Münchener Bach-Orchester/Johann Sebastian Bach/Münchener Bach-Chor;Bach: Mass in B minor;401804036
+28;Mass in B minor, BWV 232 / Kyrie:Gloria in excelsis Deo;02:01;Münchener Bach-Chor/Münchener Bach-Orchester/Karl Richter;Bach: Mass in B minor;401804013
+29;Mass in B minor, BWV 232 / Kyrie:Kyrie Eleison;12:13;Münchener Bach-Orchester/Münchener Bach-Chor/Karl Richter;Bach: Mass in B minor;401804010
+30;Brandenburg Concerto No.1 in F, BWV 1046:4. Menuet - Trio - Polonaise - (F大调第1号勃兰登堡协奏曲，BWV1046-第4乐章);12:05;Alan Civil/Shirley Hopkins/Karl Steins/Michel Schwalbé/Herbert von Karajan;Bach, J.S.: The Brandenburg Concertos; Suites Nos.2 & 3 (2 CD's);401699575
+31;Brandenburg Concerto No.1 in F, BWV 1046:3. Allegro - (F大调第1号勃兰登堡协奏曲，BWV1046-第3乐章快板);05:00;Alan Civil/Shirley Hopkins/Karl Steins/Michel Schwalbé/Herbert von Karajan;Bach, J.S.: The Brandenburg Concertos; Suites Nos.2 & 3 (2 CD's);401699574
+32;Brandenburg Concerto No.1 in F, BWV 1046:2. Adagio - (F大调第1号勃兰登堡协奏曲，BWV1046-第2乐章柔板);05:06;Berliner Philharmoniker/Alan Civil/Shirley Hopkins/Karl Steins/Michel Schwalbé/Herbert von Karajan;Bach, J.S.: The Brandenburg Concertos; Suites Nos.2 & 3 (2 CD's);401699573
+33;Brandenburg Concerto No.1 in F, BWV 1046:1. (Allegro) - (F大调第1号勃兰登堡协奏曲，BWV1046-第1乐章快板);04:26;Berliner Philharmoniker/Alan Civil/Shirley Hopkins/Karl Steins/Michel Schwalbé/Herbert von Karajan;Bach, J.S.: The Brandenburg Concertos; Suites Nos.2 & 3 (2 CD's);401699572
+34;Toccata And Fugue In D Minor, BWV 565:Fugue - (d小调托卡塔与赋格，BWV565-“赋格曲”);05:57;Simon Preston;Toccata and Fugue in D minor, BWV 565;37899170
+35;Toccata And Fugue In D Minor, BWV 565:Toccata - (d小调托卡塔与赋格，BWV565);02:29;Simon Preston;Toccata and Fugue in D minor, BWV 565;37899169
+36;Matthäus-Passion, BWV 244, Pt. 2:No. 54, Choral. "O Haupt voll Blut und wunden";02:27;Consortium Musicum/Ernst Rothe/Gerd Berg/Süddeutscher Madrigalchor/Wolfgang Gönnenwein/Wolfgang Gülich;Bach: St. Matthew Passion;22301058
+37;St Matthew Passion BWV244:Part 1 "Ich will bei meinem Jesu wachen" [Tenor, Chorus 1 & 2];05:22;Johann Sebastian Bach/BACH. JOHANN SEBASTIAN(1685-1750)/Nikolaus Harnoncourt;Bach, J.S.: St Matthew Passion, BWV 244;406136212
+38;Matthäus-Passion, BWV 244, Pt. 1:No. 6, Aria. "Buß und Reu";04:48;Consortium Musicum/Ernst Rothe/Gerd Berg/Julia Hamari/Wolfgang Gönnenwein/Wolfgang Gülich;Bach: St. Matthew Passion;22300991
+39;Symphony No.40 in G minor, K.550:1. Molto allegro - (g小调第40号管弦乐队交响曲，K.550-第1乐章很快的快板);07:00;Academy of Ancient Music/Jaap Schroder/Christopher Hogwood;Mozart: The Symphonies;399357226
+40;Symphony No.41 in C, K.551 - "Jupiter":4. Molto allegro - (C大调第41号交响曲, K.551 -"朱庇特":第四乐章.活泼的快板);11:39;John Eliot Gardiner/English Baroque Soloists;Mozart: Symphonies Nos. 40 & 41;401281713
+41;Symphony No.41 in C, K.551 - "Jupiter":3. Menuetto (Allegretto) - (C大调第41号交响曲, K.551 -"朱庇特":第三乐章.小步舞曲 (小快板));05:20;English Baroque Soloists/John Eliot Gardiner;Mozart: Symphonies Nos. 40 & 41;401281712
+42;Symphony No.41 in C, K.551 - "Jupiter":2. Andante cantabile - (C大调第41号交响曲, K.551 -"朱庇特":第二乐章.如歌的行板);10:56;John Eliot Gardiner/English Baroque Soloists;Mozart: Symphonies Nos. 40 & 41;401281711
+43;Violin Concerto No. 3 in G Major, K. 216: III. Rondo - Allegro - (G大调第3号小提琴协奏曲，K.216-第3乐章“回旋曲”);06:22;Daniel Barenboim/Wolfgang Amadeus Mozart;Mozart: Violin Concerto No. 1 in B-Flat Major, K. 207 & Violin Concerto No. 3 in G Major, K. 216 (Remastered);491237356
+44;Violin Concerto No. 3 in G Major, K. 216: I. Allegro - (G大调第3号小提琴协奏曲，K.216-第1乐章快板);09:58;Daniel Barenboim/Wolfgang Amadeus Mozart;Mozart: Violin Concerto No. 1 in B-Flat Major, K. 207 & Violin Concerto No. 3 in G Major, K. 216 (Remastered);491237354
+45;Symphony No.41 in C, K.551 - "Jupiter":1. Allegro vivace - (C大调第41号交响曲, K.551 -"朱庇特":第一乐章.活泼的快板);11:34;John Eliot Gardiner/English Baroque Soloists;Mozart: Symphonies Nos. 40 & 41;401281710
+46;Die Zauberflöte, K.620 / Act 2:Der Hölle Rache kocht in meinem Herzen (Königin der Nacht) - (莫扎特：歌剧《魔笛》K. 610，第二幕第六曲《复仇的火焰在我的心中燃烧》);03:45;Herbert von Karajan/Berliner Philharmoniker/José Van Dam/Edith Mathis/Karin Ott/Heinz Kruse;Mozart: Die Zauberflöte;18280362
+47;Die Zauberflöte, K.620 - Overture - (莫扎特：歌剧《魔笛》K. 620，序曲);07:04;Herbert von Karajan;Mozart: Die Zauberflöte;18280342
+48;Requiem In D Minor K.626 - Instr. Franz Beyer (Ed. Kunzelmann):Dies irae (Sequenz) (Live At Klosterpfarrkirche, Diessen / 1988);01:43;Leonard Bernstein/Symphonieorchester des Bayerischen Rundfunks/Chor des Bayerischen Rundfunks;Mozart: Symphonies; Mass K.427; Requiem K.626;472968908
+49;Requiem In D Minor K.626 - Instr. Franz Beyer (Ed. Kunzelmann):Kyrie (Live At Klosterpfarrkirche, Diessen / 1988) - (莫扎特：D小调安魂曲 K. 626，垂怜经);02:44;Leonard Bernstein/Symphonieorchester des Bayerischen Rundfunks/Chor des Bayerischen Rundfunks;Mozart: Symphonies; Mass K.427; Requiem K.626;472968907
+50;Piano Sonata No.11 in A, K.331 -"Alla Turca":3. Alla Turca (Allegretto) - (A大调第11号钢琴奏鸣曲，K.331-第3乐章“土耳其进行曲”);03:30;Friedrich Gulda;The Gulda Mozart Tapes II;402027454
+51;Serenade in G, K.525 "Eine kleine Nachtmusik":1. Allegro - (G大调小夜曲，K.525-第1乐章快板);05:20;Berliner Philharmoniker/Herbert von Karajan;Mozart: Serenade In G Major, K. 525 "Eine kleine Nachtmusik"; Divertimenti K.136, 137 & 138; Serenata notturna In D Major K. 239;403767903
+52;Fidelio op.72:Overture;06:16;Staatskapelle Dresden/Karl Böhm;Beethoven: Fidelio;472829135
+53;Symphony No. 9 in D Minor, Op. 125 - "Choral":V. Presto- "O Freunde, nicht diese T?ne!-Allegro assai - (d小调第9号交响曲，作品 125 - 第5乐章 急板“合唱”);17:34;Herbert von Karajan/Berliner Philharmoniker/Gundula Janowitz/Hilde Rössel-Majdan/Waldemar Kmentt/Walter Berry/Wiener Singverein;Beethoven: The 9 Symphonies;1458729
+54;Symphony No. 9 in D Minor, Op. 125 - "Choral":IV. Presto - (d小调第9号交响曲，作品 125 - 第4乐章 急板“合唱”);06:22;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458724
+55;Symphony No. 9 in D Minor, Op. 125 - "Choral":III. Adagio molto e cantabile - (d小调第9号交响曲，作品 125 - 第3乐章 如歌的柔板“合唱”);16:28;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458719
+56;Symphony No. 9 in D Minor, Op. 125 - "Choral":II. Molto vivace - (d小调第9号交响曲，作品 125 - 第2乐章);11:03;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458714
+57;Symphony No. 9 in D Minor, Op. 125 - "Choral":I. Allegro ma non troppo, un poco maestoso - (d小调第9号交响曲，作品 125 - 第1乐章 不太快的快板“合唱”);15:32;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458709
+58;Symphony No. 5 in C Minor, Op. 67:IV. Allegro - (c小调第5号交响曲，作品 67 - 第4乐章 快板“命运”);10:50;Wiener Philharmoniker/Carlos Kleiber;Beethoven: Symphonies Nos.5 & 7;4430601
+59;Symphony No. 5 in C Minor, Op. 67:III. Allegro - (c小调第5号交响曲，作品 67 - 第3乐章 快板);05:09;Wiener Philharmoniker/Carlos Kleiber;Beethoven: Symphonies Nos.5 & 7;4430600
+60;Symphony No. 5 in C Minor, Op. 67:II. Andante con moto - (c小调第5号交响曲，作品 67 - 第2乐章 稍快的行板);10:00;Wiener Philharmoniker/Carlos Kleiber;Beethoven: Symphonies Nos.5 & 7;4430599
+61;Symphony No. 5 in C Minor, Op. 67:I. Allegro con brio - (c小调第5号交响曲，作品 67 - 第1乐章 有活力的快板);07:22;Wiener Philharmoniker/Carlos Kleiber;Beethoven: Symphonies Nos.5 & 7;4430598
+62;Symphony No. 3 in E-Flat, Op. 55 -"Eroica":IV. Finale (Allegro molto) - (降E大调第3号交响曲，作品 55 - 第4乐章 很快的快板“英雄”);12:19;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458611
+63;Symphony No. 3 in E flat major ("Eroica") , Op. 55:3. Scherzo (Allegro vivace) & Trio - (降E大调第3号交响曲   "英雄", 作品55:第三乐章.谐谑曲 (活泼的快板)和三重奏);06:23;Otto Klemperer/Philharmonia Orchestra;Beethoven: Symphonie No. 3 'Eroica'; Leonore Overtures Nos. 2 & 3;31192923
+64;Symphony No.3 in E flat, Op.55 -"Eroica":2. Marcia funebre (Adagio assai);14:37;Berliner Philharmoniker/Karl Böhm/Ludwig van Beethoven;Beethoven: Symphony No.3 "Eroica"; Overture "Coriolan";403791722
+65;Symphony No. 3 in E-Flat, Op. 55 -"Eroica":I. Allegro con brio - (降E大调第3号交响曲，作品 55 - 第1乐章 有活力的快板“英雄”);14:49;Herbert von Karajan/Berliner Philharmoniker;Beethoven: The 9 Symphonies;1458599
+66;Bagatelle In A Minor, WoO 59 -"Für Elise":Poco moto - (a小调第25号钢琴小品曲，WoO59-“献给爱丽丝”);03:08;Wilhelm Kempff;Wilhelm Kempff - Für Elise;20705370
+67;Piano Sonata No.23 In F Minor, Op.57 -"Appassionata":3. Allegro ma non troppo - (f小调第23号钢琴奏鸣曲，作品 57 - 第3乐章 不过分的快板“热情”);08:46;Wilhelm Kempff;Beethoven: Piano Sonatas Nos. 8, 14, 21 & 23;25729692
+68;Piano Sonata No.23 In F Minor, Op.57 -"Appassionata":2. Andante con moto - (f小调第23号钢琴奏鸣曲，作品 57 - 第2乐章 稍快的行板“热情”);06:00;Wilhelm Kempff;Beethoven: Piano Sonatas Nos. 8, 14, 21 & 23;25729685
+69;Piano Sonata No.23 In F Minor, Op.57 -"Appassionata":1. Allegro assai - (f小调第23号钢琴奏鸣曲，作品 57 - 第1乐章 有活力的快板);09:52;Wilhelm Kempff;Beethoven: Piano Sonatas Nos. 8, 14, 21 & 23;25729683
+70;Piano Sonata No.8 in C minor, Op.13 -"Pathétique":3. Rondo (Allegro) - (c小调第8号钢琴奏鸣曲，作品 13 - 第3乐章 快板“悲怆”);04:22;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162807
+71;Piano Sonata No.8 in C minor, Op.13 -"Pathétique":2. Adagio cantabile - (c小调第8号钢琴奏鸣曲，作品 13 - 第2乐章 如歌的柔板“悲怆”);04:37;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162806
+72;Piano Sonata No.8 in C minor, Op.13 -"Pathétique":1. Grave - Allegro di molto e con brio - (c小调第8号钢琴奏鸣曲，作品 13 - 第1乐章 庄板“悲怆”);08:33;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162805
+73;Piano Sonata No.14 in C sharp minor, Op.27 No.2 -"Moonlight":3. Presto agitato - (升c小调第14号钢琴奏鸣曲，作品 27 - 第3乐章 激动的急板“月光”);07:15;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162810
+74;Piano Sonata No.14 in C sharp minor, Op.27 No.2 -"Moonlight":2. Allegretto - (升c小调第14号钢琴奏鸣曲，作品 27 - 第2乐章 小快板“月光”);02:17;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162809
+75;Piano Sonata No.14 in C sharp minor, Op.27 No.2 -"Moonlight":1. Adagio sostenuto - (升c小调第14号钢琴奏鸣曲，作品 27 - 第1乐章 延绵的柔板“月光”);06:20;Maurizio Pollini;Beethoven: Favourite Piano Sonatas - Pathétique; Moonlight; Tempest; Waldstein; Appassionata; Les Adieux;402162808
+76;Symphony in G, H.I No.94 - "Surprise":2. Andante;05:46;Concertgebouworkest/Eduard van Beinum;Haydn: Symphony No. 94 -"Suprise", No. 96 "The Miracle" & No. 97;36570881
+77;Keyboard Sonatina in C Major, Op. 36, No. 1:I. Allegro - (C大调第1号小奏鸣曲，作品 36 - 第1乐章 快板);01:28;Balazs Szokolay;CLEMENTI: 6 Progressive Piano Sonatinas, Op. 36 / Piano Sonatas;464925734
+78;Hungarian Dance - (F大调第16号匈牙利舞曲，作品1);02:15;Johannes Brahms;Bestseller Classic 1;5189655
+79;Hungarian Dance No5 - (g小调第5号匈牙利舞曲，作品1 - 快板);02:31;Johannes Brahms;100 Best Violin;5105982
+80;Symphony No. 1 in C Minor, Op. 68:I. Un poco sostenuto - Allegro;14:06;Otto Klemperer/Philharmonia Orchestra;Brahms: Symphonies Nos. 1-4;22298736
+81;Nocturne No. 16 in E-Flat Major, Op. 55 No. 2 - (降E大调第16号夜曲，作品 55);04:35;Arthur Rubinstein/Fred Gaisberg;Chopin: Nocturnes, Four Scherzi, Andante spianato et Grande polonaise brillante, Barcarolle & Berceuse;22337163
+82;Mazurka No.23 in D Op.33 No.2 - (D大调第2号玛祖卡舞曲，作品 33);02:20;Maurizio Pollini;Chopin: Recital;403821940
+83;3 Valses, Op. 64 : No. 2 In C Sharp Minor. Tempo giusto - (3首华尔兹圆舞曲, 作品64 :第2号 升C小调.恰当的速度);03:20;Maurizio Pollini;Chopin: Late Works, Opp. 59-64;451502134
+84;3 Valses, Op. 64 : No. 1 In D Flat Major. Molto vivace - (降D大调第1号华尔兹舞曲，作品 64);01:42;Maurizio Pollini;Chopin: Late Works, Opp. 59-64;456094800
+85;12 Etudes Op.25:No.12 In C Minor - (c小调第12号练习曲，作品 25);02:30;Maurizio Pollini;Chopin: Etudes Opp.10 & 25;21095819
+86;24 Préludes, Op.28:1. in C major - (C大调第1号前奏曲，作品 28);00:39;Maurizio Pollini;Chopin: Preludes Op.28;403779878
+87;12 Etudes d'exécution transcendante, S.139:No.5 Feux follets (Allegretto) - (降B大调第5号练习曲，S.139-小快板“鬼火”);04:22;Claudio Arrau;Liszt: 12 Etudes d'exécution transcendante;20558037
+88;Liebestraum No.3 in A flat S.541 No.3 - (降A大调第3号夜曲，S.541-“爱之梦”);05:08;Claudio Arrau;Liszt: Sonata In B minor; Mephisto Waltz No. 1; Liebestraum No. 3; La Chapelle de Guillaume Tell;442307566
+89;Grandes Etudes de Paganini, S.141:No.6 In A Minor - (帕格尼尼大练习曲，S.141-第6首急板);04:57;Daniil Trifonov;Transcendental - Daniil Trifonov plays Franz Liszt;434687305
+90;12 Etudes d'exécution transcendante, S.139:No.10 Allegro agitato molto - (f小调第10号练习曲，S.139-非常激动的快板);04:44;Claudio Arrau;Liszt: 12 Etudes d'exécution transcendante;20558042
+91;Hungarian Rhapsody No. 2 - (升c小调第2号匈牙利狂想曲，作品 244);08:59;Vladimir Horowitz;Greatest Hits;405315196
+92;Années de pèlerinage: 2ème année: Italie, S.161:7. Après une lecture du Dante (Fantasia quasi Sonata) - (钢琴组曲《旅行岁月》，S.161-第7首“但丁读后感”);16:59;Lazar Berman;Liszt: Années de Pèlerinage;402136114
+93;6 Etudes d'exécution transcendante d'après Paganini, S.140:3. La Campanella - (李斯特：帕格尼尼大练习曲, S.140 - 3. 钟);05:08;Jorge Bolet;Liszt: Liebestraum - Favourite Piano Works;18558271
+94;Tristan und Isolde / Act 1:Prelude -  Langsam und smachtend;10:35;Birgit Nilsson/Wiener Philharmoniker/Fritz Uhl/Regina Resnik/Arnold van Mill/Tom Krause/Sir Georg Solti;Wagner: Tristan Und Isolde;399620812
+95;Lohengrin, WWV 75, Act 3 Scene 1: "Treulich geführt ziehet dahin" (Chorus);04:59;Chor der Bayerischen Staatsoper München/Bayerisches Staatsorchester/Robert Heger/Chor der Bayerischen Staatsoper/Dr. Helmut Storjohann/Orchester der Bayerischen Staatsoper/Robert Heger/Wolfgang Gülich;100 Best Choruses;456952879
+96;Lohengrin (2000 Digital Remaster): Vorspiel (Orchester);08:27;Rudolf Kempe;Wagner: Lohengrin;22257291
+97;Der fliegende Holländer, WWV 63:Overture;10:17;Woldemar Nelsson/Orchester der Bayreuther Festspiele;Der fliegende Holländer, WWV 63 / Act 1;441107355
+98;Siegfried, Act I, Vorspiel;03:45;Wiener Philharmoniker;Siegfried;25998202
+99;Die Walküre WWV 86B / Act 3:Vorspiel...Hojotoho! Hojotoho! (Ride of the Valkyries);07:48;Christoph von Dohnányi/The Cleveland Orchestra/Michèle Crider/Penelope Walker/Sandra Walker/Katherine Chiesinski/Susan Shafer/Susan Marie Pierson/Karin Goltz/Ruth Falcon;Wagner: Die Walküre;410877247
+100;Tosca Opera:E lucevan le stelle - (歌剧 "托斯卡":今夜星光灿烂);03:23;José Carreras/Katia Ricciarelli/Herbert von Karajan;Puccini:Tosca;405372177
+101;Vissi D'Arte;03:23;Maria Callas;The Best Of Romantic Callas;21291910
+102;Turandot / Act 3:Nessun dorma!;06:42;Luciano Pavarotti/London Philharmonic Orchestra/Zubin Mehta/Pier Francesco Poli/John Alldis Choir/Tom Krause/Piero de Palma;Turandot / Act 3;472964593
+103;La Bohème - Act 1: Che Gelida Manina;04:38;Luciano Pavarotti;La Bohème;26768278
+104;La Bohème - Act 1: Sì, Mi Chiamano Mimì . . . Ehi, Rodolfo!;05:59;Herbert von Karajan/Berliner Philharmoniker/Mirella Freni;La Bohème;26768279
+105;Symphony No. 5 in C-Sharp Minor / Pt. 1:I. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Plötzlich schneller. Leidenschaftlich. Wild - Tempo I);14:32;Wiener Philharmoniker/Leonard Bernstein;Mahler: Symphony No.5;472799596
+106;The Song of Earth: 1. Das Trinklied vom Jammer der Erde;08:29;Leonard Bernstein/Wiener Philharmoniker;Mahler: Das Lied von der Erde;1683344
+107;Symphony No.2 in C minor - "Resurrection":1. Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck;20:55;Wiener Philharmoniker/Pierre Boulez;Mahler: Symphony No.2 "Resurrection";403687070
+108;Romeo and Juliet, Fantasy Overture - (罗密欧与茱丽叶幻想序曲，作品 42);19:26;Wiener Philharmoniker/Lorin Maazel;Tchaikovsky: The Symphonies - Romeo & Juliet;36947100
+109;Symphony No. 6 in B Minor, Op.74 'Pathétique' (1987 - Remaster): I. Adagio - Allegro con troppo - (b小调第6号交响曲，作品 74 - 第1乐章 柔板“悲怆”);18:16;Herbert von Karajan/Berliner Philharmoniker;Tchaikovsky: Symphonies Nos. 4, 5 & 6 "Pathétique";18277068
+110;String Quartet No. 1 in D Major, Op. 11, TH 111: II. Andante cantabile (Version for String Orchestra) - (D大调第1号四重奏，作品 11 - 第2乐章 如歌的行板);09:26;Leonard Bernstein/New York Philharmonic;Tchaikovsky: 1812 Overture & Hamlet, Op. 67 & Serenade for Strings, Op. 48 & Andante cantabile, Op. 11/2;1322360249
+111;1812 Overture, Op. 49 - (1812序曲，作品 49);15:01;Berliner Philharmoniker/Seiji Ozawa;Tchaikovsky: 1812, Slavonic March, Francesca da Rimini & Polonaise from Eugene Onegin;29750875
+112;The Nutcracker Op.71 TH.14:Overture - (胡桃夹子, 作品71 TH.14:序曲);03:17;Boston Symphony Orchestra/Seiji Ozawa;Tchaikovsky: Swan Lake; The Nutcracker; The Sleeping Beauty;472847001
+113;Act 1: No. 2. Valse: Tempo di valse - ("天鹅湖"- 第1幕:第2号.华尔兹 - 圆舞曲的速度);07:10;Seiji Ozawa;Tchaikovsky: Swan Lake op.20 Ballett in 4 Acts / Seiji Ozawa & Boston Symphony Orchestra;460628776
+114;Swan Lake, Op. 20, Act II:No. 13b, Dance of the Swans. Dance of the Little Swans;01:28;André Previn/Christopher Bishop/Douglas Cummings/Ida Haendel/London Symphony Orchestra;Tchaikovsky: Le Lac des cygnes - La Belle au bois du dormant & Casse-noisette (Extraits);22474697
+115;Act 1: No. 9. Finale: Sujet: Andante;02:46;Seiji Ozawa;Tchaikovsky: Swan Lake op.20 Ballett in 4 Acts / Seiji Ozawa & Boston Symphony Orchestra;461080033
+116;Prelude In C Sharp Minor, Op.3:No.2 - (升c小调第2号前奏曲，作品 3);04:32;Vladimir Ashkenazy;Rachmaninov: Complete Works For Piano;28744629
+117;Piano Concerto No.2 in C Minor, Op.18:1. Moderato - (c小调第2号钢琴协奏曲，作品 18 - 第1乐章 中板);11:38;Vladimir Ashkenazy/Concertgebouworkest/Bernard Haitink;Rachmaninov: Complete Works For Piano;28744625
+118;Symphony No.4 in A, Op.90 - "Italian":1. Allegro vivace - (A大调第4号交响曲, 作品90 -"意大利":第一乐章.活泼的快板);10:37;London Symphony Orchestra/Claudio Abbado;Mendelssohn: Symphonies Nos.3 "Scottish" & 4 "Italian";403749621
+119;Lieder ohne Worte, Op.62, MWV SD 29:No. 6 Andante Grazioso In A "Spring Song" - (A大调第6号无词歌，作品 62 -“春之歌”);02:08;Daniel Barenboim;Mendelssohn: Lieder ohne Worte;39311129
+120;Symphony No.8 in B minor, D.759 - "Unfinished":1. Allegro moderato - (B小调第8号交响曲, D.759 -"未完成":第一乐章.适中的快板);14:58;Chamber Orchestra of Europe/Claudio Abbado;Schubert: Symphony No.8 "Unfinished"; Grand Duo;403850508
+121;String Quartet No.14 in D minor, D.810 -"Death and the Maiden":2. Andante con moto - (d小调第14号四重奏，D.810-第2乐章生动的行板“死亡与少女”);14:15;Quartetto Italiano;Schubert: The Last Four Quartets;401820150
+122;Winterreise D.911:5. Der Lindenbaum - (声乐套曲《冬之旅》：菩提树);05:07;Benjamin Britten/Sir Peter Pears;Schubert: Winterreise;472820582
+123;Erlkönig, Op. 1, D. 328;04:03;Dietrich Fischer-Dieskau/Fritz Ganss/Gerald Moore;21 Leider;22477799
+124;Wiener Blut Op.354;08:37;Wiener Philharmoniker/Seiji Ozawa;New Year's Concert 2002 / Neujahrskonzert 2002;4430564
+125;Tritsch-Tratsch Polka, Op. 214 - (闲聊快速波尔卡，作品214);02:46;Carlos Kleiber/Wiener Philharmoniker;New Year's Concert 1992;1213366
+126;Champagner-Polka, Op.211 (1989 Digital Remaster);02:13;Willi Boskovsky;The Strauss Family: Waltzes & Polkas;22600515
+127;Kaiser Walzer, Op. 437 - (皇帝圆舞曲，作品 437);12:01;Nikolaus Harnoncourt/Wiener Philharmoniker;Neujahrskonzert / New Year's Concert 2003;4430505
+128;Die Fledermaus:Overture (Live At Musikverein, Wien / 1987) - (蝙蝠序曲);08:47;Wiener Philharmoniker/Herbert von Karajan;New Year's Concert in Vienna 1987;1458524
+129;Voices of Spring, Op.410 (Frühlingsstimmen) - vocal version - (春之声圆舞曲);08:31;Kathleen Battle/Wiener Philharmoniker/Herbert von Karajan;New Year's Concert in Vienna 1987;1458550
+130;An der schönen blauen Donau, Walzer, Op. 314 (Extract) - (《蓝色多瑙河》圆舞曲，作品 314);03:48;Herbert von Karajan;100 Best Karajan;22483835
+131;Il barbiere di Siviglia / Act 1:"Largo al factotum" - "Ah ah! che bella vita!" (Figaro / Figaro Conte Rosina Bartolo);10:39;Luigi Alva/Enzo Dara/London Symphony Orchestra/Teresa Berganza/Hermann Prey/Theodor Guschlbauer/Claudio Abbado;Rossini: Il Barbiere Di Siviglia;472914342
+132;Il barbiere di Siviglia:Overture (Sinfonia) - (塞维利亚的理发师:序曲 (小交响曲));07:12;Claudio Abbado/Chamber Orchestra of Europe;Rossini: Overtures;29592042
+133;William Tell:Overture - (威廉·退尔:序曲);10:57;Claudio Abbado/Chamber Orchestra of Europe;Rossini: Overtures;29592045
+134;La gazza ladra:Overture;08:55;Claudio Abbado/Chamber Orchestra of Europe;Rossini: Overtures;29592048
+135;Macbeth - Revised version 1865 - Act 4:Coro di Profughi Scozzesi: "Patria oppressa";06:07;Coro del Teatro Comunale di Bologna/Orchestra del Teatro Comunale di Bologna/Riccardo Chailly;Verdi: Macbeth;469385711
+136;Nabucco / Act 3:"Va, pensiero" (Chorus of the Hebrew Slaves);04:45;Konzertvereinigung Wiener Staatsopernchor/Wiener Staatsopernorchester/Lamberto Gardelli;Nabucco / Act 3;414003110
+137;Aida, Act 2:"Gloria all'Egitto, ad Iside" (Coro);03:02;Chorus of the Royal Opera House, Covent Garden/New Philharmonia Orchestra/Riccardo Muti/Trumpeters of the Royal Military School of Music;Verdi: Aida;22412833
+138;La traviata / Act 1:Follie! Delirio vano è questo!" - "Sempre liberaDame Joan Sutherland;05:03;Dame Joan Sutherland;Verdi - La Traviata;2868584
+139;La traviata / Act 1:Libiamo ne'lieti calici(Brindisi) Luciano Pavarotti;02:52;Dame Joan Sutherland;Verdi - La Traviata;2868569
+140;Rigoletto, Act III:"La donna è mobile";02:38;Giuseppe Di Stefano/Orchestra del Teatro alla Scala di Milano/Tullio Serafin;Verdi: Rigoletto;22291549
+141;Pomp and Circumstance Marches, Op. 39: I. March No. 1 in D - (威风凛凛进行曲);05:43;London Symphony Orchestra/Barry Tuckwell/Edward Elgar;Elgar: Enigma Variations, Pomp and Circumstance Marches;553279034
+142;The Tale Of Tsar Saltan:The Flight of the Bumble-Bee;01:20;Christopher Warren-Green/Philharmonia Orchestra/Vladimir Ashkenazy;The Tale of Tsar Saltan;472856560
+143;Peer Gynt Suite No.1 Op.46:1. Morning Mood - (第1号"培尔·金特"组曲, 作品46:1.晨歌);04:13;Berliner Philharmoniker/Herbert von Karajan;Grieg: Peer Gynt Suites / Sibelius: Valse triste;3965771
+144;Peer Gynt Suite No.1 Op.46:4. In The Hall Of The Mountain King - (第1号"培尔·金特"组曲, 作品46:4.在山丘之王的宫殿中);02:09;Berliner Philharmoniker/Herbert von Karajan;Grieg: Peer Gynt Suites / Sibelius: Valse triste;3965786
+145;Symphony No. 8 in C minor:1.Allegro moderato;14:51;Franz Welser-Möst/Gustav Mahler Jugendorchester;Bruckner: Symphony No. 8;22510898
+146;Symphony No.0 in D minor - 1869 version:1. Allegro - (D小调第0号交响曲   -1869版本:第一乐章.快板);12:38;Chicago Symphony Orchestra/Sir Georg Solti;Bruckner: The Symphonies;399358196
+147;String Quartet No.1 in E minor "From my Life":1. Allegro vivo appassionato;06:46;Guarneri Quartet;Dvorák: String Quartet No. 12 "American" / Smetana: String Quartet No. 1;405226229
+148;Ma Vlast ('My Country'), Symphonic Cycle:Vltava ('The Moldau');11:53;Rafael Kubelík;Smetana: Má Vlast;1931599
+149;Harold en Italie, Op. 16 (Harold in Italy): Orgie des brigands (Orgy of the Brigands);12:28;William Primrose/Charles Münch/Hector Berlioz;Charles Munch conducts Berlioz;1301602518
+150;Harold en Italie, Op. 16 (Harold in Italy): Sérénade;06:28;William Primrose/Charles Münch/Hector Berlioz;Charles Munch conducts Berlioz;1301605063
+151;Harold en Italie, Op. 16 (Harold in Italy): Marche des pèlerins (March of the Pilgrims);06:40;William Primrose/Charles Münch/Hector Berlioz;Charles Munch conducts Berlioz;1301602517
+152;Harold en Italie, Op. 16 (Harold in Italy): Harold aux montagnes (Harold in the Mountains);12:06;William Primrose/Charles Münch/Hector Berlioz;Charles Munch conducts Berlioz;1301602516
+153;Symphonie Fantastique:V Songe d'un nuit de Sabbat;08:44;Charles Münch/Boston Symphony Orchestra;Berlioz: Symphonie Fantastique;438562623
+154;Symphonie Fantastique:IV March au supplice;04:31;Charles Münch/Boston Symphony Orchestra;Berlioz: Symphonie Fantastique;438562622
+155;Symphonie Fantastique:III Scene aux champs;13:53;Charles Münch/Boston Symphony Orchestra;Berlioz: Symphonie Fantastique;438562621
+156;Symphonie Fantastique:II Un bal;06:08;Charles Münch/Boston Symphony Orchestra;Berlioz: Symphonie Fantastique;438562620
+157;Symphonie Fantastique:I Reveries-Passions;13:18;Charles Münch/Boston Symphony Orchestra;Berlioz: Symphonie Fantastique;438562619
+158;Le carnaval romain, Op. 9;08:01;Charles Münch/Hector Berlioz;Charles Munch conducts Berlioz;1301605064
+159;Carmen, Act I:No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons) - (卡门，第一幕:第五幕 哈巴涅拉:爱情是只自由鸟(卡门/雪茄/年轻人/龙)  );04:31;Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson;Bizet : Carmen;22373424
+160;Carmen, Act II:No.14 Couplets : Votre toast, je peux vous le rendre...Toréador, en garde! (Escamillo/Carmen/Frasquita/Mercédès/Moralès/Zuniga/Amis d'Escamillo) - (《卡门》第二幕:第14-主歌:你的吐司，我可以还给你…… 斗牛士，保持警惕!);04:47;Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson;Bizet : Carmen;22373439
+161;Carmen:No.1 Prélude - (《卡门序曲》);03:27;Angela Gheorghiu/Roberto Alagna/Thomas Hampson/Michel Plasson;Bizet : Carmen;22373414
+162;Symphony No.9 in E minor, Op.95 "From the New World":4. Allegro con fuoco - (e小调第9号交响曲，作品 95 - 第4乐章 火热的快板“自新大陆”);11:50;Rafael Kubelík/Berliner Philharmoniker;Dvorák: Symphonies Nos. 8 & 9;1931620
+163;Symphony No.9 in E minor, Op.95 "From the New World":2. Largo - (e小调第9号交响曲, 作品95 "自新世界":第二乐章.广板);13:04;Rafael Kubelík/Berliner Philharmoniker;Dvorák: Symphonies Nos. 8 & 9;1931616
+164;Also sprach Zarathustra Op.30:Prelude (Sonnenaufgang);01:45;Wiener Philharmoniker/Herbert von Karajan;Karajan: The Legendary Decca Recordings;472986307
+165;Tod und Verkl?rung Op.24;23:54;Wiener Philharmoniker/Herbert von Karajan;Karajan: The Legendary Decca Recordings;472986306
+166;Don Juan Op. 20 TrV 156 - (《唐璜》作品 20);18:03;Berliner Philharmoniker/Herbert von Karajan;Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils;18277491
+167;Le Carnaval des Animaux:Le Cygne - (动物狂欢节：天鹅);02:45;Pascal Rogé/Christopher van Kampen/Cristina Ortiz/London Sinfonietta/Charles Dutoit;Saint-Saëns: Le Carnaval des Animaux (The Carnival of the Animals);399357618
+168;Finlandia, Op. 26;08:11;Petri Sakari/Iceland Symphony Orchestra;SIBELIUS: Finlandia / Karelia Suite / Lemminkainen Suite;465072450
+169;Pavane, Op.50;06:46;Boston Symphony Orchestra/Seiji Ozawa/Tanglewood Festival Chorus;Fauré: Requiem, Op. 48 - Pavane, Op. 50 - Elégie, Op. 24 - Après un Rêve, Op. 7;401974020
+170;Symphony No.10 In E Minor, Op.93:1. Moderato (Live);25:39;Boston Symphony Orchestra/Andris Nelsons;Shostakovich Under Stalin's Shadow - Symphony No. 10;41662250
+171;Préludes / Book 1, L.117 - 8. La fille aux cheveux de lin - (前奏曲, L.117 -第一册 - 8.亚麻色头发的女孩);02:29;Pascal Rogé;Debussy: Clair de Lune & Other Piano Works;27682856
+172;Suite bergamasque L.75:3. Clair de lune - (降D大调《贝加莫组曲》，L.75-第3首“月光”);06:48;Claudio Arrau;Claudio Arrau - The Final Sessions;472785774
+173;Symphony No. 5 in D Minor, Op. 47 (Remastered):I. Moderato - (d小调第5号交响曲，作品 47 - 第1乐章 中板);16:19;Leonard Bernstein/New York Philharmonic;Shostakovich: Symphony No. 5 in D Minor, Op. 47 (Remastered);519315161
+174;Jazz Suite No.2:6. Waltz II - (第2号爵士组曲 - 第6首“第二圆舞曲”);03:44;Concertgebouworkest/Riccardo Chailly;Shostakovich: The Jazz Album;29049009
+175;The Rite of Spring:Part One: The Adoration of the Earth - Introduction;02:58;Igor Stravinsky/Columbia Symphony Orchestra;Stravinsky Conducts 1960 - The Rite of Spring & Petrushka;408499691
+176;Verklärte Nacht, Op. 4:Sehr Langsam;02:43;Daniel Barenboim/English Chamber Orchestra;Schönberg: Verklärte Nacht, Pelleas Und Melisande etc;22590629
+177;Ravel: Rapsodie espagnole:1. Prélude à la nuit;04:40;New York Philharmonic/Lorin Maazel;DG Concerts: Ravel: Daphnis & Chloe Suite No.2; Rapsodie Espagnol / Stravinsky: Le Chant du Rossignol; The Firebird Suite;403862115
+178;Boléro, M. 81: Tempo di Boléro moderato assai;15:41;Leonard Bernstein/Orchestre Nationale de France;Ravel: Boléro, Alborada del gracioso, La Valse & Rapsodie espagnole;1322365784
+179;Daphnis et Chloé, M. 57:Part III, Lever du jour. Lent;05:38;Leonard Bernstein/Hugh Ross/Schola Cantorum/New York Philharmonic;Ravel: Daphnis et Chloé, M. 57 & La Valse, M. 72;1320787083
+180;Carmina Burana / Fortuna Imperatrix Mundi:"O Fortuna";02:46;Wiener Philharmoniker/André Previn/Arnold Schoenberg Chor;Orff: Carmina Burana;1201494
+181;The Planets Op.32:7. Neptune The Mystic;08:47;Berliner Philharmoniker/RIAS Kammerchor/Herbert von Karajan;Holst: The Planets, Op. 32;472941319
+182;The Planets Op.32:6. Uranus The Magician;06:03;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941318
+183;The Planets Op.32:5. Saturn The Bringer Of Old Age;09:22;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941317
+184;The Planets Op.32:3. Mercury The Winged Messenger - (《行星》组曲，作品32 - 第三乐章：水星 -“飞行使者”);04:16;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941315
+185;The Planets Op.32:2. Venus The Bringer Of Peace;08:37;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941314
+186;The Planets Op.32:1. Mars The Bringer Of War;07:21;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941313
+187;The Planets Op.32:4. Jupiter The Bringer Of Jollity;07:36;Berliner Philharmoniker/Herbert von Karajan;Holst: The Planets, Op. 32;472941316
+188;3 Gymnopédies: I. Lent et douloureux - (3首裸体歌舞:i.缓慢而痛苦的);03:55;Fazil Say;Debussy: Préludes, Book 1 - Satie: 3 Gymnopédies & 6 Gnossiennes;1305824749
+189;3 Gymnopédies: II. Lent et triste - (3首裸体歌舞:ii.缓慢而悲伤);03:07;Fazil Say;Debussy: Préludes, Book 1 - Satie: 3 Gymnopédies & 6 Gnossiennes;1305824750

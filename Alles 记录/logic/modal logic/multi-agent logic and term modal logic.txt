@@ -1,0 +1,5 @@
+
+给K加个下标K_i，相当于multi-modal logic
+multi-modal logic的要求就是i是有穷的，可以规定i取遍所有agents大合取
+
+允许不定个可达关系的就是term modal logic了

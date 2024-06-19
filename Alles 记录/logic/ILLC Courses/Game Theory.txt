@@ -1,0 +1,32 @@
+
+Game Theory
+
+	
+dr. U. Endriss (co-ordinator)
+
+Objectives
+To become familiar with the basic concepts of noncooperative game theory, including the models of and solution concepts for normal-form games, Bayesian games, extensive games, and imperfect-information games
+To become familiar with the basic concepts of economic mechanism design as well as their application to the design of simple and combinatorial auctions
+To become familiar with the basic concepts of cooperative game theory, including the models of and solution concepts for transferable-utility games, hedonic games, and matching markets
+To acquire the ability to model instances of strategic interaction as well as cooperation between several autonomous agents by using an appropriate game-theoretical formalism
+To appreciate the usefulness as well as limitations of game theory for the analysis of the strategic behaviour of agents operating in the real world
+Contents
+Game theory is the study of mathematical models to analyse strategic interactions between rational agents. Game-theoretical analysis plays a role in a wide variety of disciplines, ranging from Economics and Political Science to Psychology, Biology, Linguistics, Artificial Intelligence, Computer Science, Logic, and Philosophy. This course will be an introduction to this fascinating field. The focus will be on the mathematical properties of games. We will cover both cooperative and noncooperative games, and also briefly introduce the basic notions of mechanism design.
+
+Recommended prior knowledge
+Mathematical maturity: students are expected to have prior experience with working out and writing up mathematical proofs.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Tutorials
+Study materials
+Literature:
+Kevin Leyton-Brown and Yoav Shoham. Essentials of Game Theory: A Concise, Multidisciplinary Introduction. Morgan & Claypool Publishers, 2008. Available online at the library.
+Assessment
+Homework and written exam.
+
+Remarks
+For additional information, please consult the course website at https://staff.science.uva.nl/u.endriss/teaching/game-theory/.

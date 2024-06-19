@@ -1,0 +1,46 @@
+
+Structures for Semantics
+
+	
+dr. M.D. Aloni (co-ordinator)
+
+Objectives
+Upon successful completion of this course you will have gained working knowledge of the logical/mathematical techniques employed in formal semantics. More in particular, you will be able to:
+
+Define Montague-style grammars for fragments of a natural language
+Define and use higher-order modal logics to capture phenomena of intensionality
+Define and use algebraic semantics for analyses of plurals and collective predication
+Understand and prove results in the area of generalised quantifier theory
+Understand and contribute to recent logic-based approaches to linguistic meanings
+Contents
+We will study mathematical techniques that are used in formal semantics to model natural language meanings. We will discuss, among others, type theory, the lambda calculus, generalized quantifiers, intensional logic, partial orders and lattices. In all cases we will motivate the techniques from a semantic point of view and discuss linguistic applications of the tools.
+
+ 
+
+This course is part of the following thematic cluster(s):
+
+Language, Logic, Mind and Metaphysics
+
+The specialist topics/approaches in the course have relevance/impact for indicated fields:
+
+Formal Logic and Semantics, Philosophy of Language
+
+Required prior knowledge
+Working knowledge of first order predicate logic.
+
+Registration
+Students from Philosophy masters' programmes (--> Filosofie / --> Philosophy, --> Philosophy of the Humanities and the Social Sciences (Master's in Philosophy) and --> Research master's in Philosophy (research)) and Master's in Logic receive priority when registering for this course.
+Information about course registration can be found here.
+Teaching method and contact hours
+2 x 2 hours seminar per week
+
+Study materials
+L.T.F. GAMUT, 1991, Logic, Language and Meaning, Volume II
+A collection of articles
+Assessment
+Two take home exams
+One class exam
+One research project
+Remarks
+If you don't have a bachelor's degree in Philosophy you can participate in this course if you have working knowledge of first order predicate logic. 
+

@@ -1,0 +1,30 @@
+Tarski 1986 is a brief and cogent exposition of the permutation-invariance approach. For elaboration and criticism, see McCarthy 1981, van Bentham 1989, Sher 1991, McGee 1996, Feferman 1999 and 2010, Bonnay 2008, and Dutilh Novaes 2014. Bonnay 2014 surveys recent work in this area.
+
+the behavior of predicate operators might still be as erratic as this:
+f(X,Y) = X, if |X| = 6
+Y, if |Y| =7 and |X| \not= 6
+X \intersect Y, otherwise.
+One might try to exclude such cases by means of stronger general postulates in the above spirit. (Compare the use of "Restriction" in [1].) Nevertheless, these attempts have not been overly successful. No generally reasonable notion of uni formity or 'smoothness' has emerged ruling out these cases.
+[1] van Benthem, J., "Determiners and logic," Linguistics and Philosophy, vol. 6 (1983), pp. 447-478.
+
+for each type a, how many invariant items it contains. For several types, the answer is known (cf. [7]; in general, the number will depend on the size of the individual base domain).
+[7] van Benthem Johan. Essays in logical semantics. Studies in linguistics and philosophy, vol. 29. D. Reidel Publishing Company, Dordrecht etc. 1986, xi + 225 pp.
+Logical Constants Across Varying Types
+
+Other recent general discussions of the problem of logical constants include Peacocke 1976, McCarthy 1998, Warmbrod 1999, Sainsbury 2001, ch. 6, and Gómez-Torrente 2002. Tarski 1936b is essential background to all of these.
+For a discussion of grammatical criteria for logical terms, see Quine 1980 and Føllesdal’s (1980) reply.
+For a discussion of the Davidsonian approach, see Davidson 1984, Evans 1976, Lycan 1989, Lepore and Ludwig 2002, and Edwards 2002.
+Tarski 1986 is a brief and cogent exposition of the permutation-invariance approach. For elaboration and criticism, see McCarthy 1981, van Bentham 1989, Sher 1991, McGee 1996, Feferman 1999 and 2010, Bonnay 2008, and Dutilh Novaes 2014. Bonnay 2014 surveys recent work in this area.
+Hacking 1979 and Peacocke 1987 are good representatives of the two versions of the inferential characterization approach discussed above. Popper’s papers (1946–7, 1947) are still worth reading; see Schroeder-Heister 1984 for critical discussion and Koslow 1999 for a modern approach reminiscent of Popper’s. See also Kneale 1956, Kremer 1988, Prawitz 1985 and 2005, Tennant 1987, ch. 9, Dummett 1991, ch. 11, Došen 1994, Hodes 2004, and Read 2010.
+For examples of pragmatic demarcations, see Wagner 1987 and Warmbrod 1999. A different kind of pragmatic approach can be found in Brandom (2000, ch. 1; 2008, ch. 2), who characterizes logical vocabulary in terms of its expressive role.
+For critiques of the whole project of demarcating the logical constants, see Coffa 1975, Etchemendy (1983; 1990, ch. 9), and Read 1994.
+SEP
+
+folklore result.
+Proposition Invariance Equals First-Order Definability on Finite Models
+On finite models, the L-automorphism invariant predicates of individuals are exactly the first-order L-definable ones.
+
+Model theory has a more sophisticated result implying this, viz. Svenonius' Theorem:
+If a predicate Q is invariant for all L-automorphisms of the models for some first-order theory T , then T implies some finite disjunction of explicit definitions for Q in terms of L.
+A theorem on permutations in models, Theoria, 1960
+if the interpretation of a predicate in any model of a first-order theory is invariant under permutations ("automorphisms") of the model fixing the other predicates, then the interpretation of that predicate is definable in every model by a formula involving only the other predicates; furthermore only finitely many such defining formulas are required. Beth's earlier definability theorem is a consequence of Svenonius' Theorem.

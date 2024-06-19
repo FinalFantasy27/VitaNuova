@@ -1,0 +1,12 @@
+
+Fine的normal form方法
+Normal Forms in Modal Logic. Notre Dame, 1975.
+
+Fine说，典范模型方法elegant but not constructive，tableux方法constructive but not elegant，他的normal form方法即漂亮又构造
+
+大概的思路是，任何公式都可以转成一个normal form，然后从这个公式的语形可以构造出一个模型满足这个公式，所以任何一致的公式就可以转成一个normal form来构造典范模型
+
+需要一些合适的定理，当然正规模态逻辑都有，比如说没有合取对析取的分配，你就转不成析取范式
+不同的模态逻辑，比如说T，最后转成的normal form不一样；
+如果是其它的哲学逻辑，就是要在设计证明论的时候加进去一些东西
+（teki）

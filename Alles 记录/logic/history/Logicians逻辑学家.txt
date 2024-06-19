@@ -1,0 +1,75 @@
+
+William Stanley Jevons 1835 – 1882 English economist and logician
+
+
+Ernst Schröder
+
+[Ernst Schröder (1896). "Über G. Cantorsche Sätze". Jahresbericht der Deutschen Mathematiker-Vereinigung. 5: 81–82.] announces a proof of SB theorem (as a corollary of a theorem by Jevons).
+
+His proof in [Ernst Schröder (1898), Kaiserliche Leopoldino-Carolinische Deutsche Akademie der Naturforscher (ed.), "Ueber zwei Definitionen der Endlichkeit und G. Cantor'sche Sätze", Nova Acta, 71 (6): 303–376 (proof: p.336–344)] is shown to be faulty by Alwin Reinhold Korselt in 1902 (just before Schröder's death),  
+[Alwin R. Korselt (1911), Felix Klein; Walther von Dyck; David Hilbert; Otto Blumenthal (eds.), "Über einen Beweis des Äquivalenzsatzes", Mathematische Annalen, 70 (2): 294–296, doi:10.1007/bf01461161, ISSN 0025-5831, S2CID 119757900]
+(confirmed by Schröder),
+[ Felix Hausdorff (2002), Egbert Brieskorn; Srishti D. Chatterji; et al. (eds.), Grundzüge der Mengenlehre (1. ed.), Berlin/Heidelberg: Springer, p. 587, ISBN 978-3-540-42224-2 – Original edition (1914)]
+[Korselt (1911), p.295] 
+but Korselt's paper is published only in 1911.
+
+
+Alwin Korselt 1864 - 1947 German mathematician, took part in controversy with Gottlob Frege, concerning Hilbert's axioms for the foundations of Euclidean geometry. He was treated by Frege as a partisan of Hilbert.
+
+Antonelli, Aldo; May, Robert (2000), "Frege's new science", Notre Dame Journal of Formal Logic, 41 (3): 242–270, doi:10.1305/ndjfl/1038336844
+
+
+·History of SB theorem
+
+1887 Cantor publishes the theorem without proof.
+
+Georg Cantor (1887), "Mitteilungen zur Lehre vom Transfiniten", Zeitschrift für Philosophie und philosophische Kritik, 91: 81–125
+Reprinted in: Georg Cantor (1932), Adolf Fraenkel (Lebenslauf); Ernst Zermelo (eds.), Gesammelte Abhandlungen mathematischen und philosophischen Inhalts, Berlin: Springer, pp. 378–439 Here: p.413 bottom
+
+Felix Hausdorff (2002)
+
+
+1887 On July 11, Dedekind proves the theorem (not relying on the axiom of choice) but neither publishes his proof nor tells Cantor about it. Ernst Zermelo discovered Dedekind's proof and in 1908 he publishes his own proof based on the chain theory from Dedekind's paper Was sind und was sollen die Zahlen?
+
+Richard Dedekind (1932), Robert Fricke; Emmy Noether; Øystein Ore (eds.), Gesammelte mathematische Werke, vol. 3, Braunschweig: Friedr. Vieweg & Sohn, pp. 447–449 (Ch.62)
+Ernst Zermelo (1908), Felix Klein; Walther von Dyck; David Hilbert; Otto Blumenthal (eds.), "Untersuchungen über die Grundlagen der Mengenlehre I", Mathematische Annalen, 65 (2): 261–281, here: p.271–272, doi:10.1007/bf01449999, ISSN 0025-5831, S2CID 120085563
+Felix Hausdorff (2002)
+Richard Dedekind (1888), Was sind und was sollen die Zahlen? (2., unchanged (1893) ed.), Braunschweig: Friedr. Vieweg & Sohn
+
+
+1895 Cantor states the theorem in his first paper on set theory and transfinite numbers. He obtains it as an easy consequence of the linear order of cardinal numbers.
+
+Georg Cantor (1932)
+Georg Cantor (1895). "Beiträge zur Begründung der transfiniten Mengenlehre (1)". Mathematische Annalen. 46 (4): 481–512 (Theorem see "Satz B", p.484). doi:10.1007/bf02124929. S2CID 177801164.
+Georg Cantor (1897). "Beiträge zur Begründung der transfiniten Mengenlehre (2)". Mathematische Annalen. 49 (2): 207–246. doi:10.1007/bf01444205. S2CID 121665994.)
+
+However, he could not prove the latter theorem, which is shown in 1915 to be equivalent to the axiom of choice by Friedrich Moritz Hartogs.
+Felix Hausdorff (2002)
+Friedrich M. Hartogs (1915), Felix Klein; Walther von Dyck; David Hilbert; Otto Blumenthal (eds.), "Über das Problem der Wohlordnung", Mathematische Annalen, 76 (4): 438–443, doi:10.1007/bf01458215, ISSN 0025-5831, S2CID 121598654
+
+
+1896 Schröder announces a proof
+
+
+1897 Bernstein, a 19-year-old student in Cantor's Seminar, presents his proof.
+
+1897 Almost simultaneously, but independently, Schröder finds a proof.
+
+Oliver Deiser (2010), Einführung in die Mengenlehre – Die Mengenlehre Georg Cantors und ihre Axiomatisierung durch Ernst Zermelo, Springer-Lehrbuch (3rd, corrected ed.), Berlin/Heidelberg: Springer, pp. 71, 501, doi:10.1007/978-3-642-01445-1, ISBN 978-3-642-01444-4
+Patrick Suppes (1972), Axiomatic Set Theory (1. ed.), New York: Dover Publications, pp. 95 f, ISBN 978-0-486-61630-8
+
+
+1898 Bernstein's proof (not relying on the axiom of choice) is published by Émile Borel in his book on functions [Émile Borel (1898), Leçons sur la théorie des fonctions, Paris: Gauthier-Villars et fils, pp. 103 ff.]
+(Communicated by Cantor at the 1897 International Congress of Mathematicians in Zürich.) In the same year, the proof also appears in Bernstein's dissertation.
+
+Felix Bernstein (1901), Untersuchungen aus der Mengenlehre, Halle a. S.: Buchdruckerei des Waisenhauses
+Reprinted in: Felix Bernstein (1905), Felix Klein; Walther von Dyck; David Hilbert (eds.), "Untersuchungen aus der Mengenlehre", Mathematische Annalen, 61 (1): 117–155, (Theorem see "Satz 1" on p.121), doi:10.1007/bf01457734, ISSN 0025-5831, S2CID 119658724
+Felix Hausdorff (2002)
+
+
+1898 Schröder publishes his proof which, however, is shown to be faulty by Alwin Reinhold Korselt in 1902, but Korselt's paper is published only in 1911.
+
+Wiki. 2023.11.30
+
+
+

@@ -1,0 +1,4 @@
+改变变元顺序和添加等号的神奇效果：
+在Quine的一阶逻辑系统中，只有语句是定理，|-P 说的是 P的全称闭包是定理，而Quine规定 P 的全称闭包是 P 以反字典顺序前束那些在P中自由出现的变元的全称量词，如 Fx1x2 的全称闭包是 ∀x1∀x2 Fx1x2。它的公理有一条 ∀a∀b P→∀b∀a P（的全称闭包）。1941年 Berry 发现如果全称闭包的规定的顺序是反过来的，如 Fx1x2 的全称闭包是 ∀x2∀x1 Fx1x2，那些在这个只做了小改动的新系统中，∀a∀b P→∀b∀a P 不用作为一条公理，而可以作为一条定理被推出来。1983年 Kit Fine 证明了在Quine原来的系统中 ∀a∀b P→∀b∀a P 是推不出来的。
+1963年，克里普克提出了允许空论域的一阶模态逻辑，Kit Fine证明了如果系统没有等号和等号公理，那么 ∀a∀b P→∀b∀a P 在其中就推不出来，如果加上了等号和等号公理，∀a∀b P→∀b∀a P就推得出来了。
+Kit Fine, The Permutation Principle in Quantificational Logic, Journal of Philosophical Logic, Vol. 12, No. 1 (Feb., 1983), pp. 33-37

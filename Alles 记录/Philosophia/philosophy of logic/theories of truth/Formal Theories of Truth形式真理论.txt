@@ -1,0 +1,5 @@
+
+the local arithmetic disquotation scheme is consistent, and it is conservative over reasonable arithmetic theories (see Ketland 1999).
+
+
+Feferman's 'dot notation' ( ˙x) allows us to 'quantify into' quotations. When ( ˙x) appears inside a quotation term, it is defined such that the term ( ˙x) is an open function term, with x free, meaning 'the result of substituting the numeral of the number x for all free variables in the formula φ'. More exactly, ( ˙x) can be defined as (sub(num(x), [φ(x)]), where the function term sub(x, y) means 'the result of substituting x for all free variables in y' and num(x) means 'the numeral of x'. In contrast, note that ([φ(x)]) is a closed quotation term, in which the variable x is not free.

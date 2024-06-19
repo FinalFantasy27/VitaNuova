@@ -1,0 +1,20 @@
+
+game是 (符号空间, payoff集)
+tree定义了决策
+Kechris第20章有最一般的定义
+
+AD
+AD推实数的正则性质(完美集性质，勒贝格可测，贝尔性质)的game
+
+Souslin算子的幂等性
+任意、存在、投影的逻辑翻译的难度
+
+连续单射保持Borel集
+
+Choquet game给出的一些polish空间的等价刻画
+
+Baire空间等价于Choquet game的player I没有必胜策略
+Kechris 定理8.11（没画图）
+Kechris只写choquet、强choquet之类
+
+用tree定义Banach-Steinhaus-Oxtoby game，经典的choquet game之类的都可以概括进去

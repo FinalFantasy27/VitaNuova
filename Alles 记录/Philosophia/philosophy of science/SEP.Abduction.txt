@@ -1,0 +1,27 @@
+Douven, Igor 
+Abduction 
+
+
+The Stanford Encyclopedia of Philosophy (Summer 2021 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Abduction: The General Idea 
+1.1 Deduction, induction, abduction 
+1.2 The ubiquity of abduction 
+2. Explicating Abduction 
+3. The Status of Abduction 
+3.1 Criticisms 
+1. more informative is not more truthful 
+2. van Fraassen 1989 (Ch. 6) rules of probabilistic versions of abduction must either amount to Bayes’ rule, and thus be redundant, or be at variance with it but then, on the grounds of Lewis’ dynamic Dutch book argument (as reported in Teller 1973), be probabilistically incoherent 
+response: 1. it may be faster to assign higer probability to the true hypothesis (see Douven 2013, 2020, and Douven and Wenmackers 2017; see Climenhaga 2017 for discussion) than Bayes' rule 
+2. coherent? (Douven (1999); See Kvanvig 1994, Harman 1997, Leplin 1997, Niiniluoto 1999, and Okasha 2000, for different responses to van Fraassen’s critique of probabilistic versions of abduction.) 
+3.2 Defenses 
+Boyd 1981, 1984, 1985: the reliability of scientific methodology is best explained by assuming that the theories on which it relies are at least approximately true. These theories were mostly arrived at by abductive reasoning, he concludes that abduction must be a reliable rule of inference. 
+criticism: circularity (See, for instance, Laudan 1981 and Fine 1984.) 
+response: Stathis Psillos (1999, Ch. 4): distinction between premise-circularity and rule-circularity. An argument for the reliability of a given rule R that essentially relies on R as an inferential principle is not vicious, provided that the use of R does not guarantee a positive conclusion about R’s reliability. Boyd's argument is not the case. 
+Psillos makes it clear that the point of philosophical argumentation is not always, and in any case need not be, to convince an opponent of one’s position. Sometimes the point is, more modestly, to assure or reassure oneself that the position one endorses, or is tempted to endorse, is correct. see Psillos 1999 (89). 
+4. Abduction versus Bayesian Confirmation Theory 
+explanationist 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

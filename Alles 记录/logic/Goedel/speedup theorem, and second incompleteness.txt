@@ -1,0 +1,36 @@
+
+Given any recursive function f there are provable sentences φ of arithmetic such that the shortest proof is greater than f(⌈φ⌉) in length.
+
+http://en.wikipedia.org/wiki/G%C3%B6del%27s_speed-up_theorem
+
+If we add to Peano arithmetic an extra axiom saying ‘Peano arithmetic is consistent’, infinitely many theorems get vastly shorter proofs!
+
+If one takes Peano arithmetic together with the negation of the statement above, one obtains an inconsistent theory whose shortest known contradiction is equivalently long.
+
+
+the Second Incompleteness Theorem follows from one version of the Speedup Theorem.
+https://fuchino.ddo.jp/slides/speed-up-theorem-2017-pf.pdf
+
+
+Gödel never submitted a proof for the Speed-up Theorem. Over the years several related proofs were published, but the first full proof of Gödel’s original result was given only in 1994 by Sam Buss in his ‘On Gödel’s theorems on lengths of proofs I: Number of lines and speedups for arithmetic.’ (Buss 1994). 
+On Gödel’s theorems on lengths of proofs I: Number of lines and speedups for arithmetic, Journal of Symbolic Logic 39 (1994), 737–756. http://www.math.ucsd.edu/~sbuss/ResearchWeb/godelone/index.html
+Buss also gives a second proof of the theorem which avoids self-reference, following a technique due to Statman. Gödel measures the length of proofs by the number of formulas; but there are also other possibilities, such as the number of symbols in the proof. The case of the Speed-up Theorem where the length of proof is measured by the number of symbols was proved by Mostowski in 1952 (Mostowski 1982). For proofs of similar results see Ehrenfeucht and Mycieleski 1971, and Parikh 1971. Though both measures may be equally natural candidates for measuring the length of a proof, proving the theorem for length measured by the number of symbols avoids a technical complication introduced by the other measure: there are only finitely many proofs with a given number of symbols, whereas there are infinitely many proofs with a given number of formulas.
+
+
+Gödel states the Speed-up Theorem differently from the above. Let Sn be the system of logic of the n-th order, the variables of the first level being thought of as ranging over natural numbers. In this setting, variables of the second level range over sets of natural numbers and so on. Gödel’s formulation is:
+
+Theorem 6.
+Let n be a natural number > 0. If f is a computable function, then there are infinitely many formulas A, provable in Sn, such that if k is the length of the shortest proof of A in Sn and l is the length of the shortest proof of A in Sn+1, then k > f(l).
+
+Proof sketch: The idea is the following: Let φ(x) be a formula, like above, for which φ(m) does not have a short proof in Sn for any m. Suppose we have a higher type system Sn+1 in which we can prove ∀xφ(x). This proof is of constant length. Thus each φ(m) is derivable from this universal statement by one application of the logical rule ∀xφ(x) → φ(t). Thus φ(m) has in that system for all m a short proof.
+
+What kind of stronger system can we have in which ∀xφ(x) is provable? We may consider second order logic in which we can define a predicate N(x) for the set of natural numbers and furthermore can prove of a new predicate symbol Tr(x) that it satisfies the inductive clauses of the truth definition of first order formulas of arithmetic, relativized to N. Then the stronger system can prove that provable first order sentences of arithmetic satisfy the predicate Tr . By the above argument, we can prove in the stronger system that ∀xφ(x) satisfies Tr. Then by adding a few lines we can prove each φ(n) satisfies Tr. Because of the nature of φ(n), this implies the stronger system has a (short) proof of φ(n). An alternative system is Peano’s axioms PA in an extended language where we have a new predicate symbol Tr and axioms stating that the predicate Tr codes the satisfaction relation for all sentences of the vocabulary not containing Tr.
+
+https://plato.stanford.edu/entries/goedel/#SpeUpThe
+
+
+Harvey Friedman found some explicit natural examples of this phenomenon, giving some explicit statements in Peano arithmetic and other formal systems whose shortest proofs are ridiculously long (Smoryński 1982). For example, the statement
+
+"there is an integer n such that if there is a sequence of rooted trees T1, T2, ..., Tn such that Tk has at most k + 10 vertices, then some tree can be homeomorphically embedded in a later one"
+is provable in Peano arithmetic, but the shortest proof has length at least A(1000), where A(0) = 1 and A(n+1) = 2A(n). The statement is a special case of Kruskal's theorem and has a short proof in second order arithmetic.
+Smoryński, C. (1982), "The varieties of arboreal experience", Math. Intelligencer, 4 (4): 182–189, doi:10.1007/bf03023553, MR 0685558

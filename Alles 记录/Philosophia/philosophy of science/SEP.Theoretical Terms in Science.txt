@@ -1,0 +1,37 @@
+Andreas, Holger 
+Theoretical Terms in Science 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2021 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Two Criteria of Theoreticity
+1.1 Reference to Nonobservable Entities and Properties
+1.2 Semantic Dependence upon a Scientific Theory
+2. Criticisms and Refinements of the Theory-Observation Distinction
+2.1 Criticisms
+instruments.(Achinstein 1965), excluding the use of instruments and things perceived with glasses(Maxwell 1962), concept.(cf. Putnam 1962).red1 and red2
+carnap.relativized to an organism (1936/37: 454n)
+theory-laden.Hanson (1958), Feyerabend (1962) and Kuhn (1962)
+Schurz (2013: ch. 2.9) defines a criterion of the theory independence of observation in terms of an ostensive learning experiment, and shows how such a criterion helps answer the challenges of theory-ladenness of observation.
+2.2 Refinements
+a term t is theoretical with respect to a theory T, or for short, a T-term if and only if it is introduced by the theory T at a certain stage in the history of science. O-terms, by contrast, are those that were antecedently available and understood before T was set forth (Lewis 1970; cf. Hempel 1973)
+Sneed in his seminal The Logical Structure of Mathematical Physics (1979: ch. II).A term t is theoretical with respect to the theory T, or for short, T-theoretical if and only if any method of determining the extension of t, or some part of that extension, rests on some axiom of T.
+It remains to explain what it is for a method m of determining the extension of t to rest upon an axiom ϕ. This relation obtains if and only if the use of m depends on ϕ being a true sentence. In other words, m rests upon ϕ if and only if the hypothetical assumption of ϕ being false or indeterminate would invalidate the use of m in the sense that we would be lacking the commonly presumed justification for using m.
+The concepts of classical particle mechanics (henceforth abbreviated by CPM) exemplify well the notions of T-theoreticity and T-non-theoreticity. As has been indicated above, all methods of determining the force acting upon a particle make use of some axiom of classical particle mechanics, such as Newton’s laws of motion or some law about special forces. Hence, force is CPM-theoretical. Measurement of spatial distances, by contrast, is possible without using axioms of CPM. Hence, the concept of spatial distance is CPM-non-theoretical. The concept of mass is less straightforward to classify as we can measure this concept using classical collision mechanics (CCM). Still, it was seen to be CPM-theoretical by the structuralists since CCM appeared reducible to CPM (Balzer et al. 1987: ch. 2).
+relativize to theory-nets N
+3. Two Problems of Theoretical Terms
+3.1 Theoretical Entities
+3.1.1 The realist view
+3.1.2 Non-realist views
+3.1.3 The Pythagorean view
+3.2 Theoretical Functions and Relations
+4. Formal Accounts
+4.1 The Ramsey Sentence
+Carnap.TC^R->TC as analytic.criticized by Ketland 2004
+4.2 Indirect Interpretation
+4.3 Direct Interpretation
+4.4 Defining Theoretical Terms
+5. Conclusion
+Bibliography
+Academic Tools
+Other Internet Resources

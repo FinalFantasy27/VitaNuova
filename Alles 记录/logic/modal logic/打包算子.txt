@@ -1,0 +1,6 @@
+
+非偶然逻辑（Non-contingency Logic）、CTL（Computation Tree Logic）、ATL(Alternating-time Temporal Logic)、PTL(Polyadic Modal Logic)等把一个量词和一个模态词，或者一些模态词之间的交互等组成一个整体
+
+know-wh，包括知道如何、知道为何等，背后的语义结构包含了一个量词和一个模态词
+
+限制量词出现时，后面要跟一个特定的模态词（∃x□），是通过“打包”得到复杂性低的可判定片段

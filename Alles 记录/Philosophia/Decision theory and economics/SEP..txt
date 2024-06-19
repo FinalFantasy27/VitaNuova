@@ -1,0 +1,40 @@
+
+van Eijck, Jan / Verbrugge, Rineke (L. C.) 
+Formal Approaches to Social Procedures 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2021 Edition), Edward N. Zalta (ed.) 
+
+Abstract: comprehensive study of “cake cutting algorithms”: Robertson & Webb (1998) 
+social choice literature (Brams 2005; Brams & Taylor 1996) 
+Parikh (1983, 2002)'s game logic 
+
+
+
+1. Social Procedures as Algorithms 
+2. Fairness 
+2.1 Fair Division 
+2.2 Cutting a Cake Among More than Two Participants 
+2.3 Solomon’s Judgement 
+3. The Stable Marriage Problem 
+3.1 The Gale-Shapley Algorithm 
+3.2 A University Housing Assignment Procedure 
+4. The Logic of Communication 
+4.1 Communication and Distributed Computing 
+4.2 Common Knowledge and Social Procedures 
+5. Strategic Reasoning and Cooperation 
+6. Conclusion 
+Bibliography 
+General References 
+Fairness 
+The Stable Marriage Problem 
+The Logic of Communication 
+Strategic Reasoning and Cooperation 
+Academic Tools 
+Other Internet Resources 
+Related Entries 
+
+Comment:
+elementary introduction
+
+see the entries on epistemic logic, common knowledge, game theory, social choice theory, voting methods, epistemic foundations of game theory, evolutionary game theory, economics [normative] and economic justice, practical reason, game theory and ethics, Logics for Analyzing Games, Prisoner’s Dilemma ...

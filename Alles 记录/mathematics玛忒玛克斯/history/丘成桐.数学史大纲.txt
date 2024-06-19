@@ -1,0 +1,400 @@
+丘成桐：数学史大纲（Brief History of Math）
+Original 丘成桐 数理人文 2020-08-19 16:35
+作者简介：丘成桐，北京雁栖湖应用数学研究院院长，哈佛大学教授，清华大学教授，美国科学院院士，中国科学院外籍院士；菲尔兹奖、克拉福德奖、沃尔夫奖、马塞尔·格罗斯曼奖得主。
+本文由作者的演讲稿修订而成，并附上数学史大纲的英文对照，刊登于《数理人文》（订阅号：math_hmat）。未经许可，不得转载。
+
+
+
+引言
+
+
+
+五十一年前我离开香港到加州大学柏克莱分校跟随陈省身先生，在柏克莱见到一大批有学问的学者，眼界大开，就如青蛙从井中出来见到阳光和大地一样，很快就发觉我从前在香港学习到的学问极不全面，虽然香港有某些学者自称是世界十大学者之一，事实上知识浅薄。当时香港学者能够教导学生的内容也只是数学的很小部分，因此我花了很多的努力，每天早上八点钟到下午五点钟不停的听课，从基础数学，到应用数学，到物理学，到工程科学我都想办法去涉猎，我在图书馆阅读了很多刊物和书籍。当我见到伟大数学家的著作，尤其是看到欧拉（Euler）的工作时，我吓了一跳！一个数学家能够有这么伟大而又丰富的工作，真是高山仰止，景行行止。中国二千年来的数学加起来恐怕都比不上欧拉一辈子的工作。我看到的就如庄子说的河伯见到北海若的光景。这个眼界使我胸怀大开，兴奋异常。在图书馆的期刊中找到一篇很有意思的文章，花了一个圣诞节的假期，完成了我的第一篇数学论文。这篇论文不算得很杰出，但是发表在当时最好的数学杂志，五十年后读这篇文章，还是觉得有点意思。
+
+
+
+我在一九七九年受到华罗庚教授的邀请到中国科学院访问，文革刚结束，中国学术界正处于青黄不接的时候。经过文革这一段，很多学者已经洩了气，而年轻的学者觉得前途渺茫，国内经济困难，唯一的出路是出国。由于蔽塞已久，对于当代数学的发展并不清楚。一般学生只听过华罗庚、陈省身、陈景润、杨乐和张广厚的工作，数学家则知道多一些，但是和当时国际水平相差甚远。在一九九六年时，科学院路院长邀请了我来帮忙成立了晨兴数学中心，主要目标在引进当代最重要的数学学者到中心来讲学，聚集了中国各地的年轻学者一起学习，这些学者很多成为今天中国数学的领导人与骨干。
+
+
+
+在八零年代和九零年代，中国的大学生大量出国，接触到最前线的数学发展。有不少留学生回国后，也确实大量的提高了中国的数学水平。但是即使如此，我们还是没有看到具有深刻而有创意的数学工作，我是说陈省身先生那样的足以留芳百世的工作！经过深思熟虑之后，我认为中国的数学发展依旧没有脱离传统的急功近利的做法，一般学者没有宏观的数学思想，不知道数学有一个多姿多采的历史，只看到数学的部分面积。所以我希望通过描述数学历史来打开我们数学学者的胸怀，做出传世的工作。
+
+
+
+我将我所知道的数学重要里程碑约略分成八十个不同方向，我分别在几个大学为本文做过演讲，但是因为时间不足的原故，我只讨论了四十个方向，基本上只包括西方文艺复兴以后的工作，这些工作使我叹为观止。想起某些中国学者的说法：“西方用了四百年完成的科学成就，现代中国人只用了几十年！”真使人啼笑皆非。中国数学家要走的路还是“既阻且长”，恐怕我们需要做到如屈原说的“路曼曼其修远兮，吾将上下而求索！”
+
+
+
+我希望中国的官员愿意找到时间阅读这些古代学者的伟大成就，知道中国数学学者的能力其实不隶他们远甚，对于数学知识还是相当贫乏，尤其是年纪比较大的中国数学家，他们的知识还不足够来评估近代数学的成就，尤其是对近代数学有成就的年轻人的数学并不见得了解。官方给予学者“帽子”，本来是好意，但是由于评估不再以学问为主要标准，结果却是揠苗助长。
+
+
+
+韩愈说：“将蕲至于古之立言者，则无望其速成。无诱于势利，养其根而俟其实，加其膏而希其光。”让我们将我们数学的根养好吧！
+
+
+
+在讨论历史上数学重要里程碑以前，我想指出，中国学者创意不足的一个原因，乃是中国学生习惯于考试，喜欢做别人给予的题目，而不喜欢问自己觉得有意义的问题。其实问一个好问题，有时比解决问题更重要！黎曼猜测和韦伊（Weil）猜想就是一个重要例子。
+
+
+
+战国时，屈原写了一篇文章叫《天问》，大家都很惊讶，因为中国学者对于问问题兴趣不大。希腊数学家问的几个问题就影响数学两千年，平行公理就是其中一个重要的问题。
+
+
+
+
+
+四十年前，我在普林斯顿高等研究所组织并且主持了一个几何分析年，全球不少重要的几何学家，分析学家和有关的理论物理学家在普林斯顿这个优美的地方日夕讨论，互相交流，总结了几何分析学家十年来的研究结果和经验，在该年年底，我花了两周时间，向大家提出了一百二十个几何上比较重要的问题。
+
+
+
+这个几何年结束以后，我将当年参加讨论班的研究成果和这些问题编辑起来，在一九八二年普林斯顿大学出版社发表，这本书叫做《Seminar in Differential Geometry》。这些问题影响了四十年来微分几何的走向，大概三分之一已经得到解决，大部分解决的答案都是正面的。
+
+
+
+我在一九八零年北京双微会议讨论这些问题，希望引起国内几何学家注意，确有不少年轻的学者开始注意几何分析，比较国外的发展，毕竟还是比较缓慢，不过四十年的努力，到了今天，也可以说是成果蔚然！
+
+
+
+但是纵观今日中国几何学家的成就，和当年与我携手的伙伴们如孙理察（R. Schoen），西蒙（L. Simon），乌伦贝克（K. Uhlenbeck），汉密尔顿（R. Hamilton）等人相比，原创性终究还是有一段距离。
+
+
+
+除了这个问题集以外，我以后在不同场合提出新的问题，例如在一九八零年 UCLA 微分几何大会的一百个问题，影响还是不少。这几十年来，我希望中国学者能够自己找寻数学的主要方向和提供数学中重要的问题，但是中国学者的走向，始终以解题为主，没有脱离高考或是奥数的形式！我猜想其中原因是中国学者的宏观思考不足，对于数学的渊源不够清楚是一个重要的缺陷。
+
+
+
+中国数学学者对于数学历史大都厥如，数学历史学家的重点在于考古，研究的是中国古代数学的断纸残章，对于古代文献的处理，不如一般历史学家考证严谨，对于世界数学发展的潮流并不清楚，往往夸大了中国古代的贡献，有如当年义和拳认为中国武术胜过西方的船坚炮利，在这种自欺欺人的背景下，一般学者不知道世界数学的历史背景，结果是宏观意识不够，开创性的思想不足！所以我今年发起心愿，希望大家努力了解世界数学历史，尤其是十八世纪以后的数学发展，这些大数学家的思维影响至今。以下我选择了少数几点来讨论： 
+
+
+
+We decide not to include works after the year 2000 because there is not enough time for the math community to form common opinions on works that have been around for such a short time.
+
+
+
+下文只论及二零零零年以前的进展。
+
+
+
+1. Thales [c.624/623 BC–c.548/545 BC] initiated the first systematic mathematical approach among Greek scholars. The Pythagorean School --- founded by Pythagoras [c.570 BC–c.495 BC] --- gave rise to the Pythagorean Theorem, a fundamental tenet of geometry, as well as to the existence of irrational numbers’ by the method of contradiction.
+
+1. 在芸芸古希腊学者中，泰勒斯是首个系统地探究数学的人。由毕达哥拉斯奠定的毕达哥拉斯学派发现了毕氏定理，这是几何学的根本。同时，利用反证法，他们也证明了无理数的存在。
+
+2. There are speculations that either Theaetetus [c.417 BC–c.369 BC] or Plato [c.428/427 BC–c.348/347 BC] proved that there were only five regular solids. Euclid [Mid-4th century BC – Mid-3rd century BC] brought a clear conception of “proof” into mathematics. He organized all the known theorems in Geometry at that time, by deriving them rigorously from five axioms which are intuitively clear. The axiomatic approach to organize scientific materials has deep influence on later development of science, including Newton’s treatment of mechanics and the modern attempt to unified all forces in theoretical physics. Euclid also showed that there are infinitely many prime numbers. Ancient Greek mathematicians started to be suspicious about Euclid's fifth postulate --- the parallel postulate, and tried to prove it by the other four axioms. This idea influenced the development of mathematics. The parallel postulate is equivalent to the triangle postulate, which states that the sum of angles of a triangle equals 180 degrees. It is the embryonic form of Gauss–Bonnet formula. Parallel is one of the most fundamental concepts in mathematics and influenced modern physics. Trisecting angle and squaring circle are the straightedge and compass construction problems put forward by the Greeks, one associated with Galois group and one with the transcendence of .
+
+2. 泰阿泰德或柏拉图证明了只有五种正则多面体。欧几里德廓清了何谓数学上的“证明”。他利用五条公理，把当时知道的几何定理严格地推导出来，而这五条公理却是自明的。这种公理化的处理手法对后世科学的发展影响深远，受影响的包括牛顿的力学体系和现代物理学中统一场论中的种种尝试。欧几里德也证明了素数是无限的。古希腊数学家对于欧几里得的第五条平行公理，始终不认为是显而易见，希望由其他四条公理来证明它。这个想法影响了数学的发展，它等价于平面三角形的内角和等于180 度，这个命题是高斯–博内公式的雏形。平行的观念成为数学中最基本的观念，影响了近代物理。古希腊人提出了两个尺规作图问题：三等分角和化圆为方，分别与伽罗瓦群和圆周率的超越性有关。
+
+3. Archimedes [c.287 BC–c.212 BC] introduced infinitesimals, which are key elements of calculus, and he used the “Method of Exhaustion” to calculate the surface area and volume of several important geometrical objects, including the surface area and volume of spheres and areas of sections of paraboloid. He also provided precise mathematical solutions to many important problems of physics. Archimedes also proved the inequalities  by inscribing and circumscribing a 96-sided regular polygon. Hundreds of years later, Liu Hui [c.225–c.295] and Zu Chongzhi [429–500] obtained  with a 192-sided polygon.
+
+3. 阿基米德引进了极小元，它可说是微积分的滥觞。他运用“穷尽法”来计算某些重要几何物体的表面积和体积，其中包括了球的表面积和体积，以及抛物体的截面积。他也得到很多重要物理问题的精确数学解。阿基米德又用内接和外切正 96 边形去逼近单位圆，证明了不等式
+圆
+周
+率
+。几百年后，刘徽和祖冲之以 192 边形逼近得到圆周率为 3.1416。
+
+4. Eratosthenes [276 BC–194 BC] introduced the “sieve” method in number theory. This work was built upon, some 2,000 years later, by Legendre. In the 20th century, a new “large sieve” method was introduced, thanks to the collective efforts of Viggo Brun [1885–1978], Atle Selberg [1917–2007], Pál Turán [1910–1976]. G. H. Hardy [1877–1947] and J. E. Littlewood [1885–1977] introduced the circle method and proved a weak Goldbach conjecture stating that every large odd integer can be written as sum of three primes (assuming the generalized Riemann hypothesis). Ivan Vinogradov [1891–1983] later removed that assumption. His proof was followed by Chen Jingrun [1933–1996], who proved that every large even integer can be written as the sum of a prime number plus the product of two primes.
+
+4. 埃拉托色尼在数论中引进了筛法。差不多过了二千年，勒让德重新用到它。到了二十世纪，大筛法在布伦、塞尔伯格、图兰、哈代、利特伍德等人的努力下发展成熟。哈代和利特伍德利用“圆法”证明了哥德巴赫猜想的一个较弱的版本，即在黎曼假设之下，任何一个足够大的奇数可以表示为三个素数之和。维诺格拉陀夫稍后去掉了这个假设。接着陈景润证明了，任何一个足够大的偶数，都可以写成为一个素数和另一个数之和，而后者是两个素数（其中一个可以是 1）之乘积。
+
+5. In the eighth century, Arab mathematician Al-Khalil [718–786] wrote on cryptography; Al-Kindi [c.801–c.873] used statistical inference in cryptanalysis and frequency analysis. In the seventeenth century, Pierre de Fermat [1607–1665], Blaise Pascal [1623–1662] and Christiaan Huygens [1629–1695] started the subject of probability. This was followed by Jakob Bernoulli [1654–1705] and Abraham de Moivre [1667–1754]. In eighteenth century, Pierre-Simon Laplace [1749–1827] proposed the frequency of the error is an exponential function of the square of the error. Andrey Markov [1856–1922] introduced Markov chains, which can be applied to stochastic processes.
+
+5. 到了八世纪，阿拉伯数学家海利勒有了编码理论的著作，而肯迪则把统计学用到密码分析和频率分析上去。到了十七世纪，费马、帕斯卡、惠更斯共同创立了概率论，这学科为伯努利和德莫夫进一步发展。十八世纪，拉普勒斯指出误差的频率是误差平方的指数函数。到了十九世纪，马尔可夫引进了随机过程中的马尔可夫链。
+
+6. Several important methods were introduced in numerical calculations over many centuries. In ancient times, the Chinese mathematician Qin Jiushao [c.1202–c.1261] found an efficient numerical method to solve polynomial equations. He also applied the Chinese remainder theorem for the purposes of numerical calculations. Chinese remainder theorem appeared in the book called the Mathematical classic of Sunzi around 4th century. In modern days, John von Neumann [1903–1957] and Courant–Friedrichs–Lewy [1928] studied the finite difference method. Richard Courant [1888–1972] studied the finite element method, while Stanly Osher [1942–] studied the level set method. A very important numerical method is the fast Fourier transform which can be dated back to Gauss in 1805. In 1965, J. Cooley [1926–2016] and J. Tukey [1915–2000] studied a general case and gave more detail analysis. It has become the most important computation tool in numerical calculations, especially for digital signal processing.
+
+6. 多个世纪以来，人们在数值计算方面找到了几个重要的方法。宋代数学家秦九韶找到了一个求解多项式方程的有效方法。他也把孙子定理应用到数值计算上，孙子定理首见于四世纪的《孙子算经》一书中。到了现代，冯·诺伊曼、柯朗–弗理德里赫斯–路维研究了有限差分法。柯朗研究了有限元，而奥舍尔则发展了水平集方法。一个重要的数值方法是快速傅立叶变换，此法可追溯到 1805 年的高斯。1965 年，库利和图基考虑了更一般的情况，并作出详尽的分析。从此，快速傅立叶变换成为数值计算尤其是数字讯息处理中最重要的方法。
+
+7. Gerolamo Cardano [1501–1576] published (with attribution) the explicit formulae for the roots of cubic and quartic polynomials, due to Scipione del Ferro [1465–1526] and Ludovico Ferrari [1522–1565], respectively. He promoted the use of negative and imaginary numbers and proved the binomial theorem. Later Carl Friedrich Gauss [1777–1855] proved the fundamental theorem of algebra that every polynomial of th degree has  roots in the complex plane.
+
+7. 十六世纪，卡尔丹诺发表三次方程和四次方程根的公式，并指出它们分别归功于德尔费罗和法拉利。他提倡使用负数和虚数，并且证明了二项式定理。十九世记初，高斯证明了代数基本定理，即任何  阶的多项式在复平面上具有  个复根。
+
+8. René Descartes [1596–1650] invented analytic geometry, introducing the Cartesian coordinate system that built a bridge between geometry and algebra. This important concept enlarged the scope of geometry. He also proposed a precursor of symbolic logic.
+
+8. 十七世纪，笛卡儿发明了解析几何学，利用笛卡儿坐标系作为沟通几何和代数的桥梁。这个重要的概念扩阔了几何的堂庑。他也是符号逻辑的先驱。
+
+9. Pierre de Fermat [1607–1665] introduced a primitive form of the variational principle, generalizing the work of Hero of Alexandria. With Blaise Pascal [1623–1662], he laid the foundations for probability theory. He also began to set down the foundation of modern number theory.
+
+9. 费马找到了变分原理的雏型，从而推广了古希腊亚历山大希罗的工作。他和帕斯卡一起奠定了概率论的基础。他也是现代数论的开山祖师。
+
+10. Isaac Newton [1643–1727] systematically established the subject of calculus while also discovering the fundamental laws of mechanics. He formulated the law of universal gravitation and applied the newly developed calculus to derive Kepler’s three laws of planetary motion. He found the Newton’s method to find roots of an equation which converge quadratically fast.
+
+10. 十七世纪，牛顿在寻找力学的基本定律时，系统地建立了微积分。他写下了万有引力的公式，又利用刚刚发明的微积分来推导出开普勒的行星运动三定律。此外，他也找到了以二阶收敛的方程求根法。
+
+11. Leonhard Euler [1707–1783] was the founder of the calculus of variations, graph theory, and number theory. He introduced the concept of the Euler characteristic and initiated the theory of elliptic functions, the zeta function, and its functional equation. He was also the founder of modern fluid dynamics and analytic mechanics. His formula  has tremendous influence in mathematics including the development of Fourier analysis.
+
+11. 欧拉是变分法、图论和数论的奠基人。他引入了欧拉示性类，又开启了椭圆函数、zeta 函数及其函数方程的研究。他也是现代流体力学、解析力学的创始者。他有关复数的表示式  对后世尤其是傅立叶分析有很大的影响。
+
+12. Joseph Fourier [1768–1830] introduced the Fourier series and the Fourier Transform, which became the main tool for solving linear differential equations. A fundamental question in Fourier series analysis is Lusin’s conjecture, which was solved by Lennart Carleson [1928–]. It says that a square integrable Fourier series converges pointwise almost everywhere.The ideas of Joseph Fourier contributed fundamentally to wave and quantum mechanics.
+
+12. 十九世纪初，傅立叶引进了傅立叶级数和傅立叶变换，两者都是求解线性微分方程的主要工具。傅立叶级数中一个基本问题是鲁津猜想，直至上世纪六十年代它才由卡尔森解决。猜想断言每个平方可积函数的傅立叶级数几乎处处收敛。傅立叶的原创思想对波动和量子力学都有深远的影响。
+
+13. Mikio Sato [1928–] introduced hyper-functions. Lars Hörmander [1931–2012] studied Fourier integral operators. Masaki Kashiwara [1947–] and Joseph Bernstein [1945–] studied -modules. The theory of -modules has important applications in analysis, algebra, and group representation theory.
+
+13. 到了现代，佐藤幹夫引入了超函数，霍孟德研究了傅立叶积分算子，柏原正树和伯恩斯坦研究了-模。-模理论在分析、代数和群表示论中都有重要的应用。
+
+14. Carl Friedrich Gauss [1777–1855] proved the fundamental theorem of algebra. He is the founder of modern number theory, discovering the Prime Number Theorem and Quadratic Reciprocity. He studied the geometry of surfaces and discovered intrinsic (Gauss) curvature. Gauss, Nikolai Ivanovich Lobachevsky [1792–1856], and János Bolyai [1802–1860] independently discovered non-euclidian geometry.
+
+14. 十九世纪初，高斯证明了代数基本定理，发现了素数定理和二次互反律，他是现代数论之父。他也研究了曲面的几何，发现了高斯曲率是内蕴的。高斯、洛巴切夫斯基、鲍耶分别独立地发明了非欧几何学。
+
+15. Augustin-Louis Cauchy [1789–1857] and Bernhard Riemann [1826–1866] initiated the study of function theory of one complex variable --- a development built upon later by Karl Weierstrass [1815–1897], Émile Picard [1856–1941], Émile Borel [1871–1956], Rolf Nevanlinna [1895–1980], Lars Ahlfors [1907–1996], Menahem Max Schiffer [1911–1997], and others. The space of bounded holomorphic functions over a domain form a Banach algebra whose abstract boundary needs to be identified. Lennart Carleson solved this corona problem for the planar disk. A higher dimensional version of this problem is still open. Louis de Branges [1932–] solved the coefficient (Bieberbach) conjecture of univalent holomorphic functions.
+
+15. 柯西和黎曼开拓了单复变函数论的研究，继起的研究者包括魏尔斯特拉斯、皮卡德、博雷尔、奈望林纳、阿尔福斯、希弗等。在同一区域上的有界全纯函数形成一巴拿赫代数，其抽象边界需要等同起来。卡尔森解决了平面圆盘上的日冕问题。这问题在高维仍未解决。德布兰奇解决了有关单值全纯函数系数的比伯巴赫猜想。
+
+16. Hermann Grassmann [1809–1877], Henri Poincaré [1854–1912], Élie Cartan [1869–1951], and Georges de Rham [1903–1990] studied differential forms. Hermann Weyl [1885–1955] defined what a manifold is and used method of projection to prove Hodge decomposition for Riemann surfaces. Georges de Rham [1903–1990] proved the de Rham’s theorem. William Hodge [1903–1975] generalized the theory of Weyl to higher dimensional manifolds. He introduced the star operator. When the manifold is Kähler, he gave refined decomposition theory for differential forms and put the topological theorems of Lefschetz into an  representation on the space of Hodge forms. The de Rham complex contains informations of rational homotopy of the manifold, as was observed by Dennis Sullivan [1941–] based on works of Daniel Quillen [1940–2011] and Kuo-Tsai Chen [1923–1987] on iterated integrals. Sullivan and Micheline Vigue–Poirrier used this theory and the work of Detlef Gromoll [1938–2008]–Wolfgang Meyer [1936–] to prove that simply connected manifold whose rational cohomology ring is not generated by one element has infinitely many geometrically distinct geodesics.
+
+16. 格拉斯曼、庞加莱、嘉当、德拉姆研究了微分形式。魏尔定义了流形，并且利用投影法证明了黎曼曲面上的德拉姆分解。德拉姆证明了德拉姆定理。霍奇把魏尔的理论推广到高维流形上去。他引进了星算子。当流形是凯勒时，他对流形上面的微分形式作了更精细的分解。他也把莱夫谢茨的拓扑定理表达成在霍奇形式所组成的空间上的一个  表示。利用奎伦和陈国才关于迭代积分的工作，沙利文看到德拉姆复形包含着流形有理同伦的信息。沙利文和维格波里尔利用了格罗莫尔和迈耶的工作，证明了当一个单连通流形的有理上同调环并非由一个单元生成时，它上面存在着无限条不同的测地线。
+
+17. Niels Henrik Abel [1802–1829] used permutation group to  prove that one cannot solve general polynomial equations by radicals when the degree is greater than 4.  Later on, Évariste Galois [1811–1832]  invented group theory to give the precise criterion of solvability by radicals for a polynomial. Sophus Lie [1842–1899] studied symmetries and introduced continuous groups of symmetry transformations, which are now called Lie groups. Wilhelm Killing [1847–1923] continued the study of Lie groups and Lie algebras. Galois theory has deep consequences in number theory. Emil Artin[1898-1962]–John Tate[1925-2019] studied the general theory of Galois modules, in particular, class field theory in term of Galois cohomology. Kenkichi Iwasawa [1917–1998] studied structures of Galois modules over extensions with Galois group being a -adic Lie group and defined arithmetic -adic -function. He asked whether the arithmetic one is essentially  same as the -adic -function defined by Tomio Kubota [1930–] and Heinrich-Wolfgang Leopoldt [1927–2011] using interpolation on Bernoulli numbers. Major contributions to Iwasawa theory are made by Ken Ribet [1948–], John Coates [1945–], Barry Mazur [1937–]–Andrew Wiles [1953–], and others.
+
+17.  阿贝尔利用置换群证明了当多项式方程的次数大于四时，一般的求根公式并不存在。之后，伽罗瓦发明了群论给出了一个多项式方程是否可根式求解的判定准则。索菲斯·李研究了对称性，并引入了对称变换的连续群，后世称为李群。基林继续李群和李代数的研究。伽罗瓦理论在数论有深远的影响。阿廷和泰特研究了伽罗华模的一般理论, 比如用伽罗华上同调建立类域论。岩泽健吉研究了伽罗瓦群为进李群时伽罗瓦模的结构, 并定义了算术的进-函数。他提出了这个算术的进-函数与久保田富雄和利奥波德利用在伯努利数上插值所定义的进-函数是否本质相同这个问题。里贝特、科茨、马祖尔和怀尔斯等人对岩泽理论作出了重大贡献。
+
+18. In 1843, William Hamilton [1805–1865] introduced quaternion number. It had deep influence in both mathematics and physics including the work of Paul Dirac [1902–1984] in Dirac operator. At the same time, octonions (or Cayley number) was introduced independently by Arthur Cayley [1821–1895] and John T. Graves [1806–1870] independently. In 1958, M. Kervaire [1927–2007] and J. Milnor [1931–] independently used Bott periodicity and -theory to prove that the only real division algebras of finite dimension has dimension 1, 2, 4 and 8.
+
+18. 1843 年，汉密尔顿引入了四元数，四元数对数学和物理都有深远的影响，后者见于狄拉克有关狄拉克算子的工作。同时，凯利和格雷夫斯独立地引入了八元数。1958 年，卡维尔和米尔诺独立地利用博特的周期性定理和理论证明了实域上有限维可除代数的维数只能是 1，2，4 和 8。
+
+19. Diophantine approximation is a subject to approximate real number by rational numbers. In 1844, Joseph Liouville [1809–1882] gave the first explicit transcendental number. Axel Thue [1863–1922], Carl Siegel [1896–1981] and Klaus Roth [1925–2015] developed it as a field that are important for solving Diophantine equations. Hermann Minkowski [1864–1909] introduced method of convex geometry to find solutions. This was followed by Louis Mordell [1888–1972], Harold Davenport [1907–1969], Carl Siegel [1896–1981], Wolfgang Schmidt [1933–] and others.
+
+19. 丢番图逼近论研究的乃是如何用有理数逼近无理数。1844 年，刘维尔首次找出了具体的超越数。图厄、西格尔和罗斯从此发展出一个求解不定方程的重要领域。闵可夫斯基利用凸几何来求解。继后者包括莫德尔、达文波特、西格尔和施密特等人。
+
+20. Bernhard Riemann [1826–1866] introduced the theory of Riemann surfaces and began to study topology of higher dimensional manifolds. He carried out a semi-rigorous proof of the uniformization theorem in complex analysis. Poincaré and Koebe generalized this theory to general Riemann surfaces. Riemann  generalized the Jacobi theta function and introduced the Riemann theta function defines on abelian varieties. By studying the zeros of the Riemann theta function, he was able to give an important interpretation of the Jacobean inversion problem. He also defined the Riemann zeta function and studied its analytic continuation. He formulated the Riemann hypothesis concerning the zeta function, which has far-reaching consequences in number theory. The idea of zeta function was generalized to -functions by P.G.L. Dirichlet [1805–1859] where important number theoretic theorems are proved. Riemann zeta function was used by Jacques Hadamard [1865–1963] and C.J. de la Vallée Poussin [1866–1962] to prove the prime number conjecture of Gauss (elementary proof was found later by Paul Erdős [1913–1996] and Atle Selberg [1917–2007].) Zeta function for spectrum of operators is used to define invariants of the operator. Ray–Singer introduced their invariant for manifolds based on such regularization.
+
+20. 黎曼引进了黎曼曲面，并开创了高维流形拓扑的研究。他对复分析上的单值化定理首先给出一个差不多严格的证明。庞加莱和科布把他的理论推广至一般的黎曼面。黎曼推广了雅可比 theta 函数并引进了定义在阿贝尔簇上的黎曼 theta 函数。透过对黎曼 theta 函数零点的研究，给出了雅可比反演问题的重要解释。他又定义了黎曼 zeta 函数，并研究其解析延拓。沿着 zeta 函数的想法，狄利克雷引进了函数作为推广，并用来证明了好些数论的定理。黎曼 zeta 函数为哈达玛和瓦利普桑用来证明高斯的素数定理（初等证明后由埃尔德什和塞尔伯格给出）。算子谱的 zeta 函数也用来定义算子的不变量。雷和辛格利用这种正则化引进了流形上的不变量。
+
+21. After Riemann [1826–1866] introduced Riemannian geometry, Elwin Christoffel [1829–1900], Gregorio Ricci [1853–1925], and Tullio Levi-Civita [1873–1941] carried it further. Hermann Minkowski [1864–1909] was first to use four dimensional spacetime to provide a complete geometric description of special relativity. All these developments became key mathematical tools in the formulation of Einstein’s general theory of relativity, which identifies gravitation as an effect of space-time geometry. Marcel Grossmann [1878–1936] and David Hilbert [1862–1943] contributed to this development significantly.
+
+21. 十九世纪，黎曼引进的黎曼几何学，其后为克里斯托弗尔、里奇、列维奇维塔等人所发展。闵可夫斯基首先利用四维时空，完整地从几何的角度阐明狭义相对论。所有这些工作给爱因斯坦的广义相对论提供了关键的数学工具。广义相对论把引力看成时空几何中的某种作用。格罗斯曼和希尔伯特对此皆有重大贡献。
+
+22. Riemann [1826–1866] started the theory of nonlinear shock waves, and this was followed by John von Neumann, Kurt Otto Friedrichs [1901–1982], Peter Lax [1926–], James Glimm [1934–], Andrew Majda [1949–], and others. The theory for multi-dimensional wave is still largely unsolved.
+
+22. 黎曼开始了冲击波的研究，继之者包括冯·诺伊曼、弗理德里赫斯、拉克斯、格里姆、迈达等。目前我们对高维冲击波所知甚少。
+
+23. Georg Cantor [1845–1918] founded set theory in the 19th century, defined cardinal and ordinal numbers, and also started the theory of infinity. Kurt Gödel [1906–1978] proved the incompleteness theorem in 1931. Alfred Tarski [1901–1983] developed model theory. Paul Cohen [1934–2007] developed the theory of forcing and proved that continuum hypothesis and axiom of choice are independent based on Zermelo–Fraenkel axioms.
+
+23. 十九世纪，康托创立了集合论。他定义了基数和序数，并且开始了对无限的研究。1931 年，哥德尔证明了不完备定理。塔斯基发展了模型论。科恩发展了迫力理论，并且证明了在集合论中的 ZF 公理下，连续统假设和选择公理是独立的。
+
+24. Felix Klein [1849–1925] initiated the study of the Kleinian group. He started the Erlangen program of classifying geometry according to groups of symmetries of the geometry. New geometries such as affine geometry, projective geometry, and conformal geometry were studied from this point of view. Emmy Noether [1882–1935] demonstrates how to obtain conserved quantities from continuous symmetries of a physical system. In 1926, Élie Cartan [1869–1951] introduced the concept of holonomy group into Geometry. Those Riemannian geometries whose holonomy groups are proper subgroups of orthogonal groups are rather special. In 1953, Marcel Berger [1927–2016], based on the works of Ambrose–Singer, classified those Lie groups that can appear as holonomy groups for Riemannian geometries. When the group is unitary, it gives Kähler geometry which was introduced by Erich Kähler [1906–2000] in 1933. When it is special unitary group, it gives Calabi–Yau geometry. When the groups are other exceptional Lie group, examples of those manifolds were constructed by Dominic Joyce [1968–]. The concept of holonomic group provides internal symmetry for modern physics.
+
+24. 克莱因开创了克莱因群的研究，他在爱朗根纲领中提出利用几何的对称群来为几何学分类。崭新的几何如仿射几何、射影几何和共形几何都可以用这观点来研究。诺特阐明了如何从物理系统的连续对称群来得到守恒量。1926 年，嘉当在几何中引进了和乐群。和乐群为正交群的真子群的黎曼几何尤其特殊。1953 年，贝格根据安保斯和辛格的工作，把能作为黎曼几何和乐群的李群都分了类。当群是酉群时，所得到的便是 1933 年由凯勒引进的凯勒几何。当它是特殊酉群时，所得到的便是卡拉比–丘几何。当它是其他例外李群时，所得到的流形有好些由乔伊斯构造出来。和乐群的概念为现代物理提供了内部对称。
+
+25. In 1882, Ferdinand von Lindemann [1852–1939] proved the transcendence of numbers which are exponential of algebraic integers and established the transcendence of . The theorem was generalized by Karl Weierstrass [1815–1897]. In 1934–1935, Alexander Gelfond [1906–1968] and Theodor Schneider [1911–1988] solved the Hilbert seventh problem, hence generalized the theorem of Lindemann–Weierstrass. In 1966, Alan Baker [1939–2018] gave an effective estimate of the theorem of Gelfond–Schneider. In 1960's, Stephen Schanuel [1933–2014] formulated a more general conjecture and the Schanuel conjecture was generalized again by Alexander Grothendieck [1928–2014] as conjectures on periods of integrals in algebraic geometry.
+
+25. 1852 年，林德曼证明了代数整数的指数乃是超越数，他也建立了圆周率的超越性。他的定理稍后由魏尔斯特拉斯所推广。在 1934 年和 1935 年之间，盖尔范德和施耐德解决了希尔伯特第七问题，因此推广了林德曼–魏尔斯特拉斯定理。1966 年，贝克给出了盖尔范德–施耐德定理的有效估计。1960 年代，史安努尔提出了一个更广泛的猜想，其后格罗腾迪克又把史安努尔猜想推广，成为代数几何学上有关积分周期的某些猜想。
+
+26. Henri Poincaré [1854–1912], Emmy Noether [1882–1935], James Alexander [1888–1971], Heinz Hopf [1894–1971], Hassler Whitney [1907–1989], Eduard Čech [1893–1960] and others laid the foundation for algebraic topology. They introduced important concepts such as chain complex, Čech cohomology, homology, cohomology and homotopic groups. A very important concept was the duality introduced by Poincaré.
+
+26. 庞加莱、诺特、亚力山大、霍普夫、惠特尼、切赫等人为代数拓扑学奠下了基石。他们引进了如链复形、切赫上同调、同调、上同调和同伦群等重要概念。一个非常重要的概念是庞加莱提出的对偶性。
+
+27. David Hilbert [1862–1943] studied integral equations and introduced Hilbert spaces. He studied spectral resolution of self adjoins operators of Hilbert space. The algebra of operators acting on Hilbert space has become a fundamental tool to understand quantum mechanics. This was studied by John von Neumann [1903–1957] and later by Alain Connes [1947–] and Vaughan Jones [1952–].
+
+27. 希尔伯特研究了积分方程，并引进了希尔伯特空间。他又探究在希尔伯特空间上自共轭算子的谱分解。希尔伯特空间上算子形成的代数是了解量子力学的基本工具。它们先由冯·诺伊曼、继而由孔涅和琼斯等人研究。
+
+28. Hilbert established the general foundation of Invariant Theory which was further developed by David Mumford [1937–] and others. It became an important tool for investigating moduli spaces of various algebraic structures. In most cases, the Moduli spaces of algebraic geometric structures are themselves algebraic varieties, after taking into accounts of degenerate algebraic structures. Wei-Liang Chow [1911–1995] parametrize algebraic varieties of a fixed degree in a projective space by the Chow coordinates. Deligne–Mumford compactified the moduli space of algebraic curves while David Gieseker [1943–] and Eckart Viehweg [1948–2010] compactified moduli space of manifolds of general type. David Gieseker [1943–] and Masaki Maruyama [1944–2009] studied moduli space of vector bundles. For Moduli space of abelian varieties, there is classical theory of compactification of quotients of Siegel spaces, based on reduction theory due to H. Minkowski. For locally symmetric space with finite volume , there are various compactification due to Armand Borel [1923–2003], Walter Bailey [1930–2013], Ichirō Satake [1927–2014], Jean-Pierre [1926–] and others. In the other direction, a very important analytic approach to moduli space of Riemann surfaces was initiated by Oswald Teichmüller [1913–1943] based on the concept of quasi conformal maps. L. Ahlfors [1907–1996], L. Bers [1914–1993], H. Royden [1928–1993], and others continued this approach.
+
+28. 希尔伯特打下了一般不变量理论的基础，继之者有蒙福特等人。它成了探求各种代数结构模空间的重要工具。如把退化的代数结构也算进去，在很多情况下，代数几何结构的模空间也是代数簇。周炜良利用周氏座标，把固定次数的代数簇在投影空间中参数化。德利涅–蒙福德把代数曲线的模空间紧化，而吉塞克和维赫威格则把一般型流形的模空间紧化了。吉塞克和丸山正树研究了向量丛的模空间。对阿贝尔簇的模空间而言，西格尔空间的商的紧化是经典的结果，这是基于闵可夫斯基的归结理论。对具有有限体积的局部对称空间而言，博雷尔、贝利、佐武一郎、塞尔等人作出了不同的紧化。另一方面，一个非常重要的解析方法是蒂希米勒利用拟共形映照，给出黎曼面的模空间。阿尔福斯、伯斯、罗伊登等人是这做法的后继者。
+
+29. Based on the works of Gauss reciprocity law, Kummer extensions, Leopold Kronecker [1823–1891] and Kurt Hensel [1861–1941]’s work on ideals and completions, Hilbert introduced class field theory. Emil Artin [1898–1962] proved Artin reciprocity law inspired by the earlier works of Teiji Takagi [1875–1960] on existence theorem. Both local and global class field theories were redeveloped by Artin and Tate using group cohomology. Later works were done by Goro Shimura [1930–2019], J.-P. Serre, Robert Langlands [1936–], and Andrew Wiles [1953–], through a series of research that closely combined number theory with group representation theory. Besides Langlands program, higher class field theory also appears in algebraic -theory.
+
+29. 基于高斯互反律，库默尔扩张，克罗内克尔以及亨塞尔关于理想与完备化的工作，希尔伯特引入了类域论。受高木贞治早期关于存在性定理工作的启发，阿廷证明了阿廷互反律。阿廷和泰特利用群的上同调重建了局部和整体类域论。后来工作由志村五郎、塞尔、朗兰兹和怀尔斯通过一系列紧密地结合数论与群表示论的研究完成。除了朗兰兹纲领外，高维类域论也出现在代数理论中。
+
+30. In the 20th century, Élie Cartan [1869–1951] and Hermann Weyl [1885–1955] made important contributions to the structure of compact Lie groups and Lie algebras and their representations. Weyl contributed to quantum mechanics by using representation of compact groups. Pierre Deligne [1944–], George Lusztig [1946–], and others laid the foundation of representation theory of finite groups of Lie type. Mathematical physicists such as Eugene Wigner [1902–1995], Valentine Bargmann [1908–1989], and George Mackey [1916–2006] started to apply representation theory of a special class of noncompact groups to study quantum mechanics. After the important work of Kirillov and Gel’fand school on the representation of nilpotent groups and semi simple groups, Harish-Chandra [1923–1983] laid the foundation of Representation Theory of Non-compact Lie Groups. His work influenced the work of R. Langlands on Eisenstein series. I. Piatetski-Shapiro [1929–2009], I. M. Gel’fand [1913–2009], R. Langlands [1936–], H. Jacquet [1939–], J. Arthur [1944–], A. Borel [1923–2003] and others developed the theory of automorphic representation. Adelic approach based on representation of -adic groups and Hecke operation has been very powerful. Borel–Bott–Weil type theorems have provided geometric insight into representations of Lie groups.
+
+30. 二十世纪初，嘉当和魏尔对紧李群、李代数及其表示论都作出了杰出的贡献。魏尔把紧群的表示用于量子力学。德利涅、卢斯提格等人为李类型的有限群表示论奠下基石。数学物理学家如维格纳、巴格曼、麦基等开始把某类特殊的非紧群的表示论应用于量子力学。继基里洛夫和盖尔范德学派关于幂零群和半单群表示论的重要工作后，哈里斯钱德拉为非紧李群的表示论打下基础。他的工作影响了朗兰兹有关爱森斯坦级数的工作。皮亚捷斯基夏皮罗、盖尔范德、朗兰兹、雅克、亚瑟、博雷尔等人发展了自守表示理论，其中的基于进位群的表示和赫克运算的 adelic 方法十分有用。布雷尔–博特–韦伊型定理给出李群的表示论几何方面深刻的看法。
+
+31. L. E. J. Brouwer [1881–1966], Heinz Hopf [1894–1971], Solomon Lefschetz [1884–1972] initiated the study of the fixed point theory in topology. This was later generalized to the general elliptic differential complex by Atiyah–Bott. Graeme Segal [1941–] worked with Atiyah on equivariant -theory. In 1982, Duistermaat–Heckman found the symplectic localization formula, then Berline–Vergne and Atiyah–Bott obtained localization formula in equivariant cohomology setting independently. Atiyah and Bott introduced the powerful method of localization of equivariant cohomology to fixed point of torus action. They became powerful tools for computation in algebraic geometry.
+
+31. 布劳威尔、霍普夫、莱夫谢茨等开始研究拓扑中的不动点理论。稍后阿蒂雅和博特将之推广至一般的椭圆微分复形。西格尔与阿蒂雅研究了等变理论。1982 年，杜斯特马特与赫克曼发现辛局部化公式，随后柏林和韦尔涅、阿蒂雅和博特分别独立地在等变上同调下得出了局部化公式。阿蒂雅和博特为环面作用的不动点引入了有效的等变上同调局部化方法。它们已成为代数几何中有力的计算工具。
+
+32. George Birkhoff [1884–1944] and Henri Poincaré [1854–1912] created the modern theory of dynamical systems and ergodic theory. Von Neumann and Birhoff proved the ergodic theorem. Andrey Kolmogorov [1903–1987], Vladimir Arnold [1937–2010], and Jürgen Moser [1928–1999] showed that ergodicity is not a generic property of Hamiltonian systems by showing that invariant tori of integrable systems persist under small perturbations. Donald Ornstein [1934–] proved that Bernoulli shifts are determined by their entropy.
+
+32. 伯克霍夫和庞加莱是现代动力系统和遍历理论的谛造者。冯·诺伊曼和伯克霍夫证明了遍历定理。科尔莫戈罗夫、阿诺德、摩瑟证明了在可积系统中的不变环在小扰动下不会消失，因此遍历性并非汉米尔顿系统的典型性质。奥恩斯坦证明了伯努利移动由其熵决定。
+
+33. Hermann Weyl [1885–1955] introduced his gauge principle in 1928.In the period between 1926 to 1946, the study of principal bundles (non abelian gauge theory) was developed by Élie Cartan, Charles Ehresmann [1905–1979], and others. Around the same period, Hassler Whitney [1907–1989] initiated the theory of characteristic classes and vector bundles (with a special case provided by Eduard Stiefel [1909–1978]). In 1941, Lev Pontryagin [1908–1988] introduced characteristic classes for real vector bundles. In 1945, Shiing-Shen Chern [1911–2004] introduced the Chern classes on the basis of the work of Todd and Edger. Chern and Simons introduced the Chern–Simons invariants, which are important for knot invariants and condensed matter physics through topological quantum field theory. In 1954, Wolfgang Pauli [1900–1958], Chen-Ning Yang [1922–]–Robert Mills [1927–1999] applied the Weyl gauge principle and the nonabelian gauge theory due to É. Cartan, C. Ehresmann and S. S. Chern to particle physics. However ,they were not able to explain the existence of mass until the important development of the theory of symmetry breaking and the fundamental works of Gerard t’Hooft [1946–], Ludvig Fadeeev [1934–2017], et al.
+
+33. 1928年，魏尔引进了他的规范原理。在 1926 年到 1946 年期间，主纤维丛的研究（非阿贝尔规范场论）由嘉当、埃雷斯曼和其他人发展了。差不多同一时期，惠特尼开始了示性类和向量丛理论（斯蒂费尔给出其中一个特殊情况）的研究。庞特利雅金对实向量丛引入了示性类。1945 年，陈省身根据托德和艾德格的工作创造了陈类。陈省身和西蒙斯引入了陈–西蒙斯不变量。透过拓扑量子场论，这些不变量对纽结不变量以及凝聚态物理学都很重要。1954 年，泡利、杨振宁–米尔斯把魏尔的规范原理和嘉当、埃雷斯曼、陈省身等创造的非阿贝尔规范场论用到粒子物理学上去。然而，这些理论没能解释物质质量的存在，一直到对称破坏理论，以及提霍夫特和法德耶夫等人的基础性工作的出现，问题才有进展。
+
+34. The foundational work of Weyl on the spectrum of a differential operator influenced the development of quantum mechanics, differential geometry, and graph theory. The Weyl law counts eigenvalues asymptotically. The spectrum of elliptic operators and the special nature of spectral function became the most important branch of harmonic analysis. Basic properties of zeta functions of eigenvalues was studied by S. Minakshisundaram [1913–1968] and Åke Pleijel [1913–1989]. Daniel Ray [1928–1979] and Isadore Singer [1924–] defined the determinant of the Laplacian and introduced the Ray–Singer invariants. For Dirac operators, Atiyah–Singer–Patodi studied eta functions and obtained eta invariants for odd dimensional manifolds.
+
+34. 魏尔有关微分算子谱的基础工作影响了量子力学、微分几何和图论的发展。魏尔定律给出特征值的渐近性质。椭圆算子的谱和谱函数的特性成为调和分析最重要的分支。闵那克史孙达朗和普莱耶尔研究了特征值的 zeta 函数的基本性质。雷和辛格定义了拉普拉斯算子的行列式，并且引进了雷–辛格不变量。对狄拉克算子而言，阿蒂雅–辛格–帕度提研究了 eta 函数，对奇数维的流形得到其 eta 不变量。
+
+35. Erwin Schrödinger [1887–1961] invented the Schrödinger equation to define the dynamics of wave functions in quantum (or wave) mechanics. Weyl and Schrödinger used it to find the energy levels of the hydrogen atom. Heisenberg and Weyl showed that wave functions satisfy the uncertainty principle, i.e. a function and its Fourier transform cannot be localized simultaneously. Feynman introduced the path integral in quantum mechanics which became the most important tool for quantization of physical system.
+
+35. 薛定谔发明了薛定谔方程，用以描述量子或波动力学中波函数的动态。魏尔和薛定谔用它来找到氢原子的能量层。海森堡和魏尔发现波函数满足测不准原理，即函数与其傅立叶变换不能同时局部化。费曼在量子力学中引入了路径积分，它是研究物理系统量子化最重要的工具。
+
+36. Louis Mordell [1888–1972] proposed the Mordell conjecture. He also proved the finite rank of the group of points of a rational elliptic curve. André Weil [1906–1998] studied this Mordell–Weil group by generalized the work of Mordell to include number field case. C. L. Siegel [1896–1981] studied integral points for arithmetic varieties. Many important conjectures including the Mordell conjecture was finally solved by Gerd Faltings [1954–] based on Arakelov Geometry. He also proved the Shafarevich conjecture for abelian varieties.
+
+36. 莫德尔提出了以他命名的猜想。他也证明了有理椭圆曲线上点群的秩是有限的。韦伊研究莫德尔–韦伊群，把莫德尔的工作推广以包含数域。西格尔研究了算术簇上的整点。包括莫德尔猜想在内的许多重要的猜想最后是被法尔廷斯凭藉阿拉克洛夫几何解决的，他亦破解了阿贝尔簇上的沙法列维奇猜想。
+
+37. Zeros of eigenfunctions were studied extensively by many authors. Richard Courant [1888–1972] found the nodal domain theorem. Shing-Tung Yau [1949–] noticed that volume of the nodal set is a quantity stable under deformations and made his conjecture on sharp upper and lower bounds for this quantity. The conjecture has became an important direction in spectrum research. Donnelly and Fefferman proved the Yau conjecture in the real analytic setting. Several approaches for smooth manifolds led to useful results, but far from optimal.
+
+37. 特征函数的零点曾为众多人研究。柯朗发现了节区域定理。丘成桐指出节点集的体积是一个在形变下稳定的量，并且对这个量的上下界作出精确的猜想。这猜想变成了谱研究的重要方向。唐纳利和费弗曼在实解析的条件下证明了丘成桐猜想。对光滑流形而言，几个不同的做法得到有用的结果，但距完满尚远。
+
+38. Stefan Banach [1892–1945] introduced Banach space, which represents rather general infinite dimensional space of functions. The Hahn–Banach theorem has become an important lemma. Joram Lindenstrauss [1936–2012], Per Enflo [1944–], Jean Bourgain [1954–2018] and others made important contributions to important questions for Banach space, including the invariant subspace problem. Juliusz Schauder [1899–1943] introduced fixed point theorem for Banach space that helped to solve partial differential equations.
+
+38. 二十世纪三十年代，巴拿赫引进了巴拿赫空间用以描述无限维的函数空间。汉恩–巴拿赫定理是研究这空间重要的工具。林克森斯特拉斯、恩福、布尔甘和其他人对巴拿赫空间的重要问题（包括不变子空间）皆有巨大贡献。肖德在巴拿赫空间上证明了不动点定理，用以求解偏微分方程。
+
+39. Marston Morse [1892–1977] introduced methods of topology to study critical point theory and vice versa. This method has became an important tool in differential topology through the work of Raoul Bott [1923–2005], John Milnor [1931–], and Stephen Smale [1930–]. Bott found the important periodicity of stable homotopic groups of classical groups. J. Milnor introduced surgery theory while S. Smale proved the -cobordism theorem, which implies the Poincaré conjecture for dimension greater than 4.
+
+39. 摩尔斯首创以拓扑研究临界点理论，同时以临界点理论研究拓扑。透过博特、米尔诺、史梅尔等人的努力，摩尔斯理论已成为微分拓扑中的重要工具。博特找到了典型群的稳定同伦群的周期性，这是重要的发现。米尔诺引进了割补理论，而史梅尔则证明了配边定理，从而解决了维数大于四的庞加莱猜想。
+
+40. Green's function, heat kernel and wave kernel are reproducing kernels that played important roles in the Fresholm theory of integral equations. Jacques Hadamard [1865–1963] constructed approximate kernels which are called parametrix. Gábor Szegő [1895–1985], Stefan Bergman [1895–1977], Salomon Bochner [1899–1982] studied reproducing kernel for various function space that have been important in several complex variables. Hua Loo-Keng [1910–1985] was able to compute these kernels for Siegel domains. Stefan Bergman used his kernel function to define the Bergman metric. Charles Feferman [1949–] gave detail analysis of the Bergman metric for bounded smooth strictly pseudo convex domain. A consequence of his analysis is the smoothness of the biholomorphic transformation up to the boundary. David Kazdhan [1946–] studied the structure of the Bergman metric under covering of manifolds. He was able to prove that Galois conjugate of Shimura varieties are still Shimura varieties.
+
+40. 格林函数、热核和波核等再生核在霍氏积分方程理论中扮演着重要的角色。哈达玛 找到了这些核的近似，称为拟基本解。塞戈、伯格曼、波克拿等人研究了在多复变函数论中重要的不同函数空间上的再生核。华罗庚计算了 Siegel 域上核函数。伯格曼利用他的核函数来定义伯格曼度量。费弗曼对有界光滑严格拟凸域上的伯格曼度量作出了详细的分析。从他的分析中，可以知道双全纯变换直到边界都是光滑的。卡兹丹研究了在流形覆盖下伯格曼度量的结构。他证明了志村簇的伽罗瓦共轭仍然是志村簇。
+
+41. Salomon Bochner [1899–1982] introduced a method to prove vanishing theorem that links topology with curvature. The method was later extended by Kunihiko Kodaria [1915–1997] for d-bar operators and by André Lichnerowicz [1915–1998] for Dirac operators. Kodarira applied his vanishing theorem to prove any compact Kähler manifold with integral Kähler class is algebraic. The generalization to d-bar Neumann problem was achieved by Charles B. Morrey [1907–1984] who solved the Levi problem and proved the existence of a real analytic metric on real analytic manifolds. Joseph Kohn [1932–] improved Morrey’s work and reproved the Newlander–Nirenberg theorem on the integrability of almost complex structures. Kiyoshi Oka [1901–1978] and Hans Grauert [1930–2011] also solved the Levi problem. Kodaria, Spencer, and Masatake Kuranishi [1924–] studied deformation of complex structures.
+
+41. 波克拿引入方法证明了把拓扑和曲率联系起来的消灭定理。这种方法后来被小平邦彦应用到算子上，也给里赫那洛维奇用到狄拉克算子上。小平用他的消灭定理证明了具整凯勒类的紧凯勒流形必是代数的。莫雷把它推广到纽曼问题上，从而解决了其中的李维问题，以及证明了实解析流形上存在着实解析度量。科恩改进了莫雷的工作，重新证明了纽兰德–尼伦伯格有关近复结构可积性的定理。冈洁和格劳特也解决了李维问题。小平、斯宾塞和仓西正武研究了复结构的形变。
+
+42. Richard Brauer [1901–1977], John Thomson [1932–], Walter Feit [1930–2004], Daniel Gorenstein [1923–1992], Michio Susuki [1926–1998], Jacques Tits [1930–], John Conway [1937–2020], Robert Griess [1945–], and Michael Aschbacher [1944–] completed the classification of finite simple groups. The Moonshine conjecture relating representation of the Monster group with automorphic form was proved by Richard Borcherds [1959–].
+
+42. 布劳尔、汤姆森、费特、戈伦斯坦恩、铃木通夫、泰兹、康威、格里斯、阿施巴赫等人共同完成了有限单群的分类。月光猜想把魔群的表示和自守形联系起来，它是由博切德斯首先证明的。
+
+43. Eugene Wigner [1902–1995] introduced the random matrix to study the spectrum of heavy atom nucleii. It was then conjectured by Freeman Dyson [1923–] that the spectrum obeyed the semicircle law for random unitary and orthogonal matrices. The Bohigas–Giannoni–Schmit conjecture held that spectral statistics whose classical counterpart exhibit chaotic behavior can be described by random matrix theory. Dan–Virgil Voiculescu [1949–] introduced free probability, which captures the asymptotic phenomena of random matrices.
+
+43. 维格纳在重原子核谱的研究中引进了随机矩阵。戴森猜测这些谱满足随机酉矩阵和正交矩阵中的半圆法则。BGS 猜想指出其古典对应显示纷乱状态的谱统计可以用随机矩阵理论来刻画。沃库乐斯古引入了自由概率来描述随机矩阵的渐近行为。
+
+44. In 1928, Frank P. Ramsey [1903–1930] introduces Ramsey theory which attempts to find regularity amid disorder. In 1959, Paul Erdős [1913–1996] and Alfréd Rényi [1921–1970] proposed the theory of random graphs. In 1976, Kenneth Appel [1932–2013] and Wolfgang Haken [1928–] proved the four color problem with helps by computer.
+
+44. 1928 年，拉姆齐发明了拉姆齐理论，用以在无序中寻找规律。1959 年，埃尔德什和仁易提出了随机图的理论。1976 年，阿佩尔和哈肯利用计算机证明了四色问题。
+
+45. William Hodge [1903–1975] asked the important question as to whether a Hodge class of type  can, up to torsion, be represented by algebraic cycles. Around the same time, Wei-Liang Chow [1911–1995] introduced the varieties of algebraic cycles. Periods of algebraic integrals played important roles in understanding algebraic cycles. These integrals were computed using holomorphic differential equations. The related Picard Fuchs equations can be used to compute the periods of elliptic curves. In 1963, John Tate [1925–2019] proposed an arithmetic analogue of the Hodge conjecture to describe algebraic cycles in arithmetic varieties by Galois representation on Étale cohomology. G. Faltings was able to prove it for abelian varieties over number fields.
+
+45. 霍奇提出了一个重要的问题，即一个型的霍奇类能否在相差一个挠动下由代数闭链所表示。差不多同时，周炜良引进了代数闭链簇。代数积分的周期在理解代数闭链中起着重要的作用。这些积分的计算要用到全纯微分方程，如皮卡德–福克斯方程便用于计算椭圆曲线的周期。1963 年，泰特提出霍奇猜想在算术上的对应猜想，用在 Étale 上同调上的伽罗瓦表示来描述在算术簇上的代数闭链。法尔廷斯对数域上的阿贝尔簇证明了泰特猜想。
+
+46. Andrey Kolmogorov [1903–1987], Aleksandr Khinchine [1894–1959], and Paul Lévy [1886–1971] laid the foundations of modern probability theory. Andrey Markov [1856–1922] introduced Markov chains. Kiyosi Itô [1915–2008] initiated the theory of stochastic equations. Norbert Wiener [1894–1964] defined Brownian motion as Gaussian process on function space and began the investigation of the Wiener process. Freeman Dyson [1923–] explained the stability of matter on the basis of quantum mechanics. The work was followed by Elliott H. Lieb [1932–] and coauthors. Harald Cramér [1893–1985] introduced large deviation theory. Simon Broadbent [1928–2002] and John Hammersley [1920–2004] introduced percolation theory.
+
+46. 科尔莫戈洛夫、辛钦、列维奠定了现代概率论的基础。马尔可夫链是马尔可夫引入的，而伊藤清开始了随机微分方程的研究。维纳定义了布朗运动，将它视为在函数空间上的高斯过程。他亦开始了维纳过程的研究。戴森利用量子力学来解释物质的稳定性，利布及其合作者作进一步研究。克莱默引入了大偏差理论。布罗德本特和哈默斯利则引入了渗流理论。
+
+47. John von Neumann [1903–1957] introduced operator algebra to study quantum field theory. This was followed by the work of Tomita–Takesaki. Alain Connes [1947–] introduced his non commutative geometry. Vaughan Jones [1952–] introduced the Jones polynomial as the first quantum link invariant. Edward Witten [1951–] used Chern Simons topological quantum field theory to interpret Jones polynomial for knots. Later Mikhail Khovanov [1972–] introduce his homology to explain Jones polynomial.
+
+47. 冯·诺伊曼首先利用算子代数来研究量子场论。接着的是富田稔和竹崎正道的工作。孔涅引进了非交换几何。琼斯引进了琼斯多项式作为第一个量子连结不变量。威滕利用陈–西蒙斯的拓扑量子场论来解释纽结上的琼斯多项式；后来科瓦诺夫用他的同调来解释琼斯多项式。
+
+48. In 1932, John von Neumann and Lev Landau [1908–1968] introduced the concept of the density matrix in quantum mechanics. Von Neumann extended the classical Gibbs entropy to quantum mechanics. Both Norbert Wiener [1894–1964] and Claude Shannon [1916–2001] made important contributions to information theory where they separaely introduced concepts of entropy. Wiener developed cyberetics and cognitive science, robotics, and automation. Strong subadsitivity of quantum entropy was conjectured by D. Robinson [1935–] and D. Ruelle [1935–] and later proved by E. Lieb [1932–] and M. Ruskai [1944–].
+
+48. 1932 年，冯·诺伊曼和朗道在量子力学中引进了密度矩阵的概念。冯·诺伊曼把经典吉布斯熵推广到量子力学上来。维纳和香农分别对信息论作出了重要的贡献，他们各自引进了熵的概念。维纳发展了控制论、认知科学、机器人学和自动化。罗宾逊和鲁尔提出有关量子熵的强次可加性的猜想，猜想其后为利布和鲁斯凯所证明。
+
+49. Jean Leray [1906–1998] introduced sheaf theory and spectral sequences, which became an important tool for both algebraic geometry and topology. J.-P. Serre developed a spectral sequence to compute the torsion free part of the homotopy group of spheres. Frank Adams [1930–1989] also introduced his spectral sequence to study the homotopy groups of spheres.
+
+49. 勒雷引进了层论和谱序列，它们是代数几何和拓扑的重要工具。塞尔发展了可以计算球面同伦群无挠性部分的谱序列。亚当斯也引入他的谱序列来研究球面的同伦群。
+
+50. André Weil [1906–1998] built a profound connection between algebraic geometry and number theory. He studied the infinite descent by using height and Galois cohomology. He introduced the Riemann hypothesis for algebraic varieties over finite fields. He propposed to study algebraic geometry over general fields and obtained important insights into number theory. Bernard Dwork [1923–1998], Michael Artin [1934–], Alexander Grothendieck [1928–2014] and Pierre Deligne [1944–] completed Weil’s project. Deligne proved Weil’s conjectures. This served as the foundation for the theory of arithmetic geometry. Alexander Grothendieck, J.-P. Serre, Bernard Dwork, and Michael Artin played fundamental roles in the development of algebraic and arithmetic geometry. In his seminal work Faisceaux Algébriques Cohérents, Serre applied the sheaf theory of Leray to algebraic geometry. Inspired by this, Grothendieck introduced schemes, topos to rebuild algebraic geometry using categories and functors. With his students, Grothendieck developed -adic cohomology, Étale cohomology, crystalline cohomology and finally proposed the ultimate cohomology --- the theory of motives. These theories build up the basic framework of modern algebraic geometry.
+
+50. 韦伊建构起代数几何和数论之间深刻的联系。他运用高度和伽罗瓦上同调群来研究无限下降法。对有限域上的代数簇，他提出了对应的黎曼假设。他也提议研究一般域上的代数几何，从而对数论获得重要的洞识。德沃克、阿廷、格罗腾迪克、德利涅一起完成韦伊的规划。德利涅证明了韦伊猜想，奠定了算术几何学的基础。格罗腾迪克、塞尔、德沃克和阿廷对代数几何和算术几何的发展皆有基本的贡献。塞尔在其奠基性工作 FAC 中将勒雷提出的层论应用到代数几何中去。格罗腾迪克受此启发引入概型，拓扑斯等概念把代数几何用范畴与函子的语言重新建立起来。此后格罗腾迪克及其学生发展出了-进上同调，Étale 上同调，晶体上同调并提出终极上同调理论 --- motive 理论。这些理论搭建了现代代数几何的基本框架。
+
+51. The concept of an intermediate Jacobian for Kähler manifolds was first introduced by André Weil [1906–1998] and later by Phillip Griffiths [1938–] in a different form. Torrelli type theorems (true for algebraic curves ) were proposed and proved in many cases. A very important case involved K3 surfaces. The behavior of Hodge structure during degeneration of the algebraic manifolds was studied by Pierre Deligne [1944–], Wilfried Schmid [1943–], Kyoji Saito [1944–], and others. Mark Goresky [1950–] and Robert McPherson [1944–] introduced intersection cohomology to study the singular behavior of algebraic structures. Zucker conjectured that for Shimura varieties, the intersection cohomology is isomorphic to  cohomology. This was proved by Eduard Looijenga [1948–] and Saper–Stern independently.
+
+51. 凯勒流形上的中间雅可比概念首先由韦伊引进，稍后又被格里菲斯以不同的形式找到。在许多情形下，托里里型定理（它对代数曲线是成立的）被提出和证明，一个重要的情形和K3曲面有关。代数流形退化时其上霍奇结构的变化曾被德利涅、施密德、斋藤恭司等人研究。戈列斯基和麦弗森引进了相交上同调来研究代数结构的奇异行为。扎克猜测对志村簇来说，相交上同调和上同调是同构的。其后这猜想被路安加和萨珀–斯特恩独立证明了。
+
+52. C. B. Morrey [1907–1984] solved the classical uniformation theorem with rough coefficients. He also solved the Plateau problem for general Riemannian manifolds, generalizing the work of Jesse Douglas [1897–1965] and Tibor Radó [1895–1965]. H. Weyl proposed isometric embedding for surfaces with positive curvature, and H. Minkowski proposed the Minkowski problem. Both of them were solved by Hans Lewy [1904–1988] in the real analytic case and by Aleksei Pogorelov [1919–2002] and Louis Nirenberg [1925–2020] for smooth surfaces. The higher dimensional Minkowski problem was solved by Pogorelov and Cheng–Yau. The real Monge–Ampère equation was used by Leonid Kantorovich [1912–1986] in the study of optimal transportation.
+
+52. 莫雷证明了带粗糙系数的经典单值化定理，他也解决了一般黎曼流形上的普拉托问题，从而推广了道格拉斯和拉多的工作。魏尔提出了有关正曲率曲面的嵌入问题；闵科斯基提出了闵科斯基问题。对实解析曲面而言，这两个问题都被路维解决了，而光滑曲面的情况则由波哥列洛夫和尼伦伯格独立地解决。高维的闵科斯基问题则由波哥列洛夫和郑绍远–丘成桐独立地解决。实蒙日–安培方程曾由坎托罗维奇应用到最优化传输的研究中。
+
+53. Lev Pontryagin [1908–1988] introduced cobordism theory into topology. René Thom [1923–2002] then calculated the cobordism group of oriented manifolds, which was then used by F. Hirzebruch to prove the signature formula for differentiable manifolds relating the signature of Poincaré pairing to Pontryagin numbers. John Milnor used it to prove the existence of an exotic seven-sphere, and hence began the theory of smooth structure for manifold. Michel Kervaire [1927–2007] and John Milnor classified exotic spheres and started surgery theory simultaneously with Sergei Novikov [1938–], thereby providing a fundamental tool for the classification of simply connected smooth manifolds. C.T.C. Wall [1936–] studied surgery with the fundamental group. Surgery theory brought in powerful tool to study important questions about homotopic structures, topological structures , PL structures , smooth structures and cobordism with special structures. This include works of Kirby–Sibermann, Brumfiel–Madsen–Milgrim and Brown–Peterson.
+
+53. 庞特利雅金在拓扑学中引进了配边理论。托姆计算了定向流形的配边群，希策布鲁赫利用它证明了可微流形上联系庞加莱对的符号差和庞特利雅金数的符号差公式。米尔诺利用它证明了七维怪球的存在，从而开启了流形上光滑结构的研究。凯尔维和米尔诺为怪球作出分类，并同时和诺维科夫开展了割补理论。割补理论对单连通光滑流形的分类提供了十分重要的工具。华尔利用基本群进行割补手术。割补理论为研究同伦结构、拓扑结构、PL 结构、光滑结构以及特殊结构的配边理论等重要问题提供了强有力的工具。其中包括了柯比–西尔伯曼、布鲁菲尔–马德森–米格里姆和布朗–彼德森的工作。
+
+54. Alan Turing [1912–1954] introduced the concept of the Turing machine and launched the theory of computability. Stephen Cook [1939–] made a precise statement about complexity of theorem proving and proposed the famous  problem (Leonid Levin [1948–] also proposed it independently.) Leslie Valiant [1949–] introduced the concept of  completeness to explain the complexity of enumeration.
+
+54. 图灵引进了图灵机的概念，并开展了计算性理论。库克把定理证明的复杂性这概念精确化，并提出著名的问题（列文也独立地提出过）。瓦理安特引进了完备性的概念，并应用它来解释枚举的复杂性。
+
+55. Samuel Eilenberg [1913–1998] and Saunders Mac Lane [1909–2005] started to use axiomatic approach for homology theory and also introduced Eilenberg–Maclane space to study cohomology of groups. Cohomology theory was then introduced into algebra and Lie theory by several people such as Gerhard Hochschild [1915–2010] and others. A. Grothendieck [1928–2014], M. Atiyah [1929–2019], F. Hirzebruch [1927–2012] and others introduced -theory as a generalized cohomology theory. There are natural operations such as cup and cap product, square operation in standard cohomology theory. There are similar operations on -theory.
+
+55. 艾伦伯格和麦克莱恩最先利用公理化的方法来建构同调论，同时也引进了艾伦伯格–麦克莱恩空间来研究群的上同调。其后上同调理论由霍奇希尔德等人引进到代数及李氏理论中。作为上同调理论的推广，格罗腾迪克、阿蒂雅、希策布鲁赫等人引进了理论。在标准上同调理论中自然存在的运算如上下积和平方运算，在理论中皆有对应。
+
+56. Atle Selberg [1917–2007], Grigory Margulis [1946–], Marina Ratner [1938–2017], and Armand Borel [1923–2003] studied discrete subgroups of Lie groups by methods of ergodic theory, analysis, and geometry. Selberg introduced trace formula relating spectrum of the Laplacian of the quotient of a semi simple Lie group by a discrete group to the conjugate classes of the discrete group. Mostow used the quasiconformal method to prove the rigidity of a lattice acting on hyperbolic space form. He also proved super rigidity for lattices in higher rank groups. In the later case, Selberg conjectured that they are arithmetic. This was proved by Margulis. Ratner and Margulis also proved the Raghunathan and Oppenheim conjectures for discrete group. The Bruhat–Tits building was introduced by J. Tits to understand the structure of exceptional groups of Lie type. It is used to study homogeneous spaces of -adic Lie type.
+
+56. 塞尔伯格、马古利斯、拉特纳、博雷尔等人利用遍历理论、分析和几何来研究李群的离散子群。塞尔伯格找到了迹公式，把半单李群除去离散子群的商空间的拉普勒斯算子谱和这个离散子群的共轭类联系起来。莫斯托使用拟共形方法证明了作用在双曲空间形式上格的刚性。他也证明了高秩群上格的超刚性。塞尔伯格曾猜想后者是算术的，这是由马古利斯证明的。拉特纳和马古利斯一起证明了有关离散群的拉古纳坦和奥本海姆猜想。布鲁哈特–泰兹建筑是由泰兹引进的，目的是了解例外李型群的结构。它也可以用来研究进李型的齐性空间。
+
+57. Herbert Federer [1920–2010], Wendell Fleming [1928–], Frederick Almgren [1933–1997,] and William Allard developed geometric measure theory. Enrico Bombieri [1940–], Ennio de Giorgi [1928–1996], and Enrico Giusti [1940–] solved the Bernstein problem and, coupling that with the work of Simons, proved that area minimizing hypersurfaces have at worst codimension 7 singularities. F. Almgren proved that area minimizing currents are smooth outside a closed set of codimension 2. Sacks–Uhlenbeck developed the theory of the existence of minimal spheres in a manifold using variational principle and bubbling process. The work was used by Siu–Yau to prove the Frenkel conjecture and by Gromov to study invariants in symplectic geometry.
+
+57. 费德勒、费莱明、阿尔姆格伦和阿拉德等人发展了几何测度论。邦比里、德-乔治、朱斯蒂合作解决了伯恩斯坦问题。和西蒙斯的工作结合起来，他们证明了面积极小超曲面最坏有余 7 维数的奇点。阿尔姆格伦证明了面积极小流在一个余 2 维的闭集外是光滑的。萨克斯–乌伦贝克利用变分原理和冒泡过程发展了流形中极小球面的存在性。萧荫堂–丘成桐利用这成果证明了弗伦克尔猜想；格罗莫夫又用它探究了辛几何上的不变量。
+
+58. A. Calderón [1920–1998] and A. Zygmund [1900–1992] studied singular integral operators of convolution type, generalizing the Hilbert Transform, Beurling transform, and Riesz transform. They studied the decomposition theorem for  functions, based on work of Hardy–Littlewood, Marcel Riesz [1886–1969], and Józef Marcinkiewicz [1910–1940].
+
+58. 卡尔德隆和齐格蒙德研究了卷积型的奇异积分算子，从而推广了希尔伯特变换、贝林变换和里茨变换。他们借用了哈代–利特伍德、里茨、马辛基维奇等前人的工作，研究了函数的分解定理。
+
+59. Friedrich Hirzebruch [1927–2012] discovered the higher-dimensional Riemann–Roch formula, based on his theory of multiplicative sequences and an observation of J.-P. Serre for algebraic surfaces. He proved it for algebraic manifolds. Michael Atiyah and Isadore Singer extended that to more general elliptic differential operators and proved the index formula. Hirzebruch–Riemann–Roch was then proved to be true in general. The general theorem was used by Kunihiko Kodaria [1915–1997] to extend the Italian classification of algebraic surfaces to general complex surfaces. Linear differential operators began to enter differential topology, of which the Dirac operator and the d-bar operator are the most important ones. -theory was developed by Hirzebruch, Grothendieck, Atiyah–Hirzebruch, Bott, and others. Many important problems in topology and algebra were solved by -theory. Algebraic -theory was introduced by J. Milnor, Hyman Bass [1932–], Stephen Schanuel [1933–2014], Robert Steinberg [1922–2014], Richard Swan [1933–], Stephen Gersten [1940–] and Daniel Quillen [1940–2011]. They gave powerful tools to apply deep algebraic machinery to understand problems in topology.
+
+59. 希策布鲁赫利用他自己的可乘序列理论和塞尔对代数曲面的一个观察，找到了高维的黎曼–洛赫公式。他的公式对代数流形成立。阿蒂雅和辛格把它拓展到更一般的椭圆微分算子上，并且证明指标定理。希策布鲁赫–黎曼–洛赫公式从而在一般情况下是对的。小平邦彦利用这个一般定理，把意大利学派有关代数曲面的分类推广到一般的复曲面上去。线性微分算子开始进入到微分拓扑中，其中最重要的如狄拉克算子和算子。希策布鲁赫、格罗腾迪克、阿蒂雅和希策布鲁赫、博特等人发展了理论，并利用它解决了不少代数和拓扑上的重要问题。代数理论是由米尔诺、巴斯、舒奈尔、斯坦伯格、斯旺、格斯腾、奎伦等人发展出来的，从此深刻的代数方法，成为理解拓扑中问题的强力工具。
+
+60. Peter Swinnerton-Dyer [1927-2018] and Bryan Birch [1931-] introduced their famous conjecture for elliptic curves over number fields, which relates the rank of the Mordell–Weil group to the leading degree of Hasse–Weil -function at the center. Coates–Wiles, Gross–Zagier, and Kolyvagin etc made important contributions to this conjecture. Gross–Zagier's work was used by Dorian Goldfeld [1947-] to give an effective bound for class numbers of imaginary quadratic fields, solving a question of Gauss, after the works of Hans Heilbronn [1908–1975], Kurt Heegner [1893–1965], and Harold Stark [1939–]. Alexander Beilinson [1957–], Spencer Bloch [1944–] and Kazuya Kato [1952–] generalized the conjecture to higher dimensional arithmetic varieties.
+
+60. 斯温讷通-戴尔和伯赫提出了他们有关椭圆曲线的著名猜想，这猜想猜测哈塞–韦伊zeta函数在中心点处的首项次数等于莫德尔–韦伊群的秩。科茨–怀尔斯，格罗斯–扎吉尔与括里瓦根等人对这猜想都作出了重要的贡献。在海尔布隆、海格纳、斯塔克的工作之后，哥德菲尔德借用了格罗斯和扎吉尔的工作来给出二次虚域的类数的一个有效界，从而解答了高斯的一个老问题。贝林森、布洛赫、加藤和也等人又把这猜想推广到高维的算术簇上。
+
+61. Hassler Whitney [1907–1989] initiated the study of immersion and embedding of manifolds into Euclidean space. The Gauss map of the immersion gives rise to a classifying map of the manifold into the Grassmannian, which classifies bundles over a manifold. Classifying immersions up to isotopy was initiated by Whitney and completed by Stephen Smale [1930–] and Morris Hirech [1933–]. The immersion conjecture was finally proved by Ralph Cohen [1952–] in 1985. It says that  dimensional manifold can be immersed into Euclidean space of dimension  where  is the number of ones appeared in the binary expansion of . John Nash [1928–2015] proved that any manifold can be isometrically embedded into Euclidean space based on his implicit function theorem. But the embedding dimension is not optimal. Smale–Hirsch immersion theory was extended significantly by Mikhail Gromov [1943–] for treating differential relations. Local embedding of surfaces into three space is not known due to degeneracy of curvature. The case of nonnegative curvature was solved by C.S. Lin [1951–].
+
+61. 惠特尼开启了将流形浸入和嵌入到欧几里得空间的研究。浸入的高斯映射给出了流形到格拉斯曼流形的分类映射，从而将流形上的向量丛进行分类。惠特尼开始了合痕意义下的浸入分类工作，最后由史梅尔和希雷奇完成。浸入猜想最终由科恩于 1985 年证明。该猜想指出维流形可以浸入到维数为的欧几里得空间，其中是的二进制表示中1的个数。纳什证明了任何流形都可以基于他的隐函数定理等距地嵌入到欧几里得空间中。但是嵌入维数不是最佳的。格罗莫夫极大地扩展了史梅尔和希雷奇的浸入理论，以处理微分关系。由于曲率退化，曲面局部嵌入到三维空间仍未解决。林长寿解决了非负曲率情形。
+
+62. Ennio de Giorgi [1928–1996], John Nash [1928–2015], Jürgen Moser [1928–1999], and Nicolai Krylov [1941–] developed the regularity theory of uniform elliptic equations for scalar functions. Luis Caffarelli [1948–], Joel Spruck, and Louis Nirenberg developed similar work for fully nonlinear elliptic equations. R. Schoen and others study semi linear and quasilinear equations with critical exponents.
+
+62. 德-乔治、纳什、摩瑟和克雷洛夫发展了关于标量函数的一致椭圆偏微分方程的正则性理论。卡法雷利、斯普鲁克和尼伦伯格对完全非线性椭圆方程作了类似的工作。孙理察等人研究了含临界指标的半线性和拟线性方程。
+
+63. Roger Penrose [1931–] and Stephen Hawking [1942–2018] introduced the theory of singularities in general relativity, thus laying a strict mathematical foundation for the theory of black holes. Kerr found a solution to the equation of black holes with angular momentum, which became the basis of all black hole theories. Brandon Carter, Werner Israel, and Hawking proved the uniqueness of black holes under regularity assumptions of the event horizon. Richard Schoen and S.-T. Yau gave the first proof of existence of black holes formed through the condensation of matter. Christodoulou and Klainreman proved that Minkowski space time is dynamically stable.
+
+63. 彭罗斯和霍金在广义相对论中引入了奇点理论，从而为黑洞理论奠定了严格的数学基础。克尔发现了带有角动量的黑洞方程的解，成为了所有黑洞理论的基础。卡特、伊斯雷尔和霍金在事件视界的正则性假设下证明了黑洞的唯一性。孙理察和丘成桐首次证明了因物质凝聚而形成的黑洞的存在性。克里斯托杜洛和克莱因曼证明了闵科斯基时空是动态稳定的。
+
+64. Heisuke Hironaka [1931–] proved that in characteristic zero the singularities of algebraic varieties can be resolved by successive blowing ups. John Mather [1942–2017] and Stephen Yau [1952–] showed that classification of isolated singularities can be reduced to study finite dimensional commutative algebra. Shigefumi Mori [1951–] proposed the minimal model program to study the birational geometry of high-dimensional algebraic varieties. This was followed by Yujiro Kawamata [1952–], Yoichi Miyaoka [1949–], Vyacheslav Shokurov [1950–], János Kollár [1956–] and others.
+
+64. 广中平祐证明了特征零上的代数簇的奇点可以通过逐次胀开来消解。马瑟和丘成栋指出孤立奇点的分类可以转化成为对有限维可交换代数的研究。森重文提出了极小模型理论来研究高维代数簇的双有理几何。之后这一理论被川又雄二郎、宫冈阳一、舒库罗夫、科尔拉等人所发展壮大。
+
+65. In 1938, Paul Smith [1900–1980] initiated the study of finite groups acting on a manifold using cohomology theory. Smith theory was extended by A. Borel in 1960 who introduced equivariant cohomology. Smith made a conjecture that the fixed point set of a cyclic group acting in the three sphere must be an unknot. This was finally solved by a combinations of efforts due to several authors: the minimal surface method of Meeks–Yau, geometrization program of Thurston and the works of Cameron Gordon [1945–] on group theory. Meeks–Simon–Yau extended the result to cover the case of exotic sphere by proving that an embedded sphere in three manifolds can be isotopic to disjoint embedded minimal spheres joined by curves.
+
+65. 1938 年，史密斯最早使用上同调理论研究作用于流形上的有限群。博雷尔于1960年扩展了史密斯理论，引入了等变上同调。史密斯猜想断言作用在三维球面上的循环群的不动点集是一个平凡纽结。通过米克斯–丘成桐的极小曲面方法、瑟斯顿的几何化纲领以及戈登关于群论的工作，史密斯猜想最终被解决。米克斯–西蒙–丘成桐还把结果扩充至包含怪球的情形，通过证明三维流形中嵌入的球面可以合痕于由曲线连结起来的不相交的嵌入极小球面。
+
+66. In 1947 , George Dantzig [1914–2005] introduced the simplex method to linear programming. In 1984, Narendra Karmarkar [1957–] introduced the interior point method where the complexity is polynomial bounded. Yves Meyer [1939–] and Stéphane Mallat [1962–] developed wavelet analysis, which was followed by Ingrid Daubechies [1954–] and Ronald Coifman [1941–].
+
+66. 1947 年，丹齐格发明了线性规划中的单纯形法。1984年，卡马尔卡引入内点法，其复杂度是多项式有界的。梅耶和马拉特发展了小波分析，紧随其随后有多贝西和科夫曼。
+
+67. In 1967, Clifford Garder [1924–2013], John Greene [1928–2007], and Martin Kruskal [1925–2006] introduced the inverse scattering method to solve the KDV equation. Soliton solutions were found. Later, the method was extended to many famous nonlinear partial differential equations. It was interpreted as a factorization problem in Riemann–Hilbert correspondence. The Lax pair was introduced to give a good conceptual understanding of the method. The Gel’fand–Levitan method was also used in the process.
+
+67. 1967 年，加德、格林和克鲁斯卡尔提出了用逆散射法来求解KDV方程，他们找到了孤立子解。后来，该方法扩展到许多著名的非线性偏微分方程。这方法可以看成在黎曼–希尔伯特对应中的因子分解问题。拉克斯对的引入有助于从概念上理解该方法，而盖尔范德–列维坦方法也被涉及。
+
+68. The Langlands program has been a most influential driving force behind many facets of modern number theory. It unifies number theory, arithmetic geometry, and harmonic analysis based on general theory of automorphic forms. Hervé Jacquet [1939–] and James Arthur [1944–] made important contributions towards this programs. The solution of the Taniyama–Shimura–Weil conjecture due to Andrew Wiles is a triumph of the program. This conjecture was used by Wiles, with helps from Richard Taylor [1962–], to solve the Fermat’s conjecture, based on earlier observations of Gerhard Frey [1944–], J.-P. Serre and Ken Ribet [1948–] on elliptic curves.
+
+68. 朗兰兹纲领是现代数论很多方面的推手，它将数论、算术几何和基于自守形式一般理论的调和分析统一起来。雅克和亚瑟为这一纲领做出了重要贡献。怀尔斯解决谷山–志村–韦伊猜想是该纲领的巨大成功。利用这个猜想，怀尔斯在泰勒的协助下，根据弗莱、塞尔和里贝特在椭圆曲线上的早期观察，证明了费马大定理。
+
+69. James Eells [1926–2007] and Joseph H. Sampson [1926–2003] proved that heat flows on harmonic maps into manifolds with non positive curvature exists for all time and converges to a harmonic map. Richard Hamilton [1943–] introduced Ricci flows for the space of metrics. His extensive work in this area included a generalization of an important inequality of Li–Yau for general parabolic equations. Richard Hamilton, Gerhard Huisken [1958–], Carlo Sinestrari [1970–], and others developed parallel programs for mean curvature flows.
+
+69. 厄尔斯和桑普森证明了映到非正曲率流形上中的调和映射的热流总是存在的，并且收敛到一个调和映射。汉密尔顿在由黎曼度量构成的空间中引入了里奇流。他在这一领域中的大量工作还包括对一般抛物方程中重要的李伟光–丘成桐不等式的推广。汉密尔顿、休斯肯、辛斯特拉里等人对平均曲率流发展了一套平行理论。
+
+70. In cooperation with R. Schoen, L. Simon, K. Uhlenbeck , R. Hamilton, C. Taubes, S. Donaldson and others , S.-T. Yau laid the foundation for modern geometric analysis. They resolved a series of geometric problems by using non-linear differential equations. A prime example of that was the proof of the Calabi conjecture where Yau determined which Kähler manifolds can admit Kähler Ricci flat metrics. For Kähler–Einstein metrics with negative scalar curvature, existence was established by Aubin and Yau. Yau used this to prove Chern number inequalities that implied the Severi conjecture regarding the uniqueness of algebraic structure over projective space. Yau conjectured the existence of Kähler–Einstein metics on Fano manifolds in terms of stability.
+
+70. 通过与孙理察、西蒙、乌伦贝克、汉密尔顿、陶布斯、唐纳森等人的合作，丘成桐为现代几何分析奠定了基础。他们通过使用非线性微分方程解决了一系列几何问题。其中最具代表性工作是卡拉比猜想的证明，丘成桐确定了哪些凯勒流形上可以容纳凯勒–里奇平坦度量。奥宾和丘成桐确定了数量曲率为负的凯勒–爱因斯坦度量的存在性。丘成桐以此证明了陈数不等式，从而意味着关于射影空间上代数结构唯一性的塞韦里猜想成立。丘成桐提出范诺流形上凯勒–爱因斯坦度量存在性的猜想，其中牵涉及某种稳定性。
+
+71. In 1979, Richard Schoen [1950–] and S.-T. Yau solved the positive mass conjecture, which demonstrated the stability of isolated physical spacetime in terms of energy. At the time, the proof only worked up to dimension seven.  Edward Witten subsequently came up with a proof using spinors that works for spin manifolds. The concept of quasi local mass was studied by many researchers including Roger Penrose [1931–], Robert Bartnik, Stephen Hawking [1942–2018], Gary Gibbons [1946–], Gary Horowitz [1955–], Brown–York and others.
+
+71. 1979 年，孙理察和丘成桐解决了正质量猜想，这证明了孤立物理时空在能量上是稳定的。最初证明只适用于一至七维。威滕随后在自旋流形上利用旋量给出另一个证明。彭罗斯、巴特尼克、霍金、吉本斯、霍洛维茨、布朗、约克等许多学者研究了拟局部质量的概念。
+
+72. William Thurston [1946–2012] proposed a program to classify three manifolds according to eight classical geometries. He proved that atoroidal and sufficiently large three manifolds admit hyperbolic metrics that are unique due to the strong rigidity theorem of Mostow. In the process of his proof , he studied dynamics over Riemann surfaces and the singular foliation defined by holomorphic quadratic differential. He also proved codimensional one foliation exists in a manifold iff the Euler number of the manifold is zero.
+
+72. 瑟斯顿根据八种典型几何结构提出了对三维流形进行了分类的大纲。基于莫斯托的强刚性定理，他证明了非环状的和足够大的三维流形可以具有唯一的双曲度量。在证明过程中，他研究了黎曼曲面上的动力系统以及全纯二次微分定义的奇异叶状结构。他还证明了流形上余维数为1的叶状结构存在当且仅当流形的欧拉数为零。
+
+73. Michael Freedman [1951–], using the theory of Casson Handle and Bing topology, was able to prove the four dimensional Poincaré conjecture and also classify simply connected manifolds in topological category.
+
+73. 弗里德曼运用卡斯森把手和宾格拓扑理论，证明了四维庞加莱猜想，并且对所有单连通流形作了拓扑分类。
+
+74. In 1982, Edward Witten [1951–] derived Morse theory using ideas of quantum field theory and supersymmetry. It gave a powerful tool to connect geometry with physics. In 1988, he introduced topological quantum field theory, and this was followed by Michael Atiyah who also used some ideas of Graeme Segal [1941–] on axiomatization of conformal field theory. Many topological invariants are enriched from this point of view, and they are showing importance in condensed matter theory.
+
+74. 1982 年，威滕运用量子场论和超对称性的观念推导出摩尔斯理论，为连接几何与物理提供了一个强有力的工具。1988 年，他引入了拓扑量子场理论，随后的阿蒂雅使用了西格尔关于共形场理论公理化的部分思想。从这一观点出发，人们找到了许多拓扑不变量，它们在凝聚态理论中有着重要的意义。
+
+75. Based on the works of Uhlenbeck and Taubes on the moduli space of gauge theory for four manifolds, Simon Donaldson [1957–] found new constraints on the intersection pairing of second cohomology for smooth four dimensional manifolds. It is in sharp contract to the works of Michael Freedman [1951–] who proved the topological Poincaré conjecture in four dimensions and classified simply connected topological four manifolds. Donaldson also defined his polynomial invariants for four manifolds. The theory was simplified after Seiberg–Witten introduced their invariants. Seiberg–Witten invariants can be used to settle several important questions regarding topology of algebraic surfaces.
+
+75. 唐纳森根据乌伦贝克和陶布斯在四维流形上规范理论的模空间的工作，发现了光滑四维流形的二阶上同调群的相交对的新约束，这与弗里德曼的上述工作有着鲜明的对比。唐纳森还定义了四维流形的多项式不变量。在赛伯格和威滕引入他们的不变量后，该理论得到了简化。赛伯格–威滕不变量可用于解决有关代数曲面拓扑的几个重要问题。
+
+76. After the partial works of N. Trudinger and T. Aubin, Richard Schoen completed the proof of the Yamabe conjecture for conformal geometry. The argument bridged the subjects of mathematics of general relativity and conformal geometry. Schoen and Yau applied the argument to classify the structure of complete conformally flat manifolds with positive scalar curvature. Schoen–Yau introduces metric surgery in the category of manifolds with positive scalar curvature. Gromov–Lawson followed the work and observed that it is closely linked to spin cobordism. As a result, Stephan Stolz found a necessary and sufficient condition for a compact simply connected manifold to admit metric with positive scalar curvature when dimension is not 3 and 4. For nonsimply connected manifolds, there are other criterion based on minimal hypersurfaces by Schoen–Yau.
+
+76. 在特鲁丁格和奥宾的一些工作之后，孙理察完成了关于共形几何的山辺猜想的证明，架起了广义相对论数学与共形几何学之间的桥梁。孙理察和丘成桐以此对正数量曲率的完备共形平坦流形的结构进行了分类。孙理察和丘成桐在正数量曲率流形中引入度量割补。格罗莫夫和劳森跟进了这项工作并发现它与自旋配边有着密切相关。结果斯托尔茨找到了紧单连通流形在维度不为 3 和 4 时具有正数量曲率度量的充分必要条件。对于非单连通流形，还有其他基于孙理察–丘成桐的极小超曲面的判别标准。
+
+77. In 1986, Karen Uhlenbeck [1942–] and S.-T. Yau solved the Hermitian–Yang–Mills equations for stable bundles, while Simon Donaldson [1957–] did the same for algebraic surfaces using a different method. The DUY theorem became an important part of Heteriotic string theory. It’s analysis was then used by C. Simpson to give holomorphic bundles with Higgs field, a concept introduced by Nigel Hitchin [1946–]. The concept of Higgs bundle was used by Ngô Bảo Châu [1972–] to prove the fundamental lemma in Langlands program.
+
+77. 1986 年，乌伦贝克和丘成桐求解了稳定丛的埃尔米特–杨–米尔斯方程，而唐纳森使用不同的方法在代数曲面上进行了相同的求解。唐纳森–乌伦贝克–丘成桐定理成为杂弦理论的重要组成部分。其后，辛普森使用它的分析来给出带希格斯场的全纯向量丛，这是希钦提出的概念。吴宝珠使用希格斯丛证明了朗兰兹纲领中的基本引理。
+
+78. Inspired by the work of Witten on Morse theory, Andreas Floer [1956–1991] defined Floer theory in symplectic geometry. Taubes proved the Seiberg–Witten invariant is equal to the symplectic invariant defined by him which he called the Gromov–Witten invariant. As a consequence, he proved the rigidity of symplectic structure on the projective plane.
+
+78. 受到威滕在摩尔斯理论上的工作的启发，弗洛尔定义了辛几何中的弗洛尔理论。陶布斯证明了赛伯格–威滕不变量等同于他定义的辛不变量，他称之为格罗莫夫–威滕不变量。由此他证明了射影平面上辛结构的刚性。
+
+79. Brian Greene [1963–]–Ronen Plesser [1963–], and Philip Candelas [1951–] et al. introduced mirror symmetry for Calabi–Yau spaces. Candelas et al. were able to use this symmetry to propose a formula in enumerative geometry for three dimensional quintics. Independently, Alexander Givental [1958–] and Lian–Liu–Yau rigorously proved the formula and hence solved an old problem in enumerative geometry, validating string theory as a powerful and insightful way to make mathematical predictions in geometry. Maxim Kontsevich [1964–] proposed homological mirror symmetry as a categorical formulation of mirror symmetry. Strominger–Yau–Zaslow proposed a geometric interpretation of mirror symmetry using special Lagrangian cycles. Both programs inspired activities in the field linking algebraic geometry to string theory.
+
+79. 格林和普莱莎与坎德拉等引入了卡拉比–丘空间的镜像对称性。坎德拉等人利用镜像对称性来得出了枚举几何学的五次三维形计算公式。纪梵特与连文豪–刘克峰–丘成桐分别独立严格地证明了该公式，从而解决了枚举几何学中的一个古老问题，同时也显示了弦论为几何学提供了有力的数学预测工具。作为镜像对称性的范畴化陈述，康切维奇提出了同调镜像对称。史聪闵格–丘–扎斯洛使用特殊拉格朗日闭链，对镜像对称性作出几何解释。这两种做法使得代数几何与弦论的互动活跃起来。
+
+80. Peter Shor [1959–] gave the first quantum algorithm for factorization, which is exponentially faster than classical algorithms. It is a driving force for developing quantum computation.
+
+80. 舒尔首次提出因子分解的量子算法，比经典算法快指数倍。它推动了量子计算的发展。

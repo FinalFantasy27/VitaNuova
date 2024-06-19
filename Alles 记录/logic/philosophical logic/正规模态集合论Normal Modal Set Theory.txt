@@ -1,0 +1,19 @@
+
+张建军 
+正规模态集合论悖论及相关问题 
+2017 
+
+逻辑学研究 , No. 3 
+p. 35-57 
+
+Abstract: 马库斯（R. B. Marcus）“本质主义承诺疑难”“偶然同一性疑难”“对象增殖疑难“ 
+上世60年代末菲奇（F.B.Fitch）的创始工作 
+试图将“从物模态”悉数还原为“从言模态”之努力归于失败: 
+正规模态集合论：所有关系皆必然 
+在菲奇的系统建构工作之前，马库斯即已基于对同一关系必然性定律的认识论证了属于关系的必然性 
+（又称“严格性”），而菲奇的系统中即将之作为一条定理，尽管当时尚没有正规模态的明确理念；此后凡恩（K. Fine）、伦哈德（W. N. Reinhardt）、帕森斯 
+（C. Parsons）和克拉切克（J. Krajicek）等人建构的系统，也都将之作为定理甚或公理并做了多方讨论（参见[9]，第298 页；[7]，第129 页） 
+弗莱茨（P. Fritz）等四位学者在长期合作研究的基础上共同撰写的论文《能否用模态拯救素朴集合论？》，该文试图用概括原则的模态化来重塑素朴集合论。但他们失望地发现，引入这种模态化概括原理（用可能世界语义界说其有效性），尽管可以与正规模态谓词逻辑相融贯，但使用几个经典的正规模态命题逻辑系统，却均与M-N 定理不相容，因而会导致极弱的集合论 
+hyperintensionality: G. Bealer, 1982, Quality and Concept, Oxford: Clarendon Press. 
+模态集合论：G. Forbes, 1985, The Metaphysics of Modality, Oxford: Clarendon Press. 
+J.Krajicek,1988, “Some results and problems in the modal set theory MST”, Zeitschr.f.Mathematikal Logik und Grundlagen d。Mathematik, 34(2): 123–134. 

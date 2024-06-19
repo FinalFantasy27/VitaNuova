@@ -1,0 +1,8 @@
+算术可定义的集合都是可测的，而非主超滤不可测
+
+非主超滤可以用选择公理证明存在
+
+Hausdorff ultrafilter，在很少部分一些文献里叫算术超滤
+
+Under the continuum hypothesis, or even Martin's Axiom, there are Hausdorff ultrafilters that are not selective. The construction, under CH, of such ultrafilters goes back to Andreas Blass, in the 1970s.
+

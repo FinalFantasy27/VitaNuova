@@ -1,0 +1,13 @@
+
+整个哲学就像一棵树。树根是形而上学，树干是物理学，从树干上长出的树枝是所有其它科学，可以归结为三门科学，即医学、力学和道德。我所说的“道德”是指最高、最完美的道德体系，它以其它科学的完整知识为前提，是智慧的终极层次。
+
+——笛卡尔，第一哲学沉思录
+[T]he whole of philosophy is like a tree. The roots are metaphysics, the trunk is physics, and the branches emerging from the trunk are all the other sciences, which may be reduced to three princi ple ones, namely medicine, mechanics, and morals. By “morals” I understand the highest and most perfect moral system, which presupposes complete knowledge of the other sciences, and is the ultimate level of wisdom.
+Meditations on First Philosophy, “The Author’s Letter” (9B:14), of the French translation, in 1647, of Descartes’s ([1644] 1983) (which originally appeared in Latin).
+“哲学”代表包含所有理论知识的综合体系
+'philosophy’ to stand for a comprehensive system incorporating all theoretical knowledge
+笛卡尔所说的“形而上学”实际上是我们现在所说的“认识论”（知识的理论）和“形而上学”或“本体论”（对构成现实的基本事物类型以及它们之间关系的探究）的结合
+What Descartes called ‘metaphysics’ is really a combination of what we now call ‘epistemology’ (theory of knowledge) and ‘metaphysics’ or ‘ontology’ (an inquiry into the fundamental types of things that make up reality, and the relations holding among them). (Soames, p. 51)
+
+笛卡尔在阐述完方法（笛卡尔的《谈谈方法》（Discours de la méthode））之后紧跟着就是关于屈光学和气象学的论文（扉页上所写的，font essais de cette méthode——使用这种方法的论文（John Cottingham、Robert Stoothoff和Dugald Murdoch将其译为“which are essays in this Method”））
+1637年笛卡尔在莱顿匿名出版的《谈谈在科学中正确运用理性和探求真理的方法，以及使用这种方法的论文〈屈光学〉、〈气象学〉和〈几何学〉》（Discours de la Méthode pour hien conduire sa raison, et chercher la vérité dans les sciences. Plus la Dioptrique, les Météores et la Géométrie qui sont des essais de cette Méthode）。后世的法语版和英语译本和中文译本都将这本书的前半部分单独出版，称为《谈谈方法》，后面的《屈光学》等单独成书

@@ -1,0 +1,38 @@
+
+Computational Complexity
+
+	
+dr. R. de de Haan (co-ordinator)
+
+Objectives
+compare different models of resource-bounded computation
+analyze the running time of an algorithm in terms of the input size
+formulate how a computational task can be modeled as a decision problem
+argue why the approach of distinguishing different complexity classes is useful
+critize the framework of worst-case asymptotic complexity analysis
+explain the concepts of nondeterminism, alternation, and randomized algorithms
+produce a proof of NP-completeness for variants of known NP-complete problems
+predict what the implications are if certain complexity classes coincide
+classify the location of a decision problem in the landscape of computational complexity
+explain how oracles can be used to show the limits of relativizing proofs, and what constraints this places on any proof for P != NP
+explain how various complexity-theoretic assumptions (e.g., P != NP, Exponential Time Hypothesis) can be used to rule out efficient algorithms for computational problems
+Contents
+Computational complexity theory deals with the fundamental question of how many resources (such as time, memory, communication, randomness, etc.) are needed to perform a computational task. A fundamental open problem in the area is the well-known P versus NP problem, one of the Clay Millennium problems. In this course we will treat the basics of complexity theory, including: NP-completeness, diagonalization, non-deterministic computation, alternation, Boolean circuits, randomized computation, approximation algorithms, subexponential-time complexity.
+
+Recommended prior knowledge
+Basic math and computer science, and basic knowledge of propositional logic.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Self-study
+Study materials
+Literature:
+S. Arora and B. Barak. Computational Complexity: A Modern Approach. Cambridge University Press, 2009.
+Assessment
+The final grade will be based on the results of homework assignments and a final exam.
+
+Remarks
+A Canvas site will be available.

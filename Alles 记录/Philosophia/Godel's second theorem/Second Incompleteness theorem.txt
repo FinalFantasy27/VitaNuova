@@ -1,0 +1,25 @@
+
+The old question whether the Second Incompleteness theorem has been established or not has been discussed by Feferman, Detlefsen, Franks, Pudlak and others, mostly centering on the three Hilbert-Bernays derivability conditions as given in Hilbert and Bernays 1934.
+
+
+To summarize: when it is said, in the context of the incompleteness theorems, that “a certain amount of elementary arithmetic can be carried out” in a system, this usually means that it contains PRA or at least Q. For the first incompleteness theorem, Q is sufficient; for the standard proofs of the second theorem, something like PRA, at a minimum, is needed. There is a version of the second incompleteness theorem for Q (see Bezboruah & Shepherdson 1976) but there has been some debate on whether the relevant statement in Q can really be taken to express consistency, Q being so weak (see Kreisel 1958; Bezboruah & Shepherdson 1976; Pudlák 1996; Franks 2009).
+
+Now the version of the second incompleteness theorem presented in Feferman 1960 is:
+
+A variant of second incompleteness theorem (Feferman 1960): Let F be a consistent extension of PA, and let AxF(x) be a Σ^0_1-formula which weakly represents the axioms of F, and Cons(F) be a consistency statement constructed from AxF(x) and ProvFOL(x). Then Cons(F) is not provable in F.
+
+For still different approaches to the second incompleteness theorem, see Feferman 1982, 1989a; Visser 2011. For some philosophical complications concerning the second theorem, see Detlefsen 1979, 1986, 1990, 2001; Auerbach 1985, 1992; Roeper 2003; Franks 2009 (see also section on incompleteness in the entry on Hilbert’s program).
+SEP
+
+Hilbert’s Program
+Steiner, Mark 
+Review of Hilbert’s Program: An Essay on Mathematical Instrumentalism (Detlefsen, 1986) 
+1991 
+Journal of Philosophy , Vol. 88, No. 6 
+p. 331-336 
+1.Detlefsen: "Hilbertian instrumentalism": if "ideal" mathematics is to be taken seriously as  as a tool, it must be tailored to the finite capacities of human beings. The human brain is unable to process all the potential proofs in "ideal" mathematics. Therefore, it's conceivable that all the "Hilbertian" needs to do is prove the consistency of a subclass of all possible proofs in mathematics. Furthermore, there might even be a metamathematical proof confirming the consistency of this subclass (see chapter V).
+Mark Steiner comments that it would be difficult to designate the subclass of "ideal" proofs to be proved consistent, because we can always introduce new concepts and thus proofs by abbreviations, as is done in informal mathematics.
+2. Mostowski and other writers have argued that any arithmetic formulathat does not obey these three conditions cannot formalize the intuitive notion of mathematical provability.
+Detlefsen: even if the Godel "translation" of "proof" (and thus "consistency") is accepted to be the only possible translations into arithmetic notation, what Godel translated was the realist notion of proof, not the instrumentalist version.
+For instance, Rosser-provability will not be closed under mp if the theory is inconsistent. Now imagine that the "shorter" proofs are also more instrumentally useful than the longer ones. A Rosser-proved proposition, for the instrumentalist, would tend to survive the discovery of a contradiction in T. 
+Detlefsen argues against the derivability conditions as necessary criteria for formalizing mathematical proof.

@@ -1,0 +1,1 @@
+There is an effective version of the completeness theorem stating that a decidable theory has a decidable (and therefore computable) model, on page 18 of Harizanov's Chapter 1 ("Pure Computable Model Theory") of the book Handbook of Recursive Mathematics, this presentation allows infinitely many relation symbols and requires uniform computability of their interpretations. 

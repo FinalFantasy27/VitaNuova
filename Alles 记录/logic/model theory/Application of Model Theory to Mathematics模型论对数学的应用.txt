@@ -1,0 +1,5 @@
+组合：
+前置：超滤、超积、Morley rank
+Ramsey Theorem、Hindman Theorem、VC dimension理论
+
+代数：如代数闭域上的量词消去、p-adic Model Theory

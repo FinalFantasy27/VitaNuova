@@ -1,0 +1,41 @@
+
+Computational Social Choice
+	
+dr. U. Endriss (co-ordinator)
+
+Objectives
+To become familiar with fundamental concepts in classical social choice theory.
+To gain insight into current research directions in modern computational social choice.
+To acquire the ability to evaluate and contribute to research in computational social choice.
+Contents
+Social choice theory is the study of mechanisms for collective decision making, such as voting rules or protocols for fairly allocating a set of goods to several agents. Computational social choice addresses problems at the interface of social choice theory with computer science and AI. This course provides a thorough introduction to both classical social choice theory and modern computational social choice, so as to enable students to conduct independent research in this field. The topics covered change every year, but they typically include material on voting theory, judgment aggregation, and fair allocation.
+
+Recommended prior knowledge
+This is an advanced research-oriented course in the MSc Logic, the MSc AI, and the MSc Computational Science, but students from other programmes, such as Mathematics, Computer Science, Economics, or Philosophy, are also very welcome. Please contact the course coordinator if you are unsure about your technical background.
+
+Students who wish to take this course are expected to have the necessary mathematical maturity, meaning that they need to have some prior experience with working out and writing up mathematical proofs.
+
+Students interested in this course are advised to first take Game Theory (5314GATH6Y), which is a more broadly accessible course on a closely related topic that has similar prerequisites in terms of mathematical maturity. For students in the MSc Computational Science this is a formal requirement.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Presentation/symposium
+Supervision/feedback meeting
+Working independently on e.g. a project or thesis
+Study materials
+Literature:
+F. Brandt, V. Conitzer, U. Endriss, J. Lang, and A.D. Procaccia (editors),' Handbook of Computational Social Choice ', Cambridge University Press, 2016.
+Other:
+Research papers and survey articles.
+Min/max participants
+This course can accommodate a maximum of 30 students. To avoid having to put a cap on the number of registrations (and thus to select on a first-come first-serve basis), students will be accepted into the course on the basis of motivation and technical background. If interested, please register in the usual manner. You will then be invited to take part in the selection process well before the start of the course.
+
+Assessment
+Homework and research project.
+
+
+Remarks
+For additional information, please consult the course website at https://staff.science.uva.nl/u.endriss/teaching/comsoc/.

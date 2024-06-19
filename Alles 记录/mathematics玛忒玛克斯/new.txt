@@ -1,0 +1,2 @@
+
+A positive rational number is a sum of four squares. This is a result of the Lagrange's four-square theorem, which states that every non-negative integer can be expressed as the sum of four integer squares. Since every rational number can be written as the quotient of two integers, and every integer can be expressed as a sum of four squares, it follows that every positive rational number can also be expressed in this form.

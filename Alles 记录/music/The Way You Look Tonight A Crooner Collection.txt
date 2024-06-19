@@ -1,0 +1,17 @@
+1;Come Fly With Me;03:17;Frank Sinatra;The Way You Look Tonight: A Crooner Collection;5181352
+2;Beyond The Sea;02:50;Bobby Darin;The Way You Look Tonight: A Crooner Collection;5181353
+3;Volare;02:59;Dean Martin;The Way You Look Tonight: A Crooner Collection;5181354
+4;Fly Me To The Moon;03:59;Tony Bennett;The Way You Look Tonight: A Crooner Collection;5181355
+5;Unforgettable;03:12;Nat King Cole;The Way You Look Tonight: A Crooner Collection;5181356
+6;The Way You Look Tonight;02:34;Bing Crosby(Dixie Lee Crosby);The Way You Look Tonight: A Crooner Collection;5181357
+7;Blue Moon;03:13;Mel Tormé;The Way You Look Tonight: A Crooner Collection;5181358
+8;Put Your Head On My Shoulder;02:38;Paul Anka;The Way You Look Tonight: A Crooner Collection;5181359
+9;Hello Dolly;02:25;Louis Armstrong;The Way You Look Tonight: A Crooner Collection;5181360
+10;Catch A Falling Star;02:29;Perry Como;The Way You Look Tonight: A Crooner Collection;5181361
+11;Moon River;02:44;Andy Williams;The Way You Look Tonight: A Crooner Collection;5181362
+12;My Funny Valentine;03:10;Sammy Davis Jr.;The Way You Look Tonight: A Crooner Collection;5181363
+13;You're Nobody 'Til Somebody Loves You;02:14;Dean Martin;The Way You Look Tonight: A Crooner Collection;5181364
+14;Yellow Roses;02:17;Bobby Darin;The Way You Look Tonight: A Crooner Collection;5181365
+15;Dream On Little Dreamer;02:23;Perry Como;The Way You Look Tonight: A Crooner Collection;5181366
+16;In The Arms Of Love;02:54;Andy Williams;The Way You Look Tonight: A Crooner Collection;5181367
+17;Stardust;05:44;Mel Tormé;The Way You Look Tonight: A Crooner Collection;5181368

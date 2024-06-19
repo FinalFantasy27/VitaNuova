@@ -1,0 +1,52 @@
+
+Interpretability & Explainability in AI
+
+	
+dr. W.H. Zuidema (co-ordinator)
+
+Objectives
+Understanding the main goals and challenges of explainability and interpretability research in AI
+Able to implement and apply the main posthoc interpretability tools in computer vision, natural language processing and other AI fields
+Able to implement and apply some of the main whiteboxing, 'explainable-by-design' and constrained deep learning approaches in vision and language
+Able to design research to evaluate the faithfulness and usefulness of various interpretability and explainability techniques
+Contents
+In this course we study the techniques to ensure interpretability of modern AI techniques, and to generate explanations for the classifications, decisions and predictions that these systems make. We consider applications of these techniques in diverse subfields of AI, ranging from machine vision to translation, and from speech recognition to automatic reasoning.  An important focus will be on post hoc interpretation techniques, that take an existing model (e.g., a deep learning model for object recognition, machine translation or music recommendation), and attempt to interpret the intermediate representations using visualization, attribution or probing methods. A second thread will be studying ways to a priori constrain or bias such models to arrive at more interpretable solutions, e.g. by encouraging sparse representations or by generating explanations as a secondary objective. Finally, we will consider approaches that are inherently explainable, including models with rich symbolic backbones (e.g., non-parametric Bayesian models).  A common theme throughout the course will be the comparison of symbolic (Bayesian) and deep learning models, and we will see that classic results from symbolic AI sometimes find a new relevance in their use for helping interpret deep learning systems, or for helping identify their shortcomings.
+
+Core concepts covered in the course: probing (information-theoretic/counterfactual/Pareto-optimal), occlusion, Guided Backpropagation, Deconvolution, Saliency maps, (Deep)LIFT, Layer-wise relevance propagation, Integrated Gradients, Shapley values, Contextual decomposition, (Deep)SHAP, Attention flow, Attention-as-explanation, Challenge sets, Influence Functions, Constrained deep learning (Dolfin, Hard-Kuma), Non-parametric Bayesian methods (including Dirichlet, Pitman-Yor, for image and text parsing).
+
+ 
+
+Recommended prior knowledge
+This course is designed for first year Master of AI. Students from other programmes, in particular MoL, are welcome, but experience with machine learning models in general, and various commonly used deep learning architectures in particular is assumed, as well as the programming and mathematical skills needed to understand and implement those systems. Knowledge of knowledge representation formalisms and symbolic/probabilistic grammars is an advantage.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Presentation/symposium
+Self-study
+Computer lab session/practical training
+Seminar
+Working independently on e.g. a project or thesis
+Study materials
+Literature:
+Original research papers, made available through canvas
+Software:
+Python
+Min/max participants
+Limited capacity AI core courses
+
+This course is part of the core curriculum of the master programme AI. Due to limited capacity students of the MSc AI  have priority for this course.  Students of other Graduate School of Informatics (GSI) master programmes are allowed to register for this course, but please note that there is a limited number of places available.
+
+Students from the other programmes of GSI can request registration for this course by sending an e-mail to vakaanmelding-fnwi@uva.nl 
+
+They will first be placed on a waiting list.
+
+Assessment
+Programming assignments
+Presentations
+Online quizzes
+Poster and/or short paper
+Remarks
+For this course's website, and websites of other courses of the ILLC's 'Natural Language Processing & Digital Humanities' group, see: https://cl-illc.github.io/teaching.html

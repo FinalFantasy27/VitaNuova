@@ -1,0 +1,7 @@
+
+模态逻辑基础系统K的自然演绎的规则是
+
+1. Γ|-A / □Γ|-□A。
+
+2. 或者定义一种特殊的subproof，strict derivation，如下：如果其subproof框外的证明有 □A ，那么subrpoof内可以假设 A ，除此之外，你不能使用任何subproof框外的证明中的语句；
+然后规则为 通过在strict derivation中得到A / □A

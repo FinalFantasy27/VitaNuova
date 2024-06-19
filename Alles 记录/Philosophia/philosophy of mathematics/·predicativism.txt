@@ -1,0 +1,44 @@
+
+直谓主义（Predicativism）起源于罗素和庞加莱对非直谓定义的反对。一个对象或概念的非直谓定义需要预设被定义对象/概念的总体，而需要被定义的对象也属于这个总体，这从“直觉上看“是一种”循环定义“。例如，自然数集 X={n∈N|∀Y⊆Nφ(n,Y)}X=\lbrace n\in N\vert \forall Y\subseteq N\varphi(n,Y)\rbrace  的定义就是非直谓的，因为要定义 X 就要对所有自然数的子集做量化，但 X 本身就是自然数的一个子集。非直谓定义又称为”恶性循环原则（Vicious-Circle Principle）”，罗素和庞加莱将之视作导致悖论的源头。但是我们都知道非直谓定义并非是导致悖论的本质性原因，因为在古典数学中我们到处都在使用非直谓定义（比如自然数集合就是非直谓定义的），但从来没有发现过有任何矛盾。
+值得注意的是直谓主义接受自然数总体作为一个已经完成的实无穷而存在，并且接受在自然数论域上使用古典逻辑。（这与直觉主义有非常明显的区别，直觉主义不接受实无穷，自然数总体仅仅作为潜无穷而存在，因此直觉主义者不能接受自然数集上的排中律。）但直谓主义不接受非直谓定义的自然数集合（如上文 XX 那样定义的集合），自然也不会接受所有自然数子集，即自然数集的幂集作为一个整体而存在。直谓主义仅仅接受那些直谓定义的自然数集合。究竟什么是直谓可定义的集合没有严格的标准，我们只有一个比较模糊的哲学原则，但像算术集（Arithmetic Sets）这样的自然数的一阶可定义集合都是被接受是符合直谓主义原则的。
+在1960年代，Feferman和Schutte分别对直谓主义进行了严格的数学刻画，他们找到了直谓主义序数的最小上界 Γ0\Gamma_{0}\Gamma_{0} ，这是一个递归序数，又被称为Feferman-Schutte序数。Feferman建立了一个分层的形式系统 RA<Γ0RA_{<\Gamma_{0}}刻画直谓主义可证性，对每个 α<Γ0 \alpha<\Gamma_{0} ， RAαRA_{\alpha} 都是直谓主义可接受的系统，但 RA<Γ0=⋃α<Γ0RAα RA_{<\Gamma_{0}} =\bigcup_{\alpha<\Gamma_{0}}RA_{\alpha}  不再是直谓主义的系统（ Γ0\Gamma_{0} 是第一个非直谓序数）。
+
+作者：无限大炮
+链接：https://www.zhihu.com/question/66646162/answer/2240554129
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+the survey of predicative mathematics (any classical function can be approximated as closely as desired by a predicative function): Feferman, S.,"Theories of finite type related tomathematical practice," in Handbookof Mathematical Logic, ed., K.J. Barwise, North Holland, Amsterdam, 1977, pp. 913-972.
+
+classic “Systems of predicative analysis” (Feferman 1964).
+- Solomon Feferman highlights the view that some totalities are inherently potential
+- 
+
+Feferman, Solomon 
+Predicativity 
+2005 
+Shapiro, Stewart (Ed.) Oxford Handbook of Philosophy of Mathematics and Logic
+Oxford: Oxford University Press. 
+p. 590-624 
+Myhill elucidates the ramified theory of types of Russell in his 1974.
+The definition of natural number is:
+N(a) := (\forall \phi) [\phi(0)&\(\forall x)(\phi(x)->\phi(x')))\right \phi(a)]
+The first crack of Russell's logicist program is the use of the axiom of infinity. The second is that the notion of natural number is relative to any type t of classes of classes (because natural numbers are equivalence classes under the relation of one-one correspondence). And, e.g. the type of \psi(x):= [N(x)->N(a+x)] is of a higher type than that of the quantified variable \phi in the definition of N so we can't apply that definition to establish (\forall x)\psi(x) by indution.
+To get  around this, Russell introduced Axiom of Reducibility:
+(\exists f)(\forall x)[\phi(x)<->f!x], where the bound variables in the function \phi!x are all of the same or lower type than the type of x.
+In Goldfarb's explanation, Poincare attack the new logicians for for him, a mathematical truth is given to us by intuition. Poincare says the structure of natural numbers and the principle of induction are presupposed in logicists' description of the axiomatic system, with its inductive generation of formuals and proofs. Michael Hallett 1990 defends Poincare on this point. Weyl too.
+Weyl accepted that each subset of N of the form {n \in N : A(n)} exists, where A is an arithmetical formula, i.e., one that contains no quantifiers ranging over sets, only over natural numbers. Adapting ramified type theory to this specific second-order context, one could consider sets of level 1, 2, 3 and so on. But if S is a bounded set of real numbers of some level k, its g.l.b. and
+l.u.b. are defined by applying the operations of union, resp. intersection to corresponding sets S* of upper Dedekind sections of the rational numbers, and that requires quantification over sets of level k. Thus the g.l.b., resp., l.u.b. of S would be of level k + 1. Weyl concluded that a development of analysis in such ramified terms would be unworkable. Instead, Weyl identified not as Dedekind sections but rather as Cauchy (or fundamental) sequences of rational numbers. In this form, the Cauchy completeness of the real number system is justified by the arithmetical comprehension axiom. (10) Wely showed that substantially all of 19th century analysis of piece-wise continuous functions could be accounted for in this way, since any continuous function f of real numbers is completely determined by its behavior at rational arguments, and hence can be represented at the second-order level. Subsequent research in arithmetical analysis beginning in the 1970s has been able to extend Weyl’s program much farther into 20th century analysis.
+The constructible hierarchy may be considered to be entirely predicative except perhaps in its free use of arbitrary ordinals. 
+Predicativity can be seen as a chapter of definability theory. Kleene 1955 established that the collection of all hyperarithmetic sets HYP=\Delta^1_1. And Kleene 1959 proved that the ramified analytic hierarchy up to \omega_1^{CK} R_{\omega_1^{CK}}=HYP. However, results of Gandy 1960 and Spector 1960 shows that HYP does not exhaust the ramified hierarchy. Kresiel 1960 proposed to identify the predicatively definable sets, given the natural numbers, with the members of HYP.
+In 1960s, the idea that the predicative ordinals are those that cannot only be defined by well-ordering relations in the given system but must also be proved previously to be such relations, came.
+[technical development skimmed]
+Feferman studies the predicativity from the point of admissaile operations. For example, in the case of non-finitist classical arithmetic, these would be (say) the operations ~, & and \exists, while in the case of finitist arithmetic we would be limited to positive propositional connectives and (in one formulation) the \exists operator. Feferman considers the generalized recursion or fixed point operator,  showed that U0(NFA) is equivalent to PA, The intermediate (operational
+and predicate) unfolding of U_0, U_1(NFA) to RA_{<\omega}, the The full (operational and predicate) unfolding with join operator U(NFA)=RA_{<\Gamma_0} in 2000 and obtained that U_0(FA) is equivalent to U(FA) to PRA.
+Kreisel’s work on finitism in terms of certain autonomous progressions (1958 and 1965) led to a system whose proof-theoretical strength is Peano Arithmetic PA.
+Feferman conjectures that it should be possible to expand the system FA to a system FA* by adding a suitable form of the Bar Rule whose unfolding is exactly PA in strength, i.e. U(FA*) is equivalent to PA. If this is right, what gives Kreisel’s characterization of finitism its unexpected strength is his implicit use of a notion of finitist well-ordering.
+Stronger notions of predicativity than that, given the natural numbers, were suggested by work in the late 1950s of Paul Lorenzen, John Myhill and Hao Wang. In particular, the paper of Lorenzen and Myhill (1959) involves the acceptance in a certain constructive form of the countable ordinals and of inductive proof and definition on them. In metamathematical terms, their principles would legitimate a system of strength at least that of ID_1, the theory of one generalized inductive definition.
+Edward Nelson published a monograph, Predicative Arithmetic (1986), which perhaps more properly should have been entitled Strictly Finitist Arithmetic, whose admissible principles place it within the systems of “feasible” or “polytime” arithmetic that have been developed by Sam Buss and others, systems that form a very weak fragment of primitive recursive arithmetic (cf. Buss 1986).
+And two papers of Geoffrey Hellman and Feferman,
+“Predicative foundations of arithmetic” (1995) and “Challenges to predicative foundations of arithmetic” (2000) argue in particular for a concept of predicativity given the notion of finite set, and in general for predicativity as a
+relative rather than an absolute concept. In addition, concepts of predicativity given the notion of finitist ordinal and even of predicativity given the notion of the cumulative hierarchy of sets have been indicated above.

@@ -1,0 +1,33 @@
+
+The journals are Nous, the Journal of Philosophy, the Philosophical Review, and Mind
+
+twenty most cited works in four journals over the past twenty years
+Rank   	Cites   	Item   	Typically Cited In
+1	180	Kripke S 1980 Naming Necessity	Nous, Philosophical Review
+2	131	Lewis D 1986 Plurality Worlds	Nous, Philosophical Review
+3	97	Quine W 1960 Word Object	Philosophical Review, Nous
+4	83	Williamson T 2000 Knowledge Limits	Nous, Philosophical Review
+5	82	Lewis D 1973 Counterfactuals	Mind, Nous
+6	78	Evans G 1982 Varieties Reference	Philosophical Review, Nous
+7	77	Chalmers D 1996 Conscious Mind	Philosophical Review, Nous
+7	77	Davidson D 1980 Essays Actions Event	Philosophical Review, Mind
+9	73	Lewis D 1986 Philos Papers	Mind, Nous
+10	64	Parfit D 1984 Reasons Persons	Philosophical Review, Nous
+10	64	Davidson D 1984 Inquiries Truth Inte	Philosophical Review, Mind
+12	60	Nozick R 1981 Philos Explanations	Nous, Philosophical Review
+13	58	Scanlon T 1998 What We Owe Each Oth	Mind, Journal of Philosophy
+14	57	Kaplan D 1989 Themes Kaplan	Philosophical Review, Nous
+15	53	Rawls J 1971 Theory Justice	Philosophical Review, Journal of Philosophy
+16	50	Lewis D 1983 Philos Papers	Nous, Mind
+17	49	Williamson T 1994 Vagueness	Mind, Nous
+18	48	Lewis D 1983 Australas J Philos	Nous, Mind
+19	45	Jackson F 1998 Metaphysics Ethics	Philosophical Review, Nous
+20	44	Lewis D 1996 Australas J Philos	Nous, Philosophical Review
+20	44	Fodor J 1987 Psychosemantics Prob	Nous, Philosophical Review
+20	44	Harman G 1986 Change View	Philosophical Review, Nous
+20	44	Searle J 1983 Intentionality Essay	Nous, Philosophical Review
+20	44	Vaninwagen P 1990 Material Beings	Nous, Philosophical Review
+
+来源
+June 19, 2013 Lewis and the Women
+https://kieranhealy.org/blog/archives/2013/06/19/lewis-and-the-women/

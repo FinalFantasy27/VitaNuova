@@ -1,0 +1,5 @@
+
+the quantifier "most", understood as "more than half the ps" is not first-order definable. This is one of the results Barwise and Cooper (1981: p122-3), in "Formal Semantics: the essential readings" by Portner and Partee) discuss. 
+Furthermore, many so-called proportional quanitifers have been proven not to be first order-definable (Keenan 1996: "The semantics of determiners"). 
+
+The claim "most"  is not first-order definable

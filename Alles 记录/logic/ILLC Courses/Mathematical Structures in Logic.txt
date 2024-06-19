@@ -1,0 +1,22 @@
+
+Mathematical Structures in Logic
+
+	
+N. Bezhanishvili (co-ordinator)
+
+Objectives
+This course aims to discuss at length mathematical structures used in semantical analysis of logic
+Contents
+We will study duality theories for Boolean algebras, Heyting algebras, distributive lattices, modal algebras and other algebraic structures appearing in logic. We will discuss the consequences of these results for corresponding logics in terms of completeness, the finite model property, axiomatizations, decidability, interpolation etc. The classes of intermediate, substructural, modal and other non-classical logics will also be considered. We will also pay special attention to topological models of logic and point-free topology. In particular, we will discuss a number of topological completeness results for various logical systems. 
+
+Recommended prior knowledge
+Basic skills in formal (mathematical) reasoning and basic knowledge of topology.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Assessment
+Homework and written exam.

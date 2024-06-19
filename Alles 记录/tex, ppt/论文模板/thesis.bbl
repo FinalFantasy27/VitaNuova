@@ -1,0 +1,100 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[贾宝玉\ 等(1800)贾宝玉, 林黛玉, 薛宝钗, and
+  贾探春]{cnarticle}
+贾宝玉, 林黛玉, 薛宝钗, 等.
+\newblock 论刘姥姥食量大如牛之现实意义\allowbreak[J].
+\newblock 红楼梦杂谈, 1800, 224: 260-266.
+
+\bibitem[沙和尚(2005)]{shaheshang}
+沙和尚.
+\newblock 论流沙河的综合治理\allowbreak[D].
+\newblock 北京: 清华大学, 2005.
+
+\bibitem[阎真(2001)]{clzs}
+阎真.
+\newblock 沧浪之水\allowbreak[M].
+\newblock 人民文学出版社, 2001: 185-207.
+
+\bibitem[猪八戒(2005)]{zhubajie}
+猪八戒.
+\newblock
+  论流体食物的持久保存这是一个很长很长的题目用来测试BiBTeX会不会出现乱码貌似北邮的BST工作的很好\allowbreak[D].
+\newblock 北京: 广寒宫大学, 2005.
+
+\bibitem[Clote et~al.(1991)Clote and Kranakis]{colte1991boolean}
+Clote P, Kranakis E.
+\newblock Boolean functions, invariance groups, and parallel
+  complexity\allowbreak[J].
+\newblock SIAM Journal on Computing, 1991, 20\allowbreak (3): 553-590.
+
+\bibitem[Goosens et~al.(1994)Goosens, Mittelbach, and Samarin]{companion}
+Goosens M, Mittelbach F, Samarin A.
+\newblock The {\LaTeX} companion\allowbreak[M].
+\newblock Reading, MA: Addison-Wesley Publishing Company, 1994: 112-125.
+
+\bibitem[Grech et~al.(2014)Grech and Kisielewicz]{grech2014symmetry}
+Grech M, Kisielewicz A.
+\newblock Symmetry groups of boolean functions\allowbreak[J].
+\newblock European Journal of Combinatorics, 2014, 40\allowbreak (1): 1-10.
+
+\bibitem[{IEEE Std 1363-2000}(2000)]{IEEE-1363}
+{IEEE Std 1363-2000}.
+\newblock {IEEE} standard specifications for public-key
+  cryptography\allowbreak[M].
+\newblock New York: IEEE, 2000.
+
+\bibitem[Kim et~al.(2003)Kim, Woo, Yeom, Park, and Park]{DPMG}
+Kim S, Woo N, Yeom H~Y, et~al.
+\newblock Design and {I}mplementation of {D}ynamic {P}rocess {M}anagement for
+  {G}rid-enabled {MPICH}\allowbreak[C]//\allowbreak
+the 10th European PVM/MPI Users' Group Conference.
+\newblock Venice, Italy, 2003.
+
+\bibitem[Kisielewicz(1998)]{kisielewicz1998symmetry}
+Kisielewicz A.
+\newblock Symmetry groups of boolean functions and constructions of permutation
+  groups\allowbreak[J].
+\newblock Journal of Algebra, 1998, 199\allowbreak (2): 379-403.
+
+\bibitem[Knuth(1989)]{tex}
+Knuth D~E.
+\newblock The {\TeX} book\allowbreak[M].
+\newblock 15th ed.
+\newblock Reading, MA: Addison-Wesley Publishing Company, 1989.
+
+\bibitem[Rotman(2012)]{rotman2012introduction}
+Rotman J~J.
+\newblock An introduction to the theory of groups: Vol. 148\allowbreak[M].
+\newblock New York: Springer Science \& Business Media, 2012.
+
+\bibitem[Shell(2002)]{SHELL02}
+Shell M.
+\newblock How to use the {IEEEtran {\LaTeX}} class\allowbreak[J].
+\newblock Journal of {\LaTeX} Class Files, 2002, 12\allowbreak (4): 100-120.
+
+\bibitem[Woo et~al.(1995)Woo, Bailey, Yarrow, Wijngaart, Harris, and
+  Saphir]{NPB2}
+Woo A, Bailey D, Yarrow M, et~al.
+\newblock The {NAS} parallel benchmarks 2.0\allowbreak[R/OL].
+\newblock The Pennsylvania State University CiteSeer Archives, 1995.
+\newblock \url{http://www.nasa.org/}.
+
+\bibitem[Zadok(2001)]{FistSystem01}
+Zadok E.
+\newblock {FiST}: A system for stackable file system code
+  generation\allowbreak[D].
+\newblock USA: Computer Science Department, Columbia University, 2001.
+
+\end{thebibliography}

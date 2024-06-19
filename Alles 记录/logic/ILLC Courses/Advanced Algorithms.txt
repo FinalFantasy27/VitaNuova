@@ -1,0 +1,50 @@
+
+Advanced Algorithms
+
+Lecturer(s)
+
+R.E.M. Reiffenhäuser (co-ordinator)
+
+Objectives
+get to know a toolbox of different algorithmic paradigms and be able to recognize them.
+be able to adjust known algorithmic approaches to a given problem.
+be able to recognize structural properties of problems and determine a suitable algorithmic paradigm for solving them.
+recognize and prove the hardness of NP-complete problems, as well as show the performance and correctness of (approximation) algorithms.
+learn how to develop algorithms for different types of problems based on the concepts introduced in the course.
+Contents
+In this course, you will learn – or deepen your knowledge of – important algorithm design and analysis paradigms, and build a repertoire of algorithmic solutions to apply in different domains.
+
+Some (tentative) topics are:
+
+1. Introduction: short recap of Algorithm Analysis and Data Structures
+
+2. Network Flows
+
+3. NP and Polynomial-Time Reductions
+
+4. Linear Programming
+
+5. Approximation Algorithms
+
+6. Randomized Algorithms
+
+7. Online Algorithms
+
+Recommended prior knowledge
+Basic knowledge of complexity theory, data structures, graphs, and programming (no specific programming language needed). Familiarity with mathematical proofs, basic knowledge of probability and statistics.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Self-study
+Lecture
+Exercise Group
+Time
+The schedule for this course is published on DataNose.
+
+Study materials
+Literature:
+Jon Kleinberg, Eva Tardos: Algorithm Design
+Assessment
+The final grade is determined via performance in the final exam, as well as the exercise assignments.

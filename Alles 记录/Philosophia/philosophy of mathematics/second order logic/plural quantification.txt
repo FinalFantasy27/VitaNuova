@@ -1,0 +1,33 @@
+Michael Resnik expresses misgivings about the alleged ontological innocence of the plural formalization (3'′) of the Geach-Kaplan sentence (3). For when (3'′) is translated into English as instructed, it reads:(3′′′)
+There are some critics such that any one of them admires another critic only if the latter is one of them distinct from the former.
+But (3′′'), Resnik says,
+
+seems to me to refer to collections quite explicitly. How else are we to understand the phrase “one of them” other than as referring to some collection and as saying that the referent of “one” belongs to it? (Resnik 1988: 77)
+
+Related worries have been expressed in Hazen 1993, Linnebo 2003, Parsons 1990, and Rouilhan 2002; see also Shapiro 1993.
+SEP
+
+Linnebo, Øystein 
+Plural Quantification 
+The Stanford Encyclopedia of Philosophy (Spring 2022 Edition), Edward N. Zalta (ed.) 
+Contents 
+1. The Languages and Theories of Plural Quantification 
+1.1 Regimenting plural quantification 
+1.2 The Theories PFO and PFO+ 
+2. Plural Quantification vs. Second-Order Quantification 
+2.1 Plural quantification and monadic second-order logic 
+2.2 Relations 
+2.3 Modal contexts 
+2.4 Higher levels of plural quantification? 
+3. The Logicality Thesis 
+4. Applications of Plural Quantification 
+4.1 Establishing the Logicality of Monadic Second-Order Logic 
+4.2 Logicism 
+4.3 Set Theory 
+4.4 Mathematical Nominalism 
+4.5 Eliminating Complex Objects 
+5. Ontological Innocence? 
+5.1 The set-theoretic argument 
+5.2 The incorrect predication argument 
+5.3 The direct argument 
+5.4 Semantic values and ontological commitments

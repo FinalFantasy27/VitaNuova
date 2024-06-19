@@ -1,0 +1,58 @@
+D. H. Mellor’s theory of causation (1995), according to which singular causation is a matter of a fact raising the chance of another
+
+Hitchcock, Christopher 
+Probabilistic Causation 
+
+The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.) 
+
+1. Motivation and Preliminaries
+1.1 Problems for Regularity Theories
+Attempts to analyze causation in terms of invariable patterns of succession are referred to as “regularity theories” of causation.
+Imperfect, Irrelevance...
+1.2 Probability
+1.3 The Interpretation of Probability
+1.4 General Causation and Actual Causation
+1.5 Causal Relata
+1.6 Further Reading
+2. Probability-raising Theories of Causation
+2.1 Probability-raising and Conditional Probability
+P(E∣C)>P(E). alternatively P(E∣C)>P(E∣∼C);
+Some authors (e.g., Reichenbach 1956, Suppes 1970, Cartwright 1979) have formulated probabilistic theories of causation using inequalities like PR1, others (e.g., Skyrms 1980, Eells 1991) have used inequalities like PR2. This difference is mostly immaterial
+does not address the problem of asymmetry because probability-raising turns out to be symmetric: P(E∣C)>P(E∣∼C), if and only if P(C∣E)>P(C∣∼E).
+ also has trouble with spurious correlations. If C and E are both caused by some third factor, A, then it may be that P(E∣C)>P(E∣∼C) even though C does not cause E.
+2.2 Screening off
+Ct is a cause of Et′ only if t<t′
+2.3 The Common Cause Principle
+2.4 Simpson’s Paradox and Background Contexts
+2.5 Other Causal Relations
+2.6 Contextual-unanimity
+Dupré
+C causes E if and only if
+Σ_B P(E∣C&B)×P(B)>Σ_B P(E∣∼C&B)×P(B)
+where B ranges over the relevant background contexts. 
+
+On the other hand, Eells’s population-relative formulation allows us to make more precise causal claims: in the population as a whole, smoking is a mixed cause of lung cancer; in the sub-population of individuals who lack the protective gene, smoking is a positive cause of lung cancer; in the sub-population consisting of individuals who possess the gene, smoking is a negative cause of lung cancer.
+Twardy and Korb 2004.
+2.7 Conclusion and Further Reading
+3. Causal Modeling
+3.1 Graphical Causal Models
+3.2 Identification Problems
+3.3 The Markov Condition
+3.4 The Minimality and Faithfulness Conditions
+3.5 Identifiability of Causal Structure
+3.6 Interventions
+3.7 Conclusion and Further Reading
+4. Actual Causation
+4.1 A First Attempt
+4.2 Problem Cases
+4.3 Lewis’s Counterfactual Theory
+4.4. Fenton-Glynn’s Causal Modeling Account
+4.5 Conclusion and Further Reading
+cases where causes seem to lower (or leave unchanged) the probabilities of their effects; and cases where non-causes seem to raise the probabilities of events that are not their effects
+A number of authors have attempted to provide probabilistic analyses of actual causation. Some, such as Eells (1991: chapter 6), Kvart (1997, 2004), and Glynn (2011), pay careful attention to the way in which probabilities change over time. Some, such as Dowe (2004) and Schaffer (2001), combine probabilities with the resources of a process theory of causation. Some, such as Lewis (1986b) (‘probability-raising’ is not understood in terms of conditional probabilities, but in terms of unconditional probabilities in different possible worlds.; Interpolating an event into the sequence of events; has problems with other types of preemption, and with probability-raising non-causes), Menzies (1989), and Noordhof (1999), employ probabilities together with counterfactuals to analyze actual causation. And others such as Beckers & Vennekens (2016), Fenton-Glynn (2017), Halpern (2016: Section 2.5), Hitchcock (2004a), and Twardy & Korb (2011) employ causal modeling tools.
+Glymour et al. (2010) raise a number of challenges to the general project of trying to provide an analysis of actual causation.
+The anthologies Collins et al. 2004 and Dowe & Noordhof 2004 contain a number of essays on topics related to the discussion of this section. Hitchcock 2004b has an extended discussion of the problem posed by fizzlers. 
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

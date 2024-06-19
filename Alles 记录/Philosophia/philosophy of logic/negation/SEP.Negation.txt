@@ -1,0 +1,48 @@
+1. Negation and opposition in natural language
+1.1 Introduction
+1.2 Negation in natural language: markedness and asymmetry
+1.3 Matters of scope
+1.4 Contrariety and contradiction
+1.5 Negation, presupposition, and singular terms
+1.6 From contradiction to contrariety: pragmatic strengthening of negation
+1.7 Privation, affixal negation, and the markedness asymmetry
+1.8 Double negation
+1.8.1 “Logical” double negation
+1.8.2 Negative concord and its relations
+1.9 Negative polarity
+1.10 Metalinguistic negation
+2. The logic of negation
+2.1 Negation as a truth function
+2.2 Negation as a modal operator
+2.3 Interactions with negation
+2.4 Other conceptions of negation as a unary connective
+Negation as the Routley star
+Negation as inconsistency
+Negation as contradictoriness
+Negation as falsity
+Negation as cancellation
+Negation by iteration
+The idea of negation by iteration is to obtain a negation by a double application of a connective called “demi-negation” in Humberstone 1995, 2000b, or “square root of negation” in quantum computational logic, see, for recent references, Dalla Chiara, Giuntini, Leporini, and Sergioli 2018, Paoli 2019, and the entry on sentence connectives in formal logic. This clearly reminds one of the duplex negatio negat in negative concord, see Section 1.8.2.
+Perfect negation
+Perfect negation is a rather restrictive notion of negation that has been developed by Avron (1999, 2002) in terms of proof-theoretical as well as semantic conditions.
+2.5 Negation, rejection, and denial
+Frege (1919) and Geach (1965): Ripley (2011b, 623) calls the denial equivalence:
+
+that to assert the negation of a content A is equivalent, in its conversational effects and commitments carried, to denying A.
+
+“rejectivism” defended by, for example, Price (1983, 1990), Smiley (1996), and Rumfitt (2000): the conceptual priority of the notions of assertion and denial over the concept of negation
+see also Lloyd Humberstone (2000a: 331)
+Ripley (2011b) remarks, rejectivists are typically inferentialists
+
+Frege’s argument that an account of negation in terms of denial does not make sense of embedded negations
+Humberstone (2000a, Footnote 10): “Bendall normal form”, namely a formula that contains at most one occurrence of the negation sign as the principal connective
+The normal form result holds for classical propositional logic (CPL) in the connectives ∼, ∧, ∨, and →. It fails for the negation, conjunction, disjunction fragment of CPL...
+An in-depth investigation of sequent calculi using formulas prefixed by an assertion sign [+] or a rejection sign [–], understood as non-embeddable force indicators, can be found in Bendall 1978, Humberstone 2000a.
+
+Another way of repulsing the denial equivalence is to argue that denial and rejection are conceptually independent from the concept of negation. Such an independence is defended, for example in van der Sandt and Maier 2003 (Other Internet Resources) and Priest 2006, Chapter 6.
+A critical discussion of this approach may be found in Ripley 2011b. 
+
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries

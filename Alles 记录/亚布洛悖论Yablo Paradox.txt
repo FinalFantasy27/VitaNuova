@@ -1,0 +1,15 @@
+
+Yablo 1993
+
+Priest认为1. Yablo的推论用到了含有变元的T模式 \forall x (T[\phi(x)]<->\phi(x))，但T模式一般指作用在语句上，因此应该用满足关系取代，而满足关系导致的固定点揭示了亚布洛悖论的循环性（1997, pp. 237-8）
+布埃诺（O.）和科利文（M.） Bueno & Colyvan 2003给出了不需要使用含变项的T模式的推导：
+假设Y0真，
+则Y1不真
+但Y0即“对于所有k>0，Yk不真”，其为真蕴涵其特殊情况“对于所有k>1，Yk不真”，即Y1
+所以Y0不真
+所以亚布洛语句序列中至少有一个为真，记第一个为Yi
+Yi真蕴涵Y_{i+1}不真，但又蕴涵Y_{i+1}真
+再次矛盾
+Ketland 2004; 2005 证明了PA^T+ \forall x (Y(x)<->\forall y \lnot Y(y))不一致（2005, pp. 296-7, 300），但PA^T+ Y([n]) \leftrightarrow \forall y>[n] \lnot Y(y), n \in \omega 是一致的（某些Yablo语句的序数取非标准数），只是\omega-不一致（pp. 297, 299）
+（在PA^T中，根据对角线引理，可以得到PAT中存在亚布洛语句，即存在公式Y(x) 满足 PAT |- \forall x (Y(x)) \leftrightarrow \forall y>x \lnot T [Y([y])]））
+Bueno & Colyvan 反驳讨论应只限于（标准）自然数

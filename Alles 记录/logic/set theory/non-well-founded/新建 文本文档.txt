@@ -1,0 +1,2 @@
+
+(Axiom of Foundation) if we take a countable model of Zermelo–Fraenkel set theory ZFC and “undirect” the membership relation (that is, make a graph by joining x to y if either x \in y or y \in x), we obtain the Erdős–Rényi random graph.

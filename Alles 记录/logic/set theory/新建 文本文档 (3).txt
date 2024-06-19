@@ -1,0 +1,7 @@
+
+|x| < |y| => |P(x)| = |P(y)| is independent of ZFC
+it follows from the Generalized Continuum Hypothesis
+under Martin's Axiom, when CH fails, there are models of ZFC having X be the natural numbers and Y be a uncountable set of real numbers but nevertheless |P(X)| = |P(Y)| 
+
+Luzin hypothesis. 2^ω=2^{ω1}
+holds in Cohen's model for the negation of CH

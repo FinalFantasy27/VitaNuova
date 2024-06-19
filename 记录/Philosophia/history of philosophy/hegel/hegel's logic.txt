@@ -1,4 +1,0 @@
-Being seems to be both immediate and simple, but it will show itself to be, in fact, only something in opposition to something else, nothing. The point seems to be that while the categories being and nothing seem both absolutely distinct and opposed, on reflection (and following Leibniz’s principle of the identity of indiscernibles) they appear identical as no criterion can be invoked which differentiates them. The only way out of this paradox is to posit a third category within which they can coexist as negated (Aufgehoben) moments.
-SEP.hegel
-
--comments: It's almost as stupid as absurd to rely on Leibniz;s principle to justify the opening of Hegel's logic. Because from the point of Leibnizian view, there could not be a thing has no property at all except its "being" (for, if a thing has no the property A, then it must have the property ~A).

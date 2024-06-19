@@ -1,0 +1,29 @@
+背景、
+文献中存在的类似的性质、情况（如加入等词从可判定变为不可判定，Gödel class（\forall...\exists...）（Goldfarb, W.: The unsolvability of the G¨odel class with identity. Journal of Symbolic Logic 49, 1237-1252 (1984)）, the logic of function dependence（P"utzst"uck, P.: Decidability and Bisimulation for Logics of Functional Dependence. Master's thesis, Mathematical Foundations of Computer Science, RWTH-Aachen University (2020)））
+语言、
+模型、语义、
+性质：
+表达力（互摸拟、模态等价，如捉迷藏逻辑的模型拆分成两个点模型分别等价则原模型也等价，反之不成立，但等价于拆分成赋值函数后两个维度的基本模态逻辑）、
+xx-saturated models、
+（没）有树模型性
+R(u) ={u}. Consequently, the model M cannot be a tree.
+、（没）有穷模型性
+by constructing a ‘spy-point’ [Blackburn, P., Seligman, J.: Hybrid languages. Journal of Logic, Language and Information 4, 251–272 (1995)], i.e., all states that are reachable from u in n-steps can also be reached in one step, it can be proved that xxx lacks the finite model property.
+、可满足问题的（不）可判定性（归约到NxN铺砖问题等）
+In usual cases this work is often routine when we have an infinite grid-like model (cf. e.g., [蓝宝书])
+、Open problem、
+总结和更多方向（和其它类似逻辑的联系、扩充）
+Li, D., Ghosh, S., Liu, F., Tu, Y. (2021). On the Subtle Nature of a Simple Logic of the Hide and Seek Game. In: Silva, A., Wassermann, R., de Queiroz, R. (eds) Logic, Language, Information, and Computation. WoLLIC 2021. Lecture Notes in Computer Science(), vol 13038. Springer, Cham. https://doi.org/10.1007/978-3-030-88853-4_13
+解释、
+有趣的有效式、
+相关的工作（product logic、
+自己方面以往的工作（Graph games and modal logics等））、
+复杂度（model checking, checking for bisimulation 等；P-complete等（
+Li, D., Ghosh, S., Liu, F. et al. A Simple Logic of the Hide and Seek Game. Stud Logica (2023). https://doi.org/10.1007/s11225-023-10039-4））、
+对原先工作的改进和简化、
+van Benthem style characterization theorem（超积）、
+公理化（arxiv）、
+Appendix：一阶翻译等
+Qian Chen1 and Dazhu L.Logic of the Hide and Seek Game: Characterization, Axiomatization, Decidability.arxiv
+
+Goldblatt-Thomason-style theorems

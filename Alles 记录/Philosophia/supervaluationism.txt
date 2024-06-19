@@ -1,0 +1,18 @@
+
+cf. van Fraassen 1966
+Fine 1975
+McGee & McLaughlin 1994
+
+A is supertrue iff A is true under any admissible precisifications
+some argue that supervaluationism converges with classical logic about theoremhood
+Kit Fine (1975, 282) and David Lewis (1982): Instead of there being one vague concept, there are many precise concepts that closely resemble each other
+
+Every F in Admissible valuation satisfies that existential claim there exists an n, such that Bald(n) and ~Bald(n+1), and thus Determined(there exists an n, such that Bald(n) and ~Bald(n+1)) is true. But this does not entail that "there exists an n, such that Determined(Bald(n) and ~Bald(n+1)) is true. In that sense, supervaluationism is not committed to sharp boundaries.
+Keefe 2000.Theories of Vagueness.New York: Cambridge University Press (2000)
+
+semantics is not compositional anymore
+logical problems, e.g. if one extends the language by a 'determinately' operator Det for super-truth and when logical consequence is super-truth-preservation,
+A \models_{SV} Det(A), but not for all A: \models_{SV} A \to Det(A).
+Supervaluationism requires rejection of inference rules such as contraposition, conditional proof and reductio ad absurdum (Williamson 1994, 151–152) 
+some of the metarules of classical logic fail (cf. Williamson 1994)
+

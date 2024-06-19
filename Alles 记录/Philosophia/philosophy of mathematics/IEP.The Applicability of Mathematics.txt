@@ -1,0 +1,20 @@
+Pincock, Christopher 
+The Applicability of Mathematics 
+
+
+IEP 
+
+Abstract: Reasoning 
+two-stage view of applicability. This view proposes that mathematical claims are about an exclusively mathematical domain and that these claims play a role in scientific arguments only because there are premises which link the mathematical domain to whatever non-mathematical domain the conclusion of the argument is about. 
+Frege’s one-stage approach insists that the subject-matter of mathematics relates directly to whatever the mathematics is applied to 
+meaning and language learning. the concept of natural number involves tie to counting. Dummett 1991, pp. 300-301; Wright 2000, p. 324, 327, 329 
+structuralism. a two-stage position 
+Formulation and Discovery 
+Wigner. 1. why certain physical claims are true. no explanation. 2. the role of mathematics in the discovery of successful scientific theories. Mark Steiner’s The Applicability of Mathematics as a Philosophical Problem (1998) 
+As the subject-matter of mathematics is made up of abstract structures, one can make sense of how the highly complicated structures found in nature might be studied via the more accessible abstract structures discussed by mathematicians. This is roughly the route taken by Steven French (French 2000). 
+For instance, it is hard to tell what beliefs motivated physicists to substitute matrices for variables in Wigner’s example. aesthetic See (Steiner 1998, pp. 95-98) for some discussion of this case. Simons suggests that physicists may have simply been desperate to try anything. As a result, the success of their attempts does not underwrite Steiner’s conclusions (Simons 2001). (Bangu 2006) provides additional discussion of Steiner’s argument. 
+For example, Ivor Grattan-Guinness presents a classification of seven ways in which a new scientific theory might relate to an old one, including connections of reduction, importation and what he calls “convolution” (Grattan-Guinness 2008, p. 9). Using this classification scheme, he argues that the analogies responsible for many scientific breakthroughs can be made sense of: “With a wide and ever-widening repertoire of mathematical theories and an impressive tableau of ubiquitous topics and notions, theory-building can be seen as reasonable to a large extent” (Grattan-Guinness 2008, p. 15). 
+Mark Wilson’s “The Unreasonable Uncooperativeness of Mathematics in the Natural Sciences”. Wilson considers the possibility that successful applications of mathematics in science are rare because they largely turn on a fortunate match between the mathematics available at a given stage of development and the features of the physical systems being studied. 
+(Wilson 2006) deals with these issues at greater length. For additional discussion of problems related to formulation and discovery see (Azzouni 2000), (Colyvan 2001a) and (Urquhart 2008). 
+Unification, Explanation and Confirmation 
+References and Further Reading

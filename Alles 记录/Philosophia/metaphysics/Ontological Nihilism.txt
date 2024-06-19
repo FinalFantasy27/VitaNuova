@@ -1,0 +1,47 @@
+Turner, Jason 
+Ontological Nihilism 
+2011 
+
+Bennett, Karen / Zimmerman, Dean W. (Eds.) Oxford Studies in Metaphysics: volume 6
+
+Oxford University Press 
+p. 3-54 
+
+Ontological nihilism is the radical-sounding thesis that there is nothing at all. This chapter first discusses how the most plausible forms of this thesis aim to be slightly less radical than they sound and what they will have to do in order to succeed in their less radical ambitions. In particular, they will have to paraphrase sentences of best science into ontologically innocent counterparts. The chapter then points out the defects in two less plausible strategies, before going on to argue that strategies that look more promising, including one based on Quine's predicate-functor language, face the same defects.
+
+(!) If every term (other than # and $) is interpreted the same way in L1 as it is in L2, and if the speakers of L1 utter "# in all and only the circumstances in which speakers of L2 utter "$, then # and $ have the same interpretation also.
+
+Let’s clear up a few points about (!) before going on. First, it talks about circumstances in which speakers of L1 utter phi_# and in which speakers of L2 utter phi_$. This talk ought to be understood dispositionally: to say that you and I utter phi in just the same circumstances is to say that our dispositions are such that, for any circumstance C, I am disposed to utter " in C iff you are disposed to utter "in C. If we don’t understand (!) in this way, it will prove too much. Imagine two
+communities that differ linguistically only in that one uses ‘green’ and one uses ‘grue’. The green speakers are just like us, except they have never read Goodman 1979/1983 and never entertained the predicates ‘grue’ and ‘bleen’. The ‘grue’-
+speakers are just like the ‘green’-ones, except (a), they have never entertained a predicate that works the way ‘green’ does, and (b) although this community calls things ‘grue’ exactly when the ‘green’-speaking community calls them ‘green’,
+they have different linguistic intentions. The ‘grue’-speakers fully intend, when they encounter green-looking things for the first time after the set future date, to not call them ‘grue’ anymore. And they fully intend to call blue-looking things
+encountered for the first time after this date ‘grue’.
+
+‘triangular’ and ‘trilateral’
+intensionally equivalent — that they at least apply to the same things in the same possible
+circumstances
+
+hole does not exist: Ted Sider, “Monism and Statespace Structure.” In Robin LePoidevin
+(ed.), Being: Developments in Contemporary Metaphysics. Cambridge University
+Press.
+
+Lewis, David and Stephanie Lewis (1970). “Holes.” The Australasian Journal of
+Philosophy 48: 206–212. Reprinted in Lewis (1983b): 3–9.
+
+table-and-chair: van Inwagen, Peter (1990). Material Beings. Ithaca, N.Y.: Cornell University Press.
+
+ontological commitments
+see Cartwright (1954), Rayo (2007) Richard (1998), and van Inwagen (1998: Thesis
+V) for discussion.
+
+P. F. Strawson (1954, 1963) noticed that we could, in principle, use sentences
+like this to make ontologically innocent (i.e., peg-free) claims in the neighborhood
+of claims we generally make about particular things. For instance, instead
+of saying
+(27) existsx(x is a cat),
+we could say
+(28) It is catting.
+
+existsx (x is positively charged & x is negatively charged) vs. existsx x is positively charged & existsx x is negatively charged)
+it is (?)
+and what about relations?

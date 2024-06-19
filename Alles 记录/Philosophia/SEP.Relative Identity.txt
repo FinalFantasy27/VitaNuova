@@ -1,0 +1,18 @@
+
+Deutsch, Harry / Garbacz, Pawel 
+Relative Identity 
+
+
+The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.) 
+
+Abstract: Motivation: The Paraodx of Change, The Ship of Theseus Paradox...... 
+Relative Identity: x and y are the same F but different Gs 
+Relative identity as an equivalence relation vs. Lebniz's law 
+P.T. Geach (1973) argued against absolute identity:
+1. Drawing an analogy with Frege, "x and y are the same" should always be completed as: 'x and y are the same F'. 
+2. Logical identity is language-relative, signifying only indiscernibility. 
+Language relativity makes relative identity uninteresting. Consider the young Oscar and the old Oscar as the same dog. If we affirm that Old Oscar and young Oscar are the same dog on the grounds that there is an ideology with respect to which old oscar and yong oscar are indistinguishable, such an ideology would be incapable of describing any change at all. 
+
+Objections to relative identiy: 
+Waht distinguishes identity from mere similarity? 
+Reply: If F is a common noun standing for a kind of things e.g., ‘horse’, then ‘x and y are the same F’ is a statement of identity, whereas if F is an a common noun standing for a kind of properties of things, then ‘x and y are the same F’ is a statement of similarity. (It's interesting to note that when the noun is proper, i.e. a proper name, the result is a statement of similarity, not identity — as in ‘He's not the same Bill we knew before’.

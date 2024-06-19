@@ -1,0 +1,9 @@
+在多世界的图景下如何理解概率一直是个重要的问题。而其中一项最重要的就是要能够推出玻恩规则（Born Rule）：David Deutsch通过决策论的几条公理推导，在 @贾明子 的 量子世界的决定论、概率、以及拉普拉斯之妖 中有很好的介绍。
+然而，也有对此的criticization，如Peter Lewis指出，Barnum, H., C. M. Caves, J. Finkelstein, C. A. Fuchs and R. Schack (2000), “Quantum probability from decision theory?”, Proceedings of the Royal Society of London A456: 1175–1182. 认为对经典决策论的使用已经蕴含了概率。
+而Wallace, David (2003), “Everettian rationality: defending Deutsch’s approach to probability in the Everett interpretation”, Studies in the History and Philosophy of Modern Physics 34: 415–439. 针对一些点辩护道Barnum等人的“非-概率”概念和Deutsch的是不同的。
+对于基于对称的进路，一些批判认为我们如何决定哪些对称是应当尊重的呢？还是基于概率。
+Lewis 2003认为Deutsch在除了additivity, substitutibility and the zero-sum rule之外Deutsch还有一些额外的假设，如distribution.
+
+参考
+Sean Carroll. blog. Quantum Mechanics and Decision Theory
+Lewis, P. J. (2003). Deutsch on quantum decision theory.

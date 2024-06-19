@@ -1,0 +1,2 @@
+
+Kreisel came up with the first model-theoretic proof of the second incompleteness theorem in the 1960's (see, e.g., logika.umk.pl/llp/06/du.pdf)。

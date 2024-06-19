@@ -1,0 +1,26 @@
+
+fn.1. Beall (2001) and Ketland (2005) sided with Priest, whereas Bueno and Colyvan (2003a,b, 2011) stood on the opposite side by arguing the fixed point is not necessary to formulation of Yablo's paradox.
+Beall, J. C. (2001). Is Yablo’s paradox non-circular?. Analysis, 61, 176–187.
+Ketland, J. (2005). Yablo’s paradox and ω-inconsistency. Synthese, 145, 295–302.
+Bueno, O., & Colyvan, M. (2003). Paradox without satisfaction. Analysis, 63, 152–156.
+Bueno, O., & Colyvan, M. (2003). Yablos paradox and referring to infinite objects. Australasian Journal
+of Philosophy, 81, 402–412.
+Bueno, O., & Colyvan, M. (2011): Yablo paradox rides again: A reply to Ketland. http://homepage.mac.com/mcolyvan/papers/yra.pdf.
+
+fn.6. unlike the Liar paradox, Yablo's paradox is only ω-inconsistent (see for instance Ketland 2005 ). In this sense, Yablo's paradox does not have the same degree of paradoxicality as the Liar paradox. 
+But this result does not conflict with our result about the equiparadoxicality of Yablo's  paradox and the Liar paradox, since our result is based on the standard model of arithmetic all along.
+
+f.n.7. circularity of the fixed-point kind, as advanced in Priest (1997) and refined in Ketland (2005), is sensitive to the way how one constructs Yablo's sequence. Actually, in a very special language where universal quantification is replaced by infinitary conjunction, Cook (2006) has constructed a variant of Yablo's paradox, which is proved to be not involved in any fixed points. Even in the original language where Priest set up his argument, Bueno and Colyvan (2003a) found that there is a way to construct Yablo's 
+sequence without invoking any fixed-point construction.
+Cook, R. T. (2006). There are non-circular paradoxes (But Yablo’s Isn’t One of Them!). The Monist, 89, 118–149.
+
+fn.9. But the notion of self-reference (in the narrow sense) can be made precise so that we can give a formal proof of Yablo's claim. See Bolander (2003: 93), Cook (2004: 770), Leitgeb (2005: 168-170), Leitgeb (2006: 25) or Schlenker (2007a: 298-303).
+Bolander, T. (2003). Logical theories for agent introspection. PhD thesis, Technical University of Denmark
+Cook, R. T. (2004). Patterns of paradox. Journal of Symbolic Logic, 69, 767–774.
+Leitgeb, H. (2005). What truth depends on. Journal of Philosophical Logic, 34, 155–192.
+Schlenker, P. (2007). The elimination of self-reference: Generalized Yablo-series and the theory of truth. Journal of Philosophical Logic, 36, 251–307.
+
+J Log Lang Inf (2013) 22:23–31
+DOI 10.1007/s10849-012-9166-0
+Equiparadoxicality of Yablo’s Paradox and the Liar
+Ming Hsiung

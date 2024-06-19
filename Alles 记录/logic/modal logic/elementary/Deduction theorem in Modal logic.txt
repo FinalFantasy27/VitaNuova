@@ -1,0 +1,26 @@
+
+在一个很常见的定义下，语法的DT是空洞地成立的，比如蓝皮书，语法后承就被定义为一个蕴涵式能够被证明（合取 to phi），然后你可以证如果Phi, A |- B 那么 Phi |- A->B
+这个主要是因为在蓝皮书（以及其它很多模态逻辑文献）中一个逻辑就是定理的集合，而不是先定义推理系统的
+蓝皮书有个很典的习题：deduction theorem.local consequence relation has the [], but the global one does not.BlueBook
+就是语义的DT的问题.
+teki
+
+所以在S5里证一个公式可以直接用假设吗？.隐德莱希
+你要证啥？我觉得不能。因为假设你要证A->B，by Dt，你只需要证A推出B。但是你怎么证A推出B呢，根据定义，你要证A->B是一个定理。问题就在于，在上面那种定义中，我们没有直接地定义什么是一个推演，而是直接用证明来定义推演，所以你没法通过给出一个推演的方式来证明内定理。当然如果你直接定义推演的话，就要像安说的那样考虑怎么限制必然化规则或者演绎定理了.teki
+比如要证这个: \ box ( p and q) implies p.隐德莱希
+如果可以用导出规则的话：\Box(p\wedge q)\rightarrow(p\wedge q) by T
+(p\wedge q)\rightarrow p by CL
+\Box(p\wedge q)\rightarrow p by 1, 2, and Hypothetical Transitivity
+很多也写by 1, 2, and CL
+CL就是Classical Propositional Logic
+因为经典模态逻辑已经包含了经典命题逻辑，所以规则都可以用.
+teki
+这里用了一次cut规则.隐德莱希
+如果你要原始证明的话就全部写出来
+三段论写一行 By CL
+然后MP弄出来
+但是一般都不要求写原始证明了
+因为有一些情况很复杂要多用命题逻辑的导出规则倒来倒去
+就是这点麻烦，全部的东西都是在证明里做的
+而不是在推演中做的.
+teki

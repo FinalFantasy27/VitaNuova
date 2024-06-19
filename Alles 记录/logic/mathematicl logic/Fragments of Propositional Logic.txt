@@ -1,0 +1,7 @@
+
+Theorem. If in a fragment of the propositional calculus material implication can be defined in terms of the primitive functions, then any weakly complete formalization of the fragmentary system which has for rules of procedure the substitution rule and modus ponens is also strongly complete.
+Rose, Alan 
+Strong Completeness of Fragments of the Propositional Calculus 
+1951-09 
+The Journal of Symbolic Logic , Vol. 16, No. 3 
+p. 204 

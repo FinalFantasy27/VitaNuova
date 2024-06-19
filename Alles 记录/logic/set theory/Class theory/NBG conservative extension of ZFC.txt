@@ -1,0 +1,5 @@
+To prove the property, assuming the metatheory is a set theory, note that any model of ZFC can become a model of NBG by adding to it every definable collection that is not already a set to the model as proper classes. This gives a model of NBG where the translation of a ZFC sentence is true in the extended model exactly if the original sentence was true in the original model. Conversely, given a model of NBG, removing the proper classes from it produces a model of ZFC.
+global choice is also conservative over ZFC, but proving that would require stronger techniques than sketched here.
+
+hmakholm left over Monica
+https://math.stackexchange.com/questions/2012156/nbg-conservative-extension-of-zfc

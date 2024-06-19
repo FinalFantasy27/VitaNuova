@@ -1,9 +1,0 @@
-In 1700-1800s, there were debates on what function is, everyone agrees that f(x) = x^2 + 3x is a function, but for things like nowhere continuous function, there is doubt (Luzin.)
-
-In his treatment of the wave equation, D' Alembert required the initial shape of a vibrating string to be given by an analytic expression (so as to be twice differentiable), but Euler insisted that functions should not be limited in this way, because the most common initial conditions - for example, a plucked string - do not satisfy this requirement. The result was a major revision of the notion of function, a firm push toward the modern set-theoretic conception. See Maddy (1997, pp. 116-123) for discussion and references.
-Maddy, How applied be pure
-
-Modem set theory evolved out of two ideas. The first is that of an arbitrary
-function from the real numbers to the real numbers, not necessarily deter
-mined by a rule.
-Understanding the infinite, 242

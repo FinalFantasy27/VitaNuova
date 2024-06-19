@@ -1,0 +1,30 @@
+
+Maddy, Penelope 
+Set-theoretic foundations 
+2017 
+
+Contemporary Mathematics , Vol. 690 
+
+"So my suggestion is that we replace the claim that set theory is a (or the) foundation for mathematics with a handful of more precise observations: set theory provides Risk Assessment for mathematical theories, a Generous Arena where the branches of mathematics can be pursued in a unied setting with a Shared Standard of Proof, and a Meta-mathematical Corral so that formal techniques can be applied to all of mathematics at once. "
+
+Proof Checking and Essential Guidance
+metaphysical insight, epistemic source
+
+Maddy, "What do we want a foundation to do?" , 2019
+
+"集合论是数学的基础"没有本体论或者认知论的还原意义? 我们考虑如果我们要把集合论当作数学的本体论或者认知论基础的话, 我们需要辩护哪些内容
+很多人认为无限集合作为严肃的数学对象起始于康托尔, 但实际上, 无限集合在数学界被认真对待的历史开始于19世纪左右, 稍早于康托尔, 由Riemann和Dedekind所引领. Riemann 在他1854年的演讲里(On the Hypotheses which lie at the Foundations of Geometry)首次提出了"manifold"这个概念, 并且认真考虑了"任意实数集", "任意点集"这些表达方式. 在同篇演讲里, Riemann也考虑了"用集合论语言作为数学语言"的可能性. 随后1897年的第一届ICM上, Hadamard和Hurwitz的讲座则捍卫了这一可能性. Dedekind随后将实数定义为有理数的等价类集合也是这一思想的体现之一. 现在数学共同体所常用的表达方式(如 ∀x∈R\forall x\in\mathbb{R}\forall x\in\mathbb{R} 之类), 可见就是从当时开始流行.
+但是"用集合论语言作为数学语言"充其量也就只是方便书写/理解. 我们可以把各种" x∈Rx\in\mathbb{R}x\in\mathbb{R} "之类的说法替换成"x是实数", 抛弃集合语言, 转而使用某些别的说法. 很显然"用集合论语言作为数学语言"也同样不应该是集合论作为数学基础的核心功能, 或者换句话说, "作为数学语言"这一功能只是集合论的额外优点/历史巧合, 不足以让"集合论是数学基础"这句话成为数学共同体广泛传播的一句话.时间往后推移一点, 在20世纪初期, David Hilbert证明了我们可以将几何学"还原"为分析学, 意思是我们可以通过一些嵌入, 将几何学对象看成某些实数/实数集/实数集集等. Hilbert的出发点之一是一致性问题: 我们如何确保我们现有的几何学不会导出矛盾? Hilbert的工作便告诉了我们, 如果我们接受数学分析的一致性, 那我们就可以直接接受几何学的一致性. 这让数学共同体有了一个新的研究方向: 把一些数学领域用类似手法"还原"为另一些数学领域. 当Zermelo在Hilbert的引荐下加入哥廷根大学时, 他思考的正是这类问题: 
+
+When I was a Privatdozent in Gottingen, I began, under the influence of D. Hilbert, to whom I owe more than to anybody else with regard to my scientific development, to occupy myself with questions concerning the foundations of mathematics, especially with the basic problems of Cantorian set theory.Set theory is that branch of mathematics whose task is to investigate mathematically the fundamental notions 'number', 'order', and 'function', taking them in their pristine, simple form, and to develop thereby the logical foundations of all of arithmetic and analysis.
+
+集合论提供了统一讨论元数学的基础. 如果我们想以Hilbert或者Zermelo式的目标出发, 严格证明适用于"所有数学结构"的数学命题, 如一致性之类, 那么我们最好需要一套可以实现所有数学结构的理论基础. 处于历史巧合也好, 理论本质也罢, 集合论恰好可以满足这个功能. 如Moschovakis所说: 
+
+A typical example of the method we will adopt is the ‘identification’ of [the geometric line] with the set . . . of real numbers. . . . What is the precise meaning of this ‘identification’? Certainly not that points are real numbers. . . . What we mean by the ‘identification’ of [the line] with [the reals] is that the correspondence . . . gives a faithful representation . . . which allows us to give arithmetic definitions for all the useful geometric notions and to study the mathematical properties of [the line] as if points were real numbers. . . . In the same way, we will discover within the universe of sets faithful representations of all the mathematical objects we need, and we will study set theory . . . as if all mathematical objects were sets.
+
+当然, 当代集合论的另一个主要任务是证明相对一致性结论, 这些是形如"如果ZFC是一致的, 那么ZFC+ φ\varphi\varphi 也是一致的"这种命题. 从ZFC出发, 我们可以考虑各种命题相对于ZFC的一致性或者独立性. 这使得我们可以"测量"一个新的公理/未知的命题多有可能出错. 集合论的另一个基础性功能正是这种风险分析(Risk Assessment). 这一点Univalent Foundations之父Voevodsky本人也曾提到过:
+
+Set theory will remain the most important benchmark of consistency. . . . each new addition to the . . . language will require formal ‘certification’ by showing, through formally constructed interpretation, that it is at least as consistent as ZFC.Univalent foundations provide a new approach to the formal reasoning about mathematical objects. The languages which arise in this approach are much more convenient for doing serious mathematics than ZFC at the cost of being much more complex. In particular, the consistency issues for these languages are not intuitively clear. Thus ZFC retains its key role as the theory which is used [to] ensure that the more and more complex languages of the univalent approach are consistent.
+
+就我目前所知, HoTT中尚未存在能满足统一讨论元数学与风险分析两者的理论基础. 当然, 这两者并不是一个数学基础需要做的全部工作, 我们甚至可以质疑这些是不是一个数学基础需要做的工作. 这篇回答只是想指出"为数学选择基础"并不是什么特别良定义的问题. 作为收尾, 我们可以考虑数学基础可能需要满足的另外一个功能: 证明检验. 平时我们希望通过ZFC来检验一个证明是否正确时, 我们一般会说"我们可以把xx理论在ZFC(或ZFC+大基数)里面实现, 然后把这个理论里面的证明翻译成ZFC的证明, ...." 问题是, 这里面的每一步都有可能出错, 所以从某个角度来看, ZFC在证明检验这项功能上表现并不是特别令人满意. 相比之下, HoTT几乎就是为了证明检验而生, 在这点上自然也比ZFC做的好.
+（ZS Chen）

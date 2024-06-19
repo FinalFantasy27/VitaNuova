@@ -1,0 +1,46 @@
+
+Automated Planning
+
+	
+dr. G. Behnke (co-ordinator)
+
+Objectives
+Students can identify the elements of a planning problem and the computational complexity of decision problems in planning.
+Students can state algorithms for finding plans including heuristics.
+Students can describe in their own words the mechanics of a given planning problem and its connection to the modelled scenario
+Students can execute several types of planning algorithms and heuristics given a planning problem
+Students can analyse properties of search methods, translations, and heuristics and their impact on the process of solving planning problems.
+Students can evaluate which type of modelling is best suited for real-world problems.
+Students can implement search techniques, translations, and heuristics to solve planning problems automatically.
+Students can model real-world problems as planning problems s.t. the plans for these problems will solve real-world issues while being aware of the limits of the level of detail and abstraction of the model.
+Contents
+This course provides an introduction into the field of AI planning. Planning is a core ability of autonomous systems as it enables them to act in a goal-directed manner. Given a symbolic description of the current state of the world and a goal to reach, the objective of planning is to determine a sequence of actions that, if performed, will lead to reaching the goal.
+
+We will introduce the basic formalism(s) of planning and how to model real-world problems in terms of planning problems. We will further cover the computational complexity of planning and related problems. Most of the course will be dedicated to discussing techniques for finding plans given a planning problem. We will cover 
+- Explicit search for planning
+- Heuristics for optimal and satisficing planning (relaxation, abstraction, landmarks)
+- Techniques for reducing the size of the search space (partial-order reduction, symmetries)
+- Symbolic techniques for planning (symbolic search and SAT translations)
+Lastly, we will cover more expressive planning formalisms, e.g. non-deterministic, temporal, and hierarchical planning.
+
+Recommended prior knowledge
+The essential concepts from complexity theory (NP completeness, polynomial reductions) should be known.
+We also expect basic knowledge of the basic search algorithms, such as depth-first search, breadth-first search, heuristic search with the A* algorithm, or greedy best-first search. Basic knowledge of (propositional) logic is expected.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Self-study
+Seminar
+Study materials
+Literature:
+Nau, Ghallab, Traverso: Automated Planning: Theory and Practice. Morgan Kaufmann, 2004
+Russell, Norvig: Artificial Intelligence: A Modern Approach. Prentice Hall, 2003
+Haslum, Lipovetzky, Magazzeni, Muise: An Introduction to the Planning Domain Definition Language. Morgan & Claypool, 2019
+Min/max participants
+Maximum number of participants is 60. Selection will be done first-come-first-served.
+
+Assessment
+The assessment three elements: (1) weekly exercise sheets containing theoretical questions, (2) programming and modelling exercises that are to be completed over the time of the whole course, and (3) an exam. The exam will be written if at least 15 students register, else it will be oral. (1) and (2) are individual assignments, but can be discussed with other students ("hybrid assignment"). 

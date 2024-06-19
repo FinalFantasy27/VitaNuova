@@ -1,0 +1,37 @@
+
+Boyd, Nora Mills / Bogen, James 
+Theory and Observation in Science 
+
+
+The Stanford Encyclopedia of Philosophy (Winter 2021 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Introduction 
+2. Observation and data 
+2.1 Traditional empiricism 
+distinction between observing and experimenting 
+Robert Boyle (1661), John Herschell (1830), Bruno Latour and Steve Woolgar (1979), Ian Hacking (1983), Harry Collins (1985) Allan Franklin (1986), Peter Galison (1987), Jim Bogen and Jim Woodward (1988), and Hans-Jörg Rheinberger (1997), are some of the philosophers and philosophically-minded scientists, historians, and sociologists of science who gave serious consideration to the distinction between observing and experimenting. 
+2.2 The irrelevance of observation per se 
+The van Fraassen of The Scientific Image is a notable exception, for whom to be ‘observable’ meant to be something that, were it present to a creature like us, would be observed. 
+some philosophers have moved to speaking of instrument-augmented empirical research as more like tool use than sensing. Hacking (1981) and Daston and Galison (2007) 
+Shapere (1982) call the detection of neutrinos from the interior of the sun “direct observation. 
+2.3 Data and phenomena 
+3. Theory and value ladenness 
+3.1 Perception 
+theory-laden, Kuhn, what are salient to them, e.g. watching the pendulum experiment, Aristotelian ’s paradigm would have required the experimenter to measure 
+
+… the weight of the stone, the vertical height to which it had been raised, and the time required for it to achieve rest (Kuhn 1962, 123) and ignore radius, angular displacement, and time per swing (ibid., 124). These last were salient to Galileo because he treated pendulum swings as constrained circular motions. 
+Conant 1957, 74–109 
+3.2 Assuming the theory to be tested 
+benign or vicious 
+While it is true that there would be a serious epistemic problem in a case where the use of the theory to be tested conspired to guarantee that the evidence would turn out to be confirmatory, this is not always the case when theories are invoked in their own testing. Woodward (2011) summarizes a tidy case of Millikan’s oil drop experiment (178) 
+3.3 Semantics 
+semantical or causal 
+Anatomists may have to decide whether a dark spot in a micrograph was caused by a staining artifact or by light reflected from an anatomically significant structure. Physicists may wonder whether a blip in a Geiger counter record reflects the causal influence of the radiation they wanted to monitor, or a surge in ambient radiation. 
+3.4 Values 
+why is it bad? 
+3.5 Reuse 
+4. The epistemic value of empirical evidence 
+4.1 Confirmation 
+4.2 Saving the phenomena 
+4.3 Empirical adequacy 
+5. Conclusion

@@ -1,0 +1,22 @@
+Lectures on logic: completeness and incompleteness
+Prof. Monk
+
+
+
+1. Sentential logic
+2. Fundamentals of first-order logic
+3. Proofs
+4. The completeness theorem
+5. Peano arithmet and Goedel's incompleteness theorem
+6. Representability of recursive functions
+7. Recursive functions
+8. Recursiveness of syntactic notions
+Errata 1
+Errata 2 +
+New proof for 4.29, 4.30
+New proof for 5.2.
+solutions 1
+solutions 2
+solutions 3
+solutions 4
+solutions 5

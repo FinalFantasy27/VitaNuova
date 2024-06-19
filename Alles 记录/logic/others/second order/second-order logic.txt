@@ -1,0 +1,21 @@
+
+Shapiro was unmoved by Quine's argument [Qui70, p. 66] that second order logic is "set theory in sheep's clothing." He accepted that second-order logic is nothing more than a fancy way of quantifying over all subsets of a domain. He granted Quine's conclusion that second-order logic and set theory are intimately connected, but he rejected the implication that that some how renders second-order logic unfit to serve as logic. He outdid Quine in his antifoundationalism by denying that there is anything special about logic that requires that it be free of substantial mathematical commitments. If logic
+were to be in some sense prior to mathematics, that would be necessary. But, for Shapiro, the logical foundations of mathematics are just more mathematics. (See [Sha91, p. 97].)
+Understanding the infinite, p. 225
+
+Georg Kreisel argued that the regress is not vicious [Kre71, p. 97]
+Understanding the infinite, p.227, note.15
+
+
+二阶语言的集合变量可以取遍某个强集合论比如zfc里的自然数集的子集的话这本质上不是个独立的形式语言，而是依托于集合论的形式语义罢了
+比如二阶皮亚诺算术公理：谓词逻辑的公理+一阶PA去掉归纳法模式+二阶归纳法公理，怎么证明 “存在X（0 in X且对于所有y（y in X蕴含y =0））”？
+（或“存在X 0 in X”看成“存在P P0”；把高阶量词看作是子集或者谓词的量化是两种不同的流派）
+关键是那要有一阶逻辑没有的推理规则，比如可以把任意公式代换进谓词变量的位置对吗，比如想从0=0推出“存在P P0”，光用一阶推理规则肯定是不行的，因为一阶推理规则没有告诉你任何关于谓词变量可以进行的操作，需要新的推理规则来表达类似“x=0是一个谓词”的语义。
+但是这会带来一个问题：关于谓词的语义可以用几条公理来表达。
+所以你的二阶逻辑就相当于只给一阶逻辑添加了一个新变量类型和几条公理。我们这时候可以“强行”认为这次新公理不是二阶逻辑自带的，而是二阶PA的“非逻辑公理”。这时候二阶PA就又变回了一阶语言，只是现在它的变量分两个类型而已。
+对应的，比如在集合论的元语言下，那lowenheim skolem就也对他成立，得到的模型也就不唯一了。可以写一个一阶语言，他里面能证明的公式和你的二阶PA能证明的公式完全一一对应，且彼此之间是一个简单的机械化翻译过程。但是，前者显然模型不唯一。
+二阶模型的唯一性来自于你先有一个集合论元语言，在其中确定一个一阶论域，并且在定义可满足性时让谓词变量的取值严格遍历这个元语言中一阶论域的幂集；那么得到的不同模型如果都满足二阶PA，则这些模型的一阶论域都是同构的，需要事先在这个元语言上固定幂集的概念和谓词论域遍历幂集的要求。（Bean&Bean）
+
+
+
+

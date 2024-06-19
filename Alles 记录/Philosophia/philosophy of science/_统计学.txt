@@ -1,0 +1,23 @@
+
+Karl Pearson：拟合优度检验，Chi方检验，矩估计
+Ronald A. Fisher：极大似然估计，显著性检验（提到p值），方差分析，F检验，试验设计理论
+Egon Pearson和Jerzy Neyman：假设检验，第一类（假有阳性）/第二类错误，备择假设，似然比检验
+Jerzy Neyman：区间估计
+
+大数定律、中心极限定律
+
+点估计Point estimation，如样本均值\hat\mu
+
+区间估计Interval estimation，如置信区间Confidence interval，以真实的\mu
+（实际中使用\hat\mu）为中心，面积为0.95的区间，95%也被称为置信水平，如果我构造出100个这样的区间，其中大约有95个会包含\mu
+
+p值p value，Fisher 1890－1962提出，在零假设null hypothesis成立的情况下，出现实验数据及更极端extreme的情况的概率，如果<=0.05则可拒绝零假设，称为统计学上显著Statistically significant
+
+零假设检验被Johnson 1999（alternatives: confidence interval, decision theory and bayesian）和Garamszegi 2009认为没有实际价值和有缺陷的，被Ziliak and McCloskey 2008认为是危险的
+误解、数据处理、操纵P-hacking 等问题
+Regina Nuzzo, 2014. "Scientific method: Statistical errors," Nature, Nature, vol. 506(7487), pages 150-152, February. 指出了p值统计学显著结果不可重现（extreme事件的概率，如果在frequentist下test某次data的p-value是0.01，通过理论计算可知，重复这个实验下次还得到0.01或比0.01小的p-value的概率只有50%）等问题，呼吁重视贝叶斯方法
+ 
+有一家药厂要实验新药，于是他们挑了10000种化学品开始实验，通过I期检验的共有500种药品，然后其中有25种通过了II期检验，最后有1种药品通过了III期检验并被送报FDA准备进入临床检测，但那个药肯定是不对的。因为即使在没有任何药物有效的情况下，10000次试验也总归有大约500次结果是显著的，如果alpha选的是0.05。然后500次试验大约有25次显著，而25次大约有1次显著。这些结果都只是因为选择了5%这个level。
+
+赤池弘次 赤池信息量准则 ( Akaike information criterion)
+

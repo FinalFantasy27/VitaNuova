@@ -1,0 +1,22 @@
+
+Axiom of Choice implies Hausdorff's Maximal Principle
+
+Let S be the set of all chains of P.
+S≠∅ since the empty set is an element of S. 
+From Subset Relation is Ordering, we have that (S,⊆) is partially ordered by inclusion.
+Let C be a totally ordered subset of (S,⊆).
+Then ⋃C is a chain in C by Set of Chains is Closed under Chain Unions under Subset Relation.
+This shows that S, ordered by set inclusion, is an inductive ordered subset.
+By applying Zorn's Lemma, the result follows.
+
+Hausdorff's Maximal Principle implies Axiom of Choice
+
+Let Hausdorff's Maximal Principle be accepted.
+Let S be a non-empty set.
+Let Σ be the set of all choice functions of all non-empty subsets of S.
+From Countable Set has Choice Function every finite subset of S has a choice function.
+Hence Σ is a non-empty set.
+
+Lemma. Σ is closed under chain unions.
+
+By Hausdorff's Maximal Principle it follows that Σ has a maximal element f. Hence f is seen to be a choice function for S.

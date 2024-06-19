@@ -1,0 +1,11 @@
+
+Smith, Peter 
+Curry's paradox, Lukasiewicz, and Field 
+2012 
+
+Chapter 4 of 'Saving Truth from Paradox' discusses Curry's Paradox. If, for every ψ, T proves some biconditional of the form φ ↔ (φ → ψ) (e.g., by naive comprehension or a naive truth predicate), T is inconsistent.
+There are two options: (MP) and Contraction (\phi \to (\phi \to \psi) then \phi \to \psi).
+three-valued logic.Mp remains, Con fails, but truth predicate still gives us trouble.
+Restall shows that infinite-valued quantified arithmetic is omega-inconsistent. Additionally, Hajek, Paris, and Shepherdson prove that if induction holds not just for one-place predicates of the original language of PA, but for predicates of the language, possibly embedding T, and also if we want φ and T([φ]) to intersubstitute, the theory is inconsistent.
+A disquotationalist can blunt the force of the second theorem by insisting that we shouldn't use a truth-predicate in induction. Since the second order axiom applies to any genuine property and the truth-predicate doesn't express a genuine property.
+Field provides us with consistent quantifier-free theories.

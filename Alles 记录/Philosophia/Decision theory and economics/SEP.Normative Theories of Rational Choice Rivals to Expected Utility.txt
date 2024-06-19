@@ -1,0 +1,35 @@
+Buchak, Lara 
+Normative Theories of Rational Choice: Rivals to Expected Utility 
+
+
+The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.) 
+
+Abstract: 1. Expected Utility Theory 
+1.1 The Theory 
+1.2 Components 
+1.2.1 Utility 
+1.2.2 Probability 
+1.2.3 Expectation 
+2. Infinite and Unbounded Utility 
+2.1 The Challenge from Infinite and Unbounded Utility 
+2.2 Proposals 
+3. Incommensurability 
+3.1 The Challenge from Incommensurability 
+3.2 Proposals: Definitions 
+3.3 Proposals: Decision Rules 
+4. Imprecise Probabilities or Ambiguity 
+4.1 The Challenge from Imprecise Probabilities or Ambiguity 
+4.2 Proposals: Probability Representations 
+4.3 Proposals: Decision Rules 
+4.3.1 Aggregative Decision Rules using Sets of Probabilities 
+4.3.2 Aggregative Decision Rules: Choquet Expected Utility 
+4.3.3 Decision Rules that Select from a Menu 
+4.4 Normative Questions 
+5. Risk Aversion 
+5.1 The Challenge from Risk Aversion 
+5.2 Proposals 
+5.3 Normative Issues 
+Bibliography 
+Academic Tools 
+Other Internet Resources 
+Related Entries

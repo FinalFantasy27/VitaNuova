@@ -1,2 +1,0 @@
-·mono=injective
-epi \=subj, e.g. Z-Q in Ring

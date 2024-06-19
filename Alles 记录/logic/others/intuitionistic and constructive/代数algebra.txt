@@ -1,0 +1,21 @@
+
+在直觉主义逻辑中，我们可以问一个随机选择的语句服从排中律的概率是多少。答案是“最多2/3——否则你的逻辑是经典的”。Benjamin Bumpus and Zoltan Kocsis证明了：在有限海廷代数中，如果超过2/3的语句遵守排中律，那么它必须是布尔代数
+（但对于双重否定消去，则没有这种限制）
+https://bmbumpus.com/2024/02/27/degree-of-classicality/
+
+Ben and Zoltan A. Kocsis also show that in an infinite non-Boolean Heyting algebra, we can always find infinitely many elements that don’t satisfy Excluded Middle.
+In fact, the cardinality of the set of elements that don’t satisfy LEM is always at least as large as the cardinality of the set of elements that do in any such algebra (NB by the strictness of the 2/3 bound, this does not hold in the finite case).
+For any one-variable equation P(x) that can hold with probability strictly between 2/3 and 1 in a Heyting algebra, we can in fact construct an infinite Heyting algebra where P(x) has only finitely many non-solutions.
+
+Zoltan also work-in-progress on natural density metrics over e.g. finitely presented infinite Heyting algebras (which takes care of many algebras of interest, e.g. all the free ones on finitely many generators).
+https://johncarlosbaez.wordpress.com/2024/03/13/the-probability-of-the-law-of-excluded-middle/#comments
+https://categorytheory.zulipchat.com/#narrow/stream/411257-theory.3A-mathematics/topic/How.20often.20does.20the.20law.20of.20excluded.20middle.20hold.3F
+
+
+if your metalogic is intuitionistic, then you can have a Heyting algebra with a finite (in some sense) but still indeterminate number of elements. The Heyting algebra of truth values is an example; it's finite in the sense that it doesn't have an infinite sequence (or even a sequence of more than 2) of distinct elements, but no finite list of its elements can be proved complete either. Or take the quotient algebra of {0, 1} where the 2 elements are identified iff some proposition holds; that's finite in the sense that you can list its elements, but you can't necessarily list them without repetition. (At least that one's Boolean no matter what, but try the same thing with some non-Boolean finite Heyting algebra.)
+Toby Bartels
+
+"As for the situation in a constructive metatheory: I know what sorts of finitary/discreteness assumptions to make to get good analogues of our classical results, and have plenty of Brouwerian examples illustrating what happens when I drop or weaken them. To get good results, one has to work with “explicitly non-Boolean” Heyting algebras, where an element outside the center is explicitly given, and state the results in terms of fibers of certain maps. "
+Zoltan A. Kocsis 
+
+https://johncarlosbaez.wordpress.com/2024/03/13/the-probability-of-the-law-of-excluded-middle/#comments

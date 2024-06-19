@@ -1,0 +1,22 @@
+
+物理Physics
+
+理论术语和观测术语是有区别的，涉及这两类术语的命题很难分离
+即使对于最简单的经典粒子力学，也会遇到许多复杂情况，
+这导致“集合论谓词”方法、“无语言”系统、“约束”、“结构主义”等等的讨论
+
+J. D. Sneed, The Logical Structure of Mathematical Physics, Dordrecht: Reidel, 1971; W. Stegmüller, The Structuralist View of Theories, New York: Springer, 1979; J. V. Benthem, The logical study of science, Synthese 51:431-472, 1982
+
+
+生物学
+
+迈克尔·鲁斯（Michael Ruse）等人将假说演绎-系统等同于公理系统（M. Ruse, The Philosophy of Biology, London: Hutchinson, 1973, p.10）
+
+为了支持孟德尔遗传学是一个真正的公理系统，鲁斯从下列主要论据中推导出H-W定律：“孟德尔第一定律；其他生物学假设，比如雄-雌杂交和雌-雄（并不总是正确的，但在设定的范围内）；以及某些基本数学假设。”（M. Ruse, The Philosophy of Biology, London: Hutchinson, 1973, p.33）
+
+鲁斯详细解释并论证了自己的主题，即公理演绎理想适用于进化论。
+
+
+1937年，伍杰（J. H. Woodger）出版了一本书（The Axiomatic Method in Biology, Cambridge: Cambridge University Press, 1937），涉及遗传学、胚胎学和分类学的某些非度量概念。1948年，邓纳姆（B. Dunham）与伍杰合作，对这个雄心勃勃的项目进行了仔细的评判，结果被收录在他的获奖论文《作为分析工具的数理逻辑》中（其中部分随即发表：Mathematical logic as a tool of analysis, IBM J. 1957）。
+
+在谈到伍杰（J. B. Woodger, Biology and Language, Cambridge: Cambridge University Press, 1952）和威廉姆斯（M. B. Williams, Deducing the consequences of evolution: a mathematical model, J. Theor. Biol. 29:343, 1970）的一些后期工作时，鲁斯这样说：“我对伍杰的‘公理化先于一切’学派不感兴趣。一个典型的例子是威廉姆斯1970年的论文，她只有避免提及遗传学才能成功地对进化论进行公理化！”（Philosophy of Biology, London: Hutchinson, 1973, p.50）

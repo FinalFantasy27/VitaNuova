@@ -1,0 +1,6 @@
+作者：超滤空间
+链接：https://zhuanlan.zhihu.com/p/33924454
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+现有的集合论教材中处理力迫法的方式大致有两种：（i）Generic Extension + 力迫关系。如 Kunen 著 Set Theory、Halbeisen 著 Combinatorial Set Theory: With a Gentle Introduction to Forcing.（ii）布尔值模型 + 力迫关系。如 Jech 著 Set Theory、Bell 著 Set Theory: Boolean-Valued Models and Independence Proofs.就力迫理论本身而言，第（i）种处理方式的优点是直观上便于理解；缺点是需要很强的元系统以使其中存在 ZFC 的可数传递模型、或者需要考虑 ZFC 任意大片段的可数传递模型。第（ii）种处理方式的优点是避免了复杂的元数学考虑，原则上实现了“有穷主义”的相对一致性证明；缺点是在力迫法之前需要先引入布尔代数的理论，证明包括“任一分离偏序都可以稠密地嵌入一个完备布尔代数中”在内的一系列结论。Jech 的书中，在证明过“ZFC 中每一条公理的布尔值为 1”之后，为了避免繁琐的布尔值计算，还是引入了 Generic Extension 的概念来证明独立性。可见，Jech 并没有完整地给出CH 独立性的有穷主义证明。而 Bell 的书在证明过 CH 的独立性之后才开始考虑 Generic Extension，实现了 CH 独立性的有穷主义证明。

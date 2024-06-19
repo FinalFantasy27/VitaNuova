@@ -1,0 +1,40 @@
+
+K
+
+T = K + □p→p = S2 + rule of 
+
+A /
+□A
+
+B  = T + p→□◇p = symmetric
+D = □p→◇p = serial 
+
+S4 = T + □p→□□p = S3 + □(□A→□□A)
+S5 = T + ◇p→□◇p = S4 + □(A→□◇p) = r + Euclidean: for every u, t, and w, w R u and w R t implies u R t (it also implies t R u, as well as t R t and u R u) 
+(r + Euclidean => symmetric)
+KD45
+
+.2 ◇□p→□◇p
+.3 □(□p→q)∨□(□q→p)
+
+S4.2 = S4 + .2
+S4.3 = S4 + .3
+
+S1:
+Axiom schemes:
+all formulas of the form □A, where A is a formula derivable in P
+□(□A⊃A)
+□(□(A⊃B)&□(B⊃C)⊃□(A⊃C))
+
+Rules:
+
+modus ponens
+
+□A /
+A
+
+□(A⊃B) □(B⊃A) /
+□(□A⊃□B)
+
+S2: S1 + □(□A⊃□(A∨B))
+S3: S2 + □(□(A⊃B)⊃□(□A⊃□B))

@@ -1,0 +1,35 @@
+
+Dynamic Epistemic Logic
+	
+dr. A. Baltag (co-ordinator)
+
+Objectives
+to present to students the main concepts and formalism of Dynamic Epistemic Logic (DEL), including recent developments on connections to other fields (from Epistemology and Learning Theory to Game Theory, Social Software, Pragmatics, Quantum Information, etc.)
+to enable students to acquire some research experience, by discussing some of the outstanding conceptual challenges in the field, as well as more technical open questions, and giving them guidance and encouragement to tackle some of these issues in their final projects
+Contents
+This course is addressed to students and researchers interested in logics for epistemology and multi-agent learning, and in particular in belief revision, belief updates and knowledge updates induced by various forms of communication or interaction.
+
+We start by presenting the main concepts of "standard DEL" (as covered e.g. in the book Dynamic Epistemic Logic and in several ESSLLI courses with the same name): multi-agent epistemic Kripke models, public announcements, epistemic event models, product update, and the corresponding dynamic logics.
+Then we present the more recent "belief-revision-friendly" version of DEL and its main concepts (plausibility models, the Action-Priority Update), by combining the techniques of Dynamic Epistemic Logic with the insights and models from Belief Revision theory.
+We formalize various types of doxastic attitudes (belief, strong belief, safe belief, conditional belief, degrees of belief, group belief), notions of defeasible "knowledge", belief upgrades and belief-revision policies etc.
+We give some axiomatizations and apply these notions to communication strategies and the pragmatics of Natural Language, to rationality and strategic reasoning in Game Theory, to the formalization of key concepts in modern Epistemology, and to the analysis of various epistemic-doxastic paradoxes and puzzles (Fitch's knowability paradox, the Puzzle of the Perfect Believer, the Muddy Children, the Surprise Examination etc). Further, we present various extensions of this setting (to dynamics of probabilistic beliefs, dynamics of evidence and justification etc), as well as recent work at the interface of DEL with Learning Theory, Epistemology, Social Choice theory, Secure Communication etc.
+We discuss some of the on-going conceptual challenges and the open technical questions encountered in the field, and we encourage and guide students to start tackling some of these problems.
+
+Recommended prior knowledge
+The course is mostly self-contained, but we presuppose some (but very little) background knowledge in Logic: basically, the syntax and semantics of propositional logic and of first order logic. Some familariaty with modal logic would be useful, but it is not absolute requirement This should be enough for understanding the course, though obviously having more prior knowledge can only lead to better final projects.Some familiarity with, or at least some interest in, any of the above-mentioned areas of intended application (Epistemology, Pragmatics, Game Theory, Multi-Agent Systems etc) would also be very welcome, and particularly useful for tackling some of the more conceptual challenges. More importantly, we assume that participants in the course possess both some degree of mathematical maturity (as can be expected from students in logic at a MSc level) and a live interest in interdisciplinary connections and applications of Logic to Philosophy, Computer Science or Social Sciences.
+
+Registration
+More information about procedures and registration periods can be found at https://student.uva.nl/en/topics/course-registration
+
+Teaching method and contact hours
+Lecture
+Seminar
+Working independently on e.g. a project or thesis
+Study materials
+Other:
+Course slides, research papers, handouts and selected book chapters, all of which will be made available on-line.
+Assessment
+Three homework exercises, plus a final paper or project on one of the topics investigated in the course.
+
+The exercises are individual (i.e. no collaboration) and given during the duration of the course, while the final papers
+can be jointly written by teams and will be due roughly one month after the end of the course. The exercises will be testing mostly the understanding of the formal logical-mathematical setting and methods taught in the course, while the final paper/project could be more conceptual or philosophical (though it may of course be also of a mathematical-logical nature, if the student so chooses). The actual topics of the final papers will be chosen by the students (subject to the instructor's approval), though a list of (optional) proposals will also be offered during the course.

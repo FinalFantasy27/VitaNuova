@@ -1,0 +1,11 @@
+Gowers and Mumford on Determinacy of Borel games
+
+https://gowers.wordpress.com/2013/08/23/determinacy-of-borel-games-i/
+
+I’m trying to understand the famous result of Donald Martin that Borel games are determined, and by that I mean not just understand the proof line by line, but also understand why the lines are as they are. I have found some nice presentations online, in particular these notes by Shehzad Ahmed and this Masters thesis by Ross Bryant, which have been very helpful, not just in presenting the proofs line by line but also, to some extent, in doing things like explaining certain definitions that would otherwise seem a little strange. (Ahmed’s notes are good for a quick overview and Bryant’s thesis is good if you want full details.) Nevertheless, I think one can go further in that direction and speculate about how Martin came up with his proof. I’m actually talking not about his original 1975 proof but about a simpler argument he discovered about ten years later in a paper that, thanks to the generosity of the AMS, I have not been able to look at. (I am on holiday in France, or I suppose I could have trudged over to my departmental library, but for some reason I find I can never bear to do that even if I’m in Cambridge.)
+
+David Mumford Says:
+March 22, 2021 at 5:05 pm | Reply
+Thanks Tim, I was struggling reading Martin’s proof and it never became clear until I read your remark: the goal of \phi(strategy for top game) is NOT to try to win but to guaranty the play in bottom game lifts to the top game in spite of having no control on your adversary’s moves. Then the scales fell from my eyes!
+
+David (Mumford)

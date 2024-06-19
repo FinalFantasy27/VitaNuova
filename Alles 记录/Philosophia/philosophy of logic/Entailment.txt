@@ -1,0 +1,34 @@
+
+Smith, Peter 
+Entailment, with nods to Lewy and Smiley 
+2009-11 
+Lewy's paradox shows that even without disjunctive syllogism, we still will get 'irrelevant' entailment.
+
+(1) In Rome, the sounds 'Due piu due fa quattro' are in fact standardly used to express the proposition that two and two is four.
+(2) Two and two is four.
+(3) In Rome, the sounds 'Due piu due fa quattro' are in fact standardly used to express a true proposition.
+Then contingent facts about what happens in Rome entail arithmetical facts.
+
+L1. (1) and (2) entail (3). [Trivial and surely uncontentious!]
+L2. But (1) and (3) are contingent, and (2) is necessary.
+L3. Hence (1) entails (3) [From L1 by principle P5, given L2.]
+L4. But (1) and (3) entails (2) [Triviality].
+L5. Hence (1) and (1) entails (2) [By the transitivity of entailment: put A1 = A2 = (1) in P3])
+
+We have three options:
+
+Reject the principle that necessary premisses can be dropped when inferring about contingent matters.
+Reject the (unrestricted) transitivity of entailment.
+Bite the bullet, and accept that facts about speech habits in Rome can entail facts about numbers.
+Smiley puts forward the definition:
+A1, A2, ... An entails C if and only if the implication A1 & A2 & ... & An -> C is a substitution instance of a tautology A1' & A2' & ... & An' -> C', such that neither ~(A1' & A2' & ... & An') nor C' is a tautology. (T. J. Smiley, 'Entailment and Deducibility', Proc. Aristot. Soc, 1958, at p. 240, with minor notational changes.)
+
+While ex falso quodlibet does not hold, disjunctive syllogism does. Additionally, it's important to note that the entailment here is not unrestrictedly transitive.
+
+Some problems:
+
+When A <-> B is treated as an abbreviation, it is true that A <-> B entails A <-> A but when <-> is treated as primitive, it is not true that A <-> B entails A <-> A. The example shows repetitions of premisses cannot always be ignored, for A <-> B, A <-> B entails A <-> A even with <-> taken as a primitive.
+The two thoughts, that the entailments of equivalence statements differ depending on whether equivalence is considered primitive or defined, and that the repetition of premises can be significant, are both highly counterintuitive
+
+Smiley himself puts, 'The whole point of logic as an instrument, and the way in which it brings us new knowledge, lies in the contrast between the transitivity of "entails" and the non-transitivity of "obviously entails"' (Smiley, p. 242.)
+However, Neil Tennant argues that we can and should deny transitivity.

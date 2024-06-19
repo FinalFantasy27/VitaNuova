@@ -1,0 +1,18 @@
+
+Causal Closure. Every physical fact that has a cause has a sufficient physical cause (or has its probability fixed by purely physical antecedents).
+Overdetermination. Any fact with two (or more) sufficient causes is overdetermined.
+Exclusion. Physical effects of mental facts are not systematically overdetermined.
+
+Kim (Philos Perspect 3:77–108, 1989, in: Heil and Mele (eds) Mental causation, Clarendon Press, Oxford, 1993; 1998; 2005) famously argues that mental properties’ possessing causal powers supports the reductive thesis that the mental are identical to the physical. The argument was that if physicalists accept the causal closure of the physical, they are faced with an exclusion problem.
+(standard formulations of non-reductive physicalism usually appeal to a purely technical notion like supervenience to explicate the relation between the mental and the physical (Kim 2005, pp. 33–34).
+a ‘purely technical notion’ is that it merely tracks certain patterns of modal covariation without accounting for why these patterns hold (Kim 1998, pp. 9–15; Blackburn 1984, p. 186; McGinn 1993, p. 57))
+
+To reject Exclusion is to allow for ubiquitous mental-physical overdetermination in which every time you act there are two distinct causes converging on the same effect—something which is thought to be a violation of the Occamian idea that one ought not multiply causes beyond necessity (cf. Kim 1989, p. 98)
+Sider, T. (2003). What’s so bad about overdetermination? Philosophy and Phenomenological Research, 67(3), 719–726.
+
+Zhong Lei，作为非还原主义者，试图通过诉诸于因果干预主义等理论来解决还原主义者所提出的排除问题
+Zhong Lei, "Sophisticated Exclusion and Sophisticated Causation", journal of philosophy, 2014, 341-60.
+叶峰指出钟磊沿引的Woodward与钟磊本人观点相反，并认为钟磊的因果概念式充分必要因果关系，对金在权的因果排斥论证不造成威胁
+叶峰 因果理论与排斥论证 2017 自然辩证法通讯 , Vol. 39, No. 1 pp. 11-20 
+
+

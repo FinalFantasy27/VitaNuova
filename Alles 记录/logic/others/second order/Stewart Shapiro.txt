@@ -1,0 +1,85 @@
+
+Shapiro, Stewart 
+Foundations without Foundationalism: A Case for Second-Order Logic 
+1991 
+
+New York: Oxford University Press. 
+
+Abstract: second order characterizable examples include closure, well-ordering, well-foundedness, and various cardinalities (cof-omega, aleph-omega, ..., p. 104-5). 
+
+second-order logic does not presuppose any more than informal mathematics does. (xii) 
+
+the difference between first-order schemata and second-order axiom is that the former only applies to sets definable by formulas. p111-2 
+
+Historically, the main proponents of first-order logic were Skolem, von Neumann, Weyl, and 
+Gode). The higher-order opposition was championed by Hilbert, Bernays, and Zermelo. In contemporary philosophy of mathematics, Quine is joined by philosophers like Tharp and Resnik against higher-order logic. The proponents include Boolos and Corcoran. 
+
+cha. 9 monadic second-order logic, free-variable second-order logic, infinitary logic, -logic (all presuppose the natural numbers or something similar 253) and first-order set theory 
+
+the domain is at most countable: ∃f∃x∀P((Px∧∀w(Pw→Pfw))→∀xPx) (p. 64) 
+Two(P) asserts that P applies to exactly two things, UNC(P): P applies to uncountably many things (p. 65) 
+
+if phi contains bound higher-order variables, then the corresponding instance of the comprehension is called impredicative. (p. 67) 
+
+lebniz law to define = and the definition has the desired property (it follows the usual axioms of =) (p. 68) 
+
+The deductive system obtained from D2 by adding Z2 as an axiom is equivalent to that of Morse-Kelley (MK) set theory (see Fraenkel et al 
+1973. Chapter II). p. 85 
+
+Boolos (1981) shows that theories formulated in 
+first-order languages cannot express simple cardinality comparisons like 'the extension of 0 is at least as large as the extension of V, except on a limited ad hoc basis. p102 
+
+SB theorem and Cantor's theorem are inner theorems of pure second-order logic deductive system pp102-4 
+
+ CH is not a logical truth, even if the continuum hypothesis is false. Indeed, CH is satisfied in every countable model, no matter what. However, there is an analogue of the negation of the continuum hypothesis. The following sentence of L2 is a logical truth if and only if the continuum hypothesis is false:
+NCH: VX(ALEPH-1(X) ->  CONTINUUM(X))). 105 
+Chuaqui (1972) has shown that standard forcing techniques can be applied to 
+second-order set theory using Henkin models (see also Weston 1977). 
+
+in second-order arithmetic and second-order set theory, one can formulate a 'truth' definition 
+for the corresponding first-order theory and thus one can deduce the consistency of the first-order theory. 110 
+
+the constructions of the proof of categoricity theorem are carried out in the metatheory, which contains at least a rudimentary theory of sets, enough to determine the existence of the relevant subsets or relations.111 
+
+if first-order ZFC has a well-founded model at all, then it has a transitive set model d. It is a consequence of the downward Lowenheim- Skolem theorem that there is a countable subset d' ⊆ d that is also a set model. The set d' may have uncountable elements, but there is no puzzle over countable sets with uncountable elements. However, it follows from the fact 
+Let M = be a model of the language of set theory such that (1) the relation assigned to the symbol e is well-founded, and (2) M satisfies the axiom of extensionality. Then M is isomorphic to a model whose domain is a transitive set 
+s and whose interpretation of e is the membership relation on s. 
+that there is a transitive set m that is isomorphic to d' This m is also a set model, and every element of m is countable.114 
+
+a second-order variable assignment may be a proper class 135 
+
+reduction. binary second-order logic is all one need. Gurevich 1985, Montague 1965 
+however, the set of second-order decsrcibable cardinals is not exactly the set of mth-order describable cardinals. Montague 1965, Hinitkka 1955, van Benthem and Doets 1983 for further results 
+
+If the collection of formulas of LK is a set (i.e. not a proper class), then LK has a Lowenheim number, a set-Lowenheim number, a Hanf number, and a set-Hanf number. 148 
+the proof is simple. Barwise 1972 shows that impredicative replacement has to be used. 
+... 
+
+the set of first-order equivalent formulas of L2K- (free variable language, i.e. without bound second-order variables) is not arithmetic (Van Benthem and Doets 1983) 
+Lemma AR|=X iff the disjunction AR v X is first-order equivalent. 162 
+
+first-orderst will insist that the metatheory is first-order and the categoricity theorems within each model of the semantics of MT, all models of arithmetic are isomorphic and similar for the case of analysis. 205 
+
+Benacerraf (1985) shows that Skolem shifted from the 'mathematics is inherently informal' view, which he held inSkolem (1922), to such a 
+relativism. 209 
+
+Gurevich 1985 gives an extensive treatment of monadic second-order language. 
+
+Substitutional semantics is weakly complete but not compact, and the upward-lowenheim theorem fails 
+no structure whose domain is uncountable can be characterized in substitutional semantics, unless uncountabley many non-logical terms can be used. On the hand, every structure whose domain is countable can be characterized up to isomorphism. In general, any structure can be 
+characterized in a language that has as many individual constants as the domain has members. 245 
+
+The effect of banning bound relation or function variavles is the same as allowing only initial universal quantifiers over second-order variables. See Corcoran 1980 for an extensive discussion of similar languages 246 
+and can establish the categoricity results 247 
+
+Vaananen (1985, p. 616) reports that the second-order satisfaction relation is indeed absolute if the background set theory is augmented with a powerset operator. 259 
+31. Vaananen (1985) contains many other interesting results relating various model- 
+theoretic notions to set theory. 
+
+一半是哲学辩护；一半是二阶逻辑的介绍；第5章讲二阶逻辑能刻画closure，良序，良基，各种基数，等等，SB定理和康托定理是二阶逻辑的内定理，并且算术和分析等等都是范畴的；第6章先讲高阶逻辑在以下意义都能还原为二阶：对于每一个高阶语句phi，都有一个它的二阶对应phi’，使得它可满足当且仅当phi’可满足。但是二阶逻辑和高阶逻辑能定义的基数可能不一样；然后用一些技术结果辩护Kreisel的论题：在集合模型上可满足就当且仅当在所有可能的（非形式的）模型上可满足，的二阶版本；最后是二阶逻辑的元理论，如它的类似lowenheim定理的性质、hanf数这些； 
+第8章是讨论了skolem式的怀疑主义，skolem悖论表明我们没有一个绝对的“不可数”的概念（或者说，只有在一个上帝视角下才存在，但是skolem主义者认为不存在这样的上帝视角）。shapiro认为这是克里普克说的维特的rule following paradox的一个特例：我们总能追问我们遵守了规则吗？规则是什么？ 
+第9章讲了其它逻辑，如boolos的plural quantification（也就是一元二阶逻辑）、无穷逻辑、ω逻辑、替换语义都能刻画“无限”这个概念，但都预设了无限这个概念；然后论述了只有自由变量没有约束变量的二阶逻辑（语义上来说，相当于只能最外一层有全称量词的二阶逻辑），Quine对二阶逻辑引入了过多实体的指摘不适用，因为这个逻辑没有任何被约束的二阶变元（Quine的本体论标准是一个理论的本体论就是它的约束变元的可能取值/它的存在谓词断言存在的那些东西）；最后是一阶集合论的元理论，一个二阶主义者会说元逻辑是二阶的，但一阶主义者会说是一阶的，还有一种选择是说用（非形式的）intended interpretation来作元理论。 
+总的来说，Shapiro对二阶逻辑的辩护是，只要我们不是教条主义者，二阶逻辑就是一个合适的基础，但它不是不可错的，它所要求的并不比非形式数学更多
+
+Comment:
+&quot;The question arises, why do we not use second-order set theory ZFC2 as the metatheory of second-order logic, as recommended in Shapiro (1991). In fact we could use it. However, the question might rise, what is the semantics of our metatheory? In principle such questions can lead to an infinite regress. By using first order set theory as the metatheory, the question about the semantics of the metatheory would simply be the question about the semantics of first order logic. We have pointed out in §6 that semantics of first order logic is absolute relative to ZFC. This gives some assurance that we need not continue asking, what the metatheory is.&quot; Jouko Väänänen.Second-order and Higher-order Logic.SEP

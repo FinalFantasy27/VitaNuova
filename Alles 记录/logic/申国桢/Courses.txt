@@ -1,0 +1,87 @@
+Courses
+Introduction to Logic (undergraduate course), 8:00–10:35 Monday, Autumn Semester 2020.
+
+Textbook: Understanding Symbolic Logic by Virginia Klenk.
+
+Introduction to Recursion Theory (postgraduate course), 14:55–17:25 Wednesday, Autumn Semester 2020.
+
+Textbook: Recursive Functions by Rózsa Péter, and Part I of Mathematical Logic by J. Donald Monk.
+
+First-Order Logic (undergraduate course), 9:50–12:15 Wednesday and 9:50–12:15 Thursday, Spring Semester 2021.
+
+Textbook: The first three chapters of Fundamentals of Mathematical Logic by Peter G. Hinman.
+
+Introduction to Set Theory (postgraduate course), 14:55–17:25 Wednesday, Spring Semester 2021.
+
+Textbook: Part A of Basic Set Theory by Azriel Levy.
+
+Introduction to Logic (undergraduate course), 9:50–12:15 Monday, Autumn Semester 2021.
+
+Textbook: Understanding Symbolic Logic by Virginia Klenk.
+
+Introduction to Set Theory (undergraduate course), 14:05–16:30 Wednesday, Autumn Semester 2021.
+
+Textbook: 集合论导引 by 晏成书.
+
+Introduction to Recursion Theory (postgraduate course), 9:50–12:15 Friday, Autumn Semester 2021.
+
+Textbook: Enumerability, Decidability, Computability by Hans Hermes.
+
+Selected Topics in Mathematical Logic (postgraduate course), 9:50–12:15 Tuesday, Autumn Semester 2021.
+
+Textbook: Part B of Basic Set Theory by Azriel Levy.
+
+First-Order Logic (undergraduate course), 14:05–16:30 Wednesday and 9:50–12:15 Friday, Spring Semester 2022.
+
+Slides: The same with that in 19.
+
+Introduction to Set Theory (postgraduate course), 9:50–12:15 Wednesday, Spring Semester 2022.
+
+Textbook: Part A of Basic Set Theory by Azriel Levy.
+
+Introduction to Forcing (postgraduate course), 14:05–16:30 Monday, Spring Semester 2022.
+
+Textbook: Boolean-valued Models and Independence Proofs in Set Theory by John L. Bell.
+
+Introduction to Set Theory (undergraduate course), 9:50–12:15 Thursday, Autumn Semester 2022.
+
+Slides: The same with that in 17.
+
+Introduction to Model Theory (postgraduate course), 9:50–12:15 Monday, Autumn Semester 2022.
+
+Textbook: Saturated Model Theory by Gerald E. Sacks.
+
+First-Order Logic (undergraduate course), 14:05–16:30 Monday and 18:30–20:55 Tuesday, Spring Semester 2023.
+
+Slides: The same with that in 19.
+
+Introduction to Axiomatic Set Theory (postgraduate course), 14:05–16:30 Wednesday, Spring Semester 2023.
+
+Slides: The same with that in 20.
+
+Selected Topics in Mathematical Logic (postgraduate course), 18:30–20:55 Thursday, Spring Semester 2023.
+
+Textbook: Part B of Basic Set Theory by Azriel Levy.
+
+Introduction to Set Theory (undergraduate course), 9:50–12:15 Thursday, Autumn Semester 2023.
+
+Slides: IST00, IST01, IST02, IST03, IST04, IST05, IST06.
+
+Introduction to Recursion Theory (postgraduate course), 9:50–12:15 Friday, Autumn Semester 2023.
+
+Slides: IRT00, IRT01, IRT02, IRT03, IRT04, IRT05.
+
+First-Order Logic (undergraduate course), 14:05–16:30 Tuesday and 9:50–12:15 Friday, Spring Semester 2024.
+
+Slides: FOL00, FOL01, FOL02, FOL03, FOL04, FOL05, FOL06, FOL07, FOL08, FOL09.
+
+Introduction to Axiomatic Set Theory (postgraduate course), 9:50–12:15 Wednesday, Spring Semester 2024.
+
+Slides: IST07, IST08,
+
+Selected Topics in Mathematical Logic (postgraduate course), 9:50–12:15 Tuesday, Spring Semester 2024.
+
+Textbook: A Course in Combinatorics by J. H. van Lint and R. M. Wilson.
+
+
+Last updated: May 20, 2024

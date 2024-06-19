@@ -1,0 +1,7 @@
+Category Theory.Steve Awodey 前言：...... Why write a new textbook on Category Theory, when we already have Mac Lane’s Categories for the Working Mathematician? Simply put, because Mac Lane’s book is for the working (and aspiring) mathematician.
+What is needed now, after 30 years of spreading into various other disciplines and places in the curriculum, is a book for everyone else.……This, then, is intended as a text and reference book on Category Theory, not only for students of Mathematics, but also for researchers and students in Computer Science, Logic, Linguistics, Cognitive Science, Philosophy, and any of the other fields that now make use of it.
+
+范畴论的广泛性的展现：始对象唯一，任何范畴里（如无论是集合，还是群）满足那些条件的对象都唯一（尽管前者没有零对象而后者有）
+
+前人的大部分工作被压缩为一个小小的黑盒
+比如模型范畴变成infy category

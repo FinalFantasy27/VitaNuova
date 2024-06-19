@@ -1,0 +1,37 @@
+Sider, Ted 
+Course: Metaphysics 
+2005 
+
+Hard determinism. Determinism and the Illusion of Moral Responsibility
+Chisholm formulates the libertarianism without cause in “Human Freedom and the Self”.
+Hobart published the paper "Free Will as Involving Determination and Inconceivable Without It" (Mind, Vol XLIII, No. 169, pp.1-27.) , defining "freedom" as "has the power to do F, and nothing interferes with this power". The notion of “Interference” is problematic.
+Van Inwagen defines Determinism as "the conjunction of the laws of nature and the world state at any time entails the world state at any other time" and argues for Incompatibilism.
+Harry Frankfurt, “Freedom of the Will and the
+Concept of a Person”
+
+2. Persistence
+(a) Introduction to personal identity. Sydney Shoemaker, “Personal Identity: A Materialist Account”, sections 1-2
+(b) Body theory. Richard Swinburne, “Personal Identity: the Dualist Theory”, pp. 317-320
+(c) Psychological theory. Swinburne, pp. 320-327; Shoemaker, sections 3-5
+Bishop Butler, quoted by Shoemaker, p. 302 raised the circularity objection. 
+The Modified Psychology theory: person P1 is identical to a later person P2 iff i) P1 is psychologically continuous with P2, and ii) there is no person other than P2 at the later time with which P1 is psychologically continuous and The Modified Brain Theory
+However, Cases 1 and 2: an original person, Ted, has his brain split, and put into two clones of Ted’s body, Fred and Ed. In each case, the left hemisphere of Ted is successfully transplanted into a resulting person, Fred. In Case 1, the
+second operation is also a success, and Ed lives, whereas in Case 2, the right hemisphere disintegrates and Ed dies.
+The Duplication argument (second half )
+(i) In both Case 1 and Case 2, Ted is brain- and psychologically continuous with Fred
+(ii) In Case 1 but not Case 2, Ted is brain- and psychologically continuous with Ed
+(iii) If (i) and (ii) are true, and either the Modified Brain Theory or the Modified Psychology Theory is true, then Ted survives the operation in Case 2, but not in Case 1
+(iv) If Ted survives the operation in Case 2 but not in Case 1, then Case 1 is much worse for Ted than Case 2 — it’s as bad as death.
+(v) Case 1 isn’t much worse than Case 2 for Ted.
+(vi) Therefore, both the modified Brain Theory and the Modified Psychology Theory are false.
+Possible responses:
+Parfit: identity doesn’t matter.
+Swinburne: “personal identity is distinct from, although evidenced by, similarity of memory and continuity of brain.” (Swinburne, p. 326)
+Sider: “I WILL do such and such” means “I have a continuer in the future who does such and such”
+(d) Dualism. Swinburne, section 2
+(e) Constitution. Ted Sider, “Constitution”
+
+C. D. Broad, “McTaggart’s Arguments against the Reality of Time”
+The B-theory of time. J. J. C. Smart, “The Space-time World”
+Broad proposes growing block theory and moving spotlight theory in  “The General Problem of Time and Change”.
+Presentism. Arthur N. Prior, “The Notion of the Present”; “Some Free Thinking about Time”

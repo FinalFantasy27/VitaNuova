@@ -1,0 +1,19 @@
+直陈条件句 vs. 虚拟条件句.Example.
+1. If Oswald didn't shoot, Kennedy would still be killed.
+2. If Oswald hadn't shot, Kennedy would still have been killed.
+用因果模型处理反事实条件句：干预
+用因果模型处理指示条件句：邓敦民&李国扬 (Synthese 2021)：外推 只改变外生变量以使前件为真 根据违反语境的多少进行排序（如“If Oswald didn't shoot, Kenny would still be killed.” x）
+问题：1.复杂度（有10个外生变量就有2^10个可能的外推模型）
+2.语境如何决定排序？
+3.不可能的前件空洞地真
+梁飞&王文方（逻辑学研究，2022）：1.Partially Specified SCM
+2.使用选择函数而非排序
+3.前件不可能时当成虚拟条件句处理
+问题：邓敦民&李国扬 (2021)可以，而 梁&王 不可以处理：
+If Oswald didn't kill, then someone else did and Kennedy would be killed.
+materially implies that
+If Oswald didn't kill and someone else didn't, then Kennedy would be killed.
+
+三值语义和完备的语义树方法
+
+王文方2022.10华南师范大学报告.Indicative conditional

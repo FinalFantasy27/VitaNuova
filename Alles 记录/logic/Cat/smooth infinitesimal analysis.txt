@@ -1,0 +1,9 @@
+
+ smooth infinitesimal analysis
+
+we have quantities \delta such that \delta^2 = 0 and \neg\neg(\delta = 0), but — because the logic is intuitionistic — we can’t assert \delta = 0.
+And then, the key assumption, it is required that for any function f, and number x, there is a unique number f'(x) such for any nil-potent \delta, f(x + \delta) = f(x) + f'(x)\delta. So looked at down at the infinitesimal level, f is linear, and f'(x) gives its slope at x — so is the derivative of f. Now it turns out that, with enough assumptions in place, this theory allows us to define integration in a correspondingly natural way, and then we can readily prove the usual basic theorems of analysis.
+The internal intuitionistic logic is absolutely crucial.
+In the case of smooth analysis, add the law of excluded middle and the theory doesn’t just collapse (by making all the nil-potent infinitesimals identically zero) but becomes inconsistent.
+
+In Nader Vakil’s recent heavy volume Real Analysis Through Modern Infinitesimals  in the CUP series Encyclopedia of Mathematics and Its Applications, smooth analysis gets the most cursory of mentions in one footnote

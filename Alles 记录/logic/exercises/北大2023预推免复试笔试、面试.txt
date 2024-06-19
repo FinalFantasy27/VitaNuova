@@ -1,0 +1,17 @@
+笔试
+1.填入适当的词（“因为”“所以”）使得一段基础集合论论证变得连贯（20个空）
+2.一个抽象的后承关系和语句集Δ，具有以下属性：…… 请证明存在一个语句集包含Δ并具有极大性
+3.类似上：一个语句集Γ…… 试证明存在一个语句，使得语句集Γ不推出它
+4.一个模态逻辑的变种 M,w  \models AP iff forall w' Rww' w' \models P, or forall w' Rww' w' \not\models P
+1) 给出一个上述逻辑的语言中的有效语句，但是在将A换成标准模态逻辑语言中的Box不有效
+（上述模态逻辑的变种具有self-dual性质 \models \neg A P \leftrightarrow \neg A \neg P）
+2) 给出一个上述逻辑语言中可满足但不有效的语句，但是在将但是在将A换成标准模态逻辑语言中的Box后有效
+5.英语翻译和概括
+
+面试
+5分钟自我介绍
+抽一道逻辑试题（Henkin方法证明完全性）
+后继相关问题（什么是Henkin集，Henkin集的定义）
+英文朗读文章摘要并翻译，用英文回答一个段意问题（If someone believes there is one proposition that she believes is false, then it is the case that there is one proposition that she believes is false ...）
+
+另一个同学抽到的是典范模态逻辑系统S4的完全性

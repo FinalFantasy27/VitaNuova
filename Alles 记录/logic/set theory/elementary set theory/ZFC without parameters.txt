@@ -1,0 +1,18 @@
+ZFC without parameters is equivalent to ZFC.
+
+0, 1都是无参数可定义的，F(x)=(x,0) ...也是无参数可定义的
+
+For all sets a and b, the set {((u, 0), (b, 1)) : u ∈ a} exists.
+Let F(x) = 0 unless there are u and c with x = ((u, 0), (c, 1)), and \phi(x, c) in which case F(((u, 0), (c, 1))) = u. Then {x ∈ a: φ(x, b)} ∪ {0} = F''{((u, 0), (b, 1)) : u ∈ a}
+
+using Par将这些参数编码成一个有限函数
+
+Levy, Azriel, Parameters in comprehension axiom schemas of set theory. Proceedings of the Tarski Symposium (Proc. Sympos. Pure Math., Vol. XXV, Univ. California, Berkeley, Calif., 1971), pp. 309324. Amer. Math. Soc., Providence, R.I., 1974
+
+Kanamori's article: Levy and set theory. Annals of Pure and Applied Logic 140 (2006) 233–252
+
+In page 247, he wrote:
+
+Levy’s main, negative results addressed another issue of self-refinement in axiomatics and showed that his aforementioned positive result is reasonably sharp. In the presence of Separation the generative axioms are sometimes given parsimoniously in a weaker, conditional form, e.g. $\forall u \exists y \forall x (x \subseteq u \to x \in y) $ for the Power Set Axiom. With his positive result, the set $\sf T $ consisting of the usual $\sf ZF$ axioms, but with the Separation schema replaced by $S_0$ and the Replacement schema replaced by the conditional version, is an axiomatization of $\sf ZF$. Levy established that full Separation is not a consequence of $\sf T$ if the Power Set axiom is weakened to the conditional form. He also established the analogous results for the conditional version of Union and the conditional version of Pairing.
+
+[Note: $S_0$ is the same as $\text{Aus}^o$ here]
